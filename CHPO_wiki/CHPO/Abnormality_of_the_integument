@@ -1,0 +1,7173 @@
+<accesscontrol>审核人:体壁的异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=体壁的异常(754条目)=
+
+
+==[[HP:0000196]]==
+{{Infobox HPO
+| hpoId = HP:0000196
+| 名称 = Lower lip pit
+| 定义 = Depression located on the `vermilion of the lower lip` (FMA:59828), usually paramedian.
+| 中文译名 = 下唇凹陷
+| 中文定义 = 下唇的唇红处存在凹陷，通常接近正中部位。
+}}
+
+==[[HP:0000214]]==
+{{Infobox HPO
+| hpoId = HP:0000214
+| 名称 = Lip telangiectasia
+| 定义 = `Telangiectasia` (MPATH:476) (that is, the presence of small dilated superficial blood vessels) of the `lips` (FMA:59815).
+| 中文译名 = 唇部毛细血管扩张
+| 中文定义 = 唇部的毛细血管扩张（即存在小的、扩张的浅表血管）。
+}}
+
+
+==[[HP:0000222]]==
+{{Infobox HPO
+| hpoId = HP:0000222
+| 名称 = Gingival hyperkeratosis
+| 定义 = `Hyperkeratosis` (MPATH:154) of the `gingiva` (FMA:59762).
+| 中文译名 = 牙龈角化过度
+| 中文定义 = 牙龈发生过度角化
+}}
+
+
+==[[HP:0000227]]==
+{{Infobox HPO
+| hpoId = HP:0000227
+| 名称 = Tongue telangiectasia
+| 定义 = `Telangiectasia` (MPATH:476) (that is, the presence of small dilated superficial blood vessels) of the tongue.
+| 中文译名 = 舌毛细血管扩张
+| 中文定义 = 舌毛细血管扩张，即舌体浅表血管扩张
+}}
+
+
+==[[HP:0000228]]==
+{{Infobox HPO
+| hpoId = HP:0000228
+| 名称 = Oral cavity teleangiectasia
+| 定义 = Presence of teleangiectases in the oral cavity.
+| 中文译名 = 口腔毛细血管扩张
+| 中文定义 = 口腔中有毛细血管扩张。
+}}
+
+==[[HP:0000294]]==
+{{Infobox HPO
+| hpoId = HP:0000294
+| 名称 = Low anterior hairline
+| 定义 = Distance between the hairline (trichion) and the glabella (the most prominent point on the frontal bone above the root of the nose), in the midline, more than two SD below the mean. Alternatively, an apparently decreased distance between the hairline and the glabella.
+| 中文译名 = 前发际低
+| 中文定义 = 位于中线位置的发际（trichion）和眉间（鼻根上方位于额骨上的最突出的点）的距离，低于平均值两个标准差以上。也可以理解为发际和眉间之间距离明显缩短。
+}}
+
+==[[HP:0000349]]==
+{{Infobox HPO
+| hpoId = HP:0000349
+| 名称 = Widow&#39;s peak
+| 定义 = Frontal hairline with bilateral arcs to a low point in the midline of the forehead.
+| 中文译名 = 美人尖
+| 中文定义 = 两侧前额发际线呈弧形并在中线处略低，即额头的V型发尖。
+}}
+
+==[[HP:0000384]]==
+{{Infobox HPO
+| hpoId = HP:0000384
+| 名称 = Preauricular skin tag
+| 定义 = A rudimentary tag of ear tissue often containing a core of cartilage and located just in front of the auricle (outer part of the ear).
+| 中文译名 = 耳前皮赘
+| 中文定义 = 核心为软骨的耳组织退行性赘生物，位于耳廓的前部（耳朵的外部）。
+}}
+
+==[[HP:0000434]]==
+{{Infobox HPO
+| hpoId = HP:0000434
+| 名称 = Nasal mucosa telangiectasia
+| 定义 = `Telangiectasia` (MPATH:476) of the nasal mucosa.
+| 中文译名 = 鼻粘膜毛细血管扩张
+| 中文定义 = 鼻粘膜的毛细血管扩张
+}}
+
+
+==[[HP:0000499]]==
+{{Infobox HPO
+| hpoId = HP:0000499
+| 名称 = Abnormality of the eyelashes
+| 定义 = An abnormality of the `eyelashes` (FMA:53669).
+| 中文译名 = 睫毛异常
+| 中文定义 = 睫毛的异常
+}}
+
+
+==[[HP:0000524]]==
+{{Infobox HPO
+| hpoId = HP:0000524
+| 名称 = Conjunctival telangiectasia
+| 定义 = The presence of small (ca. 0.5-1.0 mm) dilated blood vessels near the surface of the mucous membranes of the conjunctiva.
+| 中文译名 = 结膜毛细血管扩张
+| 中文定义 = 结膜表面可见小的（直径约0.5〜1.0毫米）扩张血管。
+}}
+
+==[[HP:0000527]]==
+{{Infobox HPO
+| hpoId = HP:0000527
+| 名称 = Long eyelashes
+| 定义 = Mid upper eyelash length &gt;10 mm or increased length of the eyelashes (subjective).
+| 中文译名 = 长睫毛
+| 中文定义 = 中间的上睫毛长度超过10mm或睫毛的长度增加（主观上）。
+}}
+
+==[[HP:0000534]]==
+{{Infobox HPO
+| hpoId = HP:0000534
+| 名称 = Abnormality of the eyebrow
+| 定义 = An abnormality of the `eyebrow` (FMA:54237).
+| 中文译名 = 眉毛异常
+| 中文定义 = 眉毛的异常
+}}
+
+
+==[[HP:0000535]]==
+{{Infobox HPO
+| hpoId = HP:0000535
+| 名称 = Sparse eyebrow
+| 定义 = Decreased density/number and/or decreased diameter of eyebrow hairs.
+| 中文译名 = 眉毛稀疏
+| 中文定义 = 眉毛的密度降低或数量减少和/或眉毛的直径缩小。
+}}
+
+==[[HP:0000561]]==
+{{Infobox HPO
+| hpoId = HP:0000561
+| 名称 = Absent eyelashes
+| 定义 = Lack of eyelashes.
+| 中文译名 = 睫毛缺失
+| 中文定义 = 睫毛缺乏。
+}}
+
+==[[HP:0000574]]==
+{{Infobox HPO
+| hpoId = HP:0000574
+| 名称 = Thick eyebrow
+| 定义 = Increased density/number and/or increased diameter of eyebrow hairs.
+| 中文译名 = 眉毛浓密
+| 中文定义 = 眉毛密度/数量增加或眉毛直径增加。
+}}
+
+==[[HP:0000599]]==
+{{Infobox HPO
+| hpoId = HP:0000599
+| 名称 = Abnormality of the frontal hairline
+| 定义 = #####
+| 中文译名 = 前额发际线异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000607]]==
+{{Infobox HPO
+| hpoId = HP:0000607
+| 名称 = Periorbital wrinkles
+| 定义 = #####
+| 中文译名 = 眶周皱纹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000653]]==
+{{Infobox HPO
+| hpoId = HP:0000653
+| 名称 = Sparse eyelashes
+| 定义 = Decreased density/number of eyelashes.
+| 中文译名 = 睫毛稀疏
+| 中文定义 = 睫毛密度降低或数量减少。
+}}
+
+
+==[[HP:0000664]]==
+{{Infobox HPO
+| hpoId = HP:0000664
+| 名称 = Synophrys
+| 定义 = Meeting of the medial `eyebrows` (FMA:54237) in the midline.
+| 中文译名 = 连眉
+| 中文定义 = 两侧眉毛在中线处（FMA:54237）会合。
+}}
+
+==[[HP:0000951]]==
+{{Infobox HPO
+| hpoId = HP:0000951
+| 名称 = Abnormality of the skin
+| 定义 = An abnormality of the `skin` (FMA:7163).
+| 中文译名 = 皮肤异常
+| 中文定义 = 皮肤的异常。
+}}
+
+
+==[[HP:0000952]]==
+{{Infobox HPO
+| hpoId = HP:0000952
+| 名称 = Jaundice
+| 定义 = Yellow pigmentation of the skin or sclera due to bilirubin, which in turn is the result of increased bilirubin concentration in the bloodstream.
+| 中文译名 = 黄疸
+| 中文定义 = 血液中的胆红素浓度增加，导致胆红素沉着于皮肤或巩膜上，外观呈黄色。
+}}
+
+==[[HP:0000953]]==
+{{Infobox HPO
+| hpoId = HP:0000953
+| 名称 = Hyperpigmentation of the skin
+| 定义 = A darkening of the skin related to an increase in melanin production and deposition.
+| 中文译名 = 皮肤色素沉着
+| 中文定义 = 黑素生成和沉积增加导致皮肤颜色加深。
+}}
+
+
+==[[HP:0000954]]==
+{{Infobox HPO
+| hpoId = HP:0000954
+| 名称 = Single transverse palmar crease
+| 定义 = The distal and proximal transverse palmar creases are merged into a single transverse palmar crease.
+| 中文译名 = 通贯掌
+| 中文定义 = 远端和近端掌横向皱褶融合形成通贯掌。
+}}
+
+==[[HP:0000956]]==
+{{Infobox HPO
+| hpoId = HP:0000956
+| 名称 = Acanthosis nigricans
+| 定义 = A dermatosis characterized by thickened, hyperpigmented plaques, typically on the intertriginous surfaces and neck.
+| 中文译名 = 黑棘皮病
+| 中文定义 = 该病的皮损特点是局部皮肤增厚和过度色素沉着斑，主要发生在颈部和皮肤易褶皱处。
+}}
+
+==[[HP:0000957]]==
+{{Infobox HPO
+| hpoId = HP:0000957
+| 名称 = Cafe-au-lait spot
+| 定义 = Cafe-au-lait spots are hyperpigmented lesions that can vary in color from light brown to dark brown with smooth borders and having a size of 1.5 cm or more in adults and 0.5 cm or more in children.
+| 中文译名 = 牛奶咖啡斑
+| 中文定义 = 牛奶咖啡斑指的是边缘光滑，颜色介于浅棕色至深棕色之间的色素过度沉着性病变，大小因年龄而异，成年人的皮损直径在1.5厘米以上，儿童则在0.5厘米以上。
+}}
+
+==[[HP:0000958]]==
+{{Infobox HPO
+| hpoId = HP:0000958
+| 名称 = Dry skin
+| 定义 = Skin characterized by the lack of natural or normal moisture.
+| 中文译名 = 干性皮肤
+| 中文定义 = 皮肤缺乏足够的水分。
+}}
+
+
+==[[HP:0000960]]==
+{{Infobox HPO
+| hpoId = HP:0000960
+| 名称 = Sacral dimple
+| 定义 = A subtype of `skin dimples` (HP:0010781) presenting as an indentation in the skin of the intergluteal cleft .
+| 中文译名 = 骶部小凹
+| 中文定义 = “皮肤酒窝征”(HP:0010781)的一个亚型，表现为臀沟上的皮肤凹陷。
+}}
+
+==[[HP:0000961]]==
+{{Infobox HPO
+| hpoId = HP:0000961
+| 名称 = Cyanosis
+| 定义 = A bluish or purplish discoloration of the skin and mucous membranes due to an increase in the amount of deoxygenated hemoglobin in the blood or a structural defect in the hemoglobin molecule.
+| 中文译名 = 紫绀
+| 中文定义 = 因血液中还原型血红蛋白的含量增加或血红蛋白分子的结构缺陷而导致皮肤或粘膜的颜色呈蓝色或紫色。
+}}
+
+==[[HP:0000962]]==
+{{Infobox HPO
+| hpoId = HP:0000962
+| 名称 = Hyperkeratosis
+| 定义 = Hyperkeratosis is thickening of the outer layer of the skin, the stratum corneum, which is composed of large, polyhedral, plate-like envelopes filled with keratin which are the dead cells that have migrated up from the stratum granulosum.
+| 中文译名 = 角化过度
+| 中文定义 = 角化过度是由皮肤最外层的角质层异常增厚所致，角质层是由大量从颗粒层退化的充满角蛋白的多面扁平状角质细胞构成。
+}}
+
+==[[HP:0000963]]==
+{{Infobox HPO
+| hpoId = HP:0000963
+| 名称 = Thin skin
+| 定义 = Reduction in thickness of the skin, generally associated with a loss of suppleness and elasticity of the skin.
+| 中文译名 = 皮肤变薄
+| 中文定义 = 皮肤的厚度降低，通常和皮肤的弹性和柔软度缺失有关。
+}}
+
+==[[HP:0000964]]==
+{{Infobox HPO
+| hpoId = HP:0000964
+| 名称 = Eczema
+| 定义 = Eczema is a form of dermatitis. The term eczema is broadly applied to a range of persistent skin conditions and can be related to a number of underlying conditions. Manifestations of eczema can include dryness and recurring skin rashes with redness, skin edema, itching and dryness, crusting, flaking, blistering, cracking, oozing, or bleeding.
+| 中文译名 = 湿疹
+| 中文定义 = 湿疹是皮炎的一种表现，这个术语可用于很多皮肤病变，且可能与大量潜在因素相关。湿疹的皮损呈多形性，可包括干燥伴反复发生的红色皮疹、水肿、干燥伴瘙痒、结痂、剥落、水泡、裂隙、渗血或出血。
+}}
+
+==[[HP:0000965]]==
+{{Infobox HPO
+| hpoId = HP:0000965
+| 名称 = Cutis marmorata
+| 定义 = A reticular discoloration of the skin with cyanotic (reddish-blue appearing) areas surrounding pale central areas due to dilation of capillary blood vessels and stagnation of blood within the vessels. Cutis marmorata, also called livedo reticularis, generally occurs on the legs, arms and trunk and is often more severe in cold weather.
+| 中文译名 = 大理石样皮肤
+| 中文定义 = 因毛细血管扩张、静脉淤血，皮肤呈紫色或红蓝色改变并围绕中央苍白区呈网状改变，又称网状青斑，常发生在下肢、手臂和躯干，冬季加重。
+}}
+
+==[[HP:0000966]]==
+{{Infobox HPO
+| hpoId = HP:0000966
+| 名称 = Hypohidrosis
+| 定义 = Abnormally diminished capacity to sweat.
+| 中文译名 = 少汗症
+| 中文定义 = 汗腺分泌能力异常减弱。
+}}
+
+
+==[[HP:0000967]]==
+{{Infobox HPO
+| hpoId = HP:0000967
+| 名称 = Petechiae
+| 定义 = Petechiae are pinpoint-sized reddish/purple spots, resembling a rash, that appear just under the skin or a mucous membrane when capillaries have ruptured and some superficial bleeding into the skin has happened. This term refers to an abnormally increased susceptibility to developing petechiae.
+| 中文译名 = 出血点
+| 中文定义 = 出血点是针尖大小红色或紫色的斑点，类似红疹，是由皮肤或粘膜下毛细血管破裂发生浅表出血所致。这个词条指的是出血点增多预示患病的可能性增加。
+}}
+
+==[[HP:0000968]]==
+{{Infobox HPO
+| hpoId = HP:0000968
+| 名称 = Ectodermal dysplasia
+| 定义 = Ectodermal dysplasia is a group of conditions in which there is abnormal development of the skin, hair, nails, teeth, or sweat glands.
+| 中文译名 = 外胚层发育不良
+| 中文定义 = 外胚层发育不良是一组累及皮肤、头发、指甲、牙齿以及汗腺发育异常的先天性疾病。
+}}
+
+==[[HP:0000970]]==
+{{Infobox HPO
+| hpoId = HP:0000970
+| 名称 = Anhidrosis
+| 定义 = Inability to sweat.
+| 中文译名 = 无汗症
+| 中文定义 = 身体无法出汗。
+}}
+
+
+==[[HP:0000971]]==
+{{Infobox HPO
+| hpoId = HP:0000971
+| 名称 = Abnormality of the sweat gland
+| 定义 = An abnormality of the `sweat gland` (FMA:59152).
+| 中文译名 = 汗腺异常
+| 中文定义 = 汗腺的异常。
+}}
+
+
+==[[HP:0000972]]==
+{{Infobox HPO
+| hpoId = HP:0000972
+| 名称 = Palmoplantar hyperkeratosis
+| 定义 = `Hyperkeratosis` (HP:0000962) affecting the palm of the hand and the sole of the foot.
+| 中文译名 = 掌跖角化
+| 中文定义 = 侵犯掌跖部位的“角化过度”（HP:0000962）。
+}}
+
+==[[HP:0000973]]==
+{{Infobox HPO
+| hpoId = HP:0000973
+| 名称 = Cutis laxa
+| 定义 = Wrinkled, redundant, inelastic and sagging skin.
+| 中文译名 = 皮肤松弛症
+| 中文定义 = 皮肤松弛、弹性减少且出现皱褶和赘肉。
+}}
+
+==[[HP:0000974]]==
+{{Infobox HPO
+| hpoId = HP:0000974
+| 名称 = Hyperextensible skin
+| 定义 = A condition in which the skin can be stretched beyond normal, and then returns to its initial position.
+| 中文译名 = 皮肤过度伸展
+| 中文定义 = 患处皮肤弹力过度伸展，之后复原。
+}}
+
+==[[HP:0000975]]==
+{{Infobox HPO
+| hpoId = HP:0000975
+| 名称 = Hyperhidrosis
+| 定义 = Abnormal excessive perspiration (sweating).
+| 中文译名 = 多汗症
+| 中文定义 = 出汗异常增多。
+}}
+
+==[[HP:0000976]]==
+{{Infobox HPO
+| hpoId = HP:0000976
+| 名称 = Eczematoid dermatitis
+| 定义 = #####
+| 中文译名 = 湿疹样皮炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000977]]==
+{{Infobox HPO
+| hpoId = HP:0000977
+| 名称 = Soft skin
+| 定义 = Subjective impression of increased softness upon palpitation of the skin.
+| 中文译名 = 皮肤柔软
+| 中文定义 = 主观感觉上的皮肤柔软度增加。
+}}
+
+==[[HP:0000978]]==
+{{Infobox HPO
+| hpoId = HP:0000978
+| 名称 = Bruising susceptibility
+| 定义 = An ecchymosis (bruise) refers to the skin discoloration caused by the escape of blood into the tissues from ruptured blood vessels. This term refers to an abnormally increased susceptibility to bruising. The corresponding phenotypic abnormality is generally elicited on medical history as a report of frequent ecchymoses or bruising without adequate trauma.
+| 中文译名 = 瘀伤易感性
+| 中文定义 = 瘀斑（伤）指的是由于血液从破裂的血管逸入组织而引起的皮肤变色。这个术语指的是瘀伤易感性的异常增加。病例报道中发现其相应的异常表型通常表现为无外伤发生状态下出现的频繁青紫和瘀斑。
+}}
+
+==[[HP:0000979]]==
+{{Infobox HPO
+| hpoId = HP:0000979
+| 名称 = Purpura
+| 定义 = Purpura (from Latin: purpura, meaning &quot;purple&quot;) is the appearance of red or purple discolorations on the skin that do not blanch on applying pressure. They are caused by bleeding underneath the skin. This term refers to an abnormally increased susceptibility to developing purpura. Purpura are larger than petechiae.
+| 中文译名 = 紫癜
+| 中文定义 = 紫癜（源自拉丁语:purpura，意为“紫色”）是一种压之不褪色的皮肤紫红色斑。通常由皮下出血引起。由于毛细血管脆性增加从而发展成紫癜。紫癜比瘀点大。
+}}
+
+
+==[[HP:0000980]]==
+{{Infobox HPO
+| hpoId = HP:0000980
+| 名称 = Pallor
+| 定义 = Abnormally `pale` (PATO:0000328) `skin` (FMA:7163).
+| 中文译名 = 苍白圈
+| 中文定义 = 皮肤的异常苍白。
+}}
+
+==[[HP:0000982]]==
+{{Infobox HPO
+| hpoId = HP:0000982
+| 名称 = Palmoplantar keratoderma
+| 定义 = Abnormal thickening of the skin of the palms of the hands and the soles of the feet.
+| 中文译名 = 掌跖角化症
+| 中文定义 = 手掌和足跖皮肤异常肥厚。
+}}
+
+
+==[[HP:0000987]]==
+{{Infobox HPO
+| hpoId = HP:0000987
+| 名称 = Atypical scarring of skin
+| 定义 = Atypically `scarred` (PATO:0001850) `skin` (FMA:7163) .
+| 中文译名 = 非典型皮肤疤痕
+| 中文定义 = 非典型的疤痕性皮肤。
+}}
+
+
+==[[HP:0000988]]==
+{{Infobox HPO
+| hpoId = HP:0000988
+| 名称 = Skin rash
+| 定义 = #####
+| 中文译名 = 皮疹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000989]]==
+{{Infobox HPO
+| hpoId = HP:0000989
+| 名称 = Pruritus
+| 定义 = Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased disposition to experience pruritus.
+| 中文译名 = 瘙痒
+| 中文定义 = 瘙痒是一种想去搔抓的自觉症状。这个术语指的是异常增加的瘙痒体验。
+}}
+
+==[[HP:0000991]]==
+{{Infobox HPO
+| hpoId = HP:0000991
+| 名称 = Xanthomatosis
+| 定义 = The presence of multiple xanthomas (xanthomata) in the skin. Xanthomas are yellowish, firm, lipid-laden nodules in the skin.
+| 中文译名 = 黄瘤病
+| 中文定义 = 指发生于皮肤的多个黄瘤。黄瘤是发生在皮肤的暗黄色，实性的脂质结节。
+}}
+
+
+==[[HP:0000992]]==
+{{Infobox HPO
+| hpoId = HP:0000992
+| 名称 = Cutaneous photosensitivity
+| 定义 = An increased sensitivity of the skin to light. Photosensitivity may result in a rash upon exposure to the sun (which is known as photodermatosis). Photosensitivity can be diagnosed by phototests in which light is shone on small areas of skin.
+| 中文译名 = 光感性皮肤
+| 中文定义 = 指皮肤对日光的敏感性增加，可在光照后引起暴露部位红斑（称光感性皮炎）。可以通过局部皮肤暴露光照后的光斑试验来诊断。
+}}
+
+==[[HP:0000993]]==
+{{Infobox HPO
+| hpoId = HP:0000993
+| 名称 = Molluscoid pseudotumors
+| 定义 = Bluish-grey, spongy nodules associated with scars over pressure points and easily traumatized areas like the elbows and knees.
+| 中文译名 = 软假瘤
+| 中文定义 = 呈蓝灰色，海绵状结节，常伴有受压部位、易外伤处（如肘部、膝）的疤痕。
+}}
+
+==[[HP:0000995]]==
+{{Infobox HPO
+| hpoId = HP:0000995
+| 名称 = Melanocytic nevus
+| 定义 = A oval and round, colored (usually medium-to dark brown, reddish brown, or flesh colored) lesion. Typically, a melanocytic nevus is less than 6 mm in diameter, but may be much smaller or larger.
+| 中文译名 = 黑素细胞痣
+| 中文定义 = 黑素细胞痣呈圆形或椭圆形，颜色常接近深褐色、红褐色或肉色，直径一般小于6毫米，也可以更小或更大。
+}}
+
+
+==[[HP:0000997]]==
+{{Infobox HPO
+| hpoId = HP:0000997
+| 名称 = Axillary freckling
+| 定义 = #####
+| 中文译名 = 腋窝雀斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000998]]==
+{{Infobox HPO
+| hpoId = HP:0000998
+| 名称 = Hypertrichosis
+| 定义 = Hypertrichosis is increased hair growth that is abnormal in quantity or location.
+| 中文译名 = 多毛症
+| 中文定义 = 多毛症是指毛发在数量或部位上的过度生长。
+}}
+
+==[[HP:0000999]]==
+{{Infobox HPO
+| hpoId = HP:0000999
+| 名称 = Pyoderma
+| 定义 = Any manifestation of a skin disease associated with the production of pus.
+| 中文译名 = 脓皮病
+| 中文定义 = 一种临床表现与脓液产生相关的皮肤疾病。
+}}
+
+==[[HP:0001000]]==
+{{Infobox HPO
+| hpoId = HP:0001000
+| 名称 = Abnormality of skin pigmentation
+| 定义 = An abnormality of the `pigmentation` (GO:0043473) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤着色异常
+| 中文定义 = 皮肤着色的异常。
+}}
+
+
+==[[HP:0001001]]==
+{{Infobox HPO
+| hpoId = HP:0001001
+| 名称 = Abnormality of subcutaneous fat tissue
+| 定义 = #####
+| 中文译名 = 皮下脂肪组织异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001003]]==
+{{Infobox HPO
+| hpoId = HP:0001003
+| 名称 = Multiple lentigines
+| 定义 = Presence of an unusually high number of lentigines (singular: lentigo), which are flat, tan to brown oval spots.
+| 中文译名 = 多发性雀斑样痣
+| 中文定义 = 椭圆形雀斑样痣数量的异常增多，痣表面扁平，呈棕褐色或褐色。
+}}
+
+==[[HP:0001005]]==
+{{Infobox HPO
+| hpoId = HP:0001005
+| 名称 = Dermatological manifestations of systemic disorders
+| 定义 = #####
+| 中文译名 = 系统性疾病的皮肤表现
+| 中文定义 = #####
+}}
+
+==[[HP:0001006]]==
+{{Infobox HPO
+| hpoId = HP:0001006
+| 名称 = Hypotrichosis
+| 定义 = Congenital lack of hair growth.
+| 中文译名 = 少毛症
+| 中文定义 = 先天性毛发生长不良。
+}}
+
+==[[HP:0001007]]==
+{{Infobox HPO
+| hpoId = HP:0001007
+| 名称 = Hirsutism
+| 定义 = Abnormally increased hair growth referring to a male pattern of body hair (androgenic hair).
+| 中文译名 = 多毛症；女性多毛症
+| 中文定义 = 女性终毛过多，并呈明显男性化分布。
+}}
+
+==[[HP:0001008]]==
+{{Infobox HPO
+| hpoId = HP:0001008
+| 名称 = Accumulation of melanosomes in melanocytes
+| 定义 = #####
+| 中文译名 = 黑素细胞中黑素小体聚集
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001009]]==
+{{Infobox HPO
+| hpoId = HP:0001009
+| 名称 = Telangiectasia
+| 定义 = Telangiectasias refer to small dilated blood vessels located near the surface of the skin or mucous membranes, measuring between 0.5 and 1 millimeter in diameter. Telangiectasia are located especially on the tongue, lips, palate, fingers, face, conjunctiva, trunk, nail beds, and fingertips.
+| 中文译名 = 毛细血管扩张
+| 中文定义 = 毛细血管扩张指位于皮肤或粘膜表面的小血管的扩张，血管直径在0.5~1mm之间。主要位于舌部，唇部，上腭，手指，面部，结膜，躯干，甲床和指尖。
+}}
+
+==[[HP:0001010]]==
+{{Infobox HPO
+| hpoId = HP:0001010
+| 名称 = Hypopigmentation of the skin
+| 定义 = A reduction of skin color related to a decrease in melanin production and deposition.
+| 中文译名 = 皮肤色素减退
+| 中文定义 = 黑素生成和（或）沉积减少引起皮肤颜色变浅。
+}}
+
+
+==[[HP:0001013]]==
+{{Infobox HPO
+| hpoId = HP:0001013
+| 名称 = Eruptive xanthomas
+| 定义 = Eruptive xanthomas are yellow-orange-to-red-brown papules that are often surrounded by an erythematous halo. They appear in crops on the buttocks, extensor surfaces of the extremities, and flexural creases. Acutely, variable amounts of pruritus and pain occur.
+| 中文译名 = 发疹性黄瘤
+| 中文定义 = 发疹性黄瘤表现为橙黄色到红褐色的丘疹，周围有红晕。常突然成批发生于臀部、四肢伸侧及皱褶部位，严重者可伴不同程度的瘙痒和疼痛。
+}}
+
+==[[HP:0001014]]==
+{{Infobox HPO
+| hpoId = HP:0001014
+| 名称 = Angiokeratoma
+| 定义 = A vascular lesion defined histologically as one or more dilated blood vessels lying directly subepidermal and showing an epidermal proliferative reaction. Clinically, angiokeratoma presents as a small, raised, dark-red spot.
+| 中文译名 = 血管角皮瘤
+| 中文定义 = 血管病变在组织学上表现为一个或多个表皮下的血管扩张伴表皮增生。临床表现为凸起的,深红色的小斑点。
+}}
+
+==[[HP:0001015]]==
+{{Infobox HPO
+| hpoId = HP:0001015
+| 名称 = Prominent superficial veins
+| 定义 = Veins raised up from the skin.
+| 中文译名 = 浅表静脉隆起
+| 中文定义 = 皮肤表面静脉丛隆起。
+}}
+
+==[[HP:0001017]]==
+{{Infobox HPO
+| hpoId = HP:0001017
+| 名称 = Anemic pallor
+| 定义 = A type of `pallor` (HP:0000980) that is secondary to the presence of `anemia` (HP:0001903).
+| 中文译名 = 贫血性白斑
+| 中文定义 = 继发于贫血的色素脱失。
+}}
+
+==[[HP:0001018]]==
+{{Infobox HPO
+| hpoId = HP:0001018
+| 名称 = Abnormal palmar dermatoglyphics
+| 定义 = An abnormal fingerprints, lines, mounts, and shapes of skin of palm of hands.
+| 中文译名 = 手掌皮纹异常
+| 中文定义 = 手掌皮肤的皮纹、线条、凸起和形状异常。
+}}
+
+
+==[[HP:0001019]]==
+{{Infobox HPO
+| hpoId = HP:0001019
+| 名称 = Erythroderma
+| 定义 = An inflammatory exfoliative dermatosis involving nearly all of the surface of the skin. Erythroderma develops suddenly. A patchy erythema may generalize and spread to affect most of the skin. Scaling may appear in 2-6 days and be accompanied by hot, red, dry skin, malaise, and fever.
+| 中文译名 = 剥脱性皮炎
+| 中文定义 = 剥脱性皮炎是一种几乎累及全身皮肤的炎症性剥脱性皮肤病，往往起病较急，通常表现为片状红斑并泛发扩散至全身， 2-6天后开始脱屑并伴有皮肤发热潮红、干燥不适和体温升高。
+}}
+
+==[[HP:0001022]]==
+{{Infobox HPO
+| hpoId = HP:0001022
+| 名称 = Albinism
+| 定义 = An abnormal reduction in the amount of pigmentation (reduced or absent) of skin, hair and eye (iris and retina).
+| 中文译名 = 白化病
+| 中文定义 = 皮肤、毛发和眼睛（虹膜和视网膜）等部位着色量的异常减少（或完全缺失）。
+}}
+
+==[[HP:0001024]]==
+{{Infobox HPO
+| hpoId = HP:0001024
+| 名称 = Skin dimple over apex of long bone angulation
+| 定义 = #####
+| 中文译名 = 长骨角顶点处的皮肤酒窝征
+| 中文定义 = #####
+}}
+
+==[[HP:0001025]]==
+{{Infobox HPO
+| hpoId = HP:0001025
+| 名称 = Urticaria
+| 定义 = Raised, well-circumscribed areas of erythema and edema involving the dermis and epidermis. Urticaria is intensely pruritic, and blanches completely with pressure.
+| 中文译名 = 风团
+| 中文定义 = 荨麻疹，主要表现为由真皮和表皮水肿引起的边界清楚的隆起性红斑及。常伴有剧烈的瘙痒，按压之后红斑完全变白。
+}}
+
+==[[HP:0001026]]==
+{{Infobox HPO
+| hpoId = HP:0001026
+| 名称 = Penetrating foot ulcers
+| 定义 = #####
+| 中文译名 = 足部穿通性溃疡
+| 中文定义 = #####
+}}
+
+==[[HP:0001027]]==
+{{Infobox HPO
+| hpoId = HP:0001027
+| 名称 = Soft, doughy skin
+| 定义 = #####
+| 中文译名 = 面团样柔性皮肤
+| 中文定义 = #####
+}}
+
+==[[HP:0001029]]==
+{{Infobox HPO
+| hpoId = HP:0001029
+| 名称 = Poikiloderma
+| 定义 = Poikiloderma refers to a patch of skin with (1) reticulated hypopigmentation and hyperpigmentation, (2) wrinkling secondary to epidermal atrophy, and (3) telangiectasias.
+| 中文译名 = 皮肤异色症
+| 中文定义 = 皮肤异色指皮肤表面出现（1）网状色素减退和色素沉着；（2）继发于表皮萎缩的皱褶，及（3）毛细血管扩张形成的斑片。
+}}
+
+==[[HP:0001030]]==
+{{Infobox HPO
+| hpoId = HP:0001030
+| 名称 = Fragile skin
+| 定义 = #####
+| 中文译名 = 敏感性皮肤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001031]]==
+{{Infobox HPO
+| hpoId = HP:0001031
+| 名称 = Subcutaneous lipoma
+| 定义 = The presence of subcutaneous `lipoma` (MPATH:417).
+| 中文译名 = 皮下脂肪瘤
+| 中文定义 = 存在于皮下的`脂肪瘤`（MPATH:417）。
+}}
+
+==[[HP:0001033]]==
+{{Infobox HPO
+| hpoId = HP:0001033
+| 名称 = Facial flushing after alcohol intake
+| 定义 = #####
+| 中文译名 = 酒后面部潮红
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001034]]==
+{{Infobox HPO
+| hpoId = HP:0001034
+| 名称 = Hypermelanotic macule
+| 定义 = A hyperpigmented circumscribed area of change in normal skin color without elevation or depression of any size.
+| 中文译名 = 色素沉着斑
+| 中文定义 = 正常皮肤上发生的黑素沉着，不伴局部的隆起或凹陷。
+}}
+
+
+==[[HP:0001036]]==
+{{Infobox HPO
+| hpoId = HP:0001036
+| 名称 = Parakeratosis
+| 定义 = Abnormal formation of the keratinocytes of the epidermis characterized by persistence of nuclei, incomplete formation of keratin, and moistness and swelling of the keratinocytes.
+| 中文译名 = 角化不全
+| 中文定义 = 表皮角质细胞形成异常，表现为残留的细胞核，角蛋白形成不全，伴细胞水肿。
+}}
+
+==[[HP:0001038]]==
+{{Infobox HPO
+| hpoId = HP:0001038
+| 名称 = Warfarin-induced skin necrosis
+| 定义 = #####
+| 中文译名 = 华法林诱导性皮肤坏死
+| 中文定义 = #####
+}}
+
+==[[HP:0001039]]==
+{{Infobox HPO
+| hpoId = HP:0001039
+| 名称 = Atheroeruptive xanthoma
+| 定义 = #####
+| 中文译名 = 粥样发疹性黄瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0001040]]==
+{{Infobox HPO
+| hpoId = HP:0001040
+| 名称 = Multiple pterygia
+| 定义 = #####
+| 中文译名 = 多翼状胬肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001041]]==
+{{Infobox HPO
+| hpoId = HP:0001041
+| 名称 = Facial erythema
+| 定义 = Redness of the skin of the face, caused by hyperemia of the capillaries in the lower layers of the skin.
+| 中文译名 = 面部红斑
+| 中文定义 = 皮下毛细血管充血引起的面部潮红斑。
+}}
+
+
+==[[HP:0001042]]==
+{{Infobox HPO
+| hpoId = HP:0001042
+| 名称 = High axial triradius
+| 定义 = #####
+| 中文译名 = 移高位的指根三角掌纹
+| 中文定义 = #####
+}}
+
+==[[HP:0001043]]==
+{{Infobox HPO
+| hpoId = HP:0001043
+| 名称 = Prominent scalp veins
+| 定义 = Veins raised up from the scalp.
+| 中文译名 = 头皮静脉隆凸
+| 中文定义 = 头皮表面静脉凸起。
+}}
+
+==[[HP:0001045]]==
+{{Infobox HPO
+| hpoId = HP:0001045
+| 名称 = Vitiligo
+| 定义 = #####
+| 中文译名 = 白癜风
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001046]]==
+{{Infobox HPO
+| hpoId = HP:0001046
+| 名称 = Intermittent jaundice
+| 定义 = Jaundice that is sometimes present, sometimes not.
+| 中文译名 = 间歇性黄疸
+| 中文定义 = 黄疸症状时有时无。
+}}
+
+
+==[[HP:0001047]]==
+{{Infobox HPO
+| hpoId = HP:0001047
+| 名称 = Atopic dermatitis
+| 定义 = A chronic inflammatory genetically determined disease of the skin manifested by lichenification, excoriation, and crusting, mainly on the flexural surfaces of the elbow and knee.
+| 中文译名 = 特应性皮炎
+| 中文定义 = 一种主要表现为苔藓样变、脱屑和结痂的慢性炎性遗传性疾病，主要发生在肘部和膝盖的弯曲面。
+}}
+
+==[[HP:0001050]]==
+{{Infobox HPO
+| hpoId = HP:0001050
+| 名称 = Plethora
+| 定义 = #####
+| 中文译名 = 多血症（红细胞增多症）
+| 中文定义 = #####
+}}
+
+==[[HP:0001051]]==
+{{Infobox HPO
+| hpoId = HP:0001051
+| 名称 = Seborrheic dermatitis
+| 定义 = Seborrheic dermatitis is a form of eczema which is closely related to dandruff. It causes dry or greasy peeling of the scalp, eyebrows, and face, and sometimes trunk.
+| 中文译名 = 脂溢性皮炎
+| 中文定义 = 脂溢性皮炎是湿疹的一种类型，和皮屑密切相关。它可以导致头皮、眉部、面部，甚至躯干的干燥或油腻性脱屑。
+}}
+
+==[[HP:0001052]]==
+{{Infobox HPO
+| hpoId = HP:0001052
+| 名称 = Nevus flammeus
+| 定义 = A congenital vascular malformation consisting of superficial and deep dilated capillaries in the skin which produce a reddish to purplish discolouration of the skin.
+| 中文译名 = 鲜红斑痣
+| 中文定义 = 一种先天性血管畸形，因皮肤表层和深层的毛细血管扩张而引起的皮肤由微红色变为紫色。
+}}
+
+==[[HP:0001053]]==
+{{Infobox HPO
+| hpoId = HP:0001053
+| 名称 = Hypopigmented skin patches
+| 定义 = #####
+| 中文译名 = 皮肤色素减退斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001054]]==
+{{Infobox HPO
+| hpoId = HP:0001054
+| 名称 = Numerous nevi
+| 定义 = #####
+| 中文译名 = 多发性色素痣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001055]]==
+{{Infobox HPO
+| hpoId = HP:0001055
+| 名称 = Erysipelas
+| 定义 = Increased susceptibility to erysipelas, as manifested by a medical history of repeated episodes of erysipelas, which is a superficial infection of the skin, typically involving the lymphatic system.
+| 中文译名 = 丹毒
+| 中文定义 = 丹毒是一种皮肤浅层的细菌感染，常常累及淋巴系统。如反复发作则可能说明丹毒的易感性增加。
+}}
+
+==[[HP:0001056]]==
+{{Infobox HPO
+| hpoId = HP:0001056
+| 名称 = Milia
+| 定义 = Presence of multiple small cysts containing keratin (skin protein) and presenting as tiny pearly-white bumps just under the surface of the skin.
+| 中文译名 = 粟丘疹
+| 中文定义 = 皮下的多个呈细小白色珠状的丘疹，内含角蛋白（皮肤蛋白）。
+}}
+
+==[[HP:0001057]]==
+{{Infobox HPO
+| hpoId = HP:0001057
+| 名称 = aplasia cutis congenita
+| 定义 = A developmental defect resulting in the congenital absence of skin in multiple or solitary non-inflammatory, well-demarcated, oval or circular ulcers with a diameter of about 1 to 2 cm. Aplasia cutis congenita most commonly occurs on the scalp, but may present in the face, trunk, or limbs.
+| 中文译名 = 先天性表皮发育不全
+| 中文定义 = 发育缺陷导致的多个或单独的非炎症性的,边界清楚，直径约1 - 2厘米的椭圆形或圆形溃疡，是一种先天性皮肤缺损。这种先天性表皮发育不全最常发生在头皮上,但也可能出现在面部、躯干或四肢。
+}}
+
+==[[HP:0001058]]==
+{{Infobox HPO
+| hpoId = HP:0001058
+| 名称 = Poor wound healing
+| 定义 = A reduced ability to heal cutaneous wounds.
+| 中文译名 = 伤口愈合不良
+| 中文定义 = 皮肤伤口愈合能力下降。
+}}
+
+
+==[[HP:0001059]]==
+{{Infobox HPO
+| hpoId = HP:0001059
+| 名称 = Pterygium
+| 定义 = Pterygia are &#39;winglike&#39; triangular membranes occurring in the neck, eyes, knees, elbows, ankles or digits.
+| 中文译名 = 翼状胬肉
+| 中文定义 = 翼状胬肉是发生在脖子、眼部、膝盖、手肘、脚踝或趾部的“翼状”的三角胬肉。
+}}
+
+==[[HP:0001060]]==
+{{Infobox HPO
+| hpoId = HP:0001060
+| 名称 = Axillary pterygia
+| 定义 = #####
+| 中文译名 = 腋窝翼状胬肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001061]]==
+{{Infobox HPO
+| hpoId = HP:0001061
+| 名称 = Acne
+| 定义 = A skin condition in which there is an increase in sebum secretion by the pilosebaceous apparatus associated with  open comedones (blackheads), closed comedones (whiteheads), and pustular nodules (papules, pustules, and cysts).
+| 中文译名 = 痤疮
+| 中文定义 = 主要表现为皮脂分泌增加，根据毛囊皮脂腺的状态分为开放性粉刺（黑头）、闭合性粉刺（白头）和脓疱结节（丘疹，脓疱，和囊肿）。
+}}
+
+==[[HP:0001062]]==
+{{Infobox HPO
+| hpoId = HP:0001062
+| 名称 = Atypical nevi (&gt;5mm with irregular edge and pigmentation)
+| 定义 = #####
+| 中文译名 = 非典型痣（&gt;5毫米且有不规则的边缘及色素沉着）
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001063]]==
+{{Infobox HPO
+| hpoId = HP:0001063
+| 名称 = Acrocyanosis
+| 定义 = #####
+| 中文译名 = 手足发绀
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001065]]==
+{{Infobox HPO
+| hpoId = HP:0001065
+| 名称 = Striae distensae
+| 定义 = Thinned, erythematous, depressed bands of atrophic skin. Initially, striae appear as flattened and thinned, pinkish linear regions of the skin. Striae tend to enlarge in length and become reddish or purplish. Later, striae tend to appear as white, depressed bands that are parallel to the lines of skin tension. Striae distensae occur most often in areas that have been subject to distension such as the lower back, buttocks, thighs, breast, abdomen, and shoulders.
+| 中文译名 = 萎缩纹
+| 中文定义 = 皮肤表现为红色、较薄的凹陷性萎缩带。初起为粉红色的线状萎缩，接着，线状拉长且颜色变为淡红或略带紫色，最后，表现为白色的与皮纹方向平行的凹陷性萎缩带。萎缩纹最常发生在弹性较大的部位，如腰部、臀部、大腿、胸部、腹部和肩部。
+}}
+
+==[[HP:0001067]]==
+{{Infobox HPO
+| hpoId = HP:0001067
+| 名称 = Neurofibromas
+| 定义 = The presence of multiple cutaneous neurofibromas.
+| 中文译名 = 神经纤维瘤
+| 中文定义 = 表现为多个皮肤纤维瘤
+}}
+
+==[[HP:0001069]]==
+{{Infobox HPO
+| hpoId = HP:0001069
+| 名称 = Episodic hyperhidrosis
+| 定义 = Intermittent episodes of abnormally increased perspiration.
+| 中文译名 = 发作性多汗症
+| 中文定义 = 间歇性发作的排汗增多。
+}}
+
+
+==[[HP:0001070]]==
+{{Infobox HPO
+| hpoId = HP:0001070
+| 名称 = Mottled pigmentation
+| 定义 = Patchy and irregular skin pigmentation.
+| 中文译名 = 斑驳病
+| 中文定义 = 皮肤片状、不规则的色素沉着。
+}}
+
+
+==[[HP:0001071]]==
+{{Infobox HPO
+| hpoId = HP:0001071
+| 名称 = Angiokeratoma corporis diffusum
+| 定义 = #####
+| 中文译名 = 弥漫性血管角皮瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001072]]==
+{{Infobox HPO
+| hpoId = HP:0001072
+| 名称 = Thickened skin
+| 定义 = Laminar thickening of skin.
+| 中文译名 = 皮肤增厚
+| 中文定义 = 皮肤呈层状增厚。
+}}
+
+
+==[[HP:0001073]]==
+{{Infobox HPO
+| hpoId = HP:0001073
+| 名称 = Cigarette-paper scars
+| 定义 = #####
+| 中文译名 = 卷烟纸样疤痕
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001074]]==
+{{Infobox HPO
+| hpoId = HP:0001074
+| 名称 = Atypical nevi in non-sun exposed areas
+| 定义 = #####
+| 中文译名 = 非曝露部位不典型痣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001075]]==
+{{Infobox HPO
+| hpoId = HP:0001075
+| 名称 = Atrophic scars
+| 定义 = #####
+| 中文译名 = 萎缩性瘢痕
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001106]]==
+{{Infobox HPO
+| hpoId = HP:0001106
+| 名称 = Periorbital hyperpigmentation
+| 定义 = Increased pigmentation of the skin in the region surrounding the orbit of the eye.
+| 中文译名 = 眼眶周围色素沉着
+| 中文定义 = 在眼眶周围区域的皮肤色素沉着增加。
+}}
+
+
+==[[HP:0001114]]==
+{{Infobox HPO
+| hpoId = HP:0001114
+| 名称 = Xanthelasma
+| 定义 = The presence of xanthomata in the skin of the eyelid.
+| 中文译名 = 睑黄瘤
+| 中文定义 = 眼睑皮肤表面的黄色斑块沉着。
+}}
+
+==[[HP:0001128]]==
+{{Infobox HPO
+| hpoId = HP:0001128
+| 名称 = Trichiasis
+| 定义 = Inversion and rubbing of the eyelashes against the globe of the eye.
+| 中文译名 = 倒睫
+| 中文定义 = 睫毛反向生长且与眼球摩擦。
+}}
+
+==[[HP:0001212]]==
+{{Infobox HPO
+| hpoId = HP:0001212
+| 名称 = Prominent fingertip pads
+| 定义 = A soft tissue prominence of the ventral aspects of the fingertips. The term &quot;persistent fetal fingertip pads&quot; is often used as a synonym, but should better not be used because it implies knowledge of history of the patient which often does not exist.
+| 中文译名 = 指尖垫突出
+| 中文定义 = 指尖腹侧的软组织突出。术语“胎儿持续性指尖垫”经常被用作同义词，但是最好不要使用，因为它往往意味着患者病史信息不存在。
+}}
+
+==[[HP:0001226]]==
+{{Infobox HPO
+| hpoId = HP:0001226
+| 名称 = Acral ulceration and osteomyelitis leading to autoamputation of digits
+| 定义 = Ulceration and osteomyelitis of the distal parts of the limbs associated with necrosis and spontaneous detachment of digits or parts of digits.
+| 中文译名 = 肢端溃疡和骨髓炎导致的指/趾端自发性离断
+| 中文定义 = 四肢远端部位的溃疡和骨髓炎，伴随着指/趾（部分指/趾）端的坏死和自发性离断。
+}}
+
+==[[HP:0001231]]==
+{{Infobox HPO
+| hpoId = HP:0001231
+| 名称 = Abnormality of the fingernails
+| 定义 = An abnormality of the `fingernails` (FMA:54327).
+| 中文译名 = 指甲异常
+| 中文定义 = 指甲的异常。
+}}
+
+
+==[[HP:0001232]]==
+{{Infobox HPO
+| hpoId = HP:0001232
+| 名称 = Nail bed telangiectasia
+| 定义 = Telangiectases in the area of the `nails` (FMA:54326).
+| 中文译名 = 甲床毛细血管扩张
+| 中文定义 = 甲基底部毛细血管扩张。
+}}
+
+
+==[[HP:0001480]]==
+{{Infobox HPO
+| hpoId = HP:0001480
+| 名称 = Freckling
+| 定义 = #####
+| 中文译名 = 雀斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001482]]==
+{{Infobox HPO
+| hpoId = HP:0001482
+| 名称 = Subcutaneous nodule
+| 定义 = Slightly elevated lesions on or in the skin with a diameter of over 5 mm.
+| 中文译名 = 皮下结节
+| 中文定义 = 直径大于5mm的皮肤轻度隆起。
+}}
+
+==[[HP:0001574]]==
+{{Infobox HPO
+| hpoId = HP:0001574
+| 名称 = Abnormality of the integument
+| 定义 = An abnormality of the `integument` (FMA:74657), which consists of the skin and the superficial fascia.
+| 中文译名 = 体壁的异常
+| 中文定义 = 体壁的异常，体壁主要由皮肤和浅筋膜构成。
+}}
+
+==[[HP:0001581]]==
+{{Infobox HPO
+| hpoId = HP:0001581
+| 名称 = Recurrent skin infections
+| 定义 = Infections of the skin that happen multiple times.
+| 中文译名 = 复发性皮肤感染
+| 中文定义 = 指多次发生的皮肤感染。
+}}
+
+
+==[[HP:0001582]]==
+{{Infobox HPO
+| hpoId = HP:0001582
+| 名称 = Redundant skin
+| 定义 = Loose and sagging skin often associated with loss of skin elasticity.
+| 中文译名 = 赘肉
+| 中文定义 = 失去弹性而表现出松散下垂的皮肤。
+}}
+
+
+==[[HP:0001595]]==
+{{Infobox HPO
+| hpoId = HP:0001595
+| 名称 = Abnormality of the hair
+| 定义 = An abnormality of the `hair` (FMA:53667).
+| 中文译名 = 毛发异常
+| 中文定义 = 毛发的异常。
+}}
+
+
+==[[HP:0001596]]==
+{{Infobox HPO
+| hpoId = HP:0001596
+| 名称 = Alopecia
+| 定义 = Loss of hair from the head or body.
+| 中文译名 = 脱发
+| 中文定义 = 头部或躯体毛发的脱失。
+}}
+
+
+==[[HP:0001597]]==
+{{Infobox HPO
+| hpoId = HP:0001597
+| 名称 = Abnormality of the nail
+| 定义 = Abnormality of the `nail` (FMA:54326).
+| 中文译名 = 指（趾）甲异常
+| 中文定义 = 指（趾）甲的异常。
+}}
+
+
+==[[HP:0001598]]==
+{{Infobox HPO
+| hpoId = HP:0001598
+| 名称 = Concave nail
+| 定义 = The natural longitudinal (posterodistal) convex arch is not present or is inverted.
+| 中文译名 = 反甲
+| 中文定义 = 甲先天纵向（后侧末端）凸拱不存在或反转。
+}}
+
+==[[HP:0001792]]==
+{{Infobox HPO
+| hpoId = HP:0001792
+| 名称 = Small nail
+| 定义 = A nail that is diminished in length and width, i.e., underdeveloped `nail` (FMA:54326).
+| 中文译名 = 微甲
+| 中文定义 = 甲的长度和宽度变短或变窄，即未充分发育的甲。
+}}
+
+
+==[[HP:0001795]]==
+{{Infobox HPO
+| hpoId = HP:0001795
+| 名称 = Hyperconvex nail
+| 定义 = When viewed on end (with the digit tip pointing toward the examiner&#39;s eye) the curve of the nail forms a tighter curve of convexity.
+| 中文译名 = 甲异常凸起
+| 中文定义 = 当检查者看向指（趾）尖部位时，可观察到甲表面有纵向凸起。
+}}
+
+==[[HP:0001798]]==
+{{Infobox HPO
+| hpoId = HP:0001798
+| 名称 = Anonychia
+| 定义 = `Aplasia` (MPATH:58) of the `nail` (FMA:54326).
+| 中文译名 = 无甲症
+| 中文定义 = 甲的发育不全。
+}}
+
+
+==[[HP:0001799]]==
+{{Infobox HPO
+| hpoId = HP:0001799
+| 名称 = Short nail
+| 定义 = Decreased length of nail.
+| 中文译名 = 短甲
+| 中文定义 = 甲的长度较短。
+}}
+
+
+==[[HP:0001800]]==
+{{Infobox HPO
+| hpoId = HP:0001800
+| 名称 = Hypoplastic toenails
+| 定义 = Underdevelopment of the `toenail`(FMA:54328).
+| 中文译名 = 趾甲发育不良
+| 中文定义 = 趾甲未发育完全。
+}}
+
+
+==[[HP:0001802]]==
+{{Infobox HPO
+| hpoId = HP:0001802
+| 名称 = Absent toenail
+| 定义 = Congenital absence of the `toenail`(FMA:54328).
+| 中文译名 = 趾甲缺损
+| 中文定义 = 先天性趾甲缺损。
+}}
+
+
+==[[HP:0001803]]==
+{{Infobox HPO
+| hpoId = HP:0001803
+| 名称 = Nail pits
+| 定义 = Small (typically about 1 mm or less in size) depressions on the dorsal nail surface.
+| 中文译名 = 甲凹点
+| 中文定义 = 甲背面小的凹点（通常约1毫米或更小）。
+}}
+
+
+==[[HP:0001804]]==
+{{Infobox HPO
+| hpoId = HP:0001804
+| 名称 = Hypoplastic fingernail
+| 定义 = Underdevelopment of a `fingernail`(FMA:54327).
+| 中文译名 = 指甲发育不良
+| 中文定义 = 指甲未发育完全。
+}}
+
+
+==[[HP:0001805]]==
+{{Infobox HPO
+| hpoId = HP:0001805
+| 名称 = Thick nail
+| 定义 = Nail that appears thick when viewed on end.
+| 中文译名 = 厚甲
+| 中文定义 = 从甲的末端可以观察到甲增厚。
+}}
+
+==[[HP:0001806]]==
+{{Infobox HPO
+| hpoId = HP:0001806
+| 名称 = Onycholysis
+| 定义 = Detachment of the nail from the nail bed.
+| 中文译名 = 甲分离
+| 中文定义 = 甲板从甲床分离。
+}}
+
+
+==[[HP:0001807]]==
+{{Infobox HPO
+| hpoId = HP:0001807
+| 名称 = Ridged nail
+| 定义 = Longitudinal, linear prominences in the nail plate.
+| 中文译名 = 甲纵嵴
+| 中文定义 = 甲板纵向线性突起。
+}}
+
+
+==[[HP:0001808]]==
+{{Infobox HPO
+| hpoId = HP:0001808
+| 名称 = Fragile nails
+| 定义 = Nails that easily break.
+| 中文译名 = 脆甲
+| 中文定义 = 甲容易断裂。
+}}
+
+==[[HP:0001809]]==
+{{Infobox HPO
+| hpoId = HP:0001809
+| 名称 = Split nail
+| 定义 = A nail plate that has a longitudinal separation and the two sections of the nail share the same lateral radius of curvature.
+| 中文译名 = 甲纵裂
+| 中文定义 = 甲板沿纵轴分裂但是沿横轴依然相连。
+}}
+
+
+==[[HP:0001810]]==
+{{Infobox HPO
+| hpoId = HP:0001810
+| 名称 = Dystrophic toenail
+| 定义 = Toenail changes apart from changes of the color of the toenail (nail dyschromia) that involve partial or complete disruption of the various keratinous layers of the nail plate.
+| 中文译名 = 趾甲营养不良
+| 中文定义 = 趾甲异常包括颜色的改变（甲变色）和甲板部分或完全性毁损。
+}}
+
+==[[HP:0001812]]==
+{{Infobox HPO
+| hpoId = HP:0001812
+| 名称 = Hyperconvex fingernails
+| 定义 = When viewed on end (with the finger tip pointing toward the examiner&#39;s eye) the curve of the fingernail forms a tighter curve of convexity.
+| 中文译名 = 指甲异常凸起
+| 中文定义 = 当检查者看向指尖部位时可以观察到甲表面有纵向凸起。
+}}
+
+==[[HP:0001814]]==
+{{Infobox HPO
+| hpoId = HP:0001814
+| 名称 = Deep-set nails
+| 定义 = Deeply placed nails.
+| 中文译名 = 嵌甲
+| 中文定义 = 甲长到皮肤里。
+}}
+
+
+==[[HP:0001816]]==
+{{Infobox HPO
+| hpoId = HP:0001816
+| 名称 = Thin nail
+| 定义 = Nail that appears thin when viewed on end.
+| 中文译名 = 薄甲
+| 中文定义 = 从甲的末端可观察到甲变薄。
+}}
+
+==[[HP:0001817]]==
+{{Infobox HPO
+| hpoId = HP:0001817
+| 名称 = Absent fingernail
+| 定义 = Absence of a `fingernail`(FMA:54327).
+| 中文译名 = 指甲缺损
+| 中文定义 = 指甲的缺损。
+}}
+
+
+==[[HP:0001818]]==
+{{Infobox HPO
+| hpoId = HP:0001818
+| 名称 = Paronychia
+| 定义 = The nail disease paronychia is an often-tender bacterial or fungal hand infection or foot infection where the nail and skin meet at the side or the base of a finger or toenail. The infection can start suddenly (acute paronychia) or gradually (chronic paronychia).
+| 中文译名 = 甲沟炎
+| 中文定义 = 甲沟炎常发生在甲侧缘或基底部，由常见易感细菌或真菌感染引起，感染可急性发生（急性甲沟炎）或慢性发展（慢性甲沟炎）。
+}}
+
+==[[HP:0001820]]==
+{{Infobox HPO
+| hpoId = HP:0001820
+| 名称 = Leukonychia
+| 定义 = White discoloration  of the `nails` (FMA:54326).
+| 中文译名 = 白甲
+| 中文定义 = 甲褪色呈白色。
+}}
+
+
+==[[HP:0001821]]==
+{{Infobox HPO
+| hpoId = HP:0001821
+| 名称 = Broad nail
+| 定义 = Increased width of nail.
+| 中文译名 = 宽甲
+| 中文定义 = 甲的宽度增加。
+}}
+
+
+==[[HP:0001862]]==
+{{Infobox HPO
+| hpoId = HP:0001862
+| 名称 = Acral ulceration and osteomyelitis leading to autoamputation of the digits (feet)
+| 定义 = #####
+| 中文译名 = 肢端溃疡和骨髓炎导致脚趾自发性离断
+| 中文定义 = #####
+}}
+
+==[[HP:0001869]]==
+{{Infobox HPO
+| hpoId = HP:0001869
+| 名称 = Deep plantar creases
+| 定义 = The presence of unusually deep creases (ridges/wrinkles) on the `skin of sole of foot` (FMA:37849).
+| 中文译名 = 跖部深在皱褶
+| 中文定义 = 跖部皮肤异常的深在皱褶（呈脊或皱纹）。
+}}
+
+==[[HP:0001933]]==
+{{Infobox HPO
+| hpoId = HP:0001933
+| 名称 = Subcutaneous hemorrhage
+| 定义 = This term refers to an abnormally increased susceptibility to bruising (purpura, petechiae, or ecchymoses).
+| 中文译名 = 皮下出血
+| 中文定义 = 指的是毛细血管脆性异常增加（表现为紫癜，瘀点或瘀斑）。
+}}
+
+==[[HP:0002162]]==
+{{Infobox HPO
+| hpoId = HP:0002162
+| 名称 = Low posterior hairline
+| 定义 = Hair on the neck extends more inferiorly than usual.
+| 中文译名 = 后发际低
+| 中文定义 = 脖子上的头发延伸异常。
+}}
+
+
+==[[HP:0002164]]==
+{{Infobox HPO
+| hpoId = HP:0002164
+| 名称 = Nail dysplasia
+| 定义 = The presence of `developmental dysplasia` (MPATH:64) of the `nail` (FMA:54326).
+| 中文译名 = 甲发育不良
+| 中文定义 = 甲的发育不良。
+}}
+
+==[[HP:0002165]]==
+{{Infobox HPO
+| hpoId = HP:0002165
+| 名称 = Pterygium formation (nails)
+| 定义 = #####
+| 中文译名 = 甲胬肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002208]]==
+{{Infobox HPO
+| hpoId = HP:0002208
+| 名称 = Coarse hair
+| 定义 = Hair shafts are rough in texture.
+| 中文译名 = 毛发粗糙
+| 中文定义 = 发干质地粗糙。
+}}
+
+
+==[[HP:0002209]]==
+{{Infobox HPO
+| hpoId = HP:0002209
+| 名称 = Sparse scalp hair
+| 定义 = Decreased number of `head hairs` (FMA:54241) per unit area.
+| 中文译名 = 脱发
+| 中文定义 = 单位面积的头发数量减少。
+}}
+
+==[[HP:0002211]]==
+{{Infobox HPO
+| hpoId = HP:0002211
+| 名称 = White forelock
+| 定义 = A triangular depigmented region of white hairs located in the anterior midline of the scalp.
+| 中文译名 = 额发变白
+| 中文定义 = 位于头皮的前正中线三角形区域的毛发变白。
+}}
+
+
+==[[HP:0002212]]==
+{{Infobox HPO
+| hpoId = HP:0002212
+| 名称 = Curly hair
+| 定义 = #####
+| 中文译名 = 卷曲样发
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002213]]==
+{{Infobox HPO
+| hpoId = HP:0002213
+| 名称 = Fine hair
+| 定义 = Hair that is fine or thin to the touch.
+| 中文译名 = 绒毛
+| 中文定义 = 细短、柔软的毛。
+}}
+
+
+==[[HP:0002215]]==
+{{Infobox HPO
+| hpoId = HP:0002215
+| 名称 = Sparse axillary hair
+| 定义 = Reduced number or density of `axillary hair` (FMA:54253).
+| 中文译名 = 腋毛稀疏
+| 中文定义 = 腋毛数量或密度的减少。
+}}
+
+
+==[[HP:0002216]]==
+{{Infobox HPO
+| hpoId = HP:0002216
+| 名称 = Premature graying of hair
+| 定义 = Development of gray hair at a younger than normal age.
+| 中文译名 = 少白头
+| 中文定义 = 较正常年龄提前出现白发。
+}}
+
+==[[HP:0002217]]==
+{{Infobox HPO
+| hpoId = HP:0002217
+| 名称 = Slow-growing hair
+| 定义 = Hair whose growth is slower than normal.
+| 中文译名 = 毛发生长缓慢
+| 中文定义 = 毛发的生长比正常情况下慢。
+}}
+
+
+==[[HP:0002218]]==
+{{Infobox HPO
+| hpoId = HP:0002218
+| 名称 = Silver-gray hair
+| 定义 = Hypopigmented hair that appears silver-gray.
+| 中文译名 = 银灰色毛发
+| 中文定义 = 毛发色素减退呈银灰色。
+}}
+
+==[[HP:0002219]]==
+{{Infobox HPO
+| hpoId = HP:0002219
+| 名称 = Facial hypertrichosis
+| 定义 = #####
+| 中文译名 = 面部多毛症（先天性）
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002220]]==
+{{Infobox HPO
+| hpoId = HP:0002220
+| 名称 = Melanin pigment aggregation in hair shafts
+| 定义 = #####
+| 中文译名 = 发干部位色素沉积
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002221]]==
+{{Infobox HPO
+| hpoId = HP:0002221
+| 名称 = Absent axillary hair
+| 定义 = Absence of `axillary hair` (FMA:54253).
+| 中文译名 = 腋毛稀疏
+| 中文定义 = 腋毛的缺失。
+}}
+
+
+==[[HP:0002223]]==
+{{Infobox HPO
+| hpoId = HP:0002223
+| 名称 = Absent eyebrow
+| 定义 = Absence of the `eyebrow` (FMA:54237).
+| 中文译名 = 无眉
+| 中文定义 = 眉毛缺失
+}}
+
+==[[HP:0002224]]==
+{{Infobox HPO
+| hpoId = HP:0002224
+| 名称 = Woolly hair
+| 定义 = #####
+| 中文译名 = 羊毛状发
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002225]]==
+{{Infobox HPO
+| hpoId = HP:0002225
+| 名称 = Sparse pubic hair
+| 定义 = Reduced number or density of `pubic hair`(FMA:54319).
+| 中文译名 = 阴毛稀疏
+| 中文定义 = 阴毛数量或密度的减少。
+}}
+
+
+==[[HP:0002226]]==
+{{Infobox HPO
+| hpoId = HP:0002226
+| 名称 = White eyebrow
+| 定义 = White color (lack of pigmentation) of the eyebrow.
+| 中文译名 = 白眉
+| 中文定义 = 眉毛呈白色（无色素沉着）。
+}}
+
+
+==[[HP:0002227]]==
+{{Infobox HPO
+| hpoId = HP:0002227
+| 名称 = White eyelashes
+| 定义 = White color (lack of pigmentation) of the eyelashes.
+| 中文译名 = 白睫
+| 中文定义 = 睫毛呈白色（无色素沉着）。
+}}
+
+==[[HP:0002229]]==
+{{Infobox HPO
+| hpoId = HP:0002229
+| 名称 = Alopecia areata
+| 定义 = Loss of round patches of scalp hair.
+| 中文译名 = 斑秃
+| 中文定义 = 头发呈圆形斑片样脱失。
+}}
+
+
+==[[HP:0002230]]==
+{{Infobox HPO
+| hpoId = HP:0002230
+| 名称 = Generalized hirsutism
+| 定义 = Abnormally increased hair growth over much of the entire body.
+| 中文译名 = 全身性多毛症
+| 中文定义 = 全身性毛发异常增多。
+}}
+
+
+==[[HP:0002231]]==
+{{Infobox HPO
+| hpoId = HP:0002231
+| 名称 = Sparse body hair
+| 定义 = Sparseness of the body hair.
+| 中文译名 = 体毛稀疏
+| 中文定义 = 稀疏的体毛。
+}}
+
+
+==[[HP:0002232]]==
+{{Infobox HPO
+| hpoId = HP:0002232
+| 名称 = Patchy alopecia
+| 定义 = #####
+| 中文译名 = 片形脱发，鬼剃头
+| 中文定义 = #####
+}}
+
+==[[HP:0002234]]==
+{{Infobox HPO
+| hpoId = HP:0002234
+| 名称 = Early balding
+| 定义 = Loss of scalp hair at an earlier than normal age.
+| 中文译名 = 男性脱发、家族性秃发、脂溢性脱发、遗传性脱发、雄激素性脱发
+| 中文定义 = 头皮脱落年龄早于正常脱发年龄。
+}}
+
+
+==[[HP:0002235]]==
+{{Infobox HPO
+| hpoId = HP:0002235
+| 名称 = Pili canaliculi
+| 定义 = Uncombable hair.
+| 中文译名 = 隧道毛发
+| 中文定义 = 蓬乱的毛发。
+}}
+
+==[[HP:0002236]]==
+{{Infobox HPO
+| hpoId = HP:0002236
+| 名称 = Frontal upsweep of hair
+| 定义 = Upward and/or sideward growth of anterior hair.
+| 中文译名 = 前额卷发
+| 中文定义 = 前额头发向上和（或）向侧方生长。
+}}
+
+
+==[[HP:0002286]]==
+{{Infobox HPO
+| hpoId = HP:0002286
+| 名称 = Fair hair
+| 定义 = A lesser degree of hair pigmentation than would otherwise be expected.
+| 中文译名 = 金发
+| 中文定义 = 毛发色素沉着与正常状态相比较减少。
+}}
+
+==[[HP:0002287]]==
+{{Infobox HPO
+| hpoId = HP:0002287
+| 名称 = Progressive alopecia
+| 定义 = Progressive loss of hair.
+| 中文译名 = 进行性脱发
+| 中文定义 = 进行性毛发脱失。
+}}
+
+
+==[[HP:0002289]]==
+{{Infobox HPO
+| hpoId = HP:0002289
+| 名称 = Alopecia universalis
+| 定义 = Loss of all hair on the entire body.
+| 中文译名 = 全身毛发脱失
+| 中文定义 = 全身的毛发全部脱失。
+}}
+
+
+==[[HP:0002290]]==
+{{Infobox HPO
+| hpoId = HP:0002290
+| 名称 = Poliosis
+| 定义 = Circumscribed depigmentation of the hair of the head or the eyelashes.
+| 中文译名 = 白发
+| 中文定义 = 头发或睫毛局限性色素脱失。
+}}
+
+
+==[[HP:0002292]]==
+{{Infobox HPO
+| hpoId = HP:0002292
+| 名称 = Frontal balding
+| 定义 = Absence of hair in the anterior midline and/or parietal areas.
+| 中文译名 = 前额秃发
+| 中文定义 = 前额中线部位和（或）头顶的秃发。
+}}
+
+
+==[[HP:0002293]]==
+{{Infobox HPO
+| hpoId = HP:0002293
+| 名称 = Alopecia of scalp
+| 定义 = #####
+| 中文译名 = 头皮脱发
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002296]]==
+{{Infobox HPO
+| hpoId = HP:0002296
+| 名称 = Progressive hypotrichosis
+| 定义 = Progressively reduced or lacking hair growth.
+| 中文译名 = 进行性少毛症
+| 中文定义 = 毛发生长呈进行性减慢或停滞。
+}}
+
+
+==[[HP:0002297]]==
+{{Infobox HPO
+| hpoId = HP:0002297
+| 名称 = Red hair
+| 定义 = #####
+| 中文译名 = 红发
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002298]]==
+{{Infobox HPO
+| hpoId = HP:0002298
+| 名称 = Absent hair
+| 定义 = #####
+| 中文译名 = 毛发缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002299]]==
+{{Infobox HPO
+| hpoId = HP:0002299
+| 名称 = Brittle hair
+| 定义 = Fragile, easily breakable hair, i.e., with reduced tensile strength.
+| 中文译名 = 毛发干枯
+| 中文定义 = 毛发抗拉强度降低并且脆弱易断裂。
+}}
+
+
+==[[HP:0002550]]==
+{{Infobox HPO
+| hpoId = HP:0002550
+| 名称 = Absent facial hair
+| 定义 = Absence of `facial hair`(FMA:54360).
+| 中文译名 = 面部毛发稀疏
+| 中文定义 = 面部毛发的缺失。
+}}
+
+
+==[[HP:0002552]]==
+{{Infobox HPO
+| hpoId = HP:0002552
+| 名称 = Trichodysplasia
+| 定义 = `Developmental dysplasia` (MPATH:64) of the `hair` (FMA:53667).
+| 中文译名 = 毛发发育异常
+| 中文定义 = 毛发的异常发育不良。
+}}
+
+
+==[[HP:0002553]]==
+{{Infobox HPO
+| hpoId = HP:0002553
+| 名称 = Highly arched eyebrow
+| 定义 = Increased height of the central portion of the eyebrow, forming a crescent, semicircular, or inverted U shape.
+| 中文译名 = 高拱形眉毛
+| 中文定义 = 眉毛中部位置的高度增加，形成了新月、半圆或倒U形。
+}}
+
+==[[HP:0002555]]==
+{{Infobox HPO
+| hpoId = HP:0002555
+| 名称 = Absent pubic hair
+| 定义 = Absence of `pubic hair`(FMA:54319).
+| 中文译名 = 阴毛缺失
+| 中文定义 = 阴毛的缺失。
+}}
+
+==[[HP:0002604]]==
+{{Infobox HPO
+| hpoId = HP:0002604
+| 名称 = Gastrointestinal telangiectasia
+| 定义 = `Telangiectasia` (MPATH:476) affecting the`gastrointestinal tract` (FMA:71132).
+| 中文译名 = 胃肠道毛细血管扩张
+| 中文定义 = `胃肠道的毛细血管扩张。
+}}
+
+==[[HP:0002671]]==
+{{Infobox HPO
+| hpoId = HP:0002671
+| 名称 = Basal cell carcinoma
+| 定义 = The presence of a `basal cell carcinoma` (MPATH:234) of the `skin` (FMA:7163).
+| 中文译名 = 基底细胞癌
+| 中文定义 = 存在于皮肤的基底细胞癌。
+}}
+
+
+==[[HP:0002707]]==
+{{Infobox HPO
+| hpoId = HP:0002707
+| 名称 = Palate telangiectasia
+| 定义 = The presence of small (ca. 0.5-1.0 mm) dilated blood vessels near the surface of the mucous membranes of the palate.
+| 中文译名 = 腭毛细血管扩张
+| 中文定义 = 在腭粘膜表面的小血管扩张（约0.5〜1.0毫米）。
+}}
+
+==[[HP:0002710]]==
+{{Infobox HPO
+| hpoId = HP:0002710
+| 名称 = Commissural lip pit
+| 定义 = A depression located at an oral commissure.
+| 中文译名 = 口角小窝
+| 中文定义 = 位于口角部位的小窝状凹陷
+}}
+
+==[[HP:0002728]]==
+{{Infobox HPO
+| hpoId = HP:0002728
+| 名称 = Chronic mucocutaneous candidiasis
+| 定义 = Recurrent or persistent superficial Candida infections of the skin, mucous membranes, and nails.
+| 中文译名 = 慢性皮肤粘膜念珠菌病
+| 中文定义 = 皮肤、粘膜和甲等部位反复或持续的浅表性念珠菌感染。
+}}
+
+
+==[[HP:0002860]]==
+{{Infobox HPO
+| hpoId = HP:0002860
+| 名称 = Squamous cell carcinoma
+| 定义 = The presence of `squamous cell carcinoma` (MPATH:446) of the `skin` (FMA:7163).
+| 中文译名 = 鳞状细胞癌
+| 中文定义 = 指存在于皮肤的鳞状细胞癌。
+}}
+
+
+==[[HP:0003328]]==
+{{Infobox HPO
+| hpoId = HP:0003328
+| 名称 = Abnormal hair laboratory examination
+| 定义 = #####
+| 中文译名 = 毛发异常的检查
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003329]]==
+{{Infobox HPO
+| hpoId = HP:0003329
+| 名称 = Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes
+| 定义 = #####
+| 中文译名 = 毛干不规则扁平分布并绕发轴180度扭转
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003341]]==
+{{Infobox HPO
+| hpoId = HP:0003341
+| 名称 = Junctional split
+| 定义 = The formation of bullae (blisters) with cleavage in the `lamina lucida` (FMA:62921) layer of the skin.
+| 中文译名 = 交界性分离
+| 中文定义 = 皮肤透明层断裂分离引起的大疱（水泡）形成。
+}}
+
+==[[HP:0003717]]==
+{{Infobox HPO
+| hpoId = HP:0003717
+| 名称 = Minimal subcutaneous fat
+| 定义 = #####
+| 中文译名 = 极低度的皮下脂肪
+| 中文定义 = #####
+}}
+
+==[[HP:0003758]]==
+{{Infobox HPO
+| hpoId = HP:0003758
+| 名称 = Reduced subcutaneous adipose tissue
+| 定义 = The presence of an abnormally reduced amount of `subcutaneous adipose tissue` (FMA:74315).
+| 中文译名 = 皮下脂肪组织减少
+| 中文定义 = 皮下脂肪组织量的异常减少。
+}}
+
+==[[HP:0003764]]==
+{{Infobox HPO
+| hpoId = HP:0003764
+| 名称 = Nevus
+| 定义 = A nevus is a type of hamartoma that is a circumscribed stable malformation of the skin.
+| 中文译名 = 色素痣
+| 中文定义 = 色素痣是一种错构瘤，一般局限于皮肤且较为稳定。
+}}
+
+
+==[[HP:0003765]]==
+{{Infobox HPO
+| hpoId = HP:0003765
+| 名称 = Psoriasis
+| 定义 = A skin abnormality characterized by redness and irritation, with thick, red skin that displays flaky, silver-white patches (scales).
+| 中文译名 = 银屑病
+| 中文定义 = 一种以片状红斑、表皮增厚且表面覆有易脱落的银白色鳞屑为特征的皮肤疾病。
+}}
+
+==[[HP:0003777]]==
+{{Infobox HPO
+| hpoId = HP:0003777
+| 名称 = Pili torti
+| 定义 = Pili (from Latin pilus, hair) torti (from Latin tortus, twisted) refers to short and brittle hairs that appear flattened and twisted when viewed through a microscope.
+| 中文译名 = 卷发
+| 中文定义 = Pili（来自拉丁语pilus，毛发）torti（来自拉丁语tortus，卷曲）是指显微镜下可看到的短的、脆的、卷曲的毛发。
+}}
+
+
+==[[HP:0004334]]==
+{{Infobox HPO
+| hpoId = HP:0004334
+| 名称 = Dermal atrophy
+| 定义 = Partial or complete wasting (atrophy) of the skin.
+| 中文译名 = 皮肤萎缩
+| 中文定义 = 皮肤部分或完全的萎缩。
+}}
+
+
+==[[HP:0004464]]==
+{{Infobox HPO
+| hpoId = HP:0004464
+| 名称 = Postauricular pit
+| 定义 = Benign congenital lesion of the postauricular soft tissue consisting of a blind-ending narrow tube or pit.
+| 中文译名 = 耳后凹陷
+| 中文定义 = 耳后软组织的良性先天性病变，包括狭窄的盲管或凹陷。
+}}
+
+
+==[[HP:0004467]]==
+{{Infobox HPO
+| hpoId = HP:0004467
+| 名称 = Preauricular pit
+| 定义 = Small indentation anterior to the insertion of the ear.
+| 中文译名 = 耳前凹陷
+| 中文定义 = 耳前的小的插入性凹痕。
+}}
+
+==[[HP:0004471]]==
+{{Infobox HPO
+| hpoId = HP:0004471
+| 名称 = aplasia cutis congenita over the scalp vertex
+| 定义 = A developmental defect resulting in the congenital absence of skin on the scalp vertex, often just lateral to the midline.
+| 中文译名 = 先天性头顶部表皮发育不全
+| 中文定义 = 发育缺陷导致的头顶部皮肤缺损性疾病，常指中线两侧的皮肤先天性缺损。
+}}
+
+==[[HP:0004476]]==
+{{Infobox HPO
+| hpoId = HP:0004476
+| 名称 = aplasia cutis congenita over parietal area
+| 定义 = A developmental defect resulting in the congenital absence of skin on the scalp in the parietal area.
+| 中文译名 = 先天性顶叶区表皮发育不全
+| 中文定义 = 发育缺陷导致先天性顶叶区头皮缺损的疾病。
+}}
+
+
+==[[HP:0004523]]==
+{{Infobox HPO
+| hpoId = HP:0004523
+| 名称 = Long eyebrows
+| 定义 = Increased length of the hairs of the eyebrows.
+| 中文译名 = 长眉
+| 中文定义 = 眉毛毛发长度增加。
+}}
+
+==[[HP:0004524]]==
+{{Infobox HPO
+| hpoId = HP:0004524
+| 名称 = Temporal hypotrichosis
+| 定义 = Reduced or lacking hair growth in the temporal region (i.e., around the temples on the side of the skull).
+| 中文译名 = 颞部少毛症
+| 中文定义 = 头发生长减少或缺失发生于颞部（即两鬓周围）。
+}}
+
+
+==[[HP:0004527]]==
+{{Infobox HPO
+| hpoId = HP:0004527
+| 名称 = large clumps of pigment irregularly distributed along hair shaft
+| 定义 = #####
+| 中文译名 = 沿发干不规则分布大片色素
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004528]]==
+{{Infobox HPO
+| hpoId = HP:0004528
+| 名称 = Generalized hypotrichosis
+| 定义 = Reduced or lacking hair growth in a generalized distribution.
+| 中文译名 = 泛发性少毛症
+| 中文定义 = 泛发性毛发生长减慢或停滞。
+}}
+
+
+==[[HP:0004529]]==
+{{Infobox HPO
+| hpoId = HP:0004529
+| 名称 = Atrophic, patchy alopecia
+| 定义 = #####
+| 中文译名 = 萎缩性斑片状脱发
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004532]]==
+{{Infobox HPO
+| hpoId = HP:0004532
+| 名称 = Sacral hypertrichosis
+| 定义 = Excessive, increased hair growth located in the sacral region.
+| 中文译名 = 骶骨多毛症
+| 中文定义 = 位于骶骨区过度增加的毛发生长。
+}}
+
+
+==[[HP:0004535]]==
+{{Infobox HPO
+| hpoId = HP:0004535
+| 名称 = Anterior cervical hypertrichosis
+| 定义 = Anterior cervical hypertrichosis (ACH) or &#39;hairy throat&#39; refers to the presence of a tuft of terminal hair on the anterior neck, just above the laryngeal prominence.
+| 中文译名 = 颈前区多毛症
+| 中文定义 = 颈前区多毛症（ACH）或“多毛喉”指的是位于颈前喉结正上方的一簇终毛。
+}}
+
+==[[HP:0004540]]==
+{{Infobox HPO
+| hpoId = HP:0004540
+| 名称 = Congenital, generalized hypertrichosis
+| 定义 = A confluent, generalized overgrowth of silvery blonde to gray lanugo hair at birth.
+| 中文译名 = 先天性全身多毛症
+| 中文定义 = 出生时全身即表现出银白色到灰色胎毛。
+}}
+
+
+==[[HP:0004544]]==
+{{Infobox HPO
+| hpoId = HP:0004544
+| 名称 = Pointed frontal hairline
+| 定义 = #####
+| 中文译名 = 前额尖发际线
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004552]]==
+{{Infobox HPO
+| hpoId = HP:0004552
+| 名称 = Scarring alopecia of scalp
+| 定义 = ‘alopecia’ due to the formation of the scar tissue after destruction from the scalp.
+| 中文译名 = 头皮瘢痕性秃发
+| 中文定义 = 由于头皮组织破坏形成瘢痕所导致的毛发脱落。
+}}
+
+
+==[[HP:0004554]]==
+{{Infobox HPO
+| hpoId = HP:0004554
+| 名称 = Generalized hypertrichosis
+| 定义 = Generalized excessive, abnormal hairiness.
+| 中文译名 = 泛发性多毛症
+| 中文定义 = 泛发性毛发过度生长。
+}}
+
+
+==[[HP:0004681]]==
+{{Infobox HPO
+| hpoId = HP:0004681
+| 名称 = Deep longitudinal plantar crease
+| 定义 = Narrow, paramedian longitudinal depressions in the plantar skin of the forefoot.
+| 中文译名 = 跖部深在皱褶纵向分布
+| 中文定义 = 跖前部皮肤正中位置纵向的细窄凹陷。
+}}
+
+
+==[[HP:0004768]]==
+{{Infobox HPO
+| hpoId = HP:0004768
+| 名称 = Sparse anterior scalp hair
+| 定义 = Decreased number of `head hairs` (FMA:54241) per unit area on the anterior region of the scalp.
+| 中文译名 = 前发稀疏
+| 中文定义 = 头皮前部每单位面积上的发量减少。
+}}
+
+==[[HP:0004771]]==
+{{Infobox HPO
+| hpoId = HP:0004771
+| 名称 = Premature graying of body hair
+| 定义 = #####
+| 中文译名 = 体毛过早变白
+| 中文定义 = #####
+}}
+
+==[[HP:0004779]]==
+{{Infobox HPO
+| hpoId = HP:0004779
+| 名称 = Brittle scalp hair
+| 定义 = Fragile, easily breakable scalp hair.
+| 中文译名 = 头发干枯
+| 中文定义 = 脆弱，易碎的头发。
+}}
+
+
+==[[HP:0004780]]==
+{{Infobox HPO
+| hpoId = HP:0004780
+| 名称 = Elbow hypertrichosis
+| 定义 = Excessive, increased hair growth located in the elbow region.
+| 中文译名 = 肘部多毛症
+| 中文定义 = 肘部毛发过度生长。
+}}
+
+==[[HP:0004782]]==
+{{Infobox HPO
+| hpoId = HP:0004782
+| 名称 = Hypotrichosis of the scalp
+| 定义 = Reduced or lacking hair growth of the scalp.
+| 中文译名 = 头发稀少症
+| 中文定义 = 头发生长停滞或减慢。
+}}
+
+==[[HP:0005220]]==
+{{Infobox HPO
+| hpoId = HP:0005220
+| 名称 = Multiple intestinal neurofibromatosis
+| 定义 = #####
+| 中文译名 = 多发性肠神经纤维瘤病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005320]]==
+{{Infobox HPO
+| hpoId = HP:0005320
+| 名称 = Lack of facial subcutaneous fat
+| 定义 = #####
+| 中文译名 = 面部皮下脂肪缺乏
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005325]]==
+{{Infobox HPO
+| hpoId = HP:0005325
+| 名称 = Extension of hair growth on temples to lateral eyebrow
+| 定义 = A pattern of hair growth in which there is hair exnteding from the temples to the lateral eyebrows.
+| 中文译名 = 太阳穴处头发向眉外延
+| 中文定义 = 指头发从太阳穴向眉外侧生长。
+}}
+
+==[[HP:0005328]]==
+{{Infobox HPO
+| hpoId = HP:0005328
+| 名称 = Progeroid facial appearance
+| 定义 = A degree of wrinkling of the facial skin that is more than expected for the age of the individual, leading to a prematurely aged appearance.
+| 中文译名 = 早衰面容
+| 中文定义 = 面部皮肤出现超出正常年龄范围的皱纹，导致过早老化面容。
+}}
+
+
+==[[HP:0005336]]==
+{{Infobox HPO
+| hpoId = HP:0005336
+| 名称 = Forehead hyperpigmentation
+| 定义 = #####
+| 中文译名 = 前额色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005338]]==
+{{Infobox HPO
+| hpoId = HP:0005338
+| 名称 = Sparse lateral eyebrow
+| 定义 = Decreased density/number and/or decreased diameter of lateral eyebrow hairs.
+| 中文译名 = 眉尖稀疏
+| 中文定义 = 眉尖部毛发密度降低或数量减少和/或直径减小。
+}}
+
+
+==[[HP:0005406]]==
+{{Infobox HPO
+| hpoId = HP:0005406
+| 名称 = Recurrent bacterial skin infections
+| 定义 = Increased susceptibility to bacterial infections of the skin, as manifested by recurrent episodes of infectious dermatitis.
+| 中文译名 = 复发性细菌性皮肤感染
+| 中文定义 = 皮肤对细菌的易感性增加，表现为感染性皮炎的反复发作。
+}}
+
+
+==[[HP:0005411]]==
+{{Infobox HPO
+| hpoId = HP:0005411
+| 名称 = Chronic intestinal candidiasis
+| 定义 = Persistent overgrowth of Candida albicans in the gastrointestinal tract.
+| 中文译名 = 慢性肠道念珠菌症
+| 中文定义 = 白色念珠菌在胃肠道中长期生存和生长。
+}}
+
+
+==[[HP:0005585]]==
+{{Infobox HPO
+| hpoId = HP:0005585
+| 名称 = Spotty hyperpigmentation
+| 定义 = #####
+| 中文译名 = 点滴状色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005586]]==
+{{Infobox HPO
+| hpoId = HP:0005586
+| 名称 = Hyperpigmentation in sun-exposed areas
+| 定义 = #####
+| 中文译名 = 晒斑，日光性色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005587]]==
+{{Infobox HPO
+| hpoId = HP:0005587
+| 名称 = Profuse pigmented skin lesions
+| 定义 = #####
+| 中文译名 = 泛发性色素性皮损
+| 中文定义 = #####
+}}
+
+==[[HP:0005588]]==
+{{Infobox HPO
+| hpoId = HP:0005588
+| 名称 = Patchy palmoplantar keratoderma
+| 定义 = A focal type of palmoplantar keratoderma in which only certain areas of the palms and soles are affected.
+| 中文译名 = 斑片状掌跖角化病
+| 中文定义 = 局灶性掌趾角化症，仅掌跖的某些部位发生角化异常。
+}}
+
+
+==[[HP:0005590]]==
+{{Infobox HPO
+| hpoId = HP:0005590
+| 名称 = Spotty hypopigmentation
+| 定义 = #####
+| 中文译名 = 点滴状色素减退
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005592]]==
+{{Infobox HPO
+| hpoId = HP:0005592
+| 名称 = Giant melanosomes in melanocytes
+| 定义 = The presence of large spherical melanosomes (1 to 6 micrometer in diameter) in the cytoplasm of melanocytes.
+| 中文译名 = 黑素细胞中巨大黑素小体
+| 中文定义 = 黑素细胞中巨大的黑素小体（直径约1到6μm）。
+}}
+
+
+==[[HP:0005593]]==
+{{Infobox HPO
+| hpoId = HP:0005593
+| 名称 = Macular hypopigmented whorls, streaks, and patches
+| 定义 = #####
+| 中文译名 = 螺纹状、线状和点状色素减退斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005595]]==
+{{Infobox HPO
+| hpoId = HP:0005595
+| 名称 = Generalized hyperkeratosis
+| 定义 = #####
+| 中文译名 = 泛发性角化过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005597]]==
+{{Infobox HPO
+| hpoId = HP:0005597
+| 名称 = Congenital alopecia totalis
+| 定义 = Loss of all scalp hair with congenital onset.
+| 中文译名 = 先天性全秃
+| 中文定义 = 先天性的头发全部脱落。
+}}
+
+==[[HP:0005598]]==
+{{Infobox HPO
+| hpoId = HP:0005598
+| 名称 = Facial telangiectasia in butterfly midface distribution
+| 定义 = Telangiectases (small dilated blood vessels) located near the surface of the skin in a butterfly midface distribution.
+| 中文译名 = 面部毛细血管蝶状扩张
+| 中文定义 = 面部皮肤毛细血管扩张呈蝶状分布（细小血管扩张）。
+}}
+
+
+==[[HP:0005599]]==
+{{Infobox HPO
+| hpoId = HP:0005599
+| 名称 = Hypopigmentation of hair
+| 定义 = #####
+| 中文译名 = 毛发色素减退
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005600]]==
+{{Infobox HPO
+| hpoId = HP:0005600
+| 名称 = Congenital giant melanocytic nevus
+| 定义 = The giant congenital nevus is greater than 8 cm in size, pigmented and often hairy. A giant congenital nevus is smaller in infants and children, but it usually continues to grow with the child.
+| 中文译名 = 先天性巨大型色素痣
+| 中文定义 = 指直径大于8厘米，颜色较深并伴有毛发生长的色素痣。往往在婴幼儿期痣较小，但其随着年龄的增长会增大。
+}}
+
+==[[HP:0005602]]==
+{{Infobox HPO
+| hpoId = HP:0005602
+| 名称 = Progressive vitiligo
+| 定义 = #####
+| 中文译名 = 进展期白癜风
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005603]]==
+{{Infobox HPO
+| hpoId = HP:0005603
+| 名称 = Numerous congenital melanocytic nevi
+| 定义 = #####
+| 中文译名 = 多发性先天性色素痣
+| 中文定义 = #####
+}}
+
+==[[HP:0005605]]==
+{{Infobox HPO
+| hpoId = HP:0005605
+| 名称 = Large cafe-au-lait macules with irregular margins
+| 定义 = Large hypermelanotic macules with jagged borders.
+| 中文译名 = 边缘不规则的较大咖啡牛奶斑
+| 中文定义 = 锯齿状边缘的较大色素沉着斑。
+}}
+
+
+==[[HP:0005606]]==
+{{Infobox HPO
+| hpoId = HP:0005606
+| 名称 = Hyperpigmented nevi and streak
+| 定义 = #####
+| 中文译名 = 色素痣和线状色素沉着
+| 中文定义 = #####
+}}
+
+==[[HP:0005689]]==
+{{Infobox HPO
+| hpoId = HP:0005689
+| 名称 = Dermatoglyphic ridges abnormal
+| 定义 = #####
+| 中文译名 = 皮纹脊异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005875]]==
+{{Infobox HPO
+| hpoId = HP:0005875
+| 名称 = Increased dermatoglyphic whorls
+| 定义 = #####
+| 中文译名 = 螺纹样皮纹增加
+| 中文定义 = #####
+}}
+
+==[[HP:0005882]]==
+{{Infobox HPO
+| hpoId = HP:0005882
+| 名称 = Dermatoglyphic variants
+| 定义 = #####
+| 中文译名 = 变异的皮纹
+| 中文定义 = #####
+}}
+
+==[[HP:0005989]]==
+{{Infobox HPO
+| hpoId = HP:0005989
+| 名称 = Redundant neck skin
+| 定义 = A thickening of the skin thickness in the posterior aspect of the neck.
+| 中文译名 = 颈部皮肤增厚
+| 中文定义 = 颈后部皮肤厚度增加。
+}}
+
+==[[HP:0005995]]==
+{{Infobox HPO
+| hpoId = HP:0005995
+| 名称 = Decreased adipose tissue around neck
+| 定义 = Reduced amount of `adipose tissue` (FMA:20110) in the region of the neck.
+| 中文译名 = 颈部脂肪组织减少
+| 中文定义 = 颈部脂肪组织量的减少
+}}
+
+==[[HP:0006089]]==
+{{Infobox HPO
+| hpoId = HP:0006089
+| 名称 = Palmar hyperhidrosis
+| 定义 = #####
+| 中文译名 = 出汗不良性湿疹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006107]]==
+{{Infobox HPO
+| hpoId = HP:0006107
+| 名称 = Fingerpad telangiectases
+| 定义 = Telangiectasia (small dilated blood vessels) located in the fingerpads at the tips of the fingers.
+| 中文译名 = 指垫毛细血管扩张
+| 中文定义 = 位于指尖垫部位的毛细血管扩张。
+}}
+
+==[[HP:0006114]]==
+{{Infobox HPO
+| hpoId = HP:0006114
+| 名称 = Multiple palmar creases
+| 定义 = The presence of multiple creases on the palm of the hand (more than the normal three major creases (distal transverse crease, proximal transverse crease, and thenar crease).
+| 中文译名 = 多掌褶
+| 中文定义 = 手掌上的多个折痕（比正常手掌的三大折痕（远侧横向折痕、近端横向折痕以及鱼际折痕）还多）。
+}}
+
+==[[HP:0006121]]==
+{{Infobox HPO
+| hpoId = HP:0006121
+| 名称 = Acral ulceration leading to autoamputation of digits
+| 定义 = #####
+| 中文译名 = 肢端溃疡导致的指/趾自发性离断
+| 中文定义 = #####
+}}
+
+==[[HP:0006157]]==
+{{Infobox HPO
+| hpoId = HP:0006157
+| 名称 = Prominent palmar flexion creases
+| 定义 = #####
+| 中文译名 = 较为明显的掌屈折痕
+| 中文定义 = #####
+}}
+
+==[[HP:0006184]]==
+{{Infobox HPO
+| hpoId = HP:0006184
+| 名称 = Decreased palmar creases
+| 定义 = Poorly defined or shallow palmar creases.
+| 中文译名 = 掌纹减少
+| 中文定义 = 不清晰或浅的手掌折痕。
+}}
+
+==[[HP:0006189]]==
+{{Infobox HPO
+| hpoId = HP:0006189
+| 名称 = Prominent interdigital folds
+| 定义 = #####
+| 中文译名 = 趾间褶皱明显
+| 中文定义 = #####
+}}
+
+==[[HP:0006191]]==
+{{Infobox HPO
+| hpoId = HP:0006191
+| 名称 = Deep palmar crease
+| 定义 = Excessively deep creases of the palm.
+| 中文译名 = 深在性掌纹
+| 中文定义 = 手掌折痕过深。
+}}
+
+==[[HP:0006579]]==
+{{Infobox HPO
+| hpoId = HP:0006579
+| 名称 = Prolonged neonatal jaundice
+| 定义 = Neonatal jaundice refers to a yellowing of the skin and other tissues of a newborn infant as a result of increased concentrations of bilirubin in the blood. Neonatal jaundice affects over half of all newborns to some extent in the first week of life. Prolonged neonatal jaundice is said to be present if the jaundice persists for longer than 14 days in term infants and 21 days in preterm infants.
+| 中文译名 = 新生儿黄疸期延长
+| 中文定义 = 新生儿黄疸是指新生儿皮肤或其他组织呈黄色，是血液中胆红素浓度升高所致。新生儿黄疸几乎影响了一半以上的新生儿，有些可持续一周。足月儿黄疸持续超过14天，早产儿持续超过21天即为新生儿黄疸期延长。
+}}
+
+==[[HP:0006739]]==
+{{Infobox HPO
+| hpoId = HP:0006739
+| 名称 = Squamous cell carcinoma of the skin
+| 定义 = Squamous cell carcinoma of the skin is a malignant tumor of squamous epithelium.
+| 中文译名 = 皮肤鳞状细胞癌
+| 中文定义 = 皮肤的鳞状细胞癌是一种来源于鳞状上皮细胞的恶性肿瘤。
+}}
+
+
+==[[HP:0006751]]==
+{{Infobox HPO
+| hpoId = HP:0006751
+| 名称 = Paraspinal neurofibromas
+| 定义 = #####
+| 中文译名 = 椎旁神经纤维瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006755]]==
+{{Infobox HPO
+| hpoId = HP:0006755
+| 名称 = Cutaneous leiomyosarcoma
+| 定义 = The presence of `leiomyosarcoma` (MPATH:426) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤平滑肌肉瘤
+| 中文定义 = 皮肤来源的平滑肌肉瘤。
+}}
+
+
+==[[HP:0006769]]==
+{{Infobox HPO
+| hpoId = HP:0006769
+| 名称 = Myxoid subcutaneous tumors
+| 定义 = #####
+| 中文译名 = 粘液样皮下肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006773]]==
+{{Infobox HPO
+| hpoId = HP:0006773
+| 名称 = Cutaneous angiolipomas
+| 定义 = #####
+| 中文译名 = 皮肤血管脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006851]]==
+{{Infobox HPO
+| hpoId = HP:0006851
+| 名称 = Symmetric spinal nerve root neurofibromas
+| 定义 = Multiple neurofibromas of the spinal nerve roots with a symmetric distribution.
+| 中文译名 = 对称性脊神经根纤维瘤
+| 中文定义 = 对称分布的起源于脊神经根的多发性纤维瘤。
+}}
+
+==[[HP:0007380]]==
+{{Infobox HPO
+| hpoId = HP:0007380
+| 名称 = Facial telangiectasia
+| 定义 = Telangiectases (small dilated blood vessels) located near the surface of the skin of the face.
+| 中文译名 = 面部毛细血管扩张症
+| 中文定义 = 位于面部皮肤表面的毛细血管扩张（细小血管扩张）。
+}}
+
+==[[HP:0007381]]==
+{{Infobox HPO
+| hpoId = HP:0007381
+| 名称 = Congenital exfoliative erythroderma
+| 定义 = #####
+| 中文译名 = 先天性剥脱性红皮病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007383]]==
+{{Infobox HPO
+| hpoId = HP:0007383
+| 名称 = Congenital localized absence of skin
+| 定义 = #####
+| 中文译名 = 先天性局部皮肤缺损
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007384]]==
+{{Infobox HPO
+| hpoId = HP:0007384
+| 名称 = Aberrant melanosome maturation
+| 定义 = #####
+| 中文译名 = 黑素小体成熟障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007385]]==
+{{Infobox HPO
+| hpoId = HP:0007385
+| 名称 = aplasia cutis congenita of scalp
+| 定义 = A developmental defect resulting in the congenital absence of skin on the scalp.
+| 中文译名 = 先天性头皮表皮发育不全
+| 中文定义 = 发育缺陷导致的先天性头皮缺损。
+}}
+
+==[[HP:0007387]]==
+{{Infobox HPO
+| hpoId = HP:0007387
+| 名称 = Hypoplastic sweat glands
+| 定义 = Underdevelopment of the sweat glands.
+| 中文译名 = 汗腺发育不全
+| 中文定义 = 汗腺未发育完全。
+}}
+
+
+==[[HP:0007390]]==
+{{Infobox HPO
+| hpoId = HP:0007390
+| 名称 = Hyperkeratosis with erythema
+| 定义 = #####
+| 中文译名 = 红斑角化症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007392]]==
+{{Infobox HPO
+| hpoId = HP:0007392
+| 名称 = Excessive wrinkled skin
+| 定义 = #####
+| 中文译名 = 皮肤皱褶过多
+| 中文定义 = #####
+}}
+
+==[[HP:0007394]]==
+{{Infobox HPO
+| hpoId = HP:0007394
+| 名称 = Prominent superficial blood vessels
+| 定义 = #####
+| 中文译名 = 隆起性浅表血管
+| 中文定义 = #####
+}}
+
+==[[HP:0007395]]==
+{{Infobox HPO
+| hpoId = HP:0007395
+| 名称 = Postnatal-onset ichthyosiform erythroderma
+| 定义 = A type of ichthyosiform erythroderma with postnatal onset.
+| 中文译名 = 先天性鱼鳞病样红皮病
+| 中文定义 = 出生后即呈现鱼鳞病样病变的红皮病。
+}}
+
+==[[HP:0007396]]==
+{{Infobox HPO
+| hpoId = HP:0007396
+| 名称 = Early cutaneous photosensitivity
+| 定义 = Photosensitivity of the skin occurring early in life.
+| 中文译名 = 早发性光敏性皮肤
+| 中文定义 = 皮肤的光敏感性出现较早。
+}}
+
+
+==[[HP:0007397]]==
+{{Infobox HPO
+| hpoId = HP:0007397
+| 名称 = Axillary apocrine gland hypoplasia
+| 定义 = Developmental hypoplasia of the `apocrine sweat glands` (FMA:59155) in the region of the `axilla` (FMA:24864).
+| 中文译名 = 腋下大汗腺发育不全
+| 中文定义 = 腋下大汗腺的发育不全。
+}}
+
+==[[HP:0007398]]==
+{{Infobox HPO
+| hpoId = HP:0007398
+| 名称 = Asymmetric, linear skin defects
+| 定义 = #####
+| 中文译名 = 非对称性线性皮损
+| 中文定义 = #####
+}}
+
+==[[HP:0007400]]==
+{{Infobox HPO
+| hpoId = HP:0007400
+| 名称 = Irregular hyperpigmentation
+| 定义 = #####
+| 中文译名 = 不规则色素沉着
+| 中文定义 = #####
+}}
+
+==[[HP:0007402]]==
+{{Infobox HPO
+| hpoId = HP:0007402
+| 名称 = Areas of hypopigmentation and hyperpigmentation that do not follow Blaschko lines
+| 定义 = #####
+| 中文译名 = 不沿Blaschko线分布的色素减退和色素沉着区域
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007403]]==
+{{Infobox HPO
+| hpoId = HP:0007403
+| 名称 = Hypertrophy of skin of soles
+| 定义 = #####
+| 中文译名 = 跖部皮肤肥厚
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007404]]==
+{{Infobox HPO
+| hpoId = HP:0007404
+| 名称 = Nonepidermolytic palmoplantar keratoderma
+| 定义 = #####
+| 中文译名 = 非表皮松解性掌跖角化症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007406]]==
+{{Infobox HPO
+| hpoId = HP:0007406
+| 名称 = Hyperpigmentation of eyelids
+| 定义 = #####
+| 中文译名 = 眼睑色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007407]]==
+{{Infobox HPO
+| hpoId = HP:0007407
+| 名称 = Excessive skin wrinkling on dorsum of hands and fingers
+| 定义 = #####
+| 中文译名 = 手背和指背部皱褶过多
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007409]]==
+{{Infobox HPO
+| hpoId = HP:0007409
+| 名称 = Absence of subcutaneous fat over entire body except buttocks, hips, and thighs
+| 定义 = #####
+| 中文译名 = 除外臀部和大腿部位的全身皮下脂肪缺失
+| 中文定义 = #####
+}}
+
+==[[HP:0007410]]==
+{{Infobox HPO
+| hpoId = HP:0007410
+| 名称 = Palmoplantar hyperhidrosis
+| 定义 = An abnormally increased perspiration on palms and soles.
+| 中文译名 = 掌跖多汗症
+| 中文定义 = 掌跖部位排汗异常增多。
+}}
+
+==[[HP:0007411]]==
+{{Infobox HPO
+| hpoId = HP:0007411
+| 名称 = Hypoplastic-absent sebaceous glands
+| 定义 = #####
+| 中文译名 = 发育不全性皮脂腺缺如
+| 中文定义 = #####
+}}
+
+==[[HP:0007412]]==
+{{Infobox HPO
+| hpoId = HP:0007412
+| 名称 = Macular hyperpigmented dermopathy
+| 定义 = #####
+| 中文译名 = 斑疹样色素沉着性皮肤病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007413]]==
+{{Infobox HPO
+| hpoId = HP:0007413
+| 名称 = Nevus flammeus of the forehead
+| 定义 = `Naevus flammeus` (HP:0001052) localised in the skin of the forehead.
+| 中文译名 = 前额鲜红斑痣
+| 中文定义 = 位于前额的“鲜红斑痣”。
+}}
+
+==[[HP:0007414]]==
+{{Infobox HPO
+| hpoId = HP:0007414
+| 名称 = Neonatal wrinkled skin of hands and feet
+| 定义 = #####
+| 中文译名 = 新生儿手足皱褶
+| 中文定义 = #####
+}}
+
+==[[HP:0007417]]==
+{{Infobox HPO
+| hpoId = HP:0007417
+| 名称 = Discoid lupus erythematosus
+| 定义 = #####
+| 中文译名 = 盘状红斑狼疮
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007418]]==
+{{Infobox HPO
+| hpoId = HP:0007418
+| 名称 = Alopecia totalis
+| 定义 = Loss of all scalp hair.
+| 中文译名 = 全秃
+| 中文定义 = 头发全部脱落。
+}}
+
+
+==[[HP:0007420]]==
+{{Infobox HPO
+| hpoId = HP:0007420
+| 名称 = Spontaneous hematomas
+| 定义 = Spontaneous development of hematomas (hematoma) or bruises without significant trauma.
+| 中文译名 = 自发性血肿
+| 中文定义 = 无明显外伤而自然发生的血肿。
+}}
+
+==[[HP:0007421]]==
+{{Infobox HPO
+| hpoId = HP:0007421
+| 名称 = Telangiectases of the cheeks
+| 定义 = Telangiectases (small dilated blood vessels) located near the surface of the skin of the cheeks.
+| 中文译名 = 面颊毛细血管扩张
+| 中文定义 = 面颊表面的毛细血管扩张（小血管扩张）。
+}}
+
+==[[HP:0007425]]==
+{{Infobox HPO
+| hpoId = HP:0007425
+| 名称 = Hyperextensible skin of face
+| 定义 = #####
+| 中文译名 = 面部皮肤过度伸展
+| 中文定义 = #####
+}}
+
+==[[HP:0007427]]==
+{{Infobox HPO
+| hpoId = HP:0007427
+| 名称 = Reticulated skin pigmentation
+| 定义 = #####
+| 中文译名 = 网状色素沉着
+| 中文定义 = #####
+}}
+
+==[[HP:0007428]]==
+{{Infobox HPO
+| hpoId = HP:0007428
+| 名称 = Telangiectasia of the oral mucosa
+| 定义 = `Telangiectasia` (MPATH:476) (that is, the presence of small dilated superficial blood vessels) of the oral mucosa.
+| 中文译名 = 口腔粘膜毛细血管扩张
+| 中文定义 = 口腔粘膜毛细血管扩张（即口腔黏膜表面的小血管扩张）。
+}}
+
+
+==[[HP:0007429]]==
+{{Infobox HPO
+| hpoId = HP:0007429
+| 名称 = Few cafe-au-lait spots
+| 定义 = The presence of two to five cafe-au-lait macules.
+| 中文译名 = 散发型牛奶咖啡斑
+| 中文定义 = 仅仅二到五个牛奶咖啡斑。
+}}
+
+==[[HP:0007431]]==
+{{Infobox HPO
+| hpoId = HP:0007431
+| 名称 = Congenital ichthyosiform erythroderma
+| 定义 = An `ichthyosiform abnormality of the skin` (HP:0008064) with `congenital onset` (HP:0003577).
+| 中文译名 = 先天性鱼鳞病样红皮病
+| 中文定义 = 先天性皮肤鱼鳞病样异常改变。
+}}
+
+
+==[[HP:0007432]]==
+{{Infobox HPO
+| hpoId = HP:0007432
+| 名称 = Intermittent generalized erythematous papular rash
+| 定义 = #####
+| 中文译名 = 间歇性弥漫性红色斑丘疹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007435]]==
+{{Infobox HPO
+| hpoId = HP:0007435
+| 名称 = Diffuse palmoplantar keratoderma
+| 定义 = #####
+| 中文译名 = 遗传性掌跖角化病、掌跖胼胝病、掌跖角质瘤、Thost-Unna综合征
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007436]]==
+{{Infobox HPO
+| hpoId = HP:0007436
+| 名称 = Hair-nail ectodermal dysplasia
+| 定义 = #####
+| 中文译名 = 毛发-指甲型外胚层发育不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007437]]==
+{{Infobox HPO
+| hpoId = HP:0007437
+| 名称 = Multiple cutaneous leiomyomas
+| 定义 = The presence of `multiple` (PATO:0002118) `leiomyomas` (MPATH:425) of the `skin` (FMA:7163).
+| 中文译名 = 多发性皮肤平滑肌瘤
+| 中文定义 = 位于皮肤的多发性平滑肌瘤。
+}}
+
+==[[HP:0007438]]==
+{{Infobox HPO
+| hpoId = HP:0007438
+| 名称 = Mottled pigmentation of the trunk and proximal extremities
+| 定义 = #####
+| 中文译名 = 躯干和四肢近端斑驳状色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007439]]==
+{{Infobox HPO
+| hpoId = HP:0007439
+| 名称 = Generalized keratosis follicularis
+| 定义 = #####
+| 中文译名 = 泛发性毛囊角化症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007440]]==
+{{Infobox HPO
+| hpoId = HP:0007440
+| 名称 = Generalized hyperpigmentation
+| 定义 = #####
+| 中文译名 = 泛发性色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007441]]==
+{{Infobox HPO
+| hpoId = HP:0007441
+| 名称 = Hyperpigmented/hypopigmented macules
+| 定义 = #####
+| 中文译名 = 色素沉着/色素减退斑（色素异常斑）
+| 中文定义 = #####
+}}
+
+==[[HP:0007443]]==
+{{Infobox HPO
+| hpoId = HP:0007443
+| 名称 = Partial albinism
+| 定义 = Absence of melanin pigment in various areas, which is found at birth and is permanent. The lesions are known as leucoderma and are often found on the face, trunk, or limbs.
+| 中文译名 = 白点病；斑驳病；斑状白斑病；斑状白癜风；斑状白化病；
+| 中文定义 = 呈不同部位的黑素缺失，常见于面部、躯干和四肢。出生时即有，不会自行消退，皮损类白癜风样改变。
+}}
+
+
+==[[HP:0007446]]==
+{{Infobox HPO
+| hpoId = HP:0007446
+| 名称 = Palmoplantar blistering
+| 定义 = A type of blistering that affects the skin of the palms of the hands and the soles of the feet.
+| 中文译名 = 掌跖起疱
+| 中文定义 = 掌跖部位水疱发生。
+}}
+
+==[[HP:0007447]]==
+{{Infobox HPO
+| hpoId = HP:0007447
+| 名称 = Diffuse palmoplantar hyperkeratosis
+| 定义 = #####
+| 中文译名 = 弥漫性掌跖角化过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007448]]==
+{{Infobox HPO
+| hpoId = HP:0007448
+| 名称 = Hyperkeratosis over edematous areas
+| 定义 = #####
+| 中文译名 = 水肿伴角化过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007449]]==
+{{Infobox HPO
+| hpoId = HP:0007449
+| 名称 = Confetti-like hypopigmented macules
+| 定义 = #####
+| 中文译名 = 斑驳样色素减退斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007450]]==
+{{Infobox HPO
+| hpoId = HP:0007450
+| 名称 = Increased groin pigmentation with raindrop depigmentation
+| 定义 = #####
+| 中文译名 = 腹股沟色素沉着伴点滴状色素脱失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007451]]==
+{{Infobox HPO
+| hpoId = HP:0007451
+| 名称 = Ipsilateral lack of facial sweating
+| 定义 = #####
+| 中文译名 = 患侧面部出汗减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007453]]==
+{{Infobox HPO
+| hpoId = HP:0007453
+| 名称 = Flexural lichenification
+| 定义 = Lichenification affecting primarily flexural areas of the skin.
+| 中文译名 = 弯曲部位苔藓样变
+| 中文定义 = 主要位于弯曲部位的皮肤苔癣样变。
+}}
+
+==[[HP:0007455]]==
+{{Infobox HPO
+| hpoId = HP:0007455
+| 名称 = Adermatoglyphia
+| 定义 = #####
+| 中文译名 = 皮纹病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007456]]==
+{{Infobox HPO
+| hpoId = HP:0007456
+| 名称 = Progressive reticulate hyperpigmentation
+| 定义 = #####
+| 中文译名 = 进行性网状色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007457]]==
+{{Infobox HPO
+| hpoId = HP:0007457
+| 名称 = Prominent veins on trunk
+| 定义 = Prominent thoracic and abdominal veins.
+| 中文译名 = 主干静脉隆凸。
+| 中文定义 = 胸部和腹部静脉隆凸。
+}}
+
+
+==[[HP:0007458]]==
+{{Infobox HPO
+| hpoId = HP:0007458
+| 名称 = Focal hyperextensible skin
+| 定义 = #####
+| 中文译名 = 局灶性皮肤过度伸展
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007459]]==
+{{Infobox HPO
+| hpoId = HP:0007459
+| 名称 = Generalized anhidrosis
+| 定义 = #####
+| 中文译名 = 泛发性无汗症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007464]]==
+{{Infobox HPO
+| hpoId = HP:0007464
+| 名称 = Sparse facial hair
+| 定义 = Reduced number or density of `facial hair`(FMA:54360).
+| 中文译名 = 面部毛发稀疏
+| 中文定义 = 面部毛发数量或密度的减少。
+}}
+
+
+==[[HP:0007465]]==
+{{Infobox HPO
+| hpoId = HP:0007465
+| 名称 = Honeycomb palmoplantar keratoderma
+| 定义 = #####
+| 中文译名 = 蜂窝状掌跖角化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007468]]==
+{{Infobox HPO
+| hpoId = HP:0007468
+| 名称 = Perifollicular hyperkeratosis
+| 定义 = #####
+| 中文译名 = 毛周角化症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007469]]==
+{{Infobox HPO
+| hpoId = HP:0007469
+| 名称 = Palmoplantar cutis gyrata
+| 定义 = Cutis gyrata of palms and soles.
+| 中文译名 = 掌跖回状皮肤
+| 中文定义 = 掌跖部位皮肤呈回状分布。
+}}
+
+==[[HP:0007470]]==
+{{Infobox HPO
+| hpoId = HP:0007470
+| 名称 = Periarticular subcutaneous nodules
+| 定义 = Subcutaneous nodules that are located in the vicinity of joints.
+| 中文译名 = 关节周围皮下结节
+| 中文定义 = 位于关节附近区域的皮下结节。
+}}
+
+==[[HP:0007471]]==
+{{Infobox HPO
+| hpoId = HP:0007471
+| 名称 = Axillary and groin hyperpigmentation and hypopigmentation
+| 定义 = #####
+| 中文译名 = 腋窝和腹股沟部位色素沉着和色素减退
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007473]]==
+{{Infobox HPO
+| hpoId = HP:0007473
+| 名称 = Crusting erythematous dermatitis
+| 定义 = #####
+| 中文译名 = 结痂性红斑样皮炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007475]]==
+{{Infobox HPO
+| hpoId = HP:0007475
+| 名称 = Congenital bullous ichthyosiform erythroderma
+| 定义 = An ichthyosiform abnormality of the skin that presents at birth or shortly thereafter with generalized, erythema, blistering, erosions, and peeling. In the subsequent months, erythema and blistering improves but patients go on to develop hyperkeratotic scaling that is especially prominent along the joint flexures, neck, hands and feet.
+| 中文译名 = 先天性大疱性鱼鳞病样红皮病
+| 中文定义 = 一种鱼鳞病样皮肤发育不良，表现为在出生时或出生后不久出现的广泛分布的红斑、水疱、糜烂和脱皮。在随后的几个月，红斑和水泡改善，但同时会出现角化过度性鳞屑，尤其是关节屈曲部位、颈部以及手足部位。
+}}
+
+==[[HP:0007476]]==
+{{Infobox HPO
+| hpoId = HP:0007476
+| 名称 = Anhidrotic ectodermal dysplasia
+| 定义 = #####
+| 中文译名 = 无汗性外胚层发育不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007477]]==
+{{Infobox HPO
+| hpoId = HP:0007477
+| 名称 = Abnormal dermatoglyphics
+| 定义 = An abnormality of dermatoglyphs (fingerprints), which are present on fingers, palms, toes, and soles.
+| 中文译名 = 皮纹异常
+| 中文定义 = 指趾和掌跖等部位的皮纹（指纹）异常。
+}}
+
+==[[HP:0007479]]==
+{{Infobox HPO
+| hpoId = HP:0007479
+| 名称 = Congenital nonbullous ichthyosiform erythroderma
+| 定义 = The term collodion baby applies to newborns who appear to have an extra layer of skin (known as a collodion membrane) that has a collodion-like quality. It is a descriptive term, not a specific diagnosis or disorder (as such, it is a syndrome). Affected babies are born in a collodion membrane, a shiny waxy outer layer to the skin. This is shed 10-14 days after birth, revealing the main symptom of the disease, extensive scaling of the skin caused by hyperkeratosis. With increasing age, the scaling tends to be concentrated around joints in areas such as the groin, the armpits, the inside of the elbow and the neck. The scales often tile the skin and may resemble fish scales.
+| 中文译名 = 鱼鳞病样红皮病(大疱型)、大疱性鱼鳞病样角化过度症、显性遗传性先天性鱼鳞病、表皮松解性角化过度鱼鳞病
+| 中文定义 = 火棉胶样婴儿指新生儿皮肤表层附着类火胶棉样物质（称火胶棉层），这只是一个描述性术语（如综合征），而非特异性的诊断或疾病。患儿出生时皮肤呈光泽蜡质外观，出生后10-14天皮肤表层大面积角化过度并发生脱落，是该病的一个特征。随着生长，皮肤脱屑主要发生在关节周围区域，如腹股沟、腋窝、肘窝、颈部。鳞屑如瓦片状覆盖皮肤，似鱼鳞样外观。
+}}
+
+==[[HP:0007480]]==
+{{Infobox HPO
+| hpoId = HP:0007480
+| 名称 = Decreased sweating due to autonomic dysfunction
+| 定义 = #####
+| 中文译名 = 植物神经功能紊乱性少汗
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007481]]==
+{{Infobox HPO
+| hpoId = HP:0007481
+| 名称 = Hyperpigmented nevi
+| 定义 = #####
+| 中文译名 = 色素痣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007482]]==
+{{Infobox HPO
+| hpoId = HP:0007482
+| 名称 = Generalized papillary lesions
+| 定义 = #####
+| 中文译名 = 泛发性乳头瘤样病变
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007483]]==
+{{Infobox HPO
+| hpoId = HP:0007483
+| 名称 = Depigmentation/hyperpigmentation of skin
+| 定义 = #####
+| 中文译名 = 皮肤色素脱失/色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007488]]==
+{{Infobox HPO
+| hpoId = HP:0007488
+| 名称 = Diffuse skin atrophy
+| 定义 = #####
+| 中文译名 = 弥漫性皮肤萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007489]]==
+{{Infobox HPO
+| hpoId = HP:0007489
+| 名称 = Diffuse telangiectasia
+| 定义 = Telangiectases (small dilated blood vessels) with a diffuse localization.
+| 中文译名 = 弥漫性毛细血管扩张症
+| 中文定义 = 弥漫分布的毛细血管扩张（小血管扩张）。
+}}
+
+==[[HP:0007490]]==
+{{Infobox HPO
+| hpoId = HP:0007490
+| 名称 = Linear arrays of macular hyperkeratoses in flexural areas
+| 定义 = #####
+| 中文译名 = 弯曲部位线状分布的角化过度斑
+| 中文定义 = #####
+}}
+
+==[[HP:0007494]]==
+{{Infobox HPO
+| hpoId = HP:0007494
+| 名称 = Discrete 2 to 5-mm hyper- and hypopigmented macules
+| 定义 = #####
+| 中文译名 = 散在分布的2至5mm大小的色素沉着/减退斑
+| 中文定义 = #####
+}}
+
+==[[HP:0007495]]==
+{{Infobox HPO
+| hpoId = HP:0007495
+| 名称 = Prematurely aged appearance
+| 定义 = #####
+| 中文译名 = 早衰面容
+| 中文定义 = #####
+}}
+
+==[[HP:0007497]]==
+{{Infobox HPO
+| hpoId = HP:0007497
+| 名称 = Focal friction-related palmoplantar hyperkeratosis
+| 定义 = `Hyperkeratosis` (HP:0000962) affecting the palm of the hand and the sole of the foot in areas exposed to friction.
+| 中文译名 = 局限性摩擦相关性掌跖角化
+| 中文定义 = 掌跖部位易于摩擦区域的“过度角化”。
+}}
+
+==[[HP:0007500]]==
+{{Infobox HPO
+| hpoId = HP:0007500
+| 名称 = Decreased number of sweat glands
+| 定义 = The presence of `fewer` (PATO:0001999) than normal `sweat glands` (FMA:59152).
+| 中文译名 = 汗腺数目减少
+| 中文定义 = 汗腺数目较正常减少。
+}}
+
+
+==[[HP:0007501]]==
+{{Infobox HPO
+| hpoId = HP:0007501
+| 名称 = Streaks of hyperkeratosis along each finger onto the palm
+| 定义 = #####
+| 中文译名 = 掌侧沿手指分布的线状角化过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007502]]==
+{{Infobox HPO
+| hpoId = HP:0007502
+| 名称 = Follicular hyperkeratosis
+| 定义 = A skin condition characterized by excessive development of keratin in hair follicles, resulting in rough, cone-shaped, elevated papules resulting from closure of hair follicles with a white plug of sebum.
+| 中文译名 = 克尔里病，贯穿性角化过度病
+| 中文定义 = 皮疹主要表现为过量白色皮质样角质栓堵塞毛囊口，从而出现呈粗糙、锥形隆起的丘疹。
+}}
+
+==[[HP:0007503]]==
+{{Infobox HPO
+| hpoId = HP:0007503
+| 名称 = Generalized ichthyosis
+| 定义 = #####
+| 中文译名 = 泛发性鱼鳞病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007504]]==
+{{Infobox HPO
+| hpoId = HP:0007504
+| 名称 = Diffuse slow skin atrophy
+| 定义 = #####
+| 中文译名 = 进行性弥漫性皮肤萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007505]]==
+{{Infobox HPO
+| hpoId = HP:0007505
+| 名称 = Progressive hyperpigmentation
+| 定义 = #####
+| 中文译名 = 进行性色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007506]]==
+{{Infobox HPO
+| hpoId = HP:0007506
+| 名称 = Congenital absence of skin of limbs
+| 定义 = #####
+| 中文译名 = 先天性四肢皮肤缺损
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007508]]==
+{{Infobox HPO
+| hpoId = HP:0007508
+| 名称 = Punctate palmar and solar hyperkeratosis
+| 定义 = #####
+| 中文译名 = 点状掌部日光性角化病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007509]]==
+{{Infobox HPO
+| hpoId = HP:0007509
+| 名称 = Patchy hypo- and hyperpigmentation
+| 定义 = #####
+| 中文译名 = 斑片状色素减退和色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007510]]==
+{{Infobox HPO
+| hpoId = HP:0007510
+| 名称 = Focal dermal aplasia/hypoplasia
+| 定义 = #####
+| 中文译名 = 真皮局灶性发育缺陷/发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007511]]==
+{{Infobox HPO
+| hpoId = HP:0007511
+| 名称 = Mottled pigmentation of photoexposed areas
+| 定义 = #####
+| 中文译名 = 曝露部位斑驳状色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007513]]==
+{{Infobox HPO
+| hpoId = HP:0007513
+| 名称 = Generalized hypopigmentation
+| 定义 = #####
+| 中文译名 = 泛发性色素减退
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007515]]==
+{{Infobox HPO
+| hpoId = HP:0007515
+| 名称 = Hypoplastic pilosebaceous units
+| 定义 = #####
+| 中文译名 = 毛囊皮脂腺发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007516]]==
+{{Infobox HPO
+| hpoId = HP:0007516
+| 名称 = Redundant skin on fingers
+| 定义 = Loose and sagging skin of the fingers.
+| 中文译名 = 手指赘肉
+| 中文定义 = 手指部位松散下垂的皮肤。
+}}
+
+
+==[[HP:0007517]]==
+{{Infobox HPO
+| hpoId = HP:0007517
+| 名称 = Palmoplantar cutis laxa
+| 定义 = Loose, wrinkled skin of hands and feet.
+| 中文译名 = 掌跖松弛皮肤
+| 中文定义 = 手足部位皮肤松弛伴皱褶。
+}}
+
+==[[HP:0007521]]==
+{{Infobox HPO
+| hpoId = HP:0007521
+| 名称 = Irregular hyperpigmentation of back
+| 定义 = #####
+| 中文译名 = 背部不规则色素沉着
+| 中文定义 = #####
+}}
+
+==[[HP:0007522]]==
+{{Infobox HPO
+| hpoId = HP:0007522
+| 名称 = Increased number of skin folds
+| 定义 = #####
+| 中文译名 = 皮肤皱褶增多
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007524]]==
+{{Infobox HPO
+| hpoId = HP:0007524
+| 名称 = Atypical neurofibromatosis
+| 定义 = #####
+| 中文译名 = 非典型性神经纤维瘤病
+| 中文定义 = #####
+}}
+
+==[[HP:0007525]]==
+{{Infobox HPO
+| hpoId = HP:0007525
+| 名称 = Yellow subcutaneous tissue covered by thin, scaly skin
+| 定义 = #####
+| 中文译名 = 覆盖薄层鳞屑的黄色皮下组织
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007526]]==
+{{Infobox HPO
+| hpoId = HP:0007526
+| 名称 = Hypopigmented skin patches on arms
+| 定义 = #####
+| 中文译名 = 手臂色素减退斑
+| 中文定义 = #####
+}}
+
+==[[HP:0007529]]==
+{{Infobox HPO
+| hpoId = HP:0007529
+| 名称 = Hidrotic ectodermal dysplasia
+| 定义 = #####
+| 中文译名 = 有汗型外胚层发育不良
+| 中文定义 = #####
+}}
+
+==[[HP:0007530]]==
+{{Infobox HPO
+| hpoId = HP:0007530
+| 名称 = Punctate palmoplantar hyperkeratosis
+| 定义 = #####
+| 中文译名 = 点状掌跖角化病
+| 中文定义 = #####
+}}
+
+==[[HP:0007534]]==
+{{Infobox HPO
+| hpoId = HP:0007534
+| 名称 = Congenital posterior occipital alopecia
+| 定义 = Loss of hair in the occipital region of the scalp with congenital onset.
+| 中文译名 = 先天性枕后脱发
+| 中文定义 = 先天性的枕后部头发缺失。
+}}
+
+
+==[[HP:0007535]]==
+{{Infobox HPO
+| hpoId = HP:0007535
+| 名称 = Hypopigmented streaks
+| 定义 = #####
+| 中文译名 = 色素减退纹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007536]]==
+{{Infobox HPO
+| hpoId = HP:0007536
+| 名称 = aplasia cutis congenita of midline scalp vertex
+| 定义 = #####
+| 中文译名 = 先天性头顶中线部表皮发育不全
+| 中文定义 = #####
+}}
+
+==[[HP:0007537]]==
+{{Infobox HPO
+| hpoId = HP:0007537
+| 名称 = Severe photosensitivity
+| 定义 = A severe degree of photosensitivity of the skin.
+| 中文译名 = 重度光敏性
+| 中文定义 = 重度的皮肤光敏感。
+}}
+
+==[[HP:0007541]]==
+{{Infobox HPO
+| hpoId = HP:0007541
+| 名称 = Frontal cutaneous lipoma
+| 定义 = Presence of a cutaneous lipoma on the forehead.
+| 中文译名 = 前额脂肪瘤
+| 中文定义 = 前额部的皮肤脂肪瘤。
+}}
+
+==[[HP:0007542]]==
+{{Infobox HPO
+| hpoId = HP:0007542
+| 名称 = Absent pigmentation of the ventral chest
+| 定义 = Lack of skin pigmentation (coloring) of the anterior chest.
+| 中文译名 = 前胸部色素缺失
+| 中文定义 = 前胸的皮肤色素（着色）的缺失。
+}}
+
+
+==[[HP:0007543]]==
+{{Infobox HPO
+| hpoId = HP:0007543
+| 名称 = Epidermal hyperkeratosis
+| 定义 = #####
+| 中文译名 = 表皮角化过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007544]]==
+{{Infobox HPO
+| hpoId = HP:0007544
+| 名称 = Piebaldism
+| 定义 = Piebaldism is characterized by stable and persistent, well-circumscribed depigmented patches present at birth affecting the skin of the face, trunk, and extremities in a symmetrical distribution.
+| 中文译名 = 斑驳病、图案状白皮病
+| 中文定义 = 斑驳病是出生即有的色素减退斑，可发生于面部、躯干和肢端，对称分布，界限清楚，皮损较固定，不能自行消退。
+}}
+
+==[[HP:0007545]]==
+{{Infobox HPO
+| hpoId = HP:0007545
+| 名称 = Congenital palmoplantar keratosis
+| 定义 = #####
+| 中文译名 = 先天性掌跖角化病
+| 中文定义 = #####
+}}
+
+==[[HP:0007546]]==
+{{Infobox HPO
+| hpoId = HP:0007546
+| 名称 = Linear hyperpigmentation
+| 定义 = #####
+| 中文译名 = 线状色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007548]]==
+{{Infobox HPO
+| hpoId = HP:0007548
+| 名称 = Palmoplantar keratosis with erythema and scale
+| 定义 = #####
+| 中文译名 = 先天性掌跖角化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007549]]==
+{{Infobox HPO
+| hpoId = HP:0007549
+| 名称 = Desquamation of skin soon after birth
+| 定义 = #####
+| 中文译名 = 出生后皮肤剥脱
+| 中文定义 = #####
+}}
+
+==[[HP:0007550]]==
+{{Infobox HPO
+| hpoId = HP:0007550
+| 名称 = Hypohidrosis/hyperhidrosis
+| 定义 = #####
+| 中文译名 = 少汗/多汗症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007552]]==
+{{Infobox HPO
+| hpoId = HP:0007552
+| 名称 = Abnormal subcutaneous fat tissue distribution
+| 定义 = #####
+| 中文译名 = 皮下脂肪组织异常分布
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007553]]==
+{{Infobox HPO
+| hpoId = HP:0007553
+| 名称 = Congenital symmetrical palmoplantar keratosis
+| 定义 = #####
+| 中文译名 = 先天性对称性掌跖角化病
+| 中文定义 = #####
+}}
+
+==[[HP:0007554]]==
+{{Infobox HPO
+| hpoId = HP:0007554
+| 名称 = Confetti hypopigmentation pattern of lower leg skin
+| 定义 = #####
+| 中文译名 = 小腿斑驳样色素减退
+| 中文定义 = #####
+}}
+
+==[[HP:0007556]]==
+{{Infobox HPO
+| hpoId = HP:0007556
+| 名称 = Plantar hyperkeratosis
+| 定义 = `Hyperkeratosis` (HP:0000962) affecting the sole of the foot.
+| 中文译名 = 跖部角化过度
+| 中文定义 = 跖部的角化过度。
+}}
+
+==[[HP:0007559]]==
+{{Infobox HPO
+| hpoId = HP:0007559
+| 名称 = Localized epidermolytic hyperkeratosis
+| 定义 = #####
+| 中文译名 = 局部表皮松解性角化过度症
+| 中文定义 = #####
+}}
+
+==[[HP:0007560]]==
+{{Infobox HPO
+| hpoId = HP:0007560
+| 名称 = Unusual dermatoglyphics
+| 定义 = #####
+| 中文译名 = 异常皮纹
+| 中文定义 = #####
+}}
+
+==[[HP:0007561]]==
+{{Infobox HPO
+| hpoId = HP:0007561
+| 名称 = Telangiectases in sun-exposed and nonexposed skin
+| 定义 = #####
+| 中文译名 = 曝露和非曝露性皮肤毛细血管扩张
+| 中文定义 = #####
+}}
+
+==[[HP:0007565]]==
+{{Infobox HPO
+| hpoId = HP:0007565
+| 名称 = Multiple cafe-au-lait spots
+| 定义 = The presence of six or more cafe-au-lait spots.
+| 中文译名 = 多发性咖啡斑
+| 中文定义 = 出现6个或6个以上的咖啡斑。
+}}
+
+
+==[[HP:0007566]]==
+{{Infobox HPO
+| hpoId = HP:0007566
+| 名称 = Index finger dermatoglyphic radial loop
+| 定义 = #####
+| 中文译名 = 食指桡箕纹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007569]]==
+{{Infobox HPO
+| hpoId = HP:0007569
+| 名称 = Generalized seborrheic dermatitis
+| 定义 = #####
+| 中文译名 = 泛发性脂溢性皮炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007570]]==
+{{Infobox HPO
+| hpoId = HP:0007570
+| 名称 = Hyperkeratosis lenticularis perstans
+| 定义 = Hyperkeratosis lenticularis perstans (HLP), also known as Flegel disease, is a keratinization abnormality characterized by small, asymptomatic erythematous papules that leave characteristic punctate bleeding when they become detached. The lesions generally occur symmetrically along the top of the foot and on the legs, appearing more rarely on the arms, forearms, palms, and soles, and even on the oral mucosa.
+| 中文译名 = 持久性豆状角化过度病
+| 中文定义 = 持久性豆状角化过度病（HLP），又名Flegel病，是一种角化不良性疾病，主要特征为针头大小的红色丘疹，刮除表面可见点状出血，不伴其他症状。皮疹一般对称性发生在足背和小腿，较罕见于上肢、前肢和掌跖部位，口腔黏膜更少见。
+}}
+
+==[[HP:0007572]]==
+{{Infobox HPO
+| hpoId = HP:0007572
+| 名称 = Hyperpigmented streaks
+| 定义 = #####
+| 中文译名 = 线状色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007573]]==
+{{Infobox HPO
+| hpoId = HP:0007573
+| 名称 = Late onset atopic dermatitis
+| 定义 = #####
+| 中文译名 = 迟发型过敏性皮炎
+| 中文定义 = #####
+}}
+
+==[[HP:0007574]]==
+{{Infobox HPO
+| hpoId = HP:0007574
+| 名称 = Generalized bronze hyperpigmentation
+| 定义 = #####
+| 中文译名 = 弥漫性青铜色色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007576]]==
+{{Infobox HPO
+| hpoId = HP:0007576
+| 名称 = Palmar neurofibromas
+| 定义 = #####
+| 中文译名 = 手掌神经纤维瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007581]]==
+{{Infobox HPO
+| hpoId = HP:0007581
+| 名称 = Mediosternal, longitudinal streak of hypopigmentation
+| 定义 = #####
+| 中文译名 = 胸骨中部纵向分布的线状色素减退斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007583]]==
+{{Infobox HPO
+| hpoId = HP:0007583
+| 名称 = Telangiectasia macularis eruptiva perstans
+| 定义 = #####
+| 中文译名 = 持久性斑疹性毛细血管扩张症
+| 中文定义 = #####
+}}
+
+==[[HP:0007585]]==
+{{Infobox HPO
+| hpoId = HP:0007585
+| 名称 = Skin fragility with non-scarring blistering
+| 定义 = #####
+| 中文译名 = 非疤痕发疱性脆性皮肤
+| 中文定义 = #####
+}}
+
+==[[HP:0007586]]==
+{{Infobox HPO
+| hpoId = HP:0007586
+| 名称 = Telangiectases producing &#39;marbled&#39; skin
+| 定义 = #####
+| 中文译名 = “大理石条纹”状毛细血管扩张
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007587]]==
+{{Infobox HPO
+| hpoId = HP:0007587
+| 名称 = Numerous pigmented freckles
+| 定义 = #####
+| 中文译名 = 多发性雀斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007588]]==
+{{Infobox HPO
+| hpoId = HP:0007588
+| 名称 = Reticular hyperpigmentation
+| 定义 = Increased pigmentation of the skin with a netlike (reticular) pattern.
+| 中文译名 = 网状色素沉着
+| 中文定义 = 色素沉着增加且呈网状分布。
+}}
+
+==[[HP:0007589]]==
+{{Infobox HPO
+| hpoId = HP:0007589
+| 名称 = aplasia cutis congenita on trunk or limbs
+| 定义 = A developmental defect resulting in the congenital absence of skin on the trunk or the limbs.
+| 中文译名 = 先天性躯干或四肢表皮发育不全
+| 中文定义 = 发育缺陷导致的先天性躯干或四肢皮肤缺损的疾病。
+}}
+
+
+==[[HP:0007590]]==
+{{Infobox HPO
+| hpoId = HP:0007590
+| 名称 = aplasia cutis congenita over posterior parietal area
+| 定义 = #####
+| 中文译名 = 先天性后顶叶表皮发育不全
+| 中文定义 = #####
+}}
+
+==[[HP:0007592]]==
+{{Infobox HPO
+| hpoId = HP:0007592
+| 名称 = aplasia/Hypoplastia of the eccrine sweat glands
+| 定义 = Absence or developmental hypoplasia of the `eccrine sweat glands` (FMA:59154).
+| 中文译名 = 外分泌汗腺发育缺陷/不全
+| 中文定义 = 外分泌汗腺的缺失或者发育不全。
+}}
+
+
+==[[HP:0007595]]==
+{{Infobox HPO
+| hpoId = HP:0007595
+| 名称 = Redundant skin in infancy
+| 定义 = #####
+| 中文译名 = 婴儿赘肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007596]]==
+{{Infobox HPO
+| hpoId = HP:0007596
+| 名称 = Painful subcutaneous lipomas
+| 定义 = The presence of multiple subcutaneous `lipoma` (MPATH:417) that cause pain.
+| 中文译名 = 疼痛性皮下脂肪瘤
+| 中文定义 = 多发性的皮下脂肪瘤，伴疼痛。
+}}
+
+
+==[[HP:0007597]]==
+{{Infobox HPO
+| hpoId = HP:0007597
+| 名称 = Congenital palmoplantar keratodermia
+| 定义 = #####
+| 中文译名 = 先天性掌跖角化病
+| 中文定义 = #####
+}}
+
+==[[HP:0007598]]==
+{{Infobox HPO
+| hpoId = HP:0007598
+| 名称 = Bilateral single transverse palmar creases
+| 定义 = The distal and proximal transverse palmar creases are merged into a single transverse palmar crease on both hands.
+| 中文译名 = 双边单掌横纹
+| 中文定义 = 远端和近端的掌横纹汇合成为一条单掌横纹，且双手均这样。
+}}
+
+==[[HP:0007599]]==
+{{Infobox HPO
+| hpoId = HP:0007599
+| 名称 = Generalized reticulate brown pigmentation
+| 定义 = #####
+| 中文译名 = 泛发性网状棕色色素沉着
+| 中文定义 = #####
+}}
+
+==[[HP:0007602]]==
+{{Infobox HPO
+| hpoId = HP:0007602
+| 名称 = Complex palmar dermatoglyphic pattern
+| 定义 = #####
+| 中文译名 = 复杂掌纹分布
+| 中文定义 = #####
+}}
+
+==[[HP:0007603]]==
+{{Infobox HPO
+| hpoId = HP:0007603
+| 名称 = Freckles in sun-exposed areas
+| 定义 = #####
+| 中文译名 = 曝光部位雀斑
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007605]]==
+{{Infobox HPO
+| hpoId = HP:0007605
+| 名称 = Excessive wrinkling of palmar skin
+| 定义 = #####
+| 中文译名 = 手掌皱褶过多
+| 中文定义 = #####
+}}
+
+==[[HP:0007606]]==
+{{Infobox HPO
+| hpoId = HP:0007606
+| 名称 = Multiple cutaneous malignancies
+| 定义 = #####
+| 中文译名 = 多发性皮肤恶性肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007607]]==
+{{Infobox HPO
+| hpoId = HP:0007607
+| 名称 = Hypohidrotic ectodermal dysplasia
+| 定义 = #####
+| 中文译名 = 少汗性外胚层发育不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007608]]==
+{{Infobox HPO
+| hpoId = HP:0007608
+| 名称 = Abnormal palmar dermal ridges
+| 定义 = Any irregular long raised border or margin of the palmar.
+| 中文译名 = 手掌皮肤脊异常
+| 中文定义 = 手掌皮肤不规则的边缘异常突起。
+}}
+
+==[[HP:0007610]]==
+{{Infobox HPO
+| hpoId = HP:0007610
+| 名称 = Blotching pigmentation of the skin
+| 定义 = #####
+| 中文译名 = 皮肤色素沉着斑
+| 中文定义 = #####
+}}
+
+==[[HP:0007613]]==
+{{Infobox HPO
+| hpoId = HP:0007613
+| 名称 = Spinous keratoses of palms and soles
+| 定义 = #####
+| 中文译名 = 掌跖棘状角化
+| 中文定义 = #####
+}}
+
+==[[HP:0007616]]==
+{{Infobox HPO
+| hpoId = HP:0007616
+| 名称 = Nevus flammeus nuchae
+| 定义 = `Naevus flammeus` (HP:0001052) localised in the skin of the neck. This is one of the most common birthmarks and present in approximately 25% of all newborns.
+| 中文译名 = 颈部鲜红斑痣
+| 中文定义 = 位于颈部的鲜红斑痣是最常见的胎记之一，约25%的新生儿均存在。
+}}
+
+==[[HP:0007617]]==
+{{Infobox HPO
+| hpoId = HP:0007617
+| 名称 = Fine, reticulate skin pigmentation
+| 定义 = #####
+| 中文译名 = 细网状色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007618]]==
+{{Infobox HPO
+| hpoId = HP:0007618
+| 名称 = Subcutaneous calcification
+| 定义 = #####
+| 中文译名 = 皮下钙化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007620]]==
+{{Infobox HPO
+| hpoId = HP:0007620
+| 名称 = Cutaneous leiomyoma
+| 定义 = The presence of `leiomyoma` (MPATH:425) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤平滑肌瘤
+| 中文定义 = 位于皮肤的平滑肌瘤。
+}}
+
+==[[HP:0007621]]==
+{{Infobox HPO
+| hpoId = HP:0007621
+| 名称 = Telangiectasia of extensor surfaces
+| 定义 = #####
+| 中文译名 = 伸侧毛细血管扩张
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007623]]==
+{{Infobox HPO
+| hpoId = HP:0007623
+| 名称 = Pigmentation anomalies of sun-exposed skin
+| 定义 = #####
+| 中文译名 = 曝光部位色素异常
+| 中文定义 = #####
+}}
+
+==[[HP:0007646]]==
+{{Infobox HPO
+| hpoId = HP:0007646
+| 名称 = Absent lower eyelashes
+| 定义 = Lack of eyelashes on the lower lid.
+| 中文译名 = 下睫毛缺失
+| 中文定义 = 下眼睑未见睫毛
+}}
+
+==[[HP:0007665]]==
+{{Infobox HPO
+| hpoId = HP:0007665
+| 名称 = Curly eyelashes
+| 定义 = Abnormally curly or curved eyelashes.
+| 中文译名 = 睫毛卷翘
+| 中文定义 = 异常卷曲或弯曲的睫毛
+}}
+
+
+==[[HP:0007708]]==
+{{Infobox HPO
+| hpoId = HP:0007708
+| 名称 = Absent inner eyelashes
+| 定义 = #####
+| 中文译名 = 内睫缺失
+| 中文定义 = #####
+}}
+
+==[[HP:0007733]]==
+{{Infobox HPO
+| hpoId = HP:0007733
+| 名称 = Laterally curved eyebrow
+| 定义 = #####
+| 中文译名 = 横向弧形眉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007740]]==
+{{Infobox HPO
+| hpoId = HP:0007740
+| 名称 = Long eyelashes in irregular rows
+| 定义 = #####
+| 中文译名 = 不规则排列的长睫
+| 中文定义 = #####
+}}
+
+==[[HP:0007763]]==
+{{Infobox HPO
+| hpoId = HP:0007763
+| 名称 = Retinal telangiectasia
+| 定义 = Dilatation of small blood vessels of the retina.
+| 中文译名 = 视网膜毛细血管扩张
+| 中文定义 = 扩张的视网膜小血管。
+}}
+
+
+==[[HP:0007776]]==
+{{Infobox HPO
+| hpoId = HP:0007776
+| 名称 = Sparse lower eyelashes
+| 定义 = Decreased density/number and/or decreased diameter of lower eyelashes.
+| 中文译名 = 下睫稀疏
+| 中文定义 = 下睫毛密度降低或数量减少和/或直径变小。
+}}
+
+==[[HP:0007840]]==
+{{Infobox HPO
+| hpoId = HP:0007840
+| 名称 = Long upper eyelashes
+| 定义 = Increased length of the upper eyelashes.
+| 中文译名 = 长上睫毛
+| 中文定义 = 上睫毛长度增加。
+}}
+
+
+==[[HP:0007933]]==
+{{Infobox HPO
+| hpoId = HP:0007933
+| 名称 = Broad lateral eyebrow
+| 定义 = Regional increase in the width (height) of the lateral eyebrow.
+| 中文译名 = 宽侧眉
+| 中文定义 = 眉外侧的宽度（高度）区域性增加
+}}
+
+==[[HP:0008009]]==
+{{Infobox HPO
+| hpoId = HP:0008009
+| 名称 = Three rows of eyelashes
+| 定义 = There are three rows of the hairs that grows at the edge of the eyelid.
+| 中文译名 = 三行睫
+| 中文定义 = 眼睑边缘有三排睫毛。
+}}
+
+==[[HP:0008064]]==
+{{Infobox HPO
+| hpoId = HP:0008064
+| 名称 = Ichthyosis
+| 定义 = An abnormality of the skin characterized the presence of excessive amounts of dry surface scales on the skin resulting from an abnormality of keratinization.
+| 中文译名 = 鱼鳞病
+| 中文定义 = 一种皮肤发育不良性疾病，表现为皮肤角化障碍所致皮肤表面覆着大量干燥鳞屑。
+}}
+
+
+==[[HP:0008065]]==
+{{Infobox HPO
+| hpoId = HP:0008065
+| 名称 = aplasia/Hypoplasia of the skin
+| 定义 = #####
+| 中文译名 = 皮肤发育缺陷/不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008066]]==
+{{Infobox HPO
+| hpoId = HP:0008066
+| 名称 = Abnormal blistering of the skin
+| 定义 = The presence of one or more bullae on the skin, defined as fluid-filled blisters more than 5 mm in diameter with thin walls.
+| 中文译名 = 皮肤的异常起疱
+| 中文定义 = 皮肤表面单发或多发的薄壁大疱，直径超过5mm，其内充满液体。
+}}
+
+
+==[[HP:0008067]]==
+{{Infobox HPO
+| hpoId = HP:0008067
+| 名称 = Abnormally lax or hyperextensible skin
+| 定义 = #####
+| 中文译名 = 皮肤异常松解或伸展过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008069]]==
+{{Infobox HPO
+| hpoId = HP:0008069
+| 名称 = Neoplasm of the skin
+| 定义 = A `neoplasm` (MPATH:218) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤肿瘤
+| 中文定义 = 皮肤的新生肿物
+}}
+
+
+==[[HP:0008070]]==
+{{Infobox HPO
+| hpoId = HP:0008070
+| 名称 = Sparse hair
+| 定义 = Reduced density of `hairs` (FMA:53667).
+| 中文译名 = 毛发稀疏
+| 中文定义 = 毛发密度减少。
+}}
+
+
+==[[HP:0008107]]==
+{{Infobox HPO
+| hpoId = HP:0008107
+| 名称 = Plantar crease between first and second toes
+| 定义 = The presence of unusually deep creases (ridges/wrinkles) on the `skin of sole of foot` (FMA:37849) located between the first and second toe.
+| 中文译名 = 第1-2趾间皱褶
+| 中文定义 = 存在于足底第1-2趾间皮肤的异常深在皱褶。
+}}
+
+==[[HP:0008113]]==
+{{Infobox HPO
+| hpoId = HP:0008113
+| 名称 = Multiple plantar creases
+| 定义 = #####
+| 中文译名 = 跖部多发皱褶
+| 中文定义 = #####
+}}
+
+==[[HP:0008383]]==
+{{Infobox HPO
+| hpoId = HP:0008383
+| 名称 = Slow-growing nails
+| 定义 = Nails whose growth is slower than normal.
+| 中文译名 = 甲生长缓慢
+| 中文定义 = 甲的生长比正常情况下慢。
+}}
+
+
+==[[HP:0008386]]==
+{{Infobox HPO
+| hpoId = HP:0008386
+| 名称 = aplasia/Hypoplasia of the nails
+| 定义 = `Aplasia` (MPATH:58) or developmental hypoplasia of the `nail` (FMA:54326).
+| 中文译名 = 甲发育缺陷/不全
+| 中文定义 = 甲的发育缺陷或发育不全。
+}}
+
+
+==[[HP:0008388]]==
+{{Infobox HPO
+| hpoId = HP:0008388
+| 名称 = Abnormality of the toenail
+| 定义 = An anomaly of the `toenail`(FMA:54328).
+| 中文译名 = 趾甲异常
+| 中文定义 = 趾甲的异常。
+}}
+
+
+==[[HP:0008390]]==
+{{Infobox HPO
+| hpoId = HP:0008390
+| 名称 = Recurrent loss of toenails and fingernails
+| 定义 = Recurrent loss, or shedding, of the nails of the fingers and toes.
+| 中文译名 = 指（趾）甲反复脱落
+| 中文定义 = 指（趾）甲反复的脱落。
+}}
+
+==[[HP:0008391]]==
+{{Infobox HPO
+| hpoId = HP:0008391
+| 名称 = Dystrophic fingernails
+| 定义 = The presence of misshapen or partially destroyed nail plates, often with accumulation of soft, yellow keratin between the dystrophic nail plate and nail bed, resulting in elevation of the nail plate.
+| 中文译名 = 指甲营养不良
+| 中文定义 = 主要表现为甲板外观异常或部分毁损，营养不良的甲板和甲床之间常有黄色角质蛋白鳞屑堆积，甲板外观隆起。
+}}
+
+==[[HP:0008392]]==
+{{Infobox HPO
+| hpoId = HP:0008392
+| 名称 = Subungual hyperkeratosis
+| 定义 = A thickening of the stratum corneum in the region beneath the nails.
+| 中文译名 = 甲下角化过度
+| 中文定义 = 甲下角质层增厚。
+}}
+
+
+==[[HP:0008393]]==
+{{Infobox HPO
+| hpoId = HP:0008393
+| 名称 = Congenital curved nail of fourth toe
+| 定义 = #####
+| 中文译名 = 先天性第4趾甲弯曲
+| 中文定义 = #####
+}}
+
+==[[HP:0008394]]==
+{{Infobox HPO
+| hpoId = HP:0008394
+| 名称 = Congenital onychodystrophy
+| 定义 = #####
+| 中文译名 = 先天性甲营养不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008396]]==
+{{Infobox HPO
+| hpoId = HP:0008396
+| 名称 = Chronic monilial nail infection
+| 定义 = Chronic infection of the nails by Candida species.
+| 中文译名 = 慢性念珠菌性甲感染
+| 中文定义 = 念珠菌属引起的甲慢性感染。
+}}
+
+==[[HP:0008398]]==
+{{Infobox HPO
+| hpoId = HP:0008398
+| 名称 = Hypoplastic fifth fingernail
+| 定义 = A nail of the fifth finger that is diminished in length and width, i.e., underdeveloped `nail of little finger` (FMA:54341).
+| 中文译名 = 第5指甲发育不良
+| 中文定义 = 第5指甲发育不良表现为甲的长度和宽度均较正常变短或变窄，例如，小指指甲未发育完全。
+}}
+
+==[[HP:0008399]]==
+{{Infobox HPO
+| hpoId = HP:0008399
+| 名称 = Circumungual hyperkeratosis
+| 定义 = A thickening of the stratum corneum, the outer layer of the skin, in the region surrounding the nails.
+| 中文译名 = 甲周皮肤角化过度
+| 中文定义 = 指(趾)甲周区域皮肤角质层增厚。
+}}
+
+==[[HP:0008400]]==
+{{Infobox HPO
+| hpoId = HP:0008400
+| 名称 = Onycholysis of distal fingernails
+| 定义 = Detachment of the distal fingernails from the nail bed.
+| 中文译名 = 指甲末端甲分离
+| 中文定义 = 指甲末端从甲床剥离。
+}}
+
+
+==[[HP:0008401]]==
+{{Infobox HPO
+| hpoId = HP:0008401
+| 名称 = Onychogryposis of toenails
+| 定义 = Thickened toenails.
+| 中文译名 = 趾甲弯曲
+| 中文定义 = 趾甲增厚呈弯曲状。
+}}
+
+==[[HP:0008402]]==
+{{Infobox HPO
+| hpoId = HP:0008402
+| 名称 = Ridged fingernail
+| 定义 = Longitudinal, linear prominences in the fingernail plate.
+| 中文译名 = 指甲纵嵴
+| 中文定义 = 指甲板的纵向线性突起。
+}}
+
+
+==[[HP:0008404]]==
+{{Infobox HPO
+| hpoId = HP:0008404
+| 名称 = Nail dystrophy
+| 定义 = Onychodystrophy (nail dystrophy) refers to nail changes apart from changes of the color (nail dyschromia) and involves partial or complete disruption of the various keratinous layers of the nail plate.
+| 中文译名 = 甲营养不良
+| 中文定义 = 甲营养不良是指除外甲颜色改变（甲表层变色）的甲异常改变，表现为甲板的角质层发生部分或完全毁损，。
+}}
+
+
+==[[HP:0008407]]==
+{{Infobox HPO
+| hpoId = HP:0008407
+| 名称 = Hyperconvex thumb nails
+| 定义 = #####
+| 中文译名 = 拇指甲面异常凸起
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008410]]==
+{{Infobox HPO
+| hpoId = HP:0008410
+| 名称 = Subungual hyperkeratotic fragments
+| 定义 = #####
+| 中文译名 = 甲下片状角化过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008496]]==
+{{Infobox HPO
+| hpoId = HP:0008496
+| 名称 = Multiple rows of eyelashes
+| 定义 = #####
+| 中文译名 = 多行睫
+| 中文定义 = #####
+}}
+
+==[[HP:0008509]]==
+{{Infobox HPO
+| hpoId = HP:0008509
+| 名称 = Aged leonine appearance
+| 定义 = #####
+| 中文译名 =  衰老的狮面面容
+| 中文定义 = #####
+}}
+
+==[[HP:0008606]]==
+{{Infobox HPO
+| hpoId = HP:0008606
+| 名称 = Supraauricular pit
+| 定义 = Benign congenital lesion of the supraauricular soft tissue consisting of a blind-ending narrow tube or pit.
+| 中文译名 = 耳前瘘管
+| 中文定义 = 一种良性先天性疾病，主要表现为由狭窄盲管构成的耳前软组织。
+}}
+
+==[[HP:0009003]]==
+{{Infobox HPO
+| hpoId = HP:0009003
+| 名称 = Increased subcutaneous truncal adipose tissue
+| 定义 = The presence of an abnormally increased amount of subcutaneous adipose tissue in the trunk of the body.
+| 中文译名 = 躯干皮下脂肪组织增加
+| 中文定义 = 躯干皮下脂肪组织量异常增加。
+}}
+
+==[[HP:0009098]]==
+{{Infobox HPO
+| hpoId = HP:0009098
+| 名称 = Chronic oral candidiasis
+| 定义 = #####
+| 中文译名 = 慢性口腔念珠菌病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009123]]==
+{{Infobox HPO
+| hpoId = HP:0009123
+| 名称 = Mixed hypo- and hyperpigmentation of the skin
+| 定义 = #####
+| 中文译名 = 皮肤色素减退和色素沉着共存
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009553]]==
+{{Infobox HPO
+| hpoId = HP:0009553
+| 名称 = Abnormality of the hairline
+| 定义 = The hairline refers to the outline of `hair of the head` (FMA:54241). An abnormality of the hairline can refer to an unusually low or high border between areas of the scalp with and without hair or to abnormal projections of scalp hair.
+| 中文译名 = 发际线异常
+| 中文定义 = 发际线是指头发的轮廓边界。发际线的异常可以指在有无头发生长区域之间的边界不寻常的低或高，也可指头发异常生长。
+}}
+
+==[[HP:0009554]]==
+{{Infobox HPO
+| hpoId = HP:0009554
+| 名称 = Projection of scalp hair onto lateral cheek
+| 定义 = An tongue-like extension of hair towards the cheeks.
+| 中文译名 = 头发延伸至侧面颊
+| 中文定义 = 延伸至面颊的舌状头发。
+}}
+
+==[[HP:0009593]]==
+{{Infobox HPO
+| hpoId = HP:0009593
+| 名称 = Peripheral Schwannoma
+| 定义 = The presence of a `peripheral` (PATO:0002107) `schwannoma` (MPATH:438).
+| 中文译名 = 周围神经鞘瘤
+| 中文定义 = 存在于末梢区域的神经鞘瘤。
+}}
+
+==[[HP:0009595]]==
+{{Infobox HPO
+| hpoId = HP:0009595
+| 名称 = Occasional neurofibromas
+| 定义 = Neurofibromas present in a smaller number than usually seen in neurofibromatosis type 1.
+| 中文译名 = 偶发性神经纤维瘤
+| 中文定义 = 发生率较低的神经纤维瘤，多存在于1型神经纤维瘤
+}}
+
+==[[HP:0009719]]==
+{{Infobox HPO
+| hpoId = HP:0009719
+| 名称 = Hypomelanotic macules
+| 定义 = Hypomelanotic macules (&quot;ash leaf spots&quot;) are white or lighter patches of skin that may appear anywhere on the body and are caused by a lack of melanin. White ash leaf-shaped macules are considered to be characteristic of tuberous sclerosis.
+| 中文译名 = 色素脱失斑
+| 中文定义 = 色素脱失斑（“灰叶斑”）是由皮肤色素减退或脱失造成的白色或浅色的斑片，可发生于全身任何部位。灰白树叶形色素脱失斑是结节性硬化症的皮损特征。
+}}
+
+==[[HP:0009720]]==
+{{Infobox HPO
+| hpoId = HP:0009720
+| 名称 = Adenoma sebaceum
+| 定义 = The presence of a `sebaceous adenoma` (MPATH:230) with origin in the `sebum secreting cells` (CL:000031) of the `skin` (FMA:7163).
+| 中文译名 = 皮脂腺瘤
+| 中文定义 = 起源于皮脂分泌细胞的皮脂腺瘤
+}}
+
+==[[HP:0009721]]==
+{{Infobox HPO
+| hpoId = HP:0009721
+| 名称 = Shagreen patch
+| 定义 = A plaque representing a connective-tissue nevus. Connective tissue naevi are uncommon skin lesions that occur when the deeper layers of the skin do not develop correctly or the components of these layers occur in the wrong proportion. Shagreen patches are oval-shaped and nevoid, skin-colored or occasionally pigmented, smooth or crinkled, The word shagreen refers to a type of roughened untanned leather.
+| 中文译名 = 鲛鱼皮斑
+| 中文定义 = 结缔组织痣的特征性斑块。结缔组织痣是一种罕见皮损，由深层皮肤的不正常发育或者错误比例的皮层构成所致。鲛鱼皮斑呈椭圆形痣样，可表现为正常肤色或偶见色素沉着，表面光滑或有皱纹，鲛鱼皮一词指一种粗糙未经加工的皮革。
+}}
+
+
+==[[HP:0009723]]==
+{{Infobox HPO
+| hpoId = HP:0009723
+| 名称 = Abnormality of the subungual region
+| 定义 = A lesion located beneath a fingernail or toenail.
+| 中文译名 = 甲下组织异常
+| 中文定义 = 位于指（趾）甲下方的病变。
+}}
+
+==[[HP:0009724]]==
+{{Infobox HPO
+| hpoId = HP:0009724
+| 名称 = Subungual fibromas
+| 定义 = The presence of fibromata beneath finger or toenails.
+| 中文译名 = 甲下纤维瘤
+| 中文定义 = 存在于指（趾）甲下方的纤维瘤。
+}}
+
+==[[HP:0009732]]==
+{{Infobox HPO
+| hpoId = HP:0009732
+| 名称 = Plexiform neurofibroma
+| 定义 = A neurofibroma in which Schwann cells proliferate inside the nerve sheath, producing an irregularly thickened, distorted, tortuous structure.
+| 中文译名 = 丛状神经纤维瘤
+| 中文定义 = 神经纤维瘤中的雪旺细胞在神经鞘内增殖，产生不规则增厚，变形，曲折的结构。
+}}
+
+==[[HP:0009735]]==
+{{Infobox HPO
+| hpoId = HP:0009735
+| 名称 = Spinal neurofibromas
+| 定义 = Neurofibromas originating in the spine.
+| 中文译名 = 脊髓神经纤维瘤
+| 中文定义 = 神经纤维瘤起源于脊椎。
+}}
+
+==[[HP:0009743]]==
+{{Infobox HPO
+| hpoId = HP:0009743
+| 名称 = Distichiasis
+| 定义 = Double rows of eyelashes.
+| 中文译名 = 双行睫
+| 中文定义 = 双行睫毛。
+}}
+
+
+==[[HP:0009747]]==
+{{Infobox HPO
+| hpoId = HP:0009747
+| 名称 = Lumbosacral hirsutism
+| 定义 = Abnormally increased hair growth in the lumbosacral region.
+| 中文译名 = 腰骶部多毛症
+| 中文定义 = 腰骶部毛发异常增多。
+}}
+
+
+==[[HP:0009756]]==
+{{Infobox HPO
+| hpoId = HP:0009756
+| 名称 = Popliteal pterygium
+| 定义 = A pterygium (or pterygia) occuring in the popliteal region (the back of the knee).
+| 中文译名 = 腘翼状胬肉
+| 中文定义 = 翼状胬肉发生在腘窝区（膝盖背面）。
+}}
+
+==[[HP:0009757]]==
+{{Infobox HPO
+| hpoId = HP:0009757
+| 名称 = Intercrural pterygium
+| 定义 = A pterygium (or pterygia) in the intercrural (groin) region.
+| 中文译名 = 股间翼状胬肉
+| 中文定义 = 翼状胬肉发生在股间（包括腹股沟）区域。
+}}
+
+==[[HP:0009758]]==
+{{Infobox HPO
+| hpoId = HP:0009758
+| 名称 = Pyramidal skinfold extending from the base to the top of the nails
+| 定义 = Pyramidal skinfold extending from the base to the top of the nails is a rare and distinctive anomaly seen in popliteal pterygia syndrome.
+| 中文译名 = 甲近端向远端锥形分布的皮褶
+| 中文定义 = 从甲近端向远端呈锥行分布的皮褶是一种具有特异性的罕见症状，见于腘翼状胬肉综合征。
+}}
+
+==[[HP:0009759]]==
+{{Infobox HPO
+| hpoId = HP:0009759
+| 名称 = Neck pterygia
+| 定义 = Pterygia affecting the neck.
+| 中文译名 = 颈部翼状胬肉
+| 中文定义 = 发生在颈部的翼状胬肉。
+}}
+
+==[[HP:0009760]]==
+{{Infobox HPO
+| hpoId = HP:0009760
+| 名称 = Antecubital pterygium
+| 定义 = Pterygium affecting the elbow. This is a cutaneous web that can lead to severe flexion contracture of the elbow joint. Antecubital pterygium can be unilateral, bilateral, symmetric, or asymmetric.
+| 中文译名 = 肘前翼状胬肉
+| 中文定义 = 发生在肘部的翼状胬肉。这是一种皮肤蹼，可导致肘关节严重屈曲挛缩。肘前胬肉可为单侧、双侧、对称或非对称。
+}}
+
+==[[HP:0009762]]==
+{{Infobox HPO
+| hpoId = HP:0009762
+| 名称 = Facial wrinkling
+| 定义 = Excessive wrinkling of the skin of the face.
+| 中文译名 = 面部皱褶
+| 中文定义 = 面部皮肤皱褶过多。
+}}
+
+==[[HP:0009789]]==
+{{Infobox HPO
+| hpoId = HP:0009789
+| 名称 = Perianal abscess
+| 定义 = The presence of an abscess located around the anus.
+| 中文译名 = 肛周脓肿
+| 中文定义 = 位于肛门周围的脓肿。
+}}
+
+
+==[[HP:0009886]]==
+{{Infobox HPO
+| hpoId = HP:0009886
+| 名称 = Trichorrhexis nodosa
+| 定义 = Trichorrhexis nodosa is the formation of nodes along the hair shaft through which breakage readily occurs. It is thus a focal defect in the hair fiber that is characterized by thickening or weak points (nodes) that cause the hair to break off easily. The result is defective, abnormally fragile hair.
+| 中文译名 = 结节性脆发症
+| 中文定义 = 结节性脆发症是指沿着发干形成的容易断裂的节点。它是一种局限性毛发纤维性疾病，因某些增厚或者薄弱的结节部位较为容易折断，而表现出发育异常的脆发。
+
+==[[HP:0009887]]==
+{{Infobox HPO
+| hpoId = HP:0009887
+| 名称 = Abnormality of hair pigmentation
+| 定义 = An abnormality of hair pigmentation (color).
+| 中文译名 = 毛发着色异常
+| 中文定义 = 毛发色素颜色的异常。
+}}
+
+
+==[[HP:0009888]]==
+{{Infobox HPO
+| hpoId = HP:0009888
+| 名称 = Abnormality of secondary sexual hair
+| 定义 = Abnormality of the growth of secondary sexual hair, which normally ensues during puberty. In males, secondary sexual hair usually comprises body hair, including underarm, abdominal, chest, and pubic hair. In females, secondary sexual hair usually comprises a lesser degree of body hair, most prominently underarm and pubic hair.
+| 中文译名 = 第二性征毛发异常
+| 中文定义 = 第二性征毛发的异常生长，通常在青春期出现。男性第二性征毛发通常指体毛，包括腋下、腹部、胸部的体毛和阴毛。而女性，第二性征体毛的异常程度较轻，最显著的是腋下和阴毛。
+}}
+
+==[[HP:0009889]]==
+{{Infobox HPO
+| hpoId = HP:0009889
+| 名称 = Localized hirsutism
+| 定义 = Abnormally increased hair growth with a localized distribution.
+| 中文译名 = 局部多毛症
+| 中文定义 = 局部毛发异常增多。
+}}
+
+
+==[[HP:0009890]]==
+{{Infobox HPO
+| hpoId = HP:0009890
+| 名称 = High anterior hairline
+| 定义 = Distance between the hairline (trichion) and the glabella (the most prominent point on the frontal bone above the root of the nose), in the midline, more than two SD above the mean. Alternatively, an apparently increased distance between the hairline and the glabella.
+| 中文译名 = 前发际高
+| 中文定义 = 在中线处，发际线和眉间（上额骨上方鼻根的最突出点）之间的距离比平均值高两个标准差。也可以理解为发际线和眉间之间的距离显得较宽。
+}}
+
+==[[HP:0009893]]==
+{{Infobox HPO
+| hpoId = HP:0009893
+| 名称 = Telangiectasia of the ear
+| 定义 = The presence of `telangiectasia` (MPATH:476) of the `ear` (FMA:52780).
+| 中文译名 = 耳部毛细血管扩张
+| 中文定义 = 耳部的毛细血管扩张。
+}}
+
+==[[HP:0009920]]==
+{{Infobox HPO
+| hpoId = HP:0009920
+| 名称 = Nevus of Ota
+| 定义 = A macular lesion on the side of the face, involving the conjunctiva and eyelids, as well as the adjacent facial skin, sclera, oculomotor muscles, and perisoteum. Histological features vary from those of a Mongoloian spot to those of a blue nevus.
+| 中文译名 = 上腭部褐青色痣、眼皮肤黑素细胞增生病
+| 中文定义 = 呈面部一侧的色素性损害，可累及结膜、眼睑以及邻近的皮肤、巩膜、眼球运动肌和鼻口腔的粘膜，组织学特征表现各异，可同蒙古斑到蓝痣不等。
+}}
+
+==[[HP:0009937]]==
+{{Infobox HPO
+| hpoId = HP:0009937
+| 名称 = Facial hirsutism
+| 定义 = Excess facial hair.
+| 中文译名 = 面部多毛症
+| 中文定义 = 面部毛发生长过多，超过正常生理范围。
+}}
+
+==[[HP:0010488]]==
+{{Infobox HPO
+| hpoId = HP:0010488
+| 名称 = aplasia/Hypoplasia of the palmar creases
+| 定义 = Absence or underdevelopment of the palmar creases.
+| 中文译名 = 掌纹发育不全或低下
+| 中文定义 = 手掌折痕不发育或缺失。
+}}
+
+==[[HP:0010489]]==
+{{Infobox HPO
+| hpoId = HP:0010489
+| 名称 = Absent palmar crease
+| 定义 = The absence of the major creases of the palm (distal transverse crease, proximal transverse crease, or thenar crease).
+| 中文译名 = 掌纹缺如
+| 中文定义 = 手掌主要折痕的缺失（远端横向折痕、近端横向折缝、或鱼际折痕）。
+}}
+
+==[[HP:0010490]]==
+{{Infobox HPO
+| hpoId = HP:0010490
+| 名称 = Abnormality of the palmar creases
+| 定义 = An abnormality of the creases of the `skin of palm of hand` (FMA:38301).
+| 中文译名 = 掌纹异常
+| 中文定义 = 手掌折痕的异常。
+}}
+
+==[[HP:0010506]]==
+{{Infobox HPO
+| hpoId = HP:0010506
+| 名称 = Abnormal plantar dermatoglyphics
+| 定义 = An abnormality of dermatoglyphs on the toes and soles, i.e., an abnormality of the patterns of ridges of the `skin of sole of foot` (FMA:37849).
+| 中文译名 = 跖部异常皮纹
+| 中文定义 = 脚趾和跖部的异常皮纹，例如，跖部皮脊图案的异常。
+}}
+
+==[[HP:0010541]]==
+{{Infobox HPO
+| hpoId = HP:0010541
+| 名称 = Cutis gyrata of scalp
+| 定义 = The presence of convoluted folds and furrows formed from thickened skin of the `scalp` (FMA:46494), resembling cerebriform pattern. The scalp has convoluted and elevated folds, 1 to 2 cm in thickness. The convolutions generally cannot be flattened by traction.
+| 中文译名 = 头皮回状纹
+| 中文定义 = 由于头皮增厚而形成的类似大脑沟回的复杂褶皱和回纹。头皮表现为复杂和升高的折叠，厚度为1〜2厘米。复杂折叠通常不能被牵引拉平。
+}}
+
+==[[HP:0010562]]==
+{{Infobox HPO
+| hpoId = HP:0010562
+| 名称 = Keloids
+| 定义 = Presence of one or more keloids. A keloid is a sharply elevated, irregularly shaped, progressively enlarging scar resulting from formation of excessive amounts of collagen in the dermis during connective tissue repair.
+| 中文译名 = 瘢痕疙瘩
+| 中文定义 = 瘢痕疙瘩可单发或多发，具有高出皮面、形状不规则、持续增生等特点，是皮肤在结缔组织修复过程中真皮层胶原蛋白过度合成所致。
+}}
+
+==[[HP:0010604]]==
+{{Infobox HPO
+| hpoId = HP:0010604
+| 名称 = Cyst of the eyelid
+| 定义 = #####
+| 中文译名 = 眼睑囊肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010605]]==
+{{Infobox HPO
+| hpoId = HP:0010605
+| 名称 = Chalazion
+| 定义 = A chronic epithelioid cell granulomatous inflammation of the meibomian gland caused by inflammation of a blocked meibomian gland. A chalazion or meibomian cyst appears as a painless tuberous swelling in the upper lid without loss of eyelashes.
+| 中文译名 = 睑板腺囊肿
+| 中文定义 = 由睑板腺堵塞发炎引起的慢性睑板腺上皮样细胞肉芽肿性炎症。 睑板腺囊肿也称霰粒肿，主要表现为上眼睑无痛性肿胀结节伴睫毛不脱落。
+}}
+
+==[[HP:0010606]]==
+{{Infobox HPO
+| hpoId = HP:0010606
+| 名称 = Hordeolum
+| 定义 = An acute purulent infection of the sebaceous glands of Zeis at the base of the eyelashes, of the apocrine sweat glands of Moll or the meibomian sebacious glands often caused by staphylococcus infections. Hordeola can either occur as Hordeola externa affecting the sebaceous glands of Zeis or the apocrine sweat glands of Moll or as Hordeola interna affecting the meibomian sebacious glands. In contrast to chalazia, hordeola are extremely painful and can cause extreme local swelling.
+| 中文译名 = 麦粒肿
+| 中文定义 = 在睫毛根部的蔡斯氏皮脂腺、莫尔氏大汗腺或睑板皮脂腺的急性化脓性感染，常常由金黄色葡萄球菌感染引起。麦粒肿既可以是影响蔡斯氏皮脂腺或莫尔氏大汗腺的外麦粒肿，也可以是影响睑板皮脂腺的内麦粒肿。相对于霰粒肿而言，麦粒肿极其疼痛且可造成局部极度肿胀。
+}}
+
+==[[HP:0010607]]==
+{{Infobox HPO
+| hpoId = HP:0010607
+| 名称 = Hordeolum externum
+| 定义 = Hordeola externa are acute purulent infections affecting the sebaceous glands of Zeis or the apocrine sweat glands of Moll, often caused by staphylococcus infections. In contrast to chalazia, hordeola are extremely painful and can cause extreme local swelling.
+| 中文译名 = 外麦粒肿
+| 中文定义 = 外麦粒肿是影响蔡斯氏皮脂腺或莫尔氏大汗腺的急性化脓性感染，常由金黄色葡萄球菌感染引起。相对于霰粒肿而言，麦粒肿极其疼痛且可造成局部极度肿胀。
+}}
+
+==[[HP:0010608]]==
+{{Infobox HPO
+| hpoId = HP:0010608
+| 名称 = Hordeolum internum
+| 定义 = Hordeola interna are acute purulent infections affecting the meibomian sebacious glands, often caused by staphylococcus infections. In contrast to chalazia (chronic epithelioid cell granulomatous inflammation of the meibomian gland caused by inflammation of a blocked meibomian gland), hordeola are extremely painfull and can cause extreme local swelling.
+| 中文译名 = 内麦粒肿
+| 中文定义 = 内麦粒肿是影响睑板皮脂腺的急性化脓性感染，常由金黄色葡萄球菌感染引起。相对于霰粒肿（引起堵塞睑板腺发炎的睑板腺慢性上皮样细胞肉芽肿性炎症）而言，麦粒肿极其疼痛且可造成局部极度肿胀。
+}}
+
+==[[HP:0010609]]==
+{{Infobox HPO
+| hpoId = HP:0010609
+| 名称 = Skin tags
+| 定义 = Cutaneous skin tags also known as acrochorda or fibroepithelial polyps are small benign tumours that may either form secondarily over time primarily in areas where the skin forms creases, such as the neck, armpit or groin or may also be present at birth, in which case they usually occur in the periauricular region.
+| 中文译名 = 皮赘
+| 中文定义 = 皮赘也被称为软垂疣或纤维上皮息肉，是较小的良性肿瘤，可继发于颈部、腋窝或腹股沟等易形成褶皱的部位，也可于出生就存在，通常发生于耳廓周围。
+}}
+
+
+==[[HP:0010610]]==
+{{Infobox HPO
+| hpoId = HP:0010610
+| 名称 = Palmar pits
+| 定义 = #####
+| 中文译名 = 掌点凹
+| 中文定义 = #####
+}}
+
+==[[HP:0010612]]==
+{{Infobox HPO
+| hpoId = HP:0010612
+| 名称 = Plantar pits
+| 定义 = The presence of multiple pits (small, pinpoint-large indentations on the surface of the skin) located on the `skin of sole of foot` (FMA:37849).
+| 中文译名 = 跖点凹
+| 中文定义 = 存在于跖部的许多凹点（位于皮肤表面、针尖样大小的凹点）。
+}}
+
+==[[HP:0010624]]==
+{{Infobox HPO
+| hpoId = HP:0010624
+| 名称 = aplastic/hypoplastic toenail
+| 定义 = Absence or underdevelopment of the `toenail`(FMA:54328).
+| 中文译名 = 趾甲发育缺陷/不全
+| 中文定义 = 趾甲发育不全或者不发育。
+}}
+
+==[[HP:0010647]]==
+{{Infobox HPO
+| hpoId = HP:0010647
+| 名称 = Abnormal elasticity of skin
+| 定义 = Any abnormal increase or reduction in skin elasticity.
+| 中文译名 = 皮肤弹性异常
+| 中文定义 = 皮肤弹性的异常增加或降低。
+}}
+
+
+==[[HP:0010648]]==
+{{Infobox HPO
+| hpoId = HP:0010648
+| 名称 = Dermal translucency
+| 定义 = An abnormally increased ability of the skin to permit light to pass through (translucency) such that subcutaneous structures such as veins display an increased degree of visibility.
+| 中文译名 = 半透明状皮肤
+| 中文定义 = 皮肤反常性光透性增加（呈半透明状），从而导致皮下结构如静脉的可视性增加。
+}}
+
+
+==[[HP:0010719]]==
+{{Infobox HPO
+| hpoId = HP:0010719
+| 名称 = Abnormality of hair texture
+| 定义 = An abnormality of the texture of the `hair` (FMA:53667).
+| 中文译名 = 发质异常
+| 中文定义 = 毛发质地的异常。
+}}
+
+
+==[[HP:0010720]]==
+{{Infobox HPO
+| hpoId = HP:0010720
+| 名称 = Abnormal hair pattern
+| 定义 = An abnormality of the distribution of hair growth.
+| 中文译名 = 毛发分布异常
+| 中文定义 = 毛发生长呈异常分布。
+}}
+
+
+==[[HP:0010721]]==
+{{Infobox HPO
+| hpoId = HP:0010721
+| 名称 = Abnormal hair whorl
+| 定义 = An abnormal hair whorl (that is, a patch of hair growing in the opposite direction of the rest of the hair).
+| 中文译名 = 毛发异常旋涡式生长
+| 中文定义 = 毛发异常螺纹（一部分毛发向其余部分的相反方向生长）。
+}}
+
+
+==[[HP:0010730]]==
+{{Infobox HPO
+| hpoId = HP:0010730
+| 名称 = Double eyebrow
+| 定义 = This may present as a partial or complete duplication of the eyebrows.
+| 中文译名 = 双眉
+| 中文定义 = 这可以表现为部分或全部眉毛的重复出现。
+}}
+
+
+==[[HP:0010731]]==
+{{Infobox HPO
+| hpoId = HP:0010731
+| 名称 = Extension of eyebrows towards upper eyelid
+| 定义 = The eyebrows extend towards - or even all the way down to - the margin of the upper eyelid.
+| 中文译名 = 眉毛朝上眼睑延伸
+| 中文定义 = 眉毛伸向，甚至一直覆盖到上眼睑的边缘。
+}}
+
+
+==[[HP:0010732]]==
+{{Infobox HPO
+| hpoId = HP:0010732
+| 名称 = Nodular changes affecting the eyelids
+| 定义 = Nodular changes affecting the eyelids may have many different causes such as cystic lesions (chalaziae, hordeolae), lipogranulomas, melanomas, infectious diseases (Molluscum contagiosum) and many more.
+| 中文译名 = 眼睑的结节样改变
+| 中文定义 = 眼睑的结节样改变可能有很多不同的原因，如囊性病变（霰粒肿，麦粒肿）、脂肪肉芽肿、黑素瘤以及感染性疾病（如传染性软疣）等。
+}}
+
+==[[HP:0010733]]==
+{{Infobox HPO
+| hpoId = HP:0010733
+| 名称 = Naevus flammeus of the eyelid
+| 定义 = `Naevus flammeus` (HP:0001052) localised in the skin of the eyelid.
+| 中文译名 = 眼睑鲜红斑痣
+| 中文定义 = 位于眼睑上的鲜红斑痣。
+}}
+
+==[[HP:0010747]]==
+{{Infobox HPO
+| hpoId = HP:0010747
+| 名称 = Medial flaring of the eyebrow
+| 定义 = An abnormal distribution of eyebrow hair growth in the medial direction.
+| 中文译名 = 眉中部发散扩展
+| 中文定义 = 眉毛中部异常生长分布。
+}}
+
+==[[HP:0010764]]==
+{{Infobox HPO
+| hpoId = HP:0010764
+| 名称 = Short eyelashes
+| 定义 = Decreased length of the eyelashes.
+| 中文译名 = 短睫
+| 中文定义 = 睫毛的长度减少。
+}}
+
+==[[HP:0010765]]==
+{{Infobox HPO
+| hpoId = HP:0010765
+| 名称 = Palmar hyperkeratosis
+| 定义 = `Hyperkeratosis` (HP:0000962) affecting the palm of the hand.
+| 中文译名 = 掌部角化过度
+| 中文定义 = 掌部的角化过度。
+}}
+
+
+==[[HP:0010771]]==
+{{Infobox HPO
+| hpoId = HP:0010771
+| 名称 = Pilonidal abscess
+| 定义 = A hair-containing cyst or sinus usually in the coccygeal region.
+| 中文译名 = 藏毛脓肿
+| 中文定义 = 含毛发的囊肿或窦道，通常出现在尾骨区域。
+}}
+
+==[[HP:0010781]]==
+{{Infobox HPO
+| hpoId = HP:0010781
+| 名称 = Skin dimples
+| 定义 = Skin dimples are cutaneous indentations that are the result of tethering of the skin to underlying structures (bone) causing an indentation.
+| 中文译名 = 皮肤酒窝征
+| 中文定义 = 皮肤酒窝征是指皮肤的凹痕，常由皮肤基底层结构（骨）牵拉引起的。
+}}
+
+
+==[[HP:0010782]]==
+{{Infobox HPO
+| hpoId = HP:0010782
+| 名称 = Shoulder dimples
+| 定义 = A subtype of `skin dimples` (HP:0010781) occurring in the shoulder region.
+| 中文译名 = 肩酒窝征
+| 中文定义 = 皮肤酒窝征的亚型，发生在肩部。
+}}
+
+
+==[[HP:0010783]]==
+{{Infobox HPO
+| hpoId = HP:0010783
+| 名称 = Erythema
+| 定义 = Redness of the skin, caused by hyperemia of the capillaries in the lower layers of the skin.
+| 中文译名 = 红斑
+| 中文定义 = 皮下毛细血管充血引起的皮肤发红。
+}}
+
+
+==[[HP:0010793]]==
+{{Infobox HPO
+| hpoId = HP:0010793
+| 名称 = Bifid nail
+| 定义 = A digit with two nails, with at least some soft tissue between them.
+| 中文译名 = 甲分离
+| 中文定义 = 指（趾）甲表现为双层，其间有软组织相连。
+}}
+
+==[[HP:0010802]]==
+{{Infobox HPO
+| hpoId = HP:0010802
+| 名称 = Perioral hyperpigmentation
+| 定义 = Increased pigmentation, either focal or generalized, of the skin surrounding the vermilion of the lips.
+| 中文译名 = 口周色素沉着过度
+| 中文定义 = 唇红周围皮肤局限性或广泛性色素沉着增加。
+}}
+
+==[[HP:0010813]]==
+{{Infobox HPO
+| hpoId = HP:0010813
+| 名称 = Abnormal number of hair whorls
+| 定义 = More than two clockwise hair whorls.
+| 中文译名 = 发旋数量异常
+| 中文定义 = 两个以上呈顺时针分布的发旋。
+}}
+
+==[[HP:0010814]]==
+{{Infobox HPO
+| hpoId = HP:0010814
+| 名称 = Abnormal position of hair whorl
+| 定义 = Hair growth from a single point on the scalp in any location other than lateral to the midline and close to the vertex of the skull.
+| 中文译名 = 发旋位置异常
+| 中文定义 = 头发从头皮的任意一个部位生长，而不仅仅是从头皮中线和颅骨顶点的附近。
+}}
+
+==[[HP:0010815]]==
+{{Infobox HPO
+| hpoId = HP:0010815
+| 名称 = Nevus sebaceous
+| 定义 = A congenital, hairless plaque consisting of overgrown epidermis, sebaceous glands, hair follicles, apocrine glands and connective tissue. They are a variant of epidermal naevi. Sebaceous naevi most often appear on the scalp, but they may also arise on the face, neck or forehead. At birth, a sevaceous nevus typically appears as a solitary, smooth, yellow-orange hairless patch. Sebaceous naevi become more pronounced around adolescence, often appearing bumpy, warty or scaly.
+| 中文译名 = 皮脂腺痣
+| 中文定义 = 皮脂腺痣是先天性的表面光滑无毛发的隆起性斑块，由增生的表皮、皮脂腺、毛囊、汗腺腺体和结缔组织构成，是表皮痣的一个变种，常发生在头皮、面、颈部及前额。出生时，多为孤立光滑、无毛发的橙黄色斑点。在青春期，皮损更加明显，呈乳头瘤样、疣状或鳞片状。
+}}
+
+==[[HP:0010816]]==
+{{Infobox HPO
+| hpoId = HP:0010816
+| 名称 = Epidermal nevus
+| 定义 = Epidermal naevi are due to an overgrowth of the epidermis and may be present at birth (50%) or develop during childhood.
+| 中文译名 = 表皮痣
+| 中文定义 = 表皮痣是因表皮过度增生所致，可在出生时即有（50%）或在幼儿期出现。
+}}
+
+==[[HP:0010817]]==
+{{Infobox HPO
+| hpoId = HP:0010817
+| 名称 = Linear nevus sebaceous
+| 定义 = A type of `nevus sebaceous` (HP:0010815) with a linear form, raised borders and yellowish color.
+| 中文译名 = 线状皮脂腺痣
+| 中文定义 = 皮脂腺痣的一种，呈线型，外观淡黄色，边缘隆起。
+}}
+
+
+==[[HP:0010874]]==
+{{Infobox HPO
+| hpoId = HP:0010874
+| 名称 = Tendon xanthomatosis
+| 定义 = The presence of xanthomas (intra-and extra-cellular accumulations of cholesterol) extensor tendons (typically over knuckles, Achilles tendon, knee, and elbows).
+| 中文译名 = 腱黄脂瘤病
+| 中文定义 = 发生在伸肌腱（通常指关节、跟腱、膝和肘关节处）的黄脂瘤（细胞内外的胆固醇积累）。
+}}
+
+==[[HP:0011121]]==
+{{Infobox HPO
+| hpoId = HP:0011121
+| 名称 = Abnormality of skin morphology
+| 定义 = Any morphological abnormality of the `skin` (FMA:7163).
+| 中文译名 = 皮肤形态异常
+| 中文定义 = 皮肤形态的异常。
+}}
+
+
+==[[HP:0011122]]==
+{{Infobox HPO
+| hpoId = HP:0011122
+| 名称 = Abnormality of skin physiology
+| 定义 = Any abnormality of the physiological function of the `skin` (FMA:7163).
+| 中文译名 = 皮肤生理异常
+| 中文定义 = 皮肤生理功能的各种异常。
+}}
+
+
+==[[HP:0011123]]==
+{{Infobox HPO
+| hpoId = HP:0011123
+| 名称 = Inflammatory abnormality of the skin
+| 定义 = The presence of `inflammation` (MPATH:212) of the `skin` (FMA:7163). That is, an abnormality of the skin resulting from the local accumulation of fluid, plasma proteins, and leukocytes.
+| 中文译名 = 皮肤炎症反应
+| 中文定义 = 皮肤炎症即:局部的组织液、血浆蛋白和白细胞聚集产生的炎症反应。
+}}
+
+
+==[[HP:0011124]]==
+{{Infobox HPO
+| hpoId = HP:0011124
+| 名称 = Abnormality of epidermal morphology
+| 定义 = An abnormality of the morphology of the `epidermis` (FMA:70596).
+| 中文译名 = 表皮形态异常
+| 中文定义 = 表皮形态的异常。
+}}
+
+
+==[[HP:0011125]]==
+{{Infobox HPO
+| hpoId = HP:0011125
+| 名称 = Abnormality of dermal melanosomes
+| 定义 = An abnormality of the melanosomes, i.e., of the cellular organelles in which melanin pigments are synthesized and stored within melanocytes (the cells that produce pigment in the dermis).
+| 中文译名 = 真皮黑素小体异常
+| 中文定义 = 黑素小体异常，例如，合成并贮存黑色素的黑素细胞器中的黑素小体异常（该黑素细胞在真皮产生黑色素）。
+}}
+
+
+==[[HP:0011127]]==
+{{Infobox HPO
+| hpoId = HP:0011127
+| 名称 = Perioral eczema
+| 定义 = A type of `eczema` (HP:0000964) that occurs in the lips and perioral area.
+| 中文译名 = 口周湿疹
+| 中文定义 = 湿疹的一种类型，发生在唇部或口周部位。
+}}
+
+
+==[[HP:0011132]]==
+{{Infobox HPO
+| hpoId = HP:0011132
+| 名称 = Chronic furunculosis
+| 定义 = A furuncle (boil) is a skin infection involving an entire hair follicle and nearby skin tissue. Chronic furunculosis refers to recurrent episodes of furuncles, often caused by recurrent staphylococcus infection.
+| 中文译名 = 慢性疖病
+| 中文定义 = 疖（疖子）是一种累及整个毛囊及附近皮肤组织的皮肤感染性疾病。慢性疖病是指疖的反复发作，常由葡萄球菌反复感染引起。
+}}
+
+
+==[[HP:0011135]]==
+{{Infobox HPO
+| hpoId = HP:0011135
+| 名称 = aplasia/Hypoplasia of the sweat glands
+| 定义 = Absence or developmental hypoplasia of the `sweat glands` (FMA:59152).
+| 中文译名 = 汗腺发育缺陷/不全
+| 中文定义 = 汗腺缺失或发育不全。
+}}
+
+
+==[[HP:0011136]]==
+{{Infobox HPO
+| hpoId = HP:0011136
+| 名称 = aplasia of the sweat glands
+| 定义 = Absence of the `sweat glands` (FMA:59152).
+| 中文译名 = 汗腺发育不全
+| 中文定义 = 汗腺缺失。
+}}
+
+
+==[[HP:0011137]]==
+{{Infobox HPO
+| hpoId = HP:0011137
+| 名称 = Non-pruritic urticaria
+| 定义 = Pale reddish slightly elevated papules and plaques of 0.5-3 cm in diameter and not accompanied by pruritus.
+| 中文译名 = 非瘙痒性荨麻疹
+| 中文定义 = 淡红色稍隆起的丘疹，直径0.5-3厘米，不伴有瘙痒。
+}}
+
+
+==[[HP:0011138]]==
+{{Infobox HPO
+| hpoId = HP:0011138
+| 名称 = Abnormality of skin adnexa
+| 定义 = An abnormality of the skin adnexa (skin appendages), which are specialized skin structures located within the dermis and focally within the subcutaneous fatty tissue, comprising three histologically distinct structures: (1) the pilosebaceous unit (hair follicle and sebaceous glands); (2) the eccrine sweat glands; and (3) the apocrine glands.
+| 中文译名 = 皮肤附属器的异常
+| 中文定义 = 皮肤附属器（皮肤附件），是位于真皮和皮下脂肪组织的特殊皮肤结构，其异常包括三个不同的组织学结构的异常：（1）毛皮脂单位（毛囊和皮脂腺）；（2）小汗腺； （3）大汗腺。
+}}
+
+==[[HP:0011228]]==
+{{Infobox HPO
+| hpoId = HP:0011228
+| 名称 = Horizontal eyebrow
+| 定义 = An eyebrow that extends straight across the brow, without curve.
+| 中文译名 = 横眉
+| 中文定义 = 眉毛沿着眉骨水平伸展，没有弯曲。
+}}
+
+==[[HP:0011229]]==
+{{Infobox HPO
+| hpoId = HP:0011229
+| 名称 = Broad eyebrow
+| 定义 = Regional increase in the width (height) of the eyebrow.
+| 中文译名 = 宽眉
+| 中文定义 = 眉的宽度（高度）区域性增加
+}}
+
+
+==[[HP:0011230]]==
+{{Infobox HPO
+| hpoId = HP:0011230
+| 名称 = Laterally extended eyebrow
+| 定义 = An eyebrow that extends laterally beyond the orbital rim rather than turning gently downward at that location.
+| 中文译名 = 横向延伸眉
+| 中文定义 = 眉毛横向延伸超出眼眶缘，而不是在该位置稍微向下弯曲。
+}}
+
+
+==[[HP:0011231]]==
+{{Infobox HPO
+| hpoId = HP:0011231
+| 名称 = Prominent eyelashes
+| 定义 = Eyelashes that draw the attention of the viewer due to increased density and/or length and/or curl without meeting the criteria of trichomegaly.
+| 中文译名 = 睫毛突出
+| 中文定义 = 由于增加的密度和/或长度和/或卷曲而引人注目的睫毛，但尚不满足多毛症的标准。
+}}
+
+==[[HP:0011276]]==
+{{Infobox HPO
+| hpoId = HP:0011276
+| 名称 = Vascular skin abnormality
+| 定义 = #####
+| 中文译名 = 皮肤血管异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011298]]==
+{{Infobox HPO
+| hpoId = HP:0011298
+| 名称 = Prominent digit pad
+| 定义 = A soft tissue prominence of the ventral aspects of the fingertips or toe tips.
+| 中文译名 = 指节垫
+| 中文定义 = 指（趾）腹的软组织隆起。
+}}
+
+
+==[[HP:0011303]]==
+{{Infobox HPO
+| hpoId = HP:0011303
+| 名称 = Convex contour of sole
+| 定义 = The contour of the foot in lateral profile has a convex shape.
+| 中文译名 = 跖侧凸
+| 中文定义 = 足底侧缘有一处凸起。
+}}
+
+==[[HP:0011310]]==
+{{Infobox HPO
+| hpoId = HP:0011310
+| 名称 = Bridged palmar crease
+| 定义 = A crease that connects the proximal and distal transverse palmar creases.
+| 中文译名 = 交接型掌纹
+| 中文定义 = 连接近端和远端掌横折痕的掌纹。
+}}
+
+==[[HP:0011311]]==
+{{Infobox HPO
+| hpoId = HP:0011311
+| 名称 = Sydney crease
+| 定义 = Extension of the proximal transverse crease (five finger crease) to the ulnar edge of the palm.
+| 中文译名 = 悉尼纹
+| 中文定义 = 近端横向折痕（五指折痕）外延到手掌尺侧缘。
+}}
+
+==[[HP:0011312]]==
+{{Infobox HPO
+| hpoId = HP:0011312
+| 名称 = Fused nails
+| 定义 = A nail plate that has a longitudinal separation with partially separated nails, each with a separate lateral radius of curvature.
+| 中文译名 = 融合甲
+| 中文定义 = 甲板将部分分离的甲纵向分隔，每一个甲都具单独的横向曲率半径。
+}}
+
+==[[HP:0011313]]==
+{{Infobox HPO
+| hpoId = HP:0011313
+| 名称 = Narrow nail
+| 定义 = Decreased width of nail.
+| 中文译名 = 窄甲
+| 中文定义 = 甲宽度异常变窄。
+}}
+
+
+==[[HP:0011335]]==
+{{Infobox HPO
+| hpoId = HP:0011335
+| 名称 = Frontal hirsutism
+| 定义 = Excessive amount of hair growth on forehead.
+| 中文译名 = 前额多毛
+| 中文定义 = 前额发量过多。
+}}
+
+==[[HP:0011354]]==
+{{Infobox HPO
+| hpoId = HP:0011354
+| 名称 = Generalized abnormality of skin
+| 定义 = An abnormality of the skin that is not localized to any one particular region.
+| 中文译名 = 泛发性皮肤异常
+| 中文定义 = 全身泛发性的皮肤异常。
+}}
+
+==[[HP:0011355]]==
+{{Infobox HPO
+| hpoId = HP:0011355
+| 名称 = Localized skin lesion
+| 定义 = A lesion of the skin that is located in a specific region rather than being generalized.
+| 中文译名 = 局限性皮损
+| 中文定义 = 皮损局限在特定的部位，没有泛发。
+}}
+
+==[[HP:0011356]]==
+{{Infobox HPO
+| hpoId = HP:0011356
+| 名称 = Regional abnormality of skin
+| 定义 = An abnormality of the skin that is restricted to a particular body region.
+| 中文译名 = 皮肤局部异常
+| 中文定义 = 局限于特殊部位的皮肤异常。
+}}
+
+==[[HP:0011357]]==
+{{Infobox HPO
+| hpoId = HP:0011357
+| 名称 = Abnormality of hair density
+| 定义 = An abnormality of the density of hair growth.
+| 中文译名 = 毛发密度异常
+| 中文定义 = 毛发密度的异常。
+}}
+
+==[[HP:0011358]]==
+{{Infobox HPO
+| hpoId = HP:0011358
+| 名称 = Generalized hypopigmentation of hair
+| 定义 = Reduced pigmentation of hair diffusely.
+| 中文译名 = 泛发性毛发色素减退
+| 中文定义 = 泛发性的毛发色素减退。
+}}
+
+
+==[[HP:0011359]]==
+{{Infobox HPO
+| hpoId = HP:0011359
+| 名称 = Dry hair
+| 定义 = Hair that lacks the lustre (shine or gleam) of normal hair.
+| 中文译名 = 干性毛发
+| 中文定义 = 毛发缺乏正常的光泽、亮度。
+}}
+
+
+==[[HP:0011360]]==
+{{Infobox HPO
+| hpoId = HP:0011360
+| 名称 = Acquired abnormal hair pattern
+| 定义 = An abnormality of the distribution of hair growth that is acquired during the course of life.
+| 中文译名 = 获得性毛发分布异常
+| 中文定义 = 毛发分布的异常是后天形成的。
+}}
+
+
+==[[HP:0011361]]==
+{{Infobox HPO
+| hpoId = HP:0011361
+| 名称 = Congenital abnormal hair pattern
+| 定义 = A congenital abnormality of the distribution of hair growth.
+| 中文译名 = 先天性毛发分布异常
+| 中文定义 = 一种先天性的毛发分布异常。
+}}
+
+==[[HP:0011362]]==
+{{Infobox HPO
+| hpoId = HP:0011362
+| 名称 = Abnormal hair quantity
+| 定义 = An abnormal amount of hair.
+| 中文译名 = 毛发数量异常
+| 中文定义 = 毛发数目的异常。
+}}
+
+
+==[[HP:0011363]]==
+{{Infobox HPO
+| hpoId = HP:0011363
+| 名称 = Abnormality of hair growth rate
+| 定义 = Hair whose growth rate deviates from the norm.
+| 中文译名 = 毛发生长速度异常
+| 中文定义 = 毛发的生长速度偏离常态。
+}}
+
+==[[HP:0011364]]==
+{{Infobox HPO
+| hpoId = HP:0011364
+| 名称 = White hair
+| 定义 = Hypopigmented hair that appears white.
+| 中文译名 = 白发
+| 中文定义 = 色素减退引起的毛发变白。
+}}
+
+
+==[[HP:0011365]]==
+{{Infobox HPO
+| hpoId = HP:0011365
+| 名称 = Patchy hypopigmentation of hair
+| 定义 = Reduced pigmentation of hair in patches.
+| 中文译名 = 斑片状毛发色素减退
+| 中文定义 = 毛发的色素减退呈斑片状。
+}}
+
+==[[HP:0011367]]==
+{{Infobox HPO
+| hpoId = HP:0011367
+| 名称 = Yellow nails
+| 定义 = Yellowish discoloration of the nails.
+| 中文译名 = 黄指甲
+| 中文定义 = 指甲黄染。
+}}
+
+
+==[[HP:0011368]]==
+{{Infobox HPO
+| hpoId = HP:0011368
+| 名称 = Epidermal thickening
+| 定义 = Thickening of the epidermal layer of the skin.
+| 中文译名 = 表皮增厚
+| 中文定义 = 皮肤表皮层的增厚。
+}}
+
+
+==[[HP:0011369]]==
+{{Infobox HPO
+| hpoId = HP:0011369
+| 名称 = Mongolian blue spot
+| 定义 = Congenital deep dermal melanosis in the sacral area.
+| 中文译名 = 蒙古斑
+| 中文定义 = 先天性骶尾部真皮深层色素沉着。
+}}
+
+
+==[[HP:0011370]]==
+{{Infobox HPO
+| hpoId = HP:0011370
+| 名称 = Recurrent cutaneous fungal infections
+| 定义 = #####
+| 中文译名 = 复发性皮肤真菌感染
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011371]]==
+{{Infobox HPO
+| hpoId = HP:0011371
+| 名称 = Recurrent viral skin infections
+| 定义 = #####
+| 中文译名 = 复发性皮肤病毒感染
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011457]]==
+{{Infobox HPO
+| hpoId = HP:0011457
+| 名称 = Loss of eyelashes
+| 定义 = This term refers to the loss of eyelashes that were previously present.
+| 中文译名 = 睫毛消退
+| 中文定义 =  指睫毛最初存在后来消退至无。
+}}
+
+==[[HP:0011838]]==
+{{Infobox HPO
+| hpoId = HP:0011838
+| 名称 = Sclerodactyly
+| 定义 = Localized thickening and tightness of the skin of the fingers or toes.
+| 中文译名 = 指硬皮病
+| 中文定义 = 指（趾）部位皮肤的局部增厚硬化。
+}}
+
+
+==[[HP:0011913]]==
+{{Infobox HPO
+| hpoId = HP:0011913
+| 名称 = Lumbar hypertrichosis
+| 定义 = Excessive, increased hair growth located in the lumbar region.
+| 中文译名 = 腰部多毛症
+| 中文定义 = 腰区局部的毛发生长过度。
+}}
+
+
+==[[HP:0011914]]==
+{{Infobox HPO
+| hpoId = HP:0011914
+| 名称 = Thoracic hypertrichosis
+| 定义 = Excessive, increased hair growth located in the thoracic region.
+| 中文译名 = 胸部多毛症
+| 中文定义 = 位于胸部毛发的过度生长。
+}}
+
+==[[HP:0011930]]==
+{{Infobox HPO
+| hpoId = HP:0011930
+| 名称 = Hyperextensible skin of chest
+| 定义 = #####
+| 中文译名 = 胸部皮肤过度伸展
+| 中文定义 = #####
+}}
+
+==[[HP:0011937]]==
+{{Infobox HPO
+| hpoId = HP:0011937
+| 名称 = Hypoplastic fifth toenail
+| 定义 = Underdeveloped nails of the fifth toes.
+| 中文译名 = 第5趾甲发育不良
+| 中文定义 = 第5趾甲发育不良。
+}}
+
+
+==[[HP:0011971]]==
+{{Infobox HPO
+| hpoId = HP:0011971
+| 名称 = Dermatographic urticaria
+| 定义 = An exaggerated wealing tendency when the skin is stroked, that is, formation of red, itchy bumps and lines on the skin as a result of pressure on the skin (for instance, stroking the skin with a pen or tongue depressor).
+| 中文译名 = 皮肤划痕症
+| 中文定义 = 搔抓或用钝器（笔或压舌板）划过皮肤后出现明显的红色条状隆起，伴瘙痒。
+}}
+
+
+==[[HP:0012035]]==
+{{Infobox HPO
+| hpoId = HP:0012035
+| 名称 = Steatocystoma multiplex
+| 定义 = Multiple, localized or widespread, asymptomatic or inflammatory dermal cysts involving the pilosebaceous units. Lesions can appear anywhere on the body, but steatocystoma multiplex is more commonly involved with those areas of the skin with a high density of developed pilosebaceous units (e.g., the axilla, groin, neck, and proximal extremities).
+| 中文译名 = 多发性皮脂腺囊瘤
+| 中文定义 = 发生于毛囊皮脂腺的多发性，无症状或炎症性皮肤囊肿，局部或广泛分布。皮损可出现在身体的任何部位，但在毛囊皮脂腺分布密集的部位（如腋窝，腹股沟，颈部和四肢近端）更为常见。
+}}
+
+
+==[[HP:0012056]]==
+{{Infobox HPO
+| hpoId = HP:0012056
+| 名称 = Cutaneous melanoma
+| 定义 = The presence of a `melanoma` (MPATH:359) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤黑色素瘤
+| 中文定义 = 皮肤来源的黑色素瘤。
+}}
+
+
+==[[HP:0012057]]==
+{{Infobox HPO
+| hpoId = HP:0012057
+| 名称 = Superficial spreading melanoma
+| 定义 = A type of melanoma that is flat and irregular in shape and color, with different shades of black and brown.
+| 中文译名 = 浅表扩散性黑素瘤
+| 中文定义 = 黑素瘤的一种，主要表现为黑棕色深浅不一的不规则扁平状新生物。
+}}
+
+==[[HP:0012058]]==
+{{Infobox HPO
+| hpoId = HP:0012058
+| 名称 = Nodular melanoma
+| 定义 = A type of melanoma that starts as a raised area that is usually dark blackish-blue or bluish-red but may not have any color.
+| 中文译名 = 结节性黑素瘤
+| 中文定义 = 黑素瘤的一种，初起为淡黑蓝或淡蓝红色的隆起皮损，一般无其他颜色。
+}}
+
+
+==[[HP:0012059]]==
+{{Infobox HPO
+| hpoId = HP:0012059
+| 名称 = Lentigo maligna melanoma
+| 定义 = A subtype of melanoma in situ that typically develops on sun-damaged skin. The lesion is typically a large, irregularly pigmented macule that has developed from an ordinary lentigo (a small pigmented spot on the skin with a clearly-defined edge). Change to a malignant lentigo typically takes place over 20 years or more, and many patients accept the change as a consequence of aging.
+| 中文译名 = 恶性雀斑样痣黑素瘤
+| 中文定义 = 是黑色素瘤的一种亚型，常发生于日晒后受损的皮肤，开始表现为普通的雀斑（边界清楚的小色素斑 ），之后渐渐发展为较大不规则色素斑。发展成恶性常需20年以上，多数患者以为是皮肤衰老的表现。
+}}
+
+
+==[[HP:0012060]]==
+{{Infobox HPO
+| hpoId = HP:0012060
+| 名称 = Acral lentiginous melanoma
+| 定义 = A type of cutaneous melanoma localized to the palm, sole, or beneath the nail (subungual melanoma). Acral lentiginous melanoma starts as a slowly-enlarging flat patch of discoloured skin and usually displays a size above 6 mm and often several centimetres or more in diameter upon diagnosis and variable pigmentation with a mixture of colors including brown, and blue-grey, black and red. The surface of the lesion is initially smooth but later in the course may become thicker and irregular, and may ulcerate or bleed.
+| 中文译名 = 肢端雀斑样黑色素瘤
+| 中文定义 = 一种位于掌跖或甲下（甲下黑色素瘤）的皮肤黑色素瘤。肢端雀斑样黑色素瘤往往初起为一褪色扁平斑点，之后缓慢扩大至直径超过6毫米甚至数厘米，此外，具有棕色、蓝灰色、黑色和红色的混合性色素沉着也是特征之一。皮损起初表面光滑，之后慢慢变得粗糙且不规则，甚至可能出现溃疡和出血。
+}}
+
+==[[HP:0012182]]==
+{{Infobox HPO
+| hpoId = HP:0012182
+| 名称 = Oropharyngeal squamous cell carcinoma
+| 定义 = A squamous cell carcinoma that originates in the oropharnyx.
+| 中文译名 = 口咽部鳞状细胞癌
+| 中文定义 = 起源于口咽部的鳞状细胞癌。
+}}
+
+
+==[[HP:0012204]]==
+{{Infobox HPO
+| hpoId = HP:0012204
+| 名称 = Recurrent vulvovaginal candidiasis
+| 定义 = Recurrent infection involving the vulva, vagina, and adjacent crural areas, whereby the causative agent belongs to the genus Candida.
+| 中文译名 = 复发性外阴阴道念珠菌病
+| 中文定义 = 反复性的念珠菌感染，累及外阴、阴道和相邻的小腿区域。
+}}
+
+
+==[[HP:0012219]]==
+{{Infobox HPO
+| hpoId = HP:0012219
+| 名称 = Erythema nodosum
+| 定义 = An erythematous eruption commonly associated with drug reactions or infection and characterized by inflammatory nodules that are usually tender, multiple, and bilateral.
+| 中文译名 = 结节性红斑
+| 中文定义 = 一般与药物反应或感染相关，通常表现为多发性、双侧疼痛性炎性结节。
+}}
+
+
+==[[HP:0012221]]==
+{{Infobox HPO
+| hpoId = HP:0012221
+| 名称 = Pretibial blistering
+| 定义 = A type of blistering that affects the skin of the tibial region.
+| 中文译名 = 胫前起疱
+| 中文定义 = 发生在胫前区的水疱
+}}
+
+
+==[[HP:0012282]]==
+{{Infobox HPO
+| hpoId = HP:0012282
+| 名称 = Morbilliform rash
+| 定义 = An exanthema consisting of widespread pink-to-red macules (flat spots of 2-10 mm in diameter) or papules (red bumps) that blanch with pressure. The macules and papules may cluster and merge to form sheets over several days.
+| 中文译名 = 麻疹样皮疹
+| 中文定义 = 皮疹可表现为泛发性粉红色斑疹，扁平，直径2-10mm，或为红色隆起的丘疹，受压变白。斑疹或丘疹数天后可聚集融合成片。
+}}
+
+==[[HP:0012319]]==
+{{Infobox HPO
+| hpoId = HP:0012319
+| 名称 = Absent pigmentation of the abdomen
+| 定义 = Lack of skin pigmentation (coloring) of the abdomen.
+| 中文译名 = 腹部色素缺失
+| 中文定义 = 腹部皮肤色素（着色）的缺失。
+}}
+
+
+==[[HP:0012320]]==
+{{Infobox HPO
+| hpoId = HP:0012320
+| 名称 = Absent pigmentation of the limbs
+| 定义 = Lack of skin pigmentation (coloring) of the arms and legs.
+| 中文译名 = 四肢色素缺失
+| 中文定义 = 胳膊和腿的皮肤色素（着色）的缺失。
+}}
+
+
+==[[HP:0012322]]==
+{{Infobox HPO
+| hpoId = HP:0012322
+| 名称 = Perifolliculitis
+| 定义 = Inflammation surrounding hair follicles.
+| 中文译名 = 毛囊周炎
+| 中文定义 = 毛囊周围炎症。
+}}
+
+
+==[[HP:0012344]]==
+{{Infobox HPO
+| hpoId = HP:0012344
+| 名称 = Morphea
+| 定义 = Isolated patches of hardened skin (scleroderma).
+| 中文译名 = 局限性硬皮病
+| 中文定义 = 皮肤呈斑块状硬化（硬皮病）。
+}}
+
+==[[HP:0012399]]==
+{{Infobox HPO
+| hpoId = HP:0012399
+| 名称 = Pressure ulcer
+| 定义 = A type of ulcer that is caused when an area of skin is subject to pressure over a prolonged period of time, ranging in range in severity from patches of discolored skin to open wounds that expose the underlying bone or muscle. The most common sites are the sacrum, coccyx, heels and the hips.
+| 中文译名 = 褥疮、压疮
+| 中文定义 = 溃疡常由长时间受压迫引起，可仅表现为红斑，严重时可形成深达肌肉或骨骼的开放性创面。最常见的发病部位是骶骨、尾骨、脚踝和臀部。
+}}
+
+
+==[[HP:0012500]]==
+{{Infobox HPO
+| hpoId = HP:0012500
+| 名称 = Verrucous papule
+| 定义 = A wartlike (with multiple small elevated projections) papule.
+| 中文译名 = 疣状丘疹
+| 中文定义 = 类似于疣状（伴有多个小的隆起）的丘疹。
+}}
+
+
+==[[HP:0012522]]==
+{{Infobox HPO
+| hpoId = HP:0012522
+| 名称 = Spider hemangioma
+| 定义 = A form of telangiectasis characterized by a central elevated red dot the size of a pinhead, representing an arteriole, with numerous small blood vessels that radiate out thereby resembling the legs of a spider. Characteristically, compression of the central arteriole causes the entire lesion to blanch, and the lesion quickly refills once the compression is released.
+| 中文译名 = 蜘蛛痣
+| 中文定义 = 毛细血管扩张的一种类型，以针尖样隆起的红点为中心，周围辐射性分布较多小动脉，形似蜘蛛腿。典型的特征为按压中央动脉导致整个病变区域发白且松开后又迅速恢复。
+}}
+
+==[[HP:0012540]]==
+{{Infobox HPO
+| hpoId = HP:0012540
+| 名称 = Axillary epidermoid cyst
+| 定义 = An epidermoid cyst in the armpit.
+| 中文译名 = 腋窝表皮样囊肿
+| 中文定义 = 位于腋下的表皮样囊肿。
+}}
+
+
+==[[HP:0012542]]==
+{{Infobox HPO
+| hpoId = HP:0012542
+| 名称 = Onychauxis
+| 定义 = Thickened nails without deformity.
+| 中文译名 = 甲肥厚
+| 中文定义 = 甲增厚不伴畸形。
+}}
+
+
+==[[HP:0012553]]==
+{{Infobox HPO
+| hpoId = HP:0012553
+| 名称 = Hypoplastic thumbnail
+| 定义 = A thumbnail that is diminished in length and width, i.e., underdeveloped `thumb nail` (FMA:54329).
+| 中文译名 = 拇指甲发育不全
+| 中文定义 = 拇指甲发育不全，长度和宽度较正常变短或变窄。
+}}
+
+==[[HP:0012554]]==
+{{Infobox HPO
+| hpoId = HP:0012554
+| 名称 = Absent thumbnail
+| 定义 = Absence of `thumb nail` (FMA:54329).
+| 中文译名 = 拇指甲缺失
+| 中文定义 = 拇指甲的缺失。
+}}
+
+==[[HP:0012555]]==
+{{Infobox HPO
+| hpoId = HP:0012555
+| 名称 = Absent nail of hallux
+| 定义 = Absent `nail of big toe` (FMA:54344).
+| 中文译名 = 拇趾甲缺失
+| 中文定义 = 拇趾甲的缺失。
+}}
+
+==[[HP:0012710]]==
+{{Infobox HPO
+| hpoId = HP:0012710
+| 名称 = Ingrown nail
+| 定义 = Excessive growth of a nail laterally into the nail fold.
+| 中文译名 = 嵌甲
+| 中文定义 = 甲板侧缘长入附近的软组织中。
+}}
+
+
+==[[HP:0012733]]==
+{{Infobox HPO
+| hpoId = HP:0012733
+| 名称 = Macule
+| 定义 = A flat, distinct, discolored area of skin less than 1 cm wide that does not involve any change in the thickness or texture of the skin.
+| 中文译名 = 斑疹
+| 中文定义 = 只有局部颜色改变，与周围皮肤齐平，皮肤厚度和质地均未发生改变，直径一般小于1厘米。
+}}
+
+
+==[[HP:0012740]]==
+{{Infobox HPO
+| hpoId = HP:0012740
+| 名称 = Papilloma
+| 定义 = A tumor of the skin or mucous membrane with finger-like projections.
+| 中文译名 = 乳头状瘤
+| 中文定义 = 皮肤或粘膜表面乳头状突起的肿物。
+}}
+
+
+==[[HP:0012742]]==
+{{Infobox HPO
+| hpoId = HP:0012742
+| 名称 = Thin fingernail
+| 定义 = Nail that appears thin when viewed on end.
+| 中文译名 = 薄指甲
+| 中文定义 = 从末端可观察到指甲变薄。
+}}
+
+==[[HP:0012746]]==
+{{Infobox HPO
+| hpoId = HP:0012746
+| 名称 = Thin toenail
+| 定义 = Toenail that appears thin when viewed on end.
+| 中文译名 = 薄趾甲
+| 中文定义 = 从末端观察到趾甲变薄。
+}}
+
+==[[HP:0012842]]==
+{{Infobox HPO
+| hpoId = HP:0012842
+| 名称 = Skin adnexal neoplasm
+| 定义 = #####
+| 中文译名 = 皮肤附属器肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012843]]==
+{{Infobox HPO
+| hpoId = HP:0012843
+| 名称 = Hair follicle neoplasm
+| 定义 = An uncontrolled autonomous cell-proliferation originating in a hair follicle, which is an epidermal adnexal structures responsible for hair growth.
+| 中文译名 = 毛囊上皮瘤，毛囊痣
+| 中文定义 = 毛囊瘤是由毛囊不受控制的自主增生所致，而毛囊是毛发生长所需要的重要皮肤附属器。
+}}
+
+
+==[[HP:0012844]]==
+{{Infobox HPO
+| hpoId = HP:0012844
+| 名称 = Trichilemmoma
+| 定义 = A benign tumour originating from the outer root sheath of the hair follicle.
+| 中文译名 = 毛膜瘤
+| 中文定义 = 来源于毛囊外根鞘的良性肿瘤。
+}}
+
+
+==[[HP:0012845]]==
+{{Infobox HPO
+| hpoId = HP:0012845
+| 名称 = Single trichilemmoma
+| 定义 = Presence of a unitary trichilemmoma, a benign tumour originating from the outer root sheath of the hair follicle.
+| 中文译名 = 单毛根鞘瘤
+| 中文定义 = 单一的毛根鞘瘤，来源于毛囊外毛根鞘的良性肿瘤。
+}}
+
+
+==[[HP:0012846]]==
+{{Infobox HPO
+| hpoId = HP:0012846
+| 名称 = Multiple trichilemmomata
+| 定义 = Presence of multiple trichilemmomata, a benign tumour originating from the outer root sheath of the hair follicle.
+| 中文译名 = 多发性毛囊瘤
+| 中文定义 = 毛囊瘤呈多发性，是起源于毛囊外根鞘的良性肿瘤。
+}}
+
+
+==[[HP:0012891]]==
+{{Infobox HPO
+| hpoId = HP:0012891
+| 名称 = High posterior hairline
+| 定义 = Hair on the neck extends less inferiorly than usual.
+| 中文译名 = 后发际线高
+| 中文定义 = 脖子上方的头发界限较正常情况高。
+}}
+
+==[[HP:0025014]]==
+{{Infobox HPO
+| hpoId = HP:0025014
+| 名称 = Subcutaneous spheroids
+| 定义 = Small, hard cyst-like nodules, freely moveable in the subcutis over the bony prominences of the legs and arms, which have an outer calcified layer with a translucent core on x-ray.
+| 中文译名 = 皮下球状物
+| 中文定义 = 小的硬囊样结节，可自由移动在腿和胳膊的骨性突出上的皮下组织中，在X线下可见外有钙化层，内有半透明状内核。
+
+==[[HP:0025027]]==
+{{Infobox HPO
+| hpoId = HP:0025027
+| 名称 = Osteoma cutis
+| 定义 = The term osteoma refers to the anomalous presence of ossification (bone formation) in the interior of the dermis or epidermis. The dermal or subcutaneous bone formation presents as stony hard nodules. The osteomata appear as irregular, hardened small nodules that are well circumscribed and generally of the same color as the skin.
+| 中文译名 = 皮肤骨瘤
+| 中文定义 = 皮肤骨瘤是指在表皮和真皮内部异常出现的骨化(骨形成)，真皮或皮下骨形成主要表现为石样硬结 。骨瘤是不规则的硬化小结节，通常界限较清，与皮肤颜色一致。
+}}
+
+==[[HP:0030052]]==
+{{Infobox HPO
+| hpoId = HP:0030052
+| 名称 = Inguinal freckling
+| 定义 = The presence in the inguinal region (groin) of an increased number of freckles, small circular spots on the skin that are darker than the surrounding skin because of deposits of melanin.
+| 中文译名 = 腹股沟雀斑
+| 中文定义 = 发生在腹股沟的大量雀斑,由于黑色素的沉积表现出比正常皮肤更深的圆形小斑点。
+}}
+
+==[[HP:0030053]]==
+{{Infobox HPO
+| hpoId = HP:0030053
+| 名称 = Stiff skin
+| 定义 = An induration (hardening) of the skin
+| 中文译名 = 硬皮
+| 中文定义 = 皮肤的硬化
+}}
+
+==[[HP:0030054]]==
+{{Infobox HPO
+| hpoId = HP:0030054
+| 名称 = Perifollicular fibrosis
+| 定义 = Presence of excess fibrous connective tissue surrounding hair follicles.
+| 中文译名 = 毛囊周围纤维化
+| 中文定义 = 毛囊周围纤维结缔组织过多
+}}
+
+==[[HP:0030055]]==
+{{Infobox HPO
+| hpoId = HP:0030055
+| 名称 = Hyperconvex toenail
+| 定义 = When viewed on end (with the tip of the toe pointing toward the examiner&#39;s eye) the curve of the toenail forms a tighter curve of convexity.
+| 中文译名 = 趾甲过凸
+| 中文定义 = 从末端观察趾甲（将趾尖指向检查者），可以看见趾甲表面形成了一个高的凸起。
+}}
+
+==[[HP:0030056]]==
+{{Infobox HPO
+| hpoId = HP:0030056
+| 名称 = Uncombable hair
+| 定义 = Hair that is disorderly, stands out from the scalp, and cannot be combed flat.
+| 中文译名 = 蓬发
+| 中文定义 = 表现为头发无序的站立在头皮上，且不能被梳平。
+}}
+
+==[[HP:0030141]]==
+{{Infobox HPO
+| hpoId = HP:0030141
+| 名称 = Abnormality of the posterior hairline
+| 定义 = An anomaly in the placement or shape of the hairline (trichion) on the back of the head (neck), that is, the border between skin on the back of the head that has head hair and that does not.
+| 中文译名 = 后发际异常
+| 中文定义 = 头（颈）后发际线形状或位置的异常，发际线即头颈后有发和无发区域之间的分界线。
+}}
+
+==[[HP:0030161]]==
+{{Infobox HPO
+| hpoId = HP:0030161
+| 名称 = Vaginal pruritus
+| 定义 = A sensation of itching in the vagina.
+| 中文译名 = 阴道瘙痒
+| 中文定义 = 阴道的瘙痒感
+}}
+
+==[[HP:0030166]]==
+{{Infobox HPO
+| hpoId = HP:0030166
+| 名称 = Night sweats
+| 定义 = Occurence of excessive sweating during sleep.
+| 中文译名 = 盗汗
+| 中文定义 = 睡眠期间出汗过度。
+}}
+
+==[[HP:0030168]]==
+{{Infobox HPO
+| hpoId = HP:0030168
+| 名称 = Dilated superficial abdominal veins
+| 定义 = Increase in diameter of the veins located underneath the skin of the abdomen.
+| 中文译名 = 腹壁浅静脉扩张
+| 中文定义 = 腹部皮肤表面的静脉直径增加。
+}}
+
+==[[HP:0030254]]==
+{{Infobox HPO
+| hpoId = HP:0030254
+| 名称 = Nail bed hemorrhage
+| 定义 = Small areas of bleeding (hemorrhage) under the fingernail or toenail.
+| 中文译名 = 甲床出血
+| 中文定义 = 指（趾）甲下的小面积出血。
+}}
+
+==[[HP:0030331]]==
+{{Infobox HPO
+| hpoId = HP:0030331
+| 名称 = Impaired stimulus-induced skin wrinkling
+| 定义 = A reduced ability of the skin of the fingertips to wrinkle when exposed to stimuli such as soaking in water or application of EMLA cream (the fingertip remains smooth).
+| 中文译名 = 刺激诱导性皮肤起皱能力受损
+| 中文定义 = 当指尖被浸在水中或者涂上EMLA乳膏后，其起皱能力大大下降（指尖仍保持平滑）。
+}}
+
+==[[HP:0030350]]==
+{{Infobox HPO
+| hpoId = HP:0030350
+| 名称 = Erythematous papule
+| 定义 = A circumscribed, solid elevation of skin with no visible fluid that is reddish (erythematous) in color.
+| 中文译名 = 红色丘疹
+| 中文定义 = 内无液体的红色局限性的皮肤隆起。
+}}
+
+==[[HP:0030351]]==
+{{Infobox HPO
+| hpoId = HP:0030351
+| 名称 = Urticarial plaque
+| 定义 = A well-circumscribed, intensely pruritic, raised wheal (edema of the superficial skin) typically 1 to 2 cm in diameter.
+| 中文译名 = 荨麻疹性斑块
+| 中文定义 = 境界清楚的隆起性风团（浅表皮肤水肿引起），瘙痒感强烈，直径约1-2cm
+}}
+
+==[[HP:0030410]]==
+{{Infobox HPO
+| hpoId = HP:0030410
+| 名称 = Sebaceous gland carcinoma
+| 定义 = A carcinoma that arises in a sebaseous gland (an exocrine gland of the skin that secretes sebum, a waxy substance.
+| 中文译名 = 皮脂腺癌
+| 中文定义 = 发生在皮脂腺（可以分泌脂质，一种蜡样物质的皮肤外分泌腺）的癌症。
+}}
+
+==[[HP:0030428]]==
+{{Infobox HPO
+| hpoId = HP:0030428
+| 名称 = Cutaneous myxoma
+| 定义 = A myxoma originating in the skin.
+| 中文译名 = 皮肤粘液瘤
+| 中文定义 = 起源于皮肤的粘液瘤。
+}}
+
+==[[HP:0030434]]==
+{{Infobox HPO
+| hpoId = HP:0030434
+| 名称 = Pilomatrixoma
+| 定义 = Pilomatricoma is an asymptomatic slowly growing benign cutaneous tumor, differentiating towards the hair matrix of the hair follicle. It is covered by normal or hyperemic skin, and usually varies in size from 0.5 to 3 cm.
+| 中文译名 = 毛母质瘤
+| 中文定义 = 毛母质瘤是一种无症状的缓慢增长的良性皮肤肿瘤,从毛囊的毛母质分化而来。它被正常或充血的皮肤覆盖,通常大小从0.5到3厘米不等。
+}}
+
+==[[HP:0030436]]==
+{{Infobox HPO
+| hpoId = HP:0030436
+| 名称 = Fibrofolliculoma
+| 定义 = Fibrofolliculoma is a clinically asymptomatic, 2-4 mm, skin-colored, dome-shaped smooth papule. It usually arises in the form of multiple lesions in adults in different areas such as the scalp, forehead, face, and neck. According to histology, the lesion is a fibrotic hamartoma characterized by infundibular epithelial proliferation and perifollicular fibrous proliferation.
+| 中文译名 = 纤维毛囊瘤
+| 中文定义 = 纤维毛囊瘤是一种临床上无症状的圆顶状，表面光滑的丘疹，呈肤色，直径约2-4毫米。一般在成人可在不同部位发生多个皮损，如头皮、额部和面颈部。其组织学特征是一种纤维错构瘤，表现为是漏斗状上皮增殖和毛囊周围纤维增殖。
+}}
+
+==[[HP:0030447]]==
+{{Infobox HPO
+| hpoId = HP:0030447
+| 名称 = Merkel cell skin cancer
+| 定义 = A malignant cutaneous tumor of the elderly that is characterized by an aggressive course with regional nodal involvement, distant metastases and a high rate of recurrence. Most patients present with rapidly growing, painless, firm, non-tender, dome-shaped red, occasionally ulcerated skin nodules, which have a red or bluish color, measuring up to several centimeters, on predominantly sun-exposed areas of the body. The overlying skin is smooth and shiny, sometimes exhibiting ulcerative, acneiform or telangiectatic features.
+| 中文译名 = 默克尔细胞皮肤癌
+| 中文定义 = 老年人的恶性皮肤肿瘤的特点是区域性的侵袭过程伴远处转移和高频率的复发 。大多数患者表现为快速生长、无痛、固定、质硬的红色圆顶状肿块，偶尔表现为溃烂性皮肤结节，呈红色或蓝色，可达数厘米，常见于身体曝露部位。大部分皮肤较光滑,有时会出现溃疡、痤疮或毛细血管扩张样表现。
+}}
+
+==[[HP:0030503]]==
+{{Infobox HPO
+| hpoId = HP:0030503
+| 名称 = Macular telangiectasia
+| 定义 = #####
+| 中文译名 = 黄斑毛细血管扩张症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030679]]==
+{{Infobox HPO
+| hpoId = HP:0030679
+| 名称 = Ash-leaf spot
+| 定义 = A hypopigmented spot in the shape of a leaf from the mountain ash tree.
+| 中文译名 = 灰叶状白斑
+| 中文定义 = 像花楸树上叶子形状的色素脱失斑
+}}
+
+==[[HP:0030764]]==
+{{Infobox HPO
+| hpoId = HP:0030764
+| 名称 = Ochronosis
+| 定义 = Brown or blue-gray discoloration of the skin that can present on the axillary and inguinal areas, face, palms or soles. In addition, blue-black discoloration can be apparent on skin overlying cartilage in which the pigment is deposited, such as the ears. This is a characteristic manifestation of alkaptonuria, which is an autosomal recessively inherited deficiency of homogentisic acid oxidase that results in accumulation of homogentisic acid in collagenous structures. The sclerae are also typically involved.
+| 中文译名 = 褐黄病
+| 中文定义 = 发生在腋窝、腹股沟、面部以及掌跖部位的皮肤褐色或灰色样变。此外,在软骨区域，如耳朵，可出现皮肤深蓝色样变。这是黑尿酸尿症的特征表现,这是一种常染色体隐性遗传缺陷导致的尿黑酸氧化酶的尿黑酸胶原结构的沉积。巩膜也可累及。
+}}
+
+==[[HP:0030803]]==
+{{Infobox HPO
+| hpoId = HP:0030803
+| 名称 = Platonychia
+| 定义 = Abnormal flat nail.
+| 中文译名 = 扁平甲
+| 中文定义 = 甲异常扁平。
+}}
+
+==[[HP:0030804]]==
+{{Infobox HPO
+| hpoId = HP:0030804
+| 名称 = Trachyonychia
+| 定义 = Excessive longitudinal ridging that gives the surface of the nail plate a rough appearance. It results from multiple foci of defective keratinization of the proximal nail matrix.
+| 中文译名 = 指甲粗糙脆裂
+| 中文定义 = 甲纵脊过度突出使得甲床表面看上去较为粗糙。由甲基质近端的多个异常角化所致。
+}}
+
+==[[HP:0030805]]==
+{{Infobox HPO
+| hpoId = HP:0030805
+| 名称 = Absent lunula
+| 定义 = Lack of the lunula at the base of a nail. The lunula is the crescent-shaped whitish area of the bed of a fingernail or toenail.
+| 中文译名 = 甲半月缺失
+| 中文定义 = 甲底部的半月痕缺失。甲半月是指（趾）甲床的半月形白色区域。
+}}
+
+==[[HP:0030806]]==
+{{Infobox HPO
+| hpoId = HP:0030806
+| 名称 = Fast-growing nails
+| 定义 = Nails whose growth is quicker than normal.
+| 中文译名 = 甲生长过速
+| 中文定义 = 甲生长速度比正常情况下快。
+}}
+
+==[[HP:0030807]]==
+{{Infobox HPO
+| hpoId = HP:0030807
+| 名称 = Abnormal nail growth
+| 定义 = Nail whose growth pattern or speed deviates from normal.
+| 中文译名 = 甲生长异常
+| 中文定义 = 甲生长的方式和速度偏离正常。
+}}
+
+==[[HP:0030808]]==
+{{Infobox HPO
+| hpoId = HP:0030808
+| 名称 = Ragged cuticle
+| 定义 = The cuticle (properly known as the eponychium, or the medial nail fold or the proximal nail fold), is the thickened layer of skin surrounding fingernails and toenails. Its function is to protect the area between the nail and epidermis from exposure to bacteria. This term refers to the presence of and irregular edge or outline of the cuticle.
+| 中文译名 = 粗糙的甲上皮
+| 中文定义 = 甲表皮(称为甲上皮或内侧甲襞或近端甲襞),是指（趾）甲周围的厚层皮肤。它的功能是保护甲和表皮之间区域，避免接触细菌。这个术语是指甲表皮的不规则的边缘或轮廓。
+}}
+
+==[[HP:0030817]]==
+{{Infobox HPO
+| hpoId = HP:0030817
+| 名称 = Beaked nails
+| 定义 = Severe nail curvature, causing the tip of the nail to point downwards with respect to the axis of the finger. Beaked nails are caused by resorption of the distal digit.
+| 中文译名 = 喙状甲/鸟嘴样指甲
+| 中文定义 = 严重的甲弯曲，引起甲尖向下指向手指的轴心。喙状甲常常由远端指吸收所致。
+}}
+
+==[[HP:0030818]]==
+{{Infobox HPO
+| hpoId = HP:0030818
+| 名称 = Central nail canal
+| 定义 = The presense of a depressed line (&quot;canal&quot;) in the center of the nail.
+| 中文译名 = 甲纵沟
+| 中文定义 = 在甲中间出现的一条深在的中线。
+}}
+
+==[[HP:0030819]]==
+{{Infobox HPO
+| hpoId = HP:0030819
+| 名称 = Ski jump nail
+| 定义 = Nails that slope upward at the free edge.
+| 中文译名 = 滑雪跳台形状的甲
+| 中文定义 = 甲前缘上方呈倾斜状。
+}}
+
+==[[HP:0030898]]==
+{{Infobox HPO
+| hpoId = HP:0030898
+| 名称 = Pruritis on abdomen
+| 定义 = Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased sensation of itching over the skin of the abdomen.
+| 中文译名 = 腹部瘙痒
+| 中文定义 = 瘙痒是一种让人忍不住想要去搔抓的主观感觉。该术语指的是腹部皮肤瘙痒感的异常增加。
+}}
+
+==[[HP:0030899]]==
+{{Infobox HPO
+| hpoId = HP:0030899
+| 名称 = Pruritis on hand
+| 定义 = Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased sensation of itching over the skin of the hand.
+| 中文译名 = 手部瘙痒
+| 中文定义 = 瘙痒是一种让人忍不住想要去搔抓的主观感觉。该术语指的是手部皮肤瘙痒感的异常增加。
+}}
+
+==[[HP:0030900]]==
+{{Infobox HPO
+| hpoId = HP:0030900
+| 名称 = Pruritus on foot
+| 定义 = Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased sensation of itching over the skin of the foot.
+| 中文译名 = 足部瘙痒
+| 中文定义 = 瘙痒是一种让人忍不住想要去搔抓的主观感觉。该术语指的是足部皮肤瘙痒感的异常增加。
+}}
+
+==[[HP:0030901]]==
+{{Infobox HPO
+| hpoId = HP:0030901
+| 名称 = Pruritis on breast
+| 定义 = Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased sensation of itching over the skin of the breast.
+| 中文译名 = 乳房瘙痒
+| 中文定义 = 瘙痒是一种让人忍不住想要去搔抓的主观感觉。该术语指的是乳房皮肤瘙痒感的异常增加。
+}}
+
+==[[HP:0040007]]==
+{{Infobox HPO
+| hpoId = HP:0040007
+| 名称 = Absent pigmentation of chest
+| 定义 = Lack of skin pigmentation (coloring) of the chest.
+| 中文译名 = 胸部无色素沉着
+| 中文定义 = 胸部缺乏色素沉着（着色）。
+}}
+
+==[[HP:0040009]]==
+{{Infobox HPO
+| hpoId = HP:0040009
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 过度角化不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040036]]==
+{{Infobox HPO
+| hpoId = HP:0040036
+| 名称 = Onychogryposis of fingernail
+| 定义 = Thickened fingernails.
+| 中文译名 = 指甲弯曲
+| 中文定义 = 指甲的增厚导致指甲弯曲。
+}}
+
+==[[HP:0040039]]==
+{{Infobox HPO
+| hpoId = HP:0040039
+| 名称 = Onycholysis of fingernails
+| 定义 = #####
+| 中文译名 = 指甲剥离
+| 中文定义 = #####
+}}
+
+==[[HP:0040040]]==
+{{Infobox HPO
+| hpoId = HP:0040040
+| 名称 = Onycholysis of toenails
+| 定义 = #####
+| 中文译名 = 趾甲剥离
+| 中文定义 = #####
+}}
+
+==[[HP:0040042]]==
+{{Infobox HPO
+| hpoId = HP:0040042
+| 名称 = Aplasia of the eccrine sweat glands
+| 定义 = #####
+| 中文译名 = 外泌汗腺不发育
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040043]]==
+{{Infobox HPO
+| hpoId = HP:0040043
+| 名称 = Hypoplasia of the eccrine sweat glands
+| 定义 = #####
+| 中文译名 = 外泌汗腺发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040050]]==
+{{Infobox HPO
+| hpoId = HP:0040050
+| 名称 = Sparse upper eyelashes
+| 定义 = #####
+| 中文译名 = 上睫稀疏
+| 中文定义 = #####
+}}
+
+==[[HP:0040051]]==
+{{Infobox HPO
+| hpoId = HP:0040051
+| 名称 = Abnormality of upper eyelashes
+| 定义 = #####
+| 中文译名 = 上睫异常
+| 中文定义 = #####
+}}
+
+==[[HP:0040052]]==
+{{Infobox HPO
+| hpoId = HP:0040052
+| 名称 = Abnormality of lower eyelashes
+| 定义 = #####
+| 中文译名 = 下睫异常
+| 中文定义 = #####
+}}
+
+==[[HP:0040053]]==
+{{Infobox HPO
+| hpoId = HP:0040053
+| 名称 = Long lower eyelashes
+| 定义 = #####
+| 中文译名 = 长下睫
+| 中文定义 = #####
+}}
+
+==[[HP:0040054]]==
+{{Infobox HPO
+| hpoId = HP:0040054
+| 名称 = Short upper eyelashes
+| 定义 = #####
+| 中文译名 = 短上睫
+| 中文定义 = #####
+}}
+
+==[[HP:0040055]]==
+{{Infobox HPO
+| hpoId = HP:0040055
+| 名称 = Short lower eyelashes
+| 定义 = #####
+| 中文译名 = 短下睫
+| 中文定义 = #####
+}}
+
+==[[HP:0040056]]==
+{{Infobox HPO
+| hpoId = HP:0040056
+| 名称 = Absent upper eyelashes
+| 定义 = #####
+| 中文译名 = 上睫缺如
+| 中文定义 = #####
+}}
+
+==[[HP:0040057]]==
+{{Infobox HPO
+| hpoId = HP:0040057
+| 名称 = Abnormality of nasal hair
+| 定义 = #####
+| 中文译名 = 鼻毛异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040098]]==
+{{Infobox HPO
+| hpoId = HP:0040098
+| 名称 = Basalioma of the outer ear
+| 定义 = #####
+| 中文译名 = 外耳基底细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040137]]==
+{{Infobox HPO
+| hpoId = HP:0040137
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 粉刺性痤疮
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040149]]==
+{{Infobox HPO
+| hpoId = HP:0040149
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 羊毛状发
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040154]]==
+{{Infobox HPO
+| hpoId = HP:0040154
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 化脓性汗腺炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040162]]==
+{{Infobox HPO
+| hpoId = HP:0040162
+| 名称 = Orthokeratosis
+| 定义 = Formation of an anuclear keratin layer
+| 中文译名 = 正角化
+| 中文定义 = 无核角质层形成物。
+}}
+
+==[[HP:0040167]]==
+{{Infobox HPO
+| hpoId = HP:0040167
+| 名称 = Facial papilloma
+| 定义 = #####
+| 中文译名 = 面部乳头状瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040169]]==
+{{Infobox HPO
+| hpoId = HP:0040169
+| 名称 = Loose anagen hair
+| 定义 = #####
+| 中文译名 = 生长期毛发松动
+| 中文定义 = #####
+}}
+
+==[[HP:0040170]]==
+{{Infobox HPO
+| hpoId = HP:0040170
+| 名称 = Abnormality of hair growth
+| 定义 = #####
+| 中文译名 = 头发生长异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040180]]==
+{{Infobox HPO
+| hpoId = HP:0040180
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 毛发角化过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040186]]==
+{{Infobox HPO
+| hpoId = HP:0040186
+| 名称 = Maculopapular exanthema
+| 定义 = #####
+| 中文译名 = 斑丘疹样皮疹
+| 中文定义 = #####
+}}
+
+==[[HP:0040189]]==
+{{Infobox HPO
+| hpoId = HP:0040189
+| 名称 = Scaling skin
+| 定义 = Refers to the loss of the outer layer of the epidermis in large, scale-like flakes.
+| 中文译名 = 皮肤脱屑
+| 中文定义 = 指表皮最外层大面积的鳞屑样脱落。
+}}
+
+==[[HP:0040190]]==
+{{Infobox HPO
+| hpoId = HP:0040190
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 白色脱屑型皮肤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040211]]==
+{{Infobox HPO
+| hpoId = HP:0040211
+| 名称 = Abnormality of the skin of the palm
+| 定义 = An abnormality of the skin of the palm, that is, the skin of the front of the hand.
+| 中文译名 = 手掌皮肤异常
+| 中文定义 = 手掌皮肤异常指手掌前端皮肤异常。
+}}
+
+==[[HP:0040251]]==
+{{Infobox HPO
+| hpoId = HP:0040251
+| 名称 = Hand dimples
+| 定义 = A subtype of skin dimples occurring on the hands.
+| 中文译名 = 手酒窝征
+| 中文定义 = 发生在手部的皮肤酒窝征亚型。
+}}
+
+==[[HP:0045018]]==
+{{Infobox HPO
+| hpoId = HP:0045018
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 眉毛部分重复
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045055]]==
+{{Infobox HPO
+| hpoId = HP:0045055
+| 名称 = Tiger tail banding
+| 定义 = A diagnostic alternating light and dark banding pattern under polarizing microscopy.
+| 中文译名 = 老虎尾巴带
+| 中文定义 = 具有诊断性的偏光显微镜下明暗相间的区带
+}}
+
+==[[HP:0045059]]==
+{{Infobox HPO
+| hpoId = HP:0045059
+| 名称 = Hyperkeratotic papule
+| 定义 = A circumscribed, solid elevation of skin with no visible fluid, varying in size from a pinhead to less than 10mm in diameter at the widest point that is composed of localized hyperkeratosis (the latter may be demonstrated histopathologically).
+| 中文译名 = 角化过度性丘疹
+| 中文定义 = 境界清楚、内无液体的实性隆起性皮损，从针尖大小到直径10毫米不等，其组织病理特征为局限性角化过度。
+}}
+
+==[[HP:0045074]]==
+{{Infobox HPO
+| hpoId = HP:0045074
+| 名称 = Thin eyebrow
+| 定义 = Decreased diameter of eyebrow hairs.
+| 中文译名 = 细眉
+| 中文定义 = 眉毛直径变小。
+}}
+
+==[[HP:0045075]]==
+{{Infobox HPO
+| hpoId = HP:0045075
+| 名称 = Sparse eyebrow
+| 定义 = Decreased density/number of eyebrow hairs.
+| 中文译名 = 疏眉
+| 中文定义 = 眉毛的密度/数量减少。
+}}
+
+==[[HP:0100037]]==
+{{Infobox HPO
+| hpoId = HP:0100037
+| 名称 = Abnormality of the scalp hair
+| 定义 = An abnormality of the `hair of head` (FMA:54241).
+| 中文译名 = 头皮毛发异常
+| 中文定义 = 头皮的毛发异常
+}}
+
+
+==[[HP:0100038]]==
+{{Infobox HPO
+| hpoId = HP:0100038
+| 名称 = Slow-growing scalp hair
+| 定义 = Scalp hair whose growth is slower than normal.
+| 中文译名 = 头发生长缓慢
+| 中文定义 = 头皮毛发的生长比正常情况下慢。
+}}
+
+
+==[[HP:0100133]]==
+{{Infobox HPO
+| hpoId = HP:0100133
+| 名称 = Abnormality of the pubic hair
+| 定义 = Abnormality of the growth of the pubic hair. Pubic hair is part of the secondary sexual hair, which normally ensues during puberty.
+| 中文译名 = 阴毛异常
+| 中文定义 = 阴毛的异常生长。阴毛是第二性征毛发的一部分，通常在青春期开始生长。
+}}
+
+
+==[[HP:0100134]]==
+{{Infobox HPO
+| hpoId = HP:0100134
+| 名称 = Abnormality of the axillary hair
+| 定义 = Abnormality of the growth of the axillary hair. Axillary hair is part of the secondary sexual hair, which normally ensues during puberty.
+| 中文译名 = 腋毛异常
+| 中文定义 = 异常的腋毛生长。腋毛是第二性征毛发的一部分，通常在青春期开始生长。
+}}
+
+
+==[[HP:0100267]]==
+{{Infobox HPO
+| hpoId = HP:0100267
+| 名称 = Lip pit
+| 定义 = A depression located on a lip.
+| 中文译名 = 唇点凹
+| 中文定义 = 嘴唇上的小凹陷。
+}}
+
+==[[HP:0100268]]==
+{{Infobox HPO
+| hpoId = HP:0100268
+| 名称 = Upper lip pit
+| 定义 = Depression located on the vermilion of the upper lip, usually paramedian.
+| 中文译名 = 上唇点凹
+| 中文定义 = 上唇唇红中线处两旁形成的凹陷。
+}}
+
+==[[HP:0100269]]==
+{{Infobox HPO
+| hpoId = HP:0100269
+| 名称 = Paramedian lip pit
+| 定义 = Depression located paramedially on the vermilion of a lip.
+| 中文译名 = 正中旁唇点凹
+| 中文定义 = 上嘴唇的唇红正中旁的凹陷。
+}}
+
+==[[HP:0100276]]==
+{{Infobox HPO
+| hpoId = HP:0100276
+| 名称 = Skin pits
+| 定义 = #####
+| 中文译名 = 皮肤凹点
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100277]]==
+{{Infobox HPO
+| hpoId = HP:0100277
+| 名称 = Periauricular skin pits
+| 定义 = Benign congenital lesions of the periauricular soft tissue consisting of a blind-ending narrow tube or pit.
+| 中文译名 = 耳周皮肤点凹
+| 中文定义 = 耳周软组织的良性先天性病变，包括狭窄的盲管或凹陷。
+}}
+
+==[[HP:0100324]]==
+{{Infobox HPO
+| hpoId = HP:0100324
+| 名称 = Scleroderma
+| 定义 = A chronic autoimmune phenomenon characterized by fibrosis (or hardening) and vascular alterations of the skin.
+| 中文译名 = 硬皮病
+| 中文定义 = 一种慢性自身免疫性疾病，主要特征为皮肤纤维化（或硬化）和血管改变。
+}}
+
+
+==[[HP:0100579]]==
+{{Infobox HPO
+| hpoId = HP:0100579
+| 名称 = Mucosal telangiectasiae
+| 定义 = `Telangiectasia` (HP:0001009) of the mucosa, the mucous membranes which are involved in absorption and secretion that line cavities that are exposed to the external environment and internal organs.
+| 中文译名 = 粘膜毛细血管扩张症
+| 中文定义 = 粘膜的毛细血管扩张，毛细血管网分布于粘膜表面，是外界环境与内脏进行吸收、分泌等物质交换的部位。
+}}
+
+
+==[[HP:0100585]]==
+{{Infobox HPO
+| hpoId = HP:0100585
+| 名称 = Teleangiectasia of the skin
+| 定义 = Presence of small, permanently dilated blood vessels near the surface of the skin, visible as small focal red lesions.
+| 中文译名 = 皮肤毛细血管扩张症
+| 中文定义 = 存在皮肤浅层的小的，持续性扩张的血管，表现为红色斑点。
+}}
+
+
+==[[HP:0100643]]==
+{{Infobox HPO
+| hpoId = HP:0100643
+| 名称 = Abnormality of nail color
+| 定义 = An anomaly of the color of the `nail` (FMA:54326).
+| 中文译名 = 指（趾）甲颜色异常
+| 中文定义 = 指（趾）甲颜色的异常。
+}}
+
+
+==[[HP:0100644]]==
+{{Infobox HPO
+| hpoId = HP:0100644
+| 名称 = Melanonychia
+| 定义 = Brown or black discoloration  of the `nails` (FMA:54326).
+| 中文译名 = 黑甲
+| 中文定义 = 甲出现褐色或黑色甲线。
+}}
+
+
+==[[HP:0100665]]==
+{{Infobox HPO
+| hpoId = HP:0100665
+| 名称 = Angioedema
+| 定义 = Rapid swelling (edema) of the dermis, subcutaneous tissue, mucosa and submucosal tissues of the skin of the face, normally around the mouth, and the mucosa of the mouth and/or throat, as well as the tongue during a period of minutes to several hours. The swelling can also occur elsewhere, typically in the hands. Angioedema is similar to urticaria, but the swelling is subcutaneous rather than on the epidermis.
+| 中文译名 = 血管性水肿
+| 中文定义 = 面部皮肤的真皮、皮下组织、粘膜和粘膜下组织的迅速肿胀（水肿），通常在几分钟到几个小时即可涉及口周、口腔和/或喉的粘膜以及舌头。肿胀也可能发生在其他地方，典型的是手部。血管性水肿类似于荨麻疹，但肿胀部位主要在皮下组织而非表皮。
+}}
+
+
+==[[HP:0100678]]==
+{{Infobox HPO
+| hpoId = HP:0100678
+| 名称 = Premature skin wrinkling
+| 定义 = The presence of an increased degree of wrinkling (irregular folds and indentations) of the skin as compared with age-related norms.
+| 中文译名 = 皮肤过早起皱
+| 中文定义 = 与正常年龄的皱纹情况相比较，皮肤起皱的严重程度较重（出现不规则的皱褶）。
+}}
+
+
+==[[HP:0100679]]==
+{{Infobox HPO
+| hpoId = HP:0100679
+| 名称 = Lack of skin elasticity
+| 定义 = #####
+| 中文译名 = 皮肤弹性缺乏
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100698]]==
+{{Infobox HPO
+| hpoId = HP:0100698
+| 名称 = Subcutaneous neurofibromas
+| 定义 = The presence of `Neurofibromas` (HP:0001067) in the subcutis.
+| 中文译名 = 皮下的神经纤维瘤
+| 中文定义 = 发生于皮下组织的神经纤维瘤。
+}}
+
+==[[HP:0100725]]==
+{{Infobox HPO
+| hpoId = HP:0100725
+| 名称 = Lichenification
+| 定义 = Thickening and hardening of the epidermis seen with exaggeration of normal skin lines.
+| 中文译名 = 苔藓样变
+| 中文定义 = 表皮肥厚变硬，皮沟加深。
+}}
+
+
+==[[HP:0100726]]==
+{{Infobox HPO
+| hpoId = HP:0100726
+| 名称 = Kaposi&#39;s sarcoma
+| 定义 = A systemic disease which can present with cutaneous lesions with or without internal involvement. Tumors are caused by Human herpesvirus 8 (HHV8), also known as Kaposi&#39;s sarcoma-associated herpesvirus (KSHV).
+| 中文译名 = 卡波西肉瘤
+| 中文定义 = 一种系统性疾病，表现为伴或不伴内脏受累的皮肤损伤。由人疱疹病毒8（HHV8），又称卡波西肉瘤相关疱疹病毒（KSHV）引起。
+}}
+
+
+==[[HP:0100792]]==
+{{Infobox HPO
+| hpoId = HP:0100792
+| 名称 = Acantholysis
+| 定义 = The loss of intercellular connections, such as desmosomes, resulting in loss of cohesion between keratinocytes.
+| 中文译名 = 皮肤棘层松解
+| 中文定义 = 细胞间连接的缺失，比如桥粒，可以导致角质细胞间结合力的缺失。
+}}
+
+
+==[[HP:0100797]]==
+{{Infobox HPO
+| hpoId = HP:0100797
+| 名称 = Toenail dysplasia
+| 定义 = An abnormality of the development of the toenails.
+| 中文译名 = 趾甲发育不良
+| 中文定义 = 趾甲发育的异常。
+}}
+
+
+==[[HP:0100798]]==
+{{Infobox HPO
+| hpoId = HP:0100798
+| 名称 = Fingernail dysplasia
+| 定义 = An abnormality of the development of the fingernails.
+| 中文译名 = 指甲发育不良
+| 中文定义 = 指甲的异常发育。
+}}
+
+
+==[[HP:0100803]]==
+{{Infobox HPO
+| hpoId = HP:0100803
+| 名称 = Abnormality of the periungual region
+| 定义 = An abnormality of the region around the nails of the fingers or toes.
+| 中文译名 = 甲周异常
+| 中文定义 = 指（趾）甲周围区域的异常。
+}}
+
+
+==[[HP:0100804]]==
+{{Infobox HPO
+| hpoId = HP:0100804
+| 名称 = Periungual fibroma
+| 定义 = Flesh-colored papule in or around the nail bed. Ungual fibromas may be periungual (arising under the proximal nail fold ) or subungual (originating under the nail plate).
+| 中文译名 = 甲周纤维瘤
+| 中文定义 = 甲周纤维瘤是位于甲床或其周围部位的肉色丘疹。可发生于甲周（甲沟近侧）或甲下（甲板下）。
+}}
+
+==[[HP:0100814]]==
+{{Infobox HPO
+| hpoId = HP:0100814
+| 名称 = Blue nevus
+| 定义 = #####
+| 中文译名 = 蓝痣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100816]]==
+{{Infobox HPO
+| hpoId = HP:0100816
+| 名称 = Lip hyperpigmentation
+| 定义 = #####
+| 中文译名 = 唇部色素沉着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100826]]==
+{{Infobox HPO
+| hpoId = HP:0100826
+| 名称 = Neoplasm of the nail
+| 定义 = #####
+| 中文译名 = 甲肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100837]]==
+{{Infobox HPO
+| hpoId = HP:0100837
+| 名称 = Atrophodermia vermiculata
+| 定义 = Symmetrical vermiform facial atrophy that affects mainly the forehead, the chin, the ear lobes and helices. Atrophodermia vermiculata is characterized by erythema and follicular plugs on the cheeks, developing into painless reticular impressions.
+| 中文译名 = 虫蚀状皮肤萎缩
+| 中文定义 = 对称的蠕虫状面部萎缩，主要影响额头，下巴，耳叶和螺旋。 虫蚀状皮肤萎缩的特点是在脸颊上的红斑和毛囊塞，发展成无痛网状的痕迹。
+}}
+
+
+==[[HP:0100838]]==
+{{Infobox HPO
+| hpoId = HP:0100838
+| 名称 = Recurrent cutaneous abscess formation
+| 定义 = An increased susceptibility to cutaneous abscess formation, as manifested by a medical history of recurrent cutaneous abscesses.
+| 中文译名 = 复发性皮肤脓肿
+| 中文定义 = 皮肤脓肿易感性增加，且具有皮肤脓肿反复发作病史。
+}}
+
+
+==[[HP:0100840]]==
+{{Infobox HPO
+| hpoId = HP:0100840
+| 名称 = aplasia/Hypoplasia of the eyebrow
+| 定义 = Absence or underdevelopment of the eyebrow.
+| 中文译名 = 眉毛发育不全
+| 中文定义 = 眉毛缺失或发育不全
+}}
+
+==[[HP:0100847]]==
+{{Infobox HPO
+| hpoId = HP:0100847
+| 名称 = Palmoplantar pustules
+| 定义 = #####
+| 中文译名 = 掌跖脓疱病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100869]]==
+{{Infobox HPO
+| hpoId = HP:0100869
+| 名称 = Palmar telangiectasia
+| 定义 = The presence of telangiectases on the `skin of palm of hand` (FMA:38301).
+| 中文译名 = 手掌毛细血管扩张
+| 中文定义 = 手掌部位皮肤出现毛细血管扩张。
+}}
+
+==[[HP:0100870]]==
+{{Infobox HPO
+| hpoId = HP:0100870
+| 名称 = Plantar telangiectasia
+| 定义 = Telangiectases (small dilated blood vessels) located on the `skin of sole of foot` (FMA:37849).
+| 中文译名 = 跖部毛细血管扩张
+| 中文定义 = 位于足底部皮肤的毛细血管扩张（小型扩张血管）。
+}}
+
+
+==[[HP:0100872]]==
+{{Infobox HPO
+| hpoId = HP:0100872
+| 名称 = Abnormality of the plantar skin of foot
+| 定义 = An abnormality of the `plantar part of foot` (FMA:25000), that is of the soles of the feet.
+| 中文译名 = 跖部皮肤异常
+| 中文定义 = 跖部的异常，即足底部位。
+}}
+
+==[[HP:0100874]]==
+{{Infobox HPO
+| hpoId = HP:0100874
+| 名称 = Thick hair
+| 定义 = Increased density of `hairs` (FMA:53667), i.e., and elevated number of hairs per unit area.
+| 中文译名 = 浓发
+| 中文定义 = 毛发密度增加，即每单位面积的毛发数目的增加。
+}}
+
+==[[HP:0100885]]==
+{{Infobox HPO
+| hpoId = HP:0100885
+| 名称 = Lateral venous anomaly
+| 定义 = Persistence of the embryonic dorsal or sciatic vein system that normally should have involuted around the tenth to twelfth week of intrauterine life.
+| 中文译名 = 外侧静脉异常
+| 中文定义 = 胚胎脊部或坐骨静脉系统持久性存在，正常情况下应该在胚胎发育第十周至第十二周退化。
+}}
+
+
+==[[HP:0100888]]==
+{{Infobox HPO
+| hpoId = HP:0100888
+| 名称 = Interdigital loops
+| 定义 = #####
+| 中文译名 = 指间螺纹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100898]]==
+{{Infobox HPO
+| hpoId = HP:0100898
+| 名称 = Connective tissue nevi
+| 定义 = Connective tissue nevi are hamartomas in which one or several components of the dermis is altered.
+| 中文译名 = 结缔组织痣
+| 中文定义 = 结缔组织痣是错构瘤的一种，是真皮中的一种或几种组成部分发生改变所导致。
+}}
+
+==[[HP:0200015]]==
+{{Infobox HPO
+| hpoId = HP:0200015
+| 名称 = Symmetric great toe depigmentation
+| 定义 = #####
+| 中文译名 = 拇趾对称性色素脱失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200016]]==
+{{Infobox HPO
+| hpoId = HP:0200016
+| 名称 = Acrokeratosis
+| 定义 = Overgrowth of the stratum corneum characterized by nodular configurations of the backs of the toes and fingers.
+| 中文译名 = 肢端角化症
+| 中文定义 = 因脚趾和手指背侧皮肤角质层的过度增生形成的结节状结构。
+}}
+
+
+==[[HP:0200022]]==
+{{Infobox HPO
+| hpoId = HP:0200022
+| 名称 = Choroid plexus papilloma
+| 定义 = `Choroid plexus papilloma` (MPATH:246) is a histologically benign `neoplasm` (MPATH:218) located in the ventricular system of the `choroid plexus` (FMA:61934).
+| 中文译名 = 脉络丛乳头状瘤
+| 中文定义 = 脉络丛乳头状瘤（MPATH:246），是一种位于脑室系统脉络膜丛（FMA:61934）的组织学上为良性的赘生物（MPATH:218）。
+}}
+
+
+==[[HP:0200028]]==
+{{Infobox HPO
+| hpoId = HP:0200028
+| 名称 = Pretibial myxedema
+| 定义 = A diffuse, non-pitting edema and thickening of the skin usually on the anterior aspect of the lower legs spreading to the dorsum of the feet.
+| 中文译名 = 胫前粘液性水肿
+| 中文定义 = 一种弥漫性的、非凹陷性的、增厚性皮肤改变，通常发生于小腿胫前，可蔓延至足背。
+}}
+
+
+==[[HP:0200029]]==
+{{Infobox HPO
+| hpoId = HP:0200029
+| 名称 = Vasculitis in the skin
+| 定义 = Vasculitis in the skin is a kind of vasculitis which can be a primary skin lesions, systemic vasculitis or external skin manifestation of systemic disease.
+| 中文译名 = 皮肤血管炎
+| 中文定义 = 皮肤血管炎是一类有皮肤表现的血管炎的总称，可以是原发的皮肤损伤、系统性血管炎或系统性疾病的外在皮肤表现。
+}}
+
+
+==[[HP:0200030]]==
+{{Infobox HPO
+| hpoId = HP:0200030
+| 名称 = Punctate vasculitis skin lesions
+| 定义 = Punctate vasculitis skin lesions is a kind of punctate like  vasculitis which can be a primary skin lesions, systemic vasculitis or external skin manifestation of systemic disease.
+| 中文译名 = 皮肤点状血管炎
+| 中文定义 = 表皮点状血管炎是一类有皮肤表现的呈点状的血管炎，可以是原发的皮肤损伤、系统性血管炎或系统性疾病的外在皮肤表现。
+}}
+
+==[[HP:0200034]]==
+{{Infobox HPO
+| hpoId = HP:0200034
+| 名称 = Papule
+| 定义 = A circumscribed, solid elevation of skin with no visible fluid, varying in size from a pinhead to less than 10mm in diameter at the widest point.
+| 中文译名 = 丘疹
+| 中文定义 = 为高出皮肤的局限性坚实的突起，没有液体渗出，从针头大小到直径10mm不等。
+}}
+
+
+==[[HP:0200035]]==
+{{Infobox HPO
+| hpoId = HP:0200035
+| 名称 = Skin plaque
+| 定义 = A plaque is a solid, raised, plateau-like (flat-topped) lesion greater than 1 cm in diameter.
+| 中文译名 = 皮肤斑块
+| 中文定义 = 斑块是实质性隆起的扁平样（平顶）皮损，直径大于1cm。
+}}
+
+
+==[[HP:0200036]]==
+{{Infobox HPO
+| hpoId = HP:0200036
+| 名称 = Skin nodule
+| 定义 = Morphologically similar to a papule, but greater than either 10mm in both width and depth, and most frequently centered in the dermis or subcutaneous fat.
+| 中文译名 = 皮肤结节
+| 中文定义 = 形态上类似于丘疹，但直径常大于10mm，且最常发生在真皮或皮下脂肪组织。
+}}
+
+
+==[[HP:0200037]]==
+{{Infobox HPO
+| hpoId = HP:0200037
+| 名称 = skin vesicle
+| 定义 = A circumscribed, fluid-containing, epidermal elevation generally considered less than 10mm in diameter at the widest point.
+| 中文译名 = 表皮水疱
+| 中文定义 = 局限的，含有液体的表皮隆起，直径通常小于10mm。
+}}
+
+
+==[[HP:0200039]]==
+{{Infobox HPO
+| hpoId = HP:0200039
+| 名称 = Pustule
+| 定义 = A small elevation of the skin containing cloudy or purulent material usually consisting of necrotic inflammatory cells.
+| 中文译名 = 脓疱
+| 中文定义 = 内含由坏死的炎症细胞组成的浑浊的脓性物质的皮肤隆起。
+}}
+
+
+==[[HP:0200040]]==
+{{Infobox HPO
+| hpoId = HP:0200040
+| 名称 = Epidermoid cyst
+| 定义 = The presence of one or more `cysts` (MPATH:62) of the `skin` (FMA:7163).
+| 中文译名 = 表皮样囊肿
+| 中文定义 = 皮肤表面单发或多发的囊肿。
+}}
+
+==[[HP:0200041]]==
+{{Infobox HPO
+| hpoId = HP:0200041
+| 名称 = Skin erosion
+| 定义 = A discontinuity of the skin exhibiting incomplete loss of the epidermis, a lesion that is moist, circumscribed, and usually depressed.
+| 中文译名 = 皮肤糜烂
+| 中文定义 = 皮肤的不连续性，表现为表皮不完全缺失，边界清晰，皮损常为凹陷性，且表面湿润。
+}}
+
+
+==[[HP:0200042]]==
+{{Infobox HPO
+| hpoId = HP:0200042
+| 名称 = Skin ulcer
+| 定义 = A discontinuity of the skin exhibiting complete loss of the epidermis and often portions of the dermis and even subcutaneous fat.
+| 中文译名 = 皮肤溃疡
+| 中文定义 = 皮肤的不连续性，表现为表皮、部分真皮甚至皮下脂肪的完全缺失。
+}}
+
+
+==[[HP:0200043]]==
+{{Infobox HPO
+| hpoId = HP:0200043
+| 名称 = Verrucae
+| 定义 = Verrucae are plantar warts caused by the Human Papilloma Virus (HPV), benign growths on the skin or mucous membranes that cause cosmetic problems as well as pain and discomfort. Warts most often occur on the hands, feet, and genital areas.
+| 中文译名 = 疣
+| 中文定义 = 疣由人类乳头瘤病毒（HPV）引起的一种皮肤表面赘生物，可发生于皮肤或粘膜表面并带来美容问题以及疼痛不适。最常发生于手，足和生殖器部位。
+}}
+
+==[[HP:0200044]]==
+{{Infobox HPO
+| hpoId = HP:0200044
+| 名称 = Porokeratosis
+| 定义 = A clonal disorder of keratinization with one or multiple atrophic patches surrounded by a clinically and histologically distinctive hyperkeratotic ridgelike border called the cornoid lamella.
+| 中文译名 = 汗孔角化病
+| 中文定义 = 是一种角化异常增殖性疾病，临床表现为单个或多个萎缩性斑片，周围是特征性的角板样层，即临床和病理上都有表现的角化过度的脊状隆起。
+}}
+
+
+==[[HP:0200048]]==
+{{Infobox HPO
+| hpoId = HP:0200048
+| 名称 = Cyanotic episode
+| 定义 = #####
+| 中文译名 = 紫绀发作
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200097]]==
+{{Infobox HPO
+| hpoId = HP:0200097
+| 名称 = Oral mucusa blisters
+| 定义 = #####
+| 中文译名 = 口腔粘膜水泡
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200098]]==
+{{Infobox HPO
+| hpoId = HP:0200098
+| 名称 = Absent skin pigmentation
+| 定义 = Lack of skin pigmentation (coloring).
+| 中文译名 = 皮肤色素缺失
+| 中文定义 = 皮肤色素（着色）的缺失。
+}}
+
+==[[HP:0200102]]==
+{{Infobox HPO
+| hpoId = HP:0200102
+| 名称 = Sparse/absent eyelashes
+| 定义 = Absent or decreased density/number and/or decreased diameter of eyelashes
+| 中文译名 = 睫毛稀疏/无睫毛
+| 中文定义 = 睫毛密度降低或数量减少和/或直径减小甚至缺乏。
+}}
+
+
+==[[HP:0200104]]==
+{{Infobox HPO
+| hpoId = HP:0200104
+| 名称 = Absent fifth fingernail
+| 定义 = Absence of `nail of little finger` (FMA:54341).
+| 中文译名 = 第5指甲缺损
+| 中文定义 = 小指指甲的缺损。
+}}
+
+
+==[[HP:0200105]]==
+{{Infobox HPO
+| hpoId = HP:0200105
+| 名称 = Absent fifth toenail
+| 定义 = Abnormal absence of fifth toenail
+| 中文译名 = 第5趾甲缺损
+| 中文定义 = 第5趾甲异常缺失
+}}
+
+==[[HP:0200151]]==
+{{Infobox HPO
+| hpoId = HP:0200151
+| 名称 = Cutaneous mastocytosis
+| 定义 = Abnormal accumulation of mast cells in skin
+| 中文译名 = 皮肤肥大细胞增多症
+| 中文定义 = 肥大细胞在皮肤中异常聚集
+}}
+
+==[[HP:0430006]]==
+{{Infobox HPO
+| hpoId = HP:0430006
+| 名称 = Ectopic cilia of eyelid
+| 定义 = An eyelash that emerges from the underside (conjunctiva) of the upper or lower eyelid.
+| 中文译名 = 眼睑异位睫毛
+| 中文定义 = 从上眼睑或下眼睑的内侧面（睑结膜）生长的睫毛。
+}}
+
+==[[HP:3000013]]==
+{{Infobox HPO
+| hpoId = HP:3000013
+| 名称 = Abnormality of platysma
+| 定义 = An abnormality of the platysma muscle.
+| 中文译名 = 颈阔肌异常
+| 中文定义 = 颈阔肌异常
+}}

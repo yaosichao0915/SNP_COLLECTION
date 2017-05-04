@@ -1,0 +1,152 @@
+<accesscontrol>审核人:声音异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=声音异常(15条目)=
+
+
+==[[HP:0001608]]==
+{{Infobox HPO
+| hpoId = HP:0001608
+| 名称 = Abnormality of the voice
+| 定义 = Any abnormality of the voice.
+| 中文译名 = 声音异常
+| 中文定义 = 嗓音的任何异常。
+}}
+
+
+==[[HP:0001609]]==
+{{Infobox HPO
+| hpoId = HP:0001609
+| 名称 = Hoarse voice
+| 定义 = Hoarseness refers to a change in the pitch or quality of the voice, with the voice sounding weak, very breathy, scratchy, or husky.
+| 中文译名 = 声音嘶哑
+| 中文定义 = 声音嘶哑是指声音的音调或质量的变化，声音听起来虚弱，带着很重的呼吸声，有摩擦音或沙哑。
+}}
+
+
+==[[HP:0001611]]==
+{{Infobox HPO
+| hpoId = HP:0001611
+| 名称 = Nasal speech
+| 定义 = A type of speech characterized by the presence of an abnormally increased nasal airflow during speech, associated with incomplete or weak closure of the velum.
+| 中文译名 = 鼻音很重
+| 中文定义 = 一种构音特点，讲话时因鼻腔气流异常增加所致，与软腭关闭不全或削弱有关。
+}}
+
+
+==[[HP:0001612]]==
+{{Infobox HPO
+| hpoId = HP:0001612
+| 名称 = Weak cry
+| 定义 = #####
+| 中文译名 = 哭声微弱
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001615]]==
+{{Infobox HPO
+| hpoId = HP:0001615
+| 名称 = Hoarse cry
+| 定义 = #####
+| 中文译名 = 声音嘶哑的叫喊
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001618]]==
+{{Infobox HPO
+| hpoId = HP:0001618
+| 名称 = Dysphonia
+| 定义 = An impairment in the ability to produce voice sounds.
+| 中文译名 = 发音困难
+| 中文定义 = 产生声音的能力减弱。
+}}
+
+
+==[[HP:0001620]]==
+{{Infobox HPO
+| hpoId = HP:0001620
+| 名称 = High pitched voice
+| 定义 = An abnormal increase in the pitch (frequency) of the voice.
+| 中文译名 = 高音调的声音
+| 中文定义 = 嗓音音调（频率）的异常升高。
+}}
+
+
+==[[HP:0001621]]==
+{{Infobox HPO
+| hpoId = HP:0001621
+| 名称 = Weak voice
+| 定义 = Reduced intensity (volume) of speech.
+| 中文译名 = 嗓音微弱
+| 中文定义 = 语音的强度（音量）减弱。
+}}
+
+
+==[[HP:0001686]]==
+{{Infobox HPO
+| hpoId = HP:0001686
+| 名称 = Loss of voice
+| 定义 = #####
+| 中文译名 = 失声
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007024]]==
+{{Infobox HPO
+| hpoId = HP:0007024
+| 名称 = Pseudobulbar paralysis
+| 定义 = Bilateral impairment of the function of the cranial nerves 9-12, which control musculature involved in eating, swallowing, and speech. Pseudobulbar paralysis is characterized clinically by dysarthria, dysphonia, and dysphagia with bifacial paralysis, and may be accompanied by `Pseudobulbar behavioral symptoms` (HP:0002193) such as enforced crying and laughing.
+| 中文译名 = 假性球麻痹
+| 中文定义 = 颅神经9-12双侧受损的症状，主要表现为进食、吞咽、语言困难。假性球麻痹主要临床表现为构音障碍、发音困难和伴有双侧面瘫吞咽困难，可能伴有假性球部行为症状（HP：0002193），例如强迫性的哭、笑。
+}}
+
+
+==[[HP:0009088]]==
+{{Infobox HPO
+| hpoId = HP:0009088
+| 名称 = Speech articulation difficulties
+| 定义 = Impairment in the physical production of speech sounds.
+| 中文译名 = 说话衔接困难
+| 中文定义 = 物理性发声障碍。
+}}
+
+
+==[[HP:0010300]]==
+{{Infobox HPO
+| hpoId = HP:0010300
+| 名称 = Abnormally low-pitched voice
+| 定义 = An abnormally low-pitched voice.
+| 中文译名 = 异常低声调
+| 中文定义 = 异常低音调或者说低频率的嗓音。
+}}
+
+
+==[[HP:0012049]]==
+{{Infobox HPO
+| hpoId = HP:0012049
+| 名称 = Laryngeal dystonia
+| 定义 = A form of focal dystonia that affects the vocal cords, associated with involuntary contractions of the vocal cords causing interruptions of speech and affecting the voice quality and often leading to patterned, repeated breaks in speech.
+| 中文译名 = 喉肌张力障碍
+| 中文定义 = 一种影响声带的局灶肌张力障碍类型，声带不自主的收缩导致言语中断，影响声音质量，常常导致模式化的反复言语中断。
+}}
+
+
+==[[HP:0100271]]==
+{{Infobox HPO
+| hpoId = HP:0100271
+| 名称 = Hyponasal speech
+| 定义 = Hyponasal speech is when there is an abnormally reduced nasal airflow during speech often in a setting of nasal obstruction or congestion.
+| 中文译名 = 鼻音低
+| 中文定义 = 讲话时通过鼻腔的气流减弱，这种异常发音通常是由于各种原因所致的鼻腔梗塞，气流受阻。
+}}
+
+
+==[[HP:0200046]]==
+{{Infobox HPO
+| hpoId = HP:0200046
+| 名称 = Cat cry
+| 定义 = The presence of a characteristic high-pitched cry that sounds similar to the meowing of a kitten.
+| 中文译名 = 猫叫
+| 中文定义 = 特征性高音调发声，听起来有点像小猫在叫。形容婴儿的哭声微弱、高调，见于5p-综合征（“猫叫综合征”）
+}}

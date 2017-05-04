@@ -1,0 +1,2800 @@
+<accesscontrol>审核人:耳部异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=耳部异常(280条目)=
+
+
+==[[HP:0000356]]==
+{{Infobox HPO
+| hpoId = HP:0000356
+| 名称 = Abnormality of the outer ear
+| 定义 = An abnormality of the `external ear` (FMA:52781).
+| 中文译名 = 外耳异常
+| 中文定义 = 在`外耳`的异常（FMA: 52781）。
+}}
+
+
+==[[HP:0000357]]==
+{{Infobox HPO
+| hpoId = HP:0000357
+| 名称 = Abnormal location of ears
+| 定义 = Abnormal location of the `ear` (FMA:52780).
+| 中文译名 = 耳位异常
+| 中文定义 = 耳朵（FMA: 52780）的位置异常。
+}}
+
+
+==[[HP:0000358]]==
+{{Infobox HPO
+| hpoId = HP:0000358
+| 名称 = Posteriorly rotated ears
+| 定义 = A type of `abnormal location of the ears` (===HP:0000357===) in which the position of the ears is characterized by posterior rotation (the superior part of the ears is rotated towards the back of the head, and the inferior part of the ears towards the front).
+| 中文译名 = 后旋耳
+| 中文定义 = 一种耳位置异常（===HP:0000357===），耳朵位置的特征为向后旋转（耳朵的上部向头部的背面旋转，耳朵的下部向前方旋转）。
+}}
+
+
+==[[HP:0000359]]==
+{{Infobox HPO
+| hpoId = HP:0000359
+| 名称 = Abnormality of the inner ear
+| 定义 = An abnormality of the `inner ear` (FMA:60909).
+| 中文译名 = 内耳异常
+| 中文定义 = “内耳”(FMA:60909)的异常。
+}}
+
+
+==[[HP:0000360]]==
+{{Infobox HPO
+| hpoId = HP:0000360
+| 名称 = Tinnitus
+| 定义 = Tinnitus is an auditory perception that can be described as the experience of sound, in the ear or in the head, in the absence of external acoustic stimulation.
+| 中文译名 = 耳鸣
+| 中文定义 = 耳鸣是一种没有外部声刺激却出现的声音相关的听觉体验，这种体验常位于耳朵或头颅中。
+}}
+
+
+==[[HP:0000362]]==
+{{Infobox HPO
+| hpoId = HP:0000362
+| 名称 = Otosclerosis
+| 定义 = In otosclerosis, a callus of bone accumulates on the stapes creating a partial fixation. This limits the movement of the stapes bone, which results in hearing loss.
+| 中文译名 = 耳硬化症
+| 中文定义 = 在耳硬化症中，不正常的骨组织在镫骨及其周围聚集造成镫骨部分固定。这限制了镫骨运动从而导致耳聋。
+}}
+
+
+==[[HP:0000363]]==
+{{Infobox HPO
+| hpoId = HP:0000363
+| 名称 = Abnormality of earlobe
+| 定义 = An abnormality of the `lobule of pinna` (FMA:60984).
+| 中文译名 = 耳垂异常
+| 中文定义 = 在`pinna`的小叶的异常（FMA: 60984）。
+}}
+
+
+==[[HP:0000364]]==
+{{Infobox HPO
+| hpoId = HP:0000364
+| 名称 = Hearing abnormality
+| 定义 = An abnormality of the `sensory perception of sound` (GO:0007605).
+| 中文译名 = 听力异常
+| 中文定义 = “声音感官知觉”(GO:0007605)的异常。
+}}
+
+
+==[[HP:0000365]]==
+{{Infobox HPO
+| hpoId = HP:0000365
+| 名称 = Hearing impairment
+| 定义 = A `decreased magnitude` (PATO:0002018) of the `sensory perception of sound` (GO:0007605).
+| 中文译名 = 听力障碍
+| 中文定义 = “声音感官知觉”(GO:0007605)的“明显下降”(PATO:0002018)。
+}}
+
+
+==[[HP:0000368]]==
+{{Infobox HPO
+| hpoId = HP:0000368
+| 名称 = Low-set, posteriorly rotated ears
+| 定义 = Ears that are low-set (===HP:0000369===) and posteriorly rotated (===HP:0000358===).
+| 中文译名 = 低位后旋转耳
+| 中文定义 = 耳朵低置（HP: 0000369）和向后旋转（HP: 0000358）。
+}}
+
+
+==[[HP:0000369]]==
+{{Infobox HPO
+| hpoId = HP:0000369
+| 名称 = Low-set ears
+| 定义 = Upper insertion of the ear to the scalp below an imaginary horizontal line drawn between the inner canthi of the eye and extending posteriorly to the ear.
+| 中文译名 = 低位耳
+| 中文定义 = 耳廓与头皮连接上缘低于眼内眦向后与耳连接的假想水平线。
+}}
+
+
+==[[HP:0000370]]==
+{{Infobox HPO
+| hpoId = HP:0000370
+| 名称 = Abnormality of the middle ear
+| 定义 = An abnormality of the `middle ear` (FMA:56513).
+| 中文译名 = 中耳异常
+| 中文定义 = “中耳”（FMA: 56513）的异常。
+}}
+
+
+==[[HP:0000371]]==
+{{Infobox HPO
+| hpoId = HP:0000371
+| 名称 = Acute otitis media
+| 定义 = Acute otitis media is a short and generally painful infection of the middle ear.
+| 中文译名 = 急性中耳炎
+| 中文定义 = 急性中耳炎是中耳的广泛、短暂的疼痛感染。
+}}
+
+
+==[[HP:0000372]]==
+{{Infobox HPO
+| hpoId = HP:0000372
+| 名称 = Abnormality of the auditory canal
+| 定义 = An abnormality of the `External acoustic tube` (FMA:61734) (also known as the auditory canal).
+| 中文译名 = 耳道异常
+| 中文定义 = “外耳道”(FMA:61734)（也被称为耳道）的异常。
+}}
+
+
+==[[HP:0000375]]==
+{{Infobox HPO
+| hpoId = HP:0000375
+| 名称 = Abnormality of cochlea
+| 定义 = An abnormality of the `cochlea` (FMA:60201).
+| 中文译名 = 耳蜗异常
+| 中文定义 = “耳蜗”（FMA: 60201）的异常。
+}}
+
+
+==[[HP:0000376]]==
+{{Infobox HPO
+| hpoId = HP:0000376
+| 名称 = Incomplete partition of the cochlea type II
+| 定义 = The cochlea is lacking the entire modiolus and cribriform area, resulting in a cystic appearance. This is accompanied by a large cystic vestibule.
+| 中文译名 = II型耳蜗分隔不全
+| 中文定义 = 耳蜗缺乏蜗轴和筛区，导致囊性外观。这种情况下，前庭也常常呈囊性。
+}}
+
+
+==[[HP:0000377]]==
+{{Infobox HPO
+| hpoId = HP:0000377
+| 名称 = Abnormality of the pinna
+| 定义 = An abnormality of the `pinna` (FMA:56580), which is also referred to as the auricle or external ear.
+| 中文译名 = 耳廓异常
+| 中文定义 = 其也被称为在耳廓或外耳: 所述`pinna`（56580 FMA）的异常。
+}}
+
+
+==[[HP:0000378]]==
+{{Infobox HPO
+| hpoId = HP:0000378
+| 名称 = Cupped ear
+| 定义 = Laterally protruding ear that lacks antihelical folding (including absence of inferior and superior crura).
+| 中文译名 = 杯状耳
+| 中文定义 = 横向的招风耳，缺乏对耳轮的折叠（包含上下脚的缺失）。
+}}
+
+
+==[[HP:0000381]]==
+{{Infobox HPO
+| hpoId = HP:0000381
+| 名称 = Stapes ankylosis
+| 定义 = Stapes ankylosis refers to congenital or acquired fixation of the stapes (the stirrup-shaped small bone or ossicle in the middle ear), which is associated with conductive hearing resulting from impairment of the sound-conduction mechanism (the external auditory canal, tympanic membrane, and/or middle-ear ossicles).
+| 中文译名 = 镫骨固定
+| 中文定义 = 镫骨（中耳中的镫形小骨或听小骨）固定是指先天性或获得性的镫骨关节强直，其与声音传导机制（外耳道、鼓膜及/或中耳听小骨）障碍导致的传导性听力损失相关。
+}}
+
+
+==[[HP:0000385]]==
+{{Infobox HPO
+| hpoId = HP:0000385
+| 名称 = Small earlobe
+| 定义 = Reduced volume of the earlobe.
+| 中文译名 = 小耳垂
+| 中文定义 = 耳垂体积的减小。
+}}
+
+
+==[[HP:0000387]]==
+{{Infobox HPO
+| hpoId = HP:0000387
+| 名称 = Absent earlobe
+| 定义 = Absence of fleshy non-cartilaginous tissue inferior to the tragus and incisura.
+| 中文译名 = 耳垂缺失
+| 中文定义 = 次于耳屏和切迹的肉质非软骨组织的缺失。
+}}
+
+
+==[[HP:0000388]]==
+{{Infobox HPO
+| hpoId = HP:0000388
+| 名称 = Otitis media
+| 定义 = Inflammation or infection of the middle ear.
+| 中文译名 = 中耳炎
+| 中文定义 = 中耳炎症或感染。
+}}
+
+
+==[[HP:0000389]]==
+{{Infobox HPO
+| hpoId = HP:0000389
+| 名称 = Chronic otitis media
+| 定义 = Chronic otitis media refers to fluid, swelling, or infection of the middle ear that does not heal and may cause permanent damage to the ear.
+| 中文译名 = 慢性化脓性中耳炎
+| 中文定义 = 慢性中耳炎是指中耳流液肿胀，或感染未痊愈导致耳永久性损害。
+}}
+
+
+==[[HP:0000391]]==
+{{Infobox HPO
+| hpoId = HP:0000391
+| 名称 = Thickened helices
+| 定义 = `Increased thickness` (PATO:0000591) of the`helix` (FMA:60992) of the ear.
+| 中文译名 = 耳轮增厚
+| 中文定义 = ` “耳轮”(FMA:60992)的“增厚”(PATO:0000591)。
+}}
+
+
+==[[HP:0000394]]==
+{{Infobox HPO
+| hpoId = HP:0000394
+| 名称 = Lop ear
+| 定义 = Anterior and inferior folding of the upper portion of the ear that obliterates triangular fossa and scapha.
+| 中文译名 = 罗布泊耳
+| 中文定义 = 耳上半部分的前下折叠使得三角窝和耳舟的形态不清的形态。
+}}
+
+
+==[[HP:0000395]]==
+{{Infobox HPO
+| hpoId = HP:0000395
+| 名称 = Prominent antihelix
+| 定义 = The presence of an abnormally `prominent` (PATO:0001482) `antihelix` (FMA:60995).
+| 中文译名 = 对耳轮突出
+| 中文定义 = 对耳轮（FMA:60995）存在异常突出（PATO:0001482）。
+}}
+
+
+==[[HP:0000396]]==
+{{Infobox HPO
+| hpoId = HP:0000396
+| 名称 = Overfolded helix
+| 定义 = A condition in which the `helix` (FMA:60992) is `folded` (PATO:0001910) over to a greater degree than normal. That is, excessive curling of the helix edge, whereby the free edge is parallel to the plane of the ear.
+| 中文译名 = 耳轮过度卷曲
+| 中文定义 = 耳轮（FMA: 60992）’卷曲程度超过正常（PATO: 0001910）。即，耳轮边缘过度卷曲由此，游离边缘平行于耳的平面。
+}}
+
+
+==[[HP:0000399]]==
+{{Infobox HPO
+| hpoId = HP:0000399
+| 名称 = Prelingual sensorineural hearing impairment
+| 定义 = A form of `sensorineural deafness` (===HP:0008538===) with either `congenital onset` (===HP:0003577===) or `infantile onset` (===HP:0003593===), i.e., before the acquisition of speech.
+| 中文译名 = 学语前感音神经性听力损失
+| 中文定义 = 感音神经性耳聋（===HP:0008538=== ）的一种，先天性（===HP:0003577===）或婴幼儿期发病（===HP:0003593===），即学会语言前发病。
+}}
+
+
+==[[HP:0000400]]==
+{{Infobox HPO
+| hpoId = HP:0000400
+| 名称 = Macrotia
+| 定义 = Median longitudinal ear length greater than two standard deviations above the mean and median ear width greater than two standard deviations above the mean (objective); or, apparent increase in length and width of the pinna (subjective).
+| 中文译名 = 巨耳畸形
+| 中文定义 = 主观判断耳廓长度和宽度明显增加。
+}}
+
+
+==[[HP:0000402]]==
+{{Infobox HPO
+| hpoId = HP:0000402
+| 名称 = Stenosis of the external auditory canal
+| 定义 = An abnormal narrowing of the external auditory canal.
+| 中文译名 = 外耳道狭窄
+| 中文定义 = 外耳道的异常缩小。
+}}
+
+
+==[[HP:0000403]]==
+{{Infobox HPO
+| hpoId = HP:0000403
+| 名称 = Recurrent otitis media
+| 定义 = Increased susceptibility to otitis media, as manifested by recurrent episodes of otitis media.
+| 中文译名 = 反复发作型中耳炎
+| 中文定义 = 中耳炎易感性增加，表现为中耳炎反复发作。
+}}
+
+
+==[[HP:0000405]]==
+{{Infobox HPO
+| hpoId = HP:0000405
+| 名称 = Conductive hearing impairment
+| 定义 = An abnormality of `vibrational conductance of sound to the inner ear` (GO:0055127) leading to impairment of `sensory perception of sound` (GO:0007605).
+| 中文译名 = 传导性听力障碍
+| 中文定义 = “声音振动传导到内耳”（GO: 0055127）的异常，导致“声音的感官知觉障碍”（GO: 0007605）。
+}}
+
+
+==[[HP:0000407]]==
+{{Infobox HPO
+| hpoId = HP:0000407
+| 名称 = Sensorineural hearing impairment
+| 定义 = A type of `hearing impairment` (===HP:0000365===)  in one or both ears related to an `abnormal` (PATO:0000460) `functionality` (PATO:0001509) of the `cochlear nerve` (FMA:53431).
+| 中文译名 = 感音神经性耳聋
+| 中文定义 = 与“耳蜗神经”(FMA:53431)“功能”(PATO:0001509)“异常”(PATO:0000460)相关的单耳或双耳的“听力损失”类型。
+}}
+
+
+==[[HP:0000408]]==
+{{Infobox HPO
+| hpoId = HP:0000408
+| 名称 = Progressive sensorineural hearing impairment
+| 定义 = A `progressive` (PATO:0001818) form of `sensorineural hearing impairment` (===HP:0000407===).
+| 中文译名 = 渐进性感音神经性听力损失
+| 中文定义 = 一种进行性下降的（PATO:0001818）感音神经性听力损失（===HP:0000407===）。
+}}
+
+
+==[[HP:0000410]]==
+{{Infobox HPO
+| hpoId = HP:0000410
+| 名称 = Mixed hearing impairment
+| 定义 = A type of hearing loss resulting from a combination of `conductive hearing impairment` (===HP:0000405===) and `sensorineural hearing impairment` (===HP:0000407===).
+| 中文译名 = 混合性听力损失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000411]]==
+{{Infobox HPO
+| hpoId = HP:0000411
+| 名称 = Protruding ear
+| 定义 = Angle formed by the plane of the ear and the mastoid bone greater than the 97th centile for age (objective); or, outer edge of the helix more than 2 cm from the mastoid at the point of maximum distance (objective).
+| 中文译名 = 招风耳
+| 中文定义 = 耳朵平面与颞骨乳突部的夹角大于第97百分位数年龄（目标），或者乳突处耳轮外缘的最大距离（目标）点超过2厘米。
+}}
+
+
+==[[HP:0000413]]==
+{{Infobox HPO
+| hpoId = HP:0000413
+| 名称 = Atresia of the external auditory canal
+| 定义 = Absence or failure to form of the external auditory canal.
+| 中文译名 = 外耳道闭锁
+| 中文定义 = 外耳道缺陷或未形成。
+}}
+
+
+==[[HP:0000598]]==
+{{Infobox HPO
+| hpoId = HP:0000598
+| 名称 = Abnormality of the ear
+| 定义 = An abnormality of the `ear` (FMA:52780).
+| 中文译名 = 耳部异常
+| 中文定义 = “耳”(FMA:52780)的异常。
+}}
+
+
+==[[HP:0001730]]==
+{{Infobox HPO
+| hpoId = HP:0001730
+| 名称 = Progressive hearing impairment
+| 定义 = A `progressive` (PATO:0001818) form of `hearing impairment` (===HP:0000365===).
+| 中文译名 = 渐进性听力损失
+| 中文定义 = 一种进行性下降的（PATO:0001818）听力损失（===HP:0000365===）。
+}}
+
+
+==[[HP:0001751]]==
+{{Infobox HPO
+| hpoId = HP:0001751
+| 名称 = Vestibular dysfunction
+| 定义 = An abnormality of the functioning of the vestibular apparatus.
+| 中文译名 = 前庭功能障碍
+| 中文定义 = 前庭器官的功能的异常。
+}}
+
+
+==[[HP:0001756]]==
+{{Infobox HPO
+| hpoId = HP:0001756
+| 名称 = Vestibular hypofunction
+| 定义 = Reduced functioning of the vestibular apparatus.
+| 中文译名 = 前庭功能减退
+| 中文定义 = 前庭器官的功能降低。
+}}
+
+
+==[[HP:0001757]]==
+{{Infobox HPO
+| hpoId = HP:0001757
+| 名称 = High-frequency sensorineural hearing impairment
+| 定义 = A form of `sensorineural hearing impairment` (===HP:0008538===) that affects primarily the higher frequencies.
+| 中文译名 = 高频感音神经性听力障碍
+| 中文定义 = 主要以损害高频听力为主的“感音神经性听力障碍” （HP: 0008538）的类型。
+}}
+
+
+==[[HP:0001963]]==
+{{Infobox HPO
+| hpoId = HP:0001963
+| 名称 = Abnormal speech discrimination
+| 定义 = A type of hearing impairment prominently characterized by a difficulty in understanding speech, rather than an inability to hear speech. Poor speech discrimination is a very common symptom of high frequency hearing loss.
+| 中文译名 = 言语辨别异常
+| 中文定义 = 一种听力损伤的显著特征是难以理解语音，而不是不能听到语音。贫乏的言语识别力是高频听力损失很常见的症状。
+}}
+
+
+==[[HP:0002265]]==
+{{Infobox HPO
+| hpoId = HP:0002265
+| 名称 = Large fleshy ears
+| 定义 = #####
+| 中文译名 = 大肉耳
+| 中文定义 = #####
+}}
+
+==[[HP:0002321]]==
+{{Infobox HPO
+| hpoId = HP:0002321
+| 名称 = Vertigo
+| 定义 = An abnormal sensation of spinning while the body is actually stationary.
+| 中文译名 = 眩晕
+| 中文定义 = 身体实际上静止不动却自觉旋转的异常感觉。
+}}
+
+
+==[[HP:0004452]]==
+{{Infobox HPO
+| hpoId = HP:0004452
+| 名称 = Abnormality of the middle ear ossicles
+| 定义 = An abnormality of the middle-ear ossicles (three small bones called malleus, incus, and stapes) that are contained within the middle ear and serve to transmit sounds from the air to the fluid-filled labyrinth (cochlea).
+| 中文译名 = 中耳听小骨异常
+| 中文定义 = 中耳听小骨（锤骨，砧骨和镫骨三个小骨称为中耳听小骨）异常，位于中耳，作用是将空气中声音传递至耳蜗。
+}}
+
+
+==[[HP:0004453]]==
+{{Infobox HPO
+| hpoId = HP:0004453
+| 名称 = Overfolding of the superior helices
+| 定义 = A condition in which the superior portion of the `helix` (FMA:60992) is `folded` (PATO:0001910) over to a greater degree than normal.
+| 中文译名 = 耳轮异常
+| 中文定义 = 耳轮（FMA: 60992）的上部’卷曲`（PATO: 0001910）超过正常程度。
+}}
+
+
+==[[HP:0004454]]==
+{{Infobox HPO
+| hpoId = HP:0004454
+| 名称 = Abnormal middle ear reflexes
+| 定义 = #####
+| 中文译名 = 中耳反射异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004458]]==
+{{Infobox HPO
+| hpoId = HP:0004458
+| 名称 = Dilatated internal auditory canal
+| 定义 = The presence of a dilated `inner part of external acoustic meatus` (FMA:61307).
+| 中文译名 = 内听道扩大
+| 中文定义 = 内听道部分（FMA: 61307）的扩大。
+}}
+
+
+==[[HP:0004459]]==
+{{Infobox HPO
+| hpoId = HP:0004459
+| 名称 = Exostosis of the external auditory canal
+| 定义 = A benign bony growth projecting outward from a bone surface within the external auditory canal.
+| 中文译名 = 外耳道外生骨疣
+| 中文定义 = 外耳道骨壁的骨质向外良性增生形成的结节状隆起。
+}}
+
+
+==[[HP:0004461]]==
+{{Infobox HPO
+| hpoId = HP:0004461
+| 名称 = Congenital earlobe sinuses
+| 定义 = #####
+| 中文译名 = 先天性耳垂裂
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005101]]==
+{{Infobox HPO
+| hpoId = HP:0005101
+| 名称 = High-frequency hearing impairment
+| 定义 = A type of `hearing impairment` (===HP:0000365===) affecting primarily the higher frequencies of sound (3,000 to 6,000 Hz).
+| 中文译名 = 高频听力障碍
+| 中文定义 = 主要以损害高频听力（3000至6000赫兹）为主的“听力障碍”(===HP:0000365===)类型。
+}}
+
+
+==[[HP:0005102]]==
+{{Infobox HPO
+| hpoId = HP:0005102
+| 名称 = Cochlear degeneration
+| 定义 = `Degeneration` (PATO:0002037) of the `cochlea` (FMA:60201).
+| 中文译名 = 耳蜗变性
+| 中文定义 = `变性`（PATO: 0002037）的`耳蜗`（FMA: 60201）。
+}}
+
+
+==[[HP:0005103]]==
+{{Infobox HPO
+| hpoId = HP:0005103
+| 名称 = Calcification of the auricular cartilage
+| 定义 = Ossification affecting the `external ear cartilage` (FMA:61339).
+| 中文译名 = 耳软骨钙化
+| 中文定义 = 骨化影响`外耳软骨`（FMA: 61339）。
+}}
+
+
+==[[HP:0005473]]==
+{{Infobox HPO
+| hpoId = HP:0005473
+| 名称 = Fusion of middle ear ossicles
+| 定义 = Bony fusion of `malleus` (FMA:52753), `incus` (FMA:52752), and `stapes` (FMA:52751).
+| 中文译名 = 中耳听小骨融合
+| 中文定义 = 骨性融合`malleus`的（FMA: 52753），`incus`（FMA: 52752），和`stapes`（FMA: 52751）。“锤骨”（FMA: 52753），“砧骨”（FMA: 52752）及“镫骨”（FMA: 52751）的骨性融合。
+}}
+
+
+==[[HP:0007670]]==
+{{Infobox HPO
+| hpoId = HP:0007670
+| 名称 = Abnormal vestibulo-ocular reflex
+| 定义 = An abnormality of the vestibulo-ocular reflex (VOR). The VOR attempts to keep the image stable on the retina. Ideally passive or active head movements in one direction are compensated for by eye movements of equal magnitude.
+| 中文译名 = 前庭眼反射异常
+| 中文定义 = 前庭眼反射（VOR）的异常。所述VOR试图保持图像稳定在视网膜上。理想的情况是被动或主动头部运动在一个方向是由大小相同的眼球运动补偿。
+}}
+
+
+==[[HP:0007943]]==
+{{Infobox HPO
+| hpoId = HP:0007943
+| 名称 = Congenital stapes ankylosis
+| 定义 = A form of `stapes ankylosis` (===HP:0000381===) with congenital onset.
+| 中文译名 = 先天性镫骨硬化
+| 中文定义 = 一种先天性发病的“镫骨硬化”(===HP:0000381===)形式。
+}}
+
+
+==[[HP:0008504]]==
+{{Infobox HPO
+| hpoId = HP:0008504
+| 名称 = Moderate sensorineural hearing impairment
+| 定义 = The presence of a `moderate` (PATO:0000395) form of `sensorineural hearing impairment` (===HP:0000407===).
+| 中文译名 = 中度感音神经性听力损失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008513]]==
+{{Infobox HPO
+| hpoId = HP:0008513
+| 名称 = Bilateral conductive hearing impairment
+| 定义 = A `bilateral` (PATO:0000618) type of `conductive hearing impairment` (===HP:0000405===).
+| 中文译名 = 双侧传导性听觉障碍
+| 中文定义 = `双侧 `（PATO: 0000618）的&#39;传导性听觉障碍型（HP: 0000405）。
+}}
+
+
+==[[HP:0008523]]==
+{{Infobox HPO
+| hpoId = HP:0008523
+| 名称 = Posterior helix pit
+| 定义 = Permanent indentation on the posteromedial aspect of the helix that may be sharply or indistinctly delineated.
+| 中文译名 = 耳轮后凹陷
+| 中文定义 = 耳轮后内侧面的永久凹痕，可能锐利也可能模糊。
+}}
+
+
+==[[HP:0008527]]==
+{{Infobox HPO
+| hpoId = HP:0008527
+| 名称 = Congenital sensorineural hearing impairment
+| 定义 = A type of `hearing impairment` (===HP:0000365===) caused by an `abnormal` (PATO:0000460) `functionality` (PATO:0001509) of the `cochlear nerve` (FMA:53431) with `congenital onset` (===HP:0003577===).
+| 中文译名 = 先天性感音神经性听力障碍
+| 中文定义 = 一种“先天性发病”（HP:  0003577）的由“耳蜗神经”(FMA:53431) “功能”(PATO:0001509) “异常”(PATO:0000460)引起的“听力障碍”(===HP:0000365===)类型。
+}}
+
+
+==[[HP:0008528]]==
+{{Infobox HPO
+| hpoId = HP:0008528
+| 名称 = Long hairs growing from helix of pinna
+| 定义 = #####
+| 中文译名 = 耳轮毛发过长
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008529]]==
+{{Infobox HPO
+| hpoId = HP:0008529
+| 名称 = Absence of acoustic reflex
+| 定义 = Absence of the acoustic reflex, an involuntary contraction of the stapedius muscle that occurs in response to high-intensity sound stimuli.
+| 中文译名 = 声反射缺失
+| 中文定义 = 声反射缺失，发生在响应于高强度声音刺激镫骨肌的不自主收缩。
+}}
+
+
+==[[HP:0008537]]==
+{{Infobox HPO
+| hpoId = HP:0008537
+| 名称 = Cleft at the superior portion of the pinna
+| 定义 = #####
+| 中文译名 = 上部耳廓裂
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008541]]==
+{{Infobox HPO
+| hpoId = HP:0008541
+| 名称 = Superiorly displaced ears
+| 定义 = #####
+| 中文译名 = 优势替代耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008542]]==
+{{Infobox HPO
+| hpoId = HP:0008542
+| 名称 = Low-frequency hearing loss
+| 定义 = A type of `hearing impairment` (===HP:0000365===) affecting primarily the low frequencies of sound (125 Hz to 1000 Hz).
+| 中文译名 = 低频听力损失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008544]]==
+{{Infobox HPO
+| hpoId = HP:0008544
+| 名称 = Abnormally folded helix
+| 定义 = #####
+| 中文译名 = 耳轮折叠异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008551]]==
+{{Infobox HPO
+| hpoId = HP:0008551
+| 名称 = Microtia
+| 定义 = Underdevelopment of the `external ear` (FMA:52781).
+| 中文译名 = 小耳畸形
+| 中文定义 = 外耳发育不全（FMA: 52781）。
+}}
+
+
+==[[HP:0008554]]==
+{{Infobox HPO
+| hpoId = HP:0008554
+| 名称 = Cochlear malformation
+| 定义 = The presence of a `malformed` (PATO:0000646) `cochlea` (FMA:60201).
+| 中文译名 = 耳蜗畸形
+| 中文定义 = 耳蜗畸形。
+}}
+
+
+==[[HP:0008555]]==
+{{Infobox HPO
+| hpoId = HP:0008555
+| 名称 = Absent vestibular function
+| 定义 = Complete lack of functioning of the vestibular apparatus.
+| 中文译名 = 前庭功能缺失
+| 中文定义 = 前庭器的功能完全缺失。
+}}
+
+
+==[[HP:0008559]]==
+{{Infobox HPO
+| hpoId = HP:0008559
+| 名称 = Hypoplastic superior helix
+| 定义 = #####
+| 中文译名 = 耳轮上部发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008568]]==
+{{Infobox HPO
+| hpoId = HP:0008568
+| 名称 = Vestibular areflexia
+| 定义 = Vestibular areflexia can be measured as the absence of the caloric nystagmus response in electronystagmography.
+| 中文译名 = 前庭反射消失
+| 中文定义 = 在眼震电图检测中，前庭反射消失检测不到眼球震颤反应。
+}}
+
+
+==[[HP:0008569]]==
+{{Infobox HPO
+| hpoId = HP:0008569
+| 名称 = Microtia, second degree
+| 定义 = Median longitudinal length of the ear more than two standard deviations below the mean in the presence of some, but not all, parts of the normal ear.
+| 中文译名 = 小耳畸形，2级
+| 中文定义 = 平均纵向长度低于平均值的两个以上的标准偏差，存在部分外耳结构。
+}}
+
+
+==[[HP:0008572]]==
+{{Infobox HPO
+| hpoId = HP:0008572
+| 名称 = External ear malformation
+| 定义 = A malformation of the `auricle of the ear` (FMA:56580).
+| 中文译名 = 外耳畸形
+| 中文定义 = （FMA: 56580）。“耳廓”（FMA: 56580）的畸形。
+}}
+
+
+==[[HP:0008573]]==
+{{Infobox HPO
+| hpoId = HP:0008573
+| 名称 = Low-frequency sensorineural hearing impairment
+| 定义 = A form of `sensorineural hearing impairment` (===HP:0008538===) that affects primarily the lower frequencies.
+| 中文译名 = 低频感音神经性听力障碍
+| 中文定义 = 主要以影响低频听力为主的“感音神经性听力障碍”(===HP:0000365===)的类型。
+}}
+
+
+==[[HP:0008577]]==
+{{Infobox HPO
+| hpoId = HP:0008577
+| 名称 = Underfolded helix
+| 定义 = Underdevelopment of the helix that either affects the entire helix, or is localized.
+| 中文译名 = 耳轮卷曲畸形
+| 中文定义 = 因耳轮发育不全，耳轮整体或局部受影响。
+}}
+
+
+==[[HP:0008583]]==
+{{Infobox HPO
+| hpoId = HP:0008583
+| 名称 = Underfolded superior helices
+| 定义 = A condition in which the superior portion of the `helix` (FMA:60992) is `folded` (PATO:0001910) over to a lesser degree than normal.
+| 中文译名 = 耳轮上部卷曲畸形
+| 中文定义 = “耳轮”(FMA:60992)上部“卷曲”(PATO:0001910)程度较正常少。
+}}
+
+
+==[[HP:0008586]]==
+{{Infobox HPO
+| hpoId = HP:0008586
+| 名称 = Hypoplasia of the cochlea
+| 定义 = Developmental hypoplasia of the `cochlea` (FMA:60201).
+| 中文译名 = 耳蜗发育不全
+| 中文定义 = 。“耳蜗”（FMA: 60201）在发育上不完全。
+}}
+
+
+==[[HP:0008587]]==
+{{Infobox HPO
+| hpoId = HP:0008587
+| 名称 = Mild neurosensory hearing impairment
+| 定义 = The presence of a `mild` (PATO:0000394) form of `sensorineural hearing impairment` (===HP:0000407===).
+| 中文译名 = 轻度感音神经性听力损失
+| 中文定义 = 程度轻微的（PATO: 0000394）感音神经性听力损失（HP: 0000407）。
+}}
+
+
+==[[HP:0008588]]==
+{{Infobox HPO
+| hpoId = HP:0008588
+| 名称 = Slit-like opening of the exterior auditory meatus
+| 定义 = A type of stenosis of the external auditory meatus in which the opening of the external auditory meatus appears as a vertical slit.
+| 中文译名 = 外耳道隙状开口
+| 中文定义 = 外耳道狭窄的一种类型，即外耳道口呈纵向裂隙状。
+}}
+
+
+==[[HP:0008589]]==
+{{Infobox HPO
+| hpoId = HP:0008589
+| 名称 = Hypoplastic helices
+| 定义 = Underdevelopment of the `helix` (FMA:60992), i.e., of the outer rim of the pinna.
+| 中文译名 = 耳轮发育不全
+| 中文定义 = 耳廓的外缘（FMA: 60992）发育不全。
+}}
+
+
+==[[HP:0008591]]==
+{{Infobox HPO
+| hpoId = HP:0008591
+| 名称 = Congenital conductive hearing impairment
+| 定义 = A type of `conductive deafness` (===HP:0000367===) with `congenital onset` (===HP:0003577===).
+| 中文译名 = 先天性传导性听力障碍
+| 中文定义 = 一种“先天性发病”（HP: 0003577）的“传导性耳聋”（HP: 0000367）类型。
+}}
+
+
+==[[HP:0008593]]==
+{{Infobox HPO
+| hpoId = HP:0008593
+| 名称 = Prominent antitragus
+| 定义 = Increased anterosuperior prominence of the area between the bottom of the incisura and the inner margin of the antihelix.
+| 中文译名 = 对耳屏突出
+| 中文定义 = 切迹底部和对耳轮内缘之间区域的前上部分突出增加。
+}}
+
+
+==[[HP:0008596]]==
+{{Infobox HPO
+| hpoId = HP:0008596
+| 名称 = Postlingual sensorineural hearing impairment
+| 定义 = A form of `sensorineural hearing impairment` (===HP:0000407===) with onset after the acquisition of speech.
+| 中文译名 = 学语后感音神经性听力损失
+| 中文定义 = 发病年龄在学会语言后的一种感音神经性听力损失（===HP:0000407===）。
+}}
+
+
+==[[HP:0008598]]==
+{{Infobox HPO
+| hpoId = HP:0008598
+| 名称 = Mild conductive hearing impairment
+| 定义 = #####
+| 中文译名 = 轻度传导性听力损失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008605]]==
+{{Infobox HPO
+| hpoId = HP:0008605
+| 名称 = Unilateral external ear deformity
+| 定义 = #####
+| 中文译名 = 单侧外耳畸形
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008607]]==
+{{Infobox HPO
+| hpoId = HP:0008607
+| 名称 = Progressive conductive hearing impairment
+| 定义 = A `progressive` (PATO:0001818) type of `conductive deafness` (===HP:0000367===).
+| 中文译名 = 渐进性传导性听力损失
+| 中文定义 = 一种进行性下降的（PATO:0001818）传导性耳聋（===HP:0000367===）。
+}}
+
+
+==[[HP:0008608]]==
+{{Infobox HPO
+| hpoId = HP:0008608
+| 名称 = Hypertrophic auricular cartilage
+| 定义 = #####
+| 中文译名 = 耳廓软骨肥大
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008609]]==
+{{Infobox HPO
+| hpoId = HP:0008609
+| 名称 = Morphological abnormality of the middle ear
+| 定义 = An abnormality of the morphology or structure of the middle ear.
+| 中文译名 = 中耳形态异常
+| 中文定义 = 中耳形态或结构的异常。
+}}
+
+
+==[[HP:0008610]]==
+{{Infobox HPO
+| hpoId = HP:0008610
+| 名称 = Infantile sensorineural hearing impairment
+| 定义 = A form of `sensorineural hearing impairment` (===HP:0000407===) with `infantile onset` (===HP:0003593===).
+| 中文译名 = 婴幼儿感音神经性听力损失
+| 中文定义 = ’从婴幼儿期（HP: 0003593）开始的一种感音神经性听力损失形式（HP: 0000407）。
+}}
+
+
+==[[HP:0008615]]==
+{{Infobox HPO
+| hpoId = HP:0008615
+| 名称 = Adult onset sensorineural hearing impairment
+| 定义 = The presence of `sensorineural deafness` (===HP:0008538===) with `late onset` (===HP:0003596===).
+| 中文译名 = 成人感觉神经性听力障碍
+| 中文定义 = 与`late onset`（HP: 0003596）: `sensorineural deafness`（0008538 HP）的存在。
+}}
+
+
+==[[HP:0008619]]==
+{{Infobox HPO
+| hpoId = HP:0008619
+| 名称 = Bilateral sensorineural hearing impairment
+| 定义 = A `bilateral` (PATO:0000618) form of `sensorineural hearing impairment` (===HP:0000407===).
+| 中文译名 = 双侧感音神经性听觉障碍
+| 中文定义 = `双侧`（PATO: 0000618）的`感音神经性听觉障碍（HP: 0000407）。
+}}
+
+
+==[[HP:0008625]]==
+{{Infobox HPO
+| hpoId = HP:0008625
+| 名称 = Severe sensorineural hearing impairment
+| 定义 = A `severe` (PATO:0000396) form of `sensorineural hearing impairment` (===HP:0000407===).
+| 中文译名 = 重度感音神经性耳聋
+| 中文定义 = 程度为“重度”(PATO:0000396)的“感音神经性听力损失”(===HP:0000407===)。
+}}
+
+
+==[[HP:0008628]]==
+{{Infobox HPO
+| hpoId = HP:0008628
+| 名称 = Abnormality of the stapes
+| 定义 = An abnormality of the `stapes` (FMA:52751), a stirrup-shaped ossicle in the middle ear.
+| 中文译名 = 镫骨异常
+| 中文定义 = 在`镫骨`的异常（FMA: 52751），镫骨为中耳中的一个镫形小骨。
+}}
+
+
+==[[HP:0008629]]==
+{{Infobox HPO
+| hpoId = HP:0008629
+| 名称 = Pulsatile tinnitus
+| 定义 = Pulsatile tinnitus is generally classified a kind of objective tinnitus, meaning that it is not only audible to the patient but also to the examiner on auscultation of the auditory canal and/or of surrounding structures with use of an auscultation tube or stethoscope. Usually, pulsatile tinnitus is heard as a lower pitched thumping or booming, a rougher blowing sound which is coincidental with respiration, or as a clicking, higher pitched rhythmic sensation. Pulsatile tinnitus may be associated with vascular abnormalities such as arterioevenous shunts or glomus tumors or the jugular vein, arterial bruits related to a high-riding carotid artery (close to the auditory areas) or carotid stenosis, or venous abnormalities such as a dehiscent jugular bulb or to hypertension. Finally, in some patients, mechanical abnormalities such a spatulous eustachian tubes, palatomyoclonus (small spasms of muscles in the soft palate area), or idiopathic stapedial muscle spasm may represent the underlying cause of pulsatile tinnitus.
+| 中文译名 = 搏动性耳鸣
+| 中文定义 = 搏动性耳鸣通常被分类为客观性耳鸣，意味着不仅是病人可听及耳鸣声音，检查者应用听诊管或听诊器对耳道和/或其周围结构进行听诊时亦可听及。搏动性耳鸣一般为低的重击声或者隆隆声，粗糙的与呼吸一致的吹风声，或者为较高音调的有节奏感的敲击声。搏动性耳鸣可能与血管异常相关，如动静脉分流、颈静脉球体瘤，高位颈动脉（近听觉区域）相关的动脉杂音或颈动脉狭窄，或静脉异常如颈静脉球开裂或高血压。最后，在一些患者中，机械异常如咽鼓管扩张、腭肌阵挛（软腭区域肌肉小痉挛）或特发性镫骨肌痉挛也可能是搏动性耳鸣的根本原因。
+}}
+
+
+==[[HP:0008771]]==
+{{Infobox HPO
+| hpoId = HP:0008771
+| 名称 = aplasia/Hypoplasia of the ear
+| 定义 = The presence of `aplasia` (MPATH:58) or developmental hypoplasia of the `ear` (FMA:52780).
+| 中文译名 = 耳发育缺陷/不全
+| 中文定义 = 耳的不发育或进展性发育不全。
+}}
+
+
+==[[HP:0008772]]==
+{{Infobox HPO
+| hpoId = HP:0008772
+| 名称 = aplasia/Hypoplasia of the external ear
+| 定义 = The presence of `aplasia` (MPATH:58) or developmental hypoplasia of all or part of the `external ear` (FMA:52781).
+| 中文译名 = 外耳发育缺陷/不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008773]]==
+{{Infobox HPO
+| hpoId = HP:0008773
+| 名称 = aplasia/Hypoplasia of the middle ear
+| 定义 = `Aplasia` (MPATH:58) or developmental hypoplasia of all or part of the `middle ear` (FMA:56513).
+| 中文译名 = 中耳发育缺陷/不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008774]]==
+{{Infobox HPO
+| hpoId = HP:0008774
+| 名称 = aplasia/Hypoplasia of the inner ear
+| 定义 = `Aplasia` (MPATH:58) or developmental hypoplasia of the `inner ear` (FMA:60909).
+| 中文译名 = 内耳发育缺陷/不全
+| 中文定义 = 内耳发育缺陷或进展性发育不全。
+}}
+
+
+==[[HP:0009588]]==
+{{Infobox HPO
+| hpoId = HP:0009588
+| 名称 = Vestibular Schwannoma
+| 定义 = A vestibular Schwannoma (also known as acoustic neuroma, acoustic neurinoma, or acoustic neurilemoma) is a benign, usually slow-growing tumor that develops from the VIIIth cranial nerve supplying the inner ear.
+| 中文译名 = 前庭神经鞘瘤
+| 中文定义 = 前庭神经鞘瘤（也称为听神经瘤，听神经鞘瘤，或听神经鞘瘤）是良性的，通常是生长缓慢的肿瘤，起源于支配内耳的第八对颅神经。
+}}
+
+
+==[[HP:0009589]]==
+{{Infobox HPO
+| hpoId = HP:0009589
+| 名称 = Bilateral vestibular Schwannoma
+| 定义 = A bilateral vestibular Schwannoma (acoustic neurinoma).
+| 中文译名 = 双侧前庭神经鞘瘤
+| 中文定义 = 双侧前庭神经鞘瘤（听神经瘤）。
+}}
+
+
+==[[HP:0009590]]==
+{{Infobox HPO
+| hpoId = HP:0009590
+| 名称 = Unilateral vestibular Schwannoma
+| 定义 = A unilateral vestibular Schwannoma (acoustic neurinoma).
+| 中文译名 = 单侧前庭神经鞘瘤
+| 中文定义 = 单侧的前庭神经鞘瘤（听神经瘤）。
+}}
+
+
+==[[HP:0009738]]==
+{{Infobox HPO
+| hpoId = HP:0009738
+| 名称 = Abnormality of the antihelix
+| 定义 = An abnormality of the `antihelix` (FMA:60995).
+| 中文译名 = 对耳轮异常
+| 中文定义 = “对耳轮”(FMA:60995)的异常。
+}}
+
+
+==[[HP:0009739]]==
+{{Infobox HPO
+| hpoId = HP:0009739
+| 名称 = Hypoplasia of the antihelix
+| 定义 = Developmental hypoplasia of the `antihelix` (FMA:60995).
+| 中文译名 = 对耳轮发育不全
+| 中文定义 = “对耳轮”(FMA:60995)在发育上不全。
+}}
+
+
+==[[HP:0009748]]==
+{{Infobox HPO
+| hpoId = HP:0009748
+| 名称 = Large earlobe
+| 定义 = Increased volume of the earlobe, that is, abnormally prominent `ear lobules` (FMA:60984).
+| 中文译名 = 大耳垂
+| 中文定义 = 耳垂的体积增加，也就是，异常突出`耳垂（FMA: 60984）。
+}}
+
+
+==[[HP:0009797]]==
+{{Infobox HPO
+| hpoId = HP:0009797
+| 名称 = Cholesteatoma
+| 定义 = Cholesteatoma is a benign but potentially destructive growth consisting of keratinizing epithelium located in the middle ear and/or mastoid process. In cholesteatoma, a skin cyst grows into the middle ear and mastoid. The cyst is not cancerous but can erode tissue and cause destruction of the ear.
+| 中文译名 = 胆脂瘤
+| 中文定义 = 胆脂瘤是一种位于中耳和/或乳突区含有角化上皮的良性但又有潜在破坏性生长的疾病。在胆脂瘤中，皮肤呈囊肿样长入中耳和乳突。囊肿不具有癌性，但能侵蚀组织，引起耳朵的破坏。
+}}
+
+
+==[[HP:0009892]]==
+{{Infobox HPO
+| hpoId = HP:0009892
+| 名称 = Anotia
+| 定义 = Complete absence of any auricular structures.
+| 中文译名 = 无耳畸形
+| 中文定义 = 耳结构完全缺失。
+}}
+
+
+==[[HP:0009893]]==
+{{Infobox HPO
+| hpoId = HP:0009893
+| 名称 = Telangiectasia of the ear
+| 定义 = The presence of `telangiectasia` (MPATH:476) of the `ear` (FMA:52780).
+| 中文译名 = 耳毛细血管扩张
+| 中文定义 = “耳”(FMA:52780)部“毛细血管扩张”(MPATH:476)。
+}}
+
+
+==[[HP:0009894]]==
+{{Infobox HPO
+| hpoId = HP:0009894
+| 名称 = Thickened ears
+| 定义 = #####
+| 中文译名 = 大耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009895]]==
+{{Infobox HPO
+| hpoId = HP:0009895
+| 名称 = Abnormality of the crus of the helix
+| 定义 = An abnormality of the `crus of the helix (FMA:61024), which is the horizontal piece of cartilage located outside the ear canal that divides the upper and lower parts of the ear.
+| 中文译名 = 耳轮脚异常
+| 中文定义 = ，耳轮脚是位于耳道外的水平软骨，耳朵上部和下部以此划分: “耳轮脚”（61024 FMA）的异常。
+}}
+
+
+==[[HP:0009896]]==
+{{Infobox HPO
+| hpoId = HP:0009896
+| 名称 = Abnormality of the antitragus
+| 定义 = An abnormality of the antitragus, which is a small tubercle opposite to the tragus of the ear. The antitragus and the tragus are separated by the intertragic notch.
+| 中文译名 = 对耳屏异常
+| 中文定义 = 对耳屏异常，是指耳朵上一个小的相反的耳屏结节的出现。对耳屏和耳屏是由耳屏间切迹分隔开的。
+}}
+
+
+==[[HP:0009897]]==
+{{Infobox HPO
+| hpoId = HP:0009897
+| 名称 = Horizontal crus of helix
+| 定义 = An abnormal `horizontal` (PATO:0001855) axis orientation of the `crus of the helix (FMA:61024). That is, the main axis of the crus of the helix is perpendicular to the medial longitudinal axis of the ear, instead of sloping inferoposteriorly.
+| 中文译名 = 耳轮脚横向
+| 中文定义 = “耳轮脚”(FMA:61024)呈异常的“横向位轴”(PATO:0001855)，即耳轮脚的主轴垂直于耳朵纵轴，不是倾斜于后下方。
+}}
+
+
+==[[HP:0009898]]==
+{{Infobox HPO
+| hpoId = HP:0009898
+| 名称 = Underdeveloped crus of the helix
+| 定义 = Developmental hypoplasia of the `crus of the helix (FMA:61024). That is, flatter and/or shorter crus helix than average.
+| 中文译名 = 耳轮脚发育不良
+| 中文定义 = “耳轮脚”(FMA:61024)的发育不全，即，较平均水平而言，耳轮脚变平及/或变短。
+}}
+
+
+==[[HP:0009899]]==
+{{Infobox HPO
+| hpoId = HP:0009899
+| 名称 = Prominent crus of helix
+| 定义 = The presence of an abnormally `prominent` (PATO:0001482) of the `crus of the helix (FMA:61024). That is, development of the crus helix to the same degree as an average antihelix stem or helix.
+| 中文译名 = 耳轮脚突出
+| 中文定义 = 耳轮脚（FMA:61024）存在异常突出（PATO:0001482），即耳轮脚的发育与对耳轮干或耳轮的平均程度相当。
+}}
+
+
+==[[HP:0009900]]==
+{{Infobox HPO
+| hpoId = HP:0009900
+| 名称 = Unilateral deafness
+| 定义 = A `unilateral` (PATO:0000634) `absence` (PATO:0000462) of `sensory perception of sound` (GO:0007605).
+| 中文译名 = 单侧耳聋
+| 中文定义 = “单侧”（PATO: 0000634）“声音感知”（GO: 0007605）的“缺失”（PATO: 0000462）。
+}}
+
+
+==[[HP:0009901]]==
+{{Infobox HPO
+| hpoId = HP:0009901
+| 名称 = Crumpled ear
+| 定义 = Distortion of the course of the normal folds of the ear and the appearance of supernumerary crura and folds.
+| 中文译名 = 皱耳
+| 中文定义 = 外耳皱褶走向的异常性扭曲及额外皱褶的出现。
+}}
+
+
+==[[HP:0009902]]==
+{{Infobox HPO
+| hpoId = HP:0009902
+| 名称 = Cleft helix
+| 定义 = A `notched` (PATO:0001495) form of the `helix` (FMA:60992) of the ear. That is, a defect in the continuity of the helix, which may occur at any point along its length.
+| 中文译名 = 耳轮裂
+| 中文定义 = 具有“切迹”（PATO: 0001495）形态的“耳轮”(FMA:60992)。即，耳轮在连续性上有缺失，可发生在耳轮全长中的任何一点上。
+}}
+
+
+==[[HP:0009904]]==
+{{Infobox HPO
+| hpoId = HP:0009904
+| 名称 = Prominent ear helix
+| 定义 = Abnormally prominent ear helix.
+| 中文译名 = 耳轮突出
+| 中文定义 = 耳轮异常突出。
+}}
+
+
+==[[HP:0009905]]==
+{{Infobox HPO
+| hpoId = HP:0009905
+| 名称 = Thin ear helix
+| 定义 = `Decreased thickness` (PATO:0000592) of the`helix` (FMA:60992) of the ear.
+| 中文译名 = 耳轮变薄
+| 中文定义 = “耳轮”(FMA:60992)的“厚度变薄”(PATO:0000592)。
+}}
+
+
+==[[HP:0009906]]==
+{{Infobox HPO
+| hpoId = HP:0009906
+| 名称 = aplasia/Hypoplasia of the earlobes
+| 定义 = Absence or underdevelopment of the ear lobes.
+| 中文译名 = 耳垂发育缺陷/不全
+| 中文定义 = 耳垂的缺席或发育不全。
+}}
+
+
+==[[HP:0009907]]==
+{{Infobox HPO
+| hpoId = HP:0009907
+| 名称 = Attached earlobe
+| 定义 = Attachment of the lobe to the side of the face at the lowest point of the lobe without curving upward.
+| 中文译名 = 附耳垂
+| 中文定义 = 耳垂的最低点与耳垂颜面交接处未形成向上弯曲。
+}}
+
+
+==[[HP:0009908]]==
+{{Infobox HPO
+| hpoId = HP:0009908
+| 名称 = Anterior creases of earlobe
+| 定义 = Sharply demarcated, typically linear and approximately horizontal, indentations in the outer surface of the ear lobe.
+| 中文译名 = 耳垂前襞
+| 中文定义 = 边界清晰，典型地直线和近似水平线，在凹口耳垂的外表面。
+}}
+
+
+==[[HP:0009909]]==
+{{Infobox HPO
+| hpoId = HP:0009909
+| 名称 = Uplifted earlobe
+| 定义 = An abnormal orientation of the earlobes such that they point out- and upward. That is, the lateral surface of ear lobe faces superiorly.
+| 中文译名 = 耳垂方向异常
+| 中文定义 = 耳垂走向异常性向外向上，使耳垂平面朝向发生改变。
+}}
+
+
+==[[HP:0009910]]==
+{{Infobox HPO
+| hpoId = HP:0009910
+| 名称 = aplasia of the middle ear ossicles
+| 定义 = Absence of the middle ear ossicles, `malleus` (FMA:52753), `incus` (FMA:52752), and `stapes` (FMA:52751).
+| 中文译名 = 中耳听小骨发育缺陷
+| 中文定义 = 中耳听小骨缺失，锤骨，砧骨，镫骨。，
+}}
+
+
+==[[HP:0009912]]==
+{{Infobox HPO
+| hpoId = HP:0009912
+| 名称 = Abnormality of the tragus
+| 定义 = An abnormality of the `tragus` (FMA:60998).
+| 中文译名 = 耳屏异常
+| 中文定义 = 在`耳屏`的异常（FMA: 60998）。
+}}
+
+
+==[[HP:0009913]]==
+{{Infobox HPO
+| hpoId = HP:0009913
+| 名称 = aplasia/Hypoplasia of the tragus
+| 定义 = `Aplasia` (MPATH:58) or developmental hypoplasia of the tragus.
+| 中文译名 = 耳屏发育缺陷/不全
+| 中文定义 = 耳屏发育缺陷或进展性发育不良。
+}}
+
+
+==[[HP:0010532]]==
+{{Infobox HPO
+| hpoId = HP:0010532
+| 名称 = Paroxysmal vertigo
+| 定义 = Paroxysmal episodes of vertigo.
+| 中文译名 = 发作性眩晕
+| 中文定义 = 阵发性眩晕发作。
+}}
+
+
+==[[HP:0010722]]==
+{{Infobox HPO
+| hpoId = HP:0010722
+| 名称 = Asymmetry of the ears
+| 定义 = An `asymmetriy` (PATO:0000616), i.e., difference in size or shape between the left and right `ear` (FMA:52780 ).
+| 中文译名 = 耳朵不对称
+| 中文定义 = 耳朵`不对称`（PATO: 0000616），即，在左，右耳（FMA: 52780）在大小或形态上存在差异。
+}}
+
+
+==[[HP:0010723]]==
+{{Infobox HPO
+| hpoId = HP:0010723
+| 名称 = Cystic lesions of the pinnae
+| 定义 = #####
+| 中文译名 = 耳廓囊性病变
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010780]]==
+{{Infobox HPO
+| hpoId = HP:0010780
+| 名称 = Hyperacusis
+| 定义 = Over-sensitivity to certain frequency ranges of sound.
+| 中文译名 = 听觉过敏
+| 中文定义 = 对一定频率范围内的声音过度敏感。
+}}
+
+
+==[[HP:0011039]]==
+{{Infobox HPO
+| hpoId = HP:0011039
+| 名称 = Abnormality of the helix
+| 定义 = An abnormality of the `helix` (FMA:60992). The helix is the outer rim of the ear that extends from the insertion of the ear on the scalp (root) to the termination of the cartilage at the earlobe.
+| 中文译名 = 耳轮异常
+| 中文定义 = 耳轮异常（FMA: 60992）。耳轮是指从耳根部延伸出来止于耳垂的外缘的软骨组织。
+}}
+
+
+==[[HP:0011233]]==
+{{Infobox HPO
+| hpoId = HP:0011233
+| 名称 = Antihelical shelf
+| 定义 = Antihelix protrusion directed more anteriorly than laterally, forming a shelf overlying the posterior concha.
+| 中文译名 = 对耳轮畸形
+| 中文定义 = 耳轮突起指向比横向更靠前，形成一个隔覆盖后外耳。
+}}
+
+
+==[[HP:0011234]]==
+{{Infobox HPO
+| hpoId = HP:0011234
+| 名称 = Absent antihelix
+| 定义 = No discernible ridge between concha and triangular fossa and helix.
+| 中文译名 = 对耳轮缺失
+| 中文定义 = 外耳、三角窝、耳轮之间没有明显的棱线。
+}}
+
+
+==[[HP:0011235]]==
+{{Infobox HPO
+| hpoId = HP:0011235
+| 名称 = Additional crus of antihelix
+| 定义 = Supernumerary ridge or crus of the ear arising from the antihelix.
+| 中文译名 = 对耳轮脚多余
+| 中文定义 = 对轮脚延伸出多余的脊或凸起。
+}}
+
+
+==[[HP:0011236]]==
+{{Infobox HPO
+| hpoId = HP:0011236
+| 名称 = Angulated antihelix
+| 定义 = Antihelical ridge that forms an acute angle between the antitragus and its bifurcation (stem) instead of a gently curving arc.
+| 中文译名 = 对耳轮棱型
+| 中文定义 = 对耳轮脊形成对耳屏及其分叉（干）之间的锐角，而不是一个平缓弯曲的弧线。
+}}
+
+
+==[[HP:0011237]]==
+{{Infobox HPO
+| hpoId = HP:0011237
+| 名称 = Broad inferior crus of antihelix
+| 定义 = Increased width of the inferred cross-section of the inferior crus.
+| 中文译名 = 对耳轮下脚宽
+| 中文定义 = 下角横截面导致的宽度增加。
+}}
+
+
+==[[HP:0011238]]==
+{{Infobox HPO
+| hpoId = HP:0011238
+| 名称 = Prominent inferior crus of antihelix
+| 定义 = Increased protrusion of the inferior crus relative to the prominence of the antihelix stem.
+| 中文译名 = 对耳轮下脚突出
+| 中文定义 = 与对耳轮干的突出相比，对耳轮下脚的突出增加。
+}}
+
+
+==[[HP:0011239]]==
+{{Infobox HPO
+| hpoId = HP:0011239
+| 名称 = Underdeveloped inferior crus of antihelix
+| 定义 = Decreased protrusion of the inferior crus relative to the prominence of the antihelix stem.
+| 中文译名 = 对耳轮下脚发育不良
+| 中文定义 = 与对耳轮干的突出相比，对耳轮下脚的突出减少。
+}}
+
+
+==[[HP:0011240]]==
+{{Infobox HPO
+| hpoId = HP:0011240
+| 名称 = Prominent stem of antihelix
+| 定义 = Increased protrusion of the antihelical ridge, proximal to its bifurcation, relative to the prominence of the helix.
+| 中文译名 = 对耳轮干突出
+| 中文定义 = 与耳轮的突出相比，接近分叉处的对耳轮脊的突出增加。
+}}
+
+
+==[[HP:0011241]]==
+{{Infobox HPO
+| hpoId = HP:0011241
+| 名称 = Serpiginous stem of antihelix
+| 定义 = Posterior curving of the antihelix from its origin at the antitragus, traveling initially almost perpendicular to the descending helix and obscuring some of the concha.
+| 中文译名 = 匐行性对耳轮干
+| 中文定义 = 后路从它的起源对耳轮的弯曲的耳屏，最初旅行几乎垂直的下降螺旋和模糊一些外耳的。
+}}
+
+
+==[[HP:0011242]]==
+{{Infobox HPO
+| hpoId = HP:0011242
+| 名称 = Underdeveloped stem of antihelix
+| 定义 = Decreased protrusion of the antihelical ridge, proximal to its bifurcation, relative to the prominence of a normal helix.
+| 中文译名 = 对耳轮干发育不良
+| 中文定义 = 与正常耳轮的突出相比，接近分叉处的对耳轮脊的突出减少。
+}}
+
+
+==[[HP:0011243]]==
+{{Infobox HPO
+| hpoId = HP:0011243
+| 名称 = Abnormality of inferior crus of antihelix
+| 定义 = An abnormality of the inferior crus of the antihelix is the lower cartilaginous ridge arising at the bifurcation of the antihelix that ends beneath the fold of the ascending helix, and separates the concha from the triangular fossa.
+| 中文译名 = 对耳轮下脚异常
+| 中文定义 = 对耳轮下脚异常是对耳轮脚螺旋上升至外耳三角窝处分离出对耳轮脚，在此皱襞下方软骨脊的产生。。
+}}
+
+
+==[[HP:0011244]]==
+{{Infobox HPO
+| hpoId = HP:0011244
+| 名称 = Abnormality of stem of antihelix
+| 定义 = An abnormality of the stem of the antihelix, which is the part below the bifurcation of the antihelix into the inferior and superior crura.
+| 中文译名 = 对耳轮干异常
+| 中文定义 = 对耳轮干异常，指对耳轮分叉为上、下脚的叉口下方的干部异常。
+}}
+
+
+==[[HP:0011245]]==
+{{Infobox HPO
+| hpoId = HP:0011245
+| 名称 = Abnormality of superior crus of antihelix
+| 定义 = An abnormality of the superior crus of the antihelix is the upper cartilaginous ridge arising at the bifurcation of the antihelix that ends beneath the fold of the ascending helix, and separates the concha from the triangular fossa.
+| 中文译名 = 对耳轮上脚异常
+| 中文定义 = 对耳轮上脚异常是对耳轮脚螺旋上升至外耳三角窝处分离出对耳轮脚，在此皱襞上方软骨脊的产生。
+}}
+
+
+==[[HP:0011246]]==
+{{Infobox HPO
+| hpoId = HP:0011246
+| 名称 = Underdeveloped superior crus of antihelix
+| 定义 = Decreased protrusion of the superior crus relative to the prominence of a normal antihelix stem.
+| 中文译名 = 对耳轮上脚发育不良
+| 中文定义 = 与正常对耳轮干的突出相比，对耳轮上脚的突出减少。
+}}
+
+
+==[[HP:0011247]]==
+{{Infobox HPO
+| hpoId = HP:0011247
+| 名称 = Prominent superior crus of antihelix
+| 定义 = Increased protrusion of the superior crus relative to the prominence of a normal antihelix stem.
+| 中文译名 = 对耳轮上脚突出
+| 中文定义 = 与正常对耳轮干的突出相比，对耳轮上脚的突出增加。
+}}
+
+
+==[[HP:0011248]]==
+{{Infobox HPO
+| hpoId = HP:0011248
+| 名称 = Everted antitragus
+| 定义 = Positioning of the antitragus at an angle perpendicular to the plane of the ear (oriented away from the plane of the ear).
+| 中文译名 = 对耳屏外翻
+| 中文定义 = 对耳屏在垂直于耳的平面的角度定位（从耳的平面取向的距离）。对耳屏与耳朵平面垂直成角（方向是远离耳朵平面）
+}}
+
+
+==[[HP:0011249]]==
+{{Infobox HPO
+| hpoId = HP:0011249
+| 名称 = Absent antitragus
+| 定义 = Absence of the anterosuperior prominence of the area between the bottom of the incisura and the inner margin of the antihelix.
+| 中文译名 = 耳屏缺失
+| 中文定义 = 切迹的底部和对耳轮的内缘之间的区域的前上突出的缺失。
+}}
+
+
+==[[HP:0011250]]==
+{{Infobox HPO
+| hpoId = HP:0011250
+| 名称 = Bifid antitragus
+| 定义 = Double rather than single peak of the antitragus.
+| 中文译名 = 对耳屏裂
+| 中文定义 = 对耳屏双峰，而不是单峰。
+}}
+
+
+==[[HP:0011251]]==
+{{Infobox HPO
+| hpoId = HP:0011251
+| 名称 = Underdeveloped antitragus
+| 定义 = Reduction in the anterosuperior prominence of the area between the bottom of the incisura and the inner margin of the antihelix.
+| 中文译名 = 对耳屏发育不良
+| 中文定义 = 切迹底部和对耳轮内缘之间区域的前上部分突出减少。
+}}
+
+
+==[[HP:0011252]]==
+{{Infobox HPO
+| hpoId = HP:0011252
+| 名称 = Cryptotia
+| 定义 = Invagination of the superior part of the auricle under a fold of temporal skin.
+| 中文译名 = 隐耳
+| 中文定义 = 耳廓软骨上端隐入颞部头皮的皮下。
+}}
+
+
+==[[HP:0011253]]==
+{{Infobox HPO
+| hpoId = HP:0011253
+| 名称 = Type I cryptotia
+| 定义 = A type of cryptotia associated with reduction in size of the antihelix and superior crus.
+| 中文译名 = Ⅰ型隐耳
+| 中文定义 = 与对耳轮和其上脚大小缩小相关的隐耳类型。
+}}
+
+
+==[[HP:0011254]]==
+{{Infobox HPO
+| hpoId = HP:0011254
+| 名称 = Type II cryptotia
+| 定义 = A type of cryptotia associated with reduction in size of the antihelix and inferior crus that are affected.
+| 中文译名 = Ⅱ型隐耳
+| 中文定义 = 与对耳轮和其下脚大小缩小相关的隐耳类型。
+}}
+
+
+==[[HP:0011255]]==
+{{Infobox HPO
+| hpoId = HP:0011255
+| 名称 = Absent crus of helix
+| 定义 = Continuum between the tragus and ascending helix, without any evidence of a posterior extension (crus) towards the concha.
+| 中文译名 = 耳轮脚缺失
+| 中文定义 = 耳屏和上升耳轮之间连续，没有一个后伸（小腿）朝向外耳的任何证据。
+}}
+
+
+==[[HP:0011256]]==
+{{Infobox HPO
+| hpoId = HP:0011256
+| 名称 = Crus of helix connected to antihelix
+| 定义 = Extension of the ridge of the crus helix across the ear and connection of the crus to the antihelix.
+| 中文译名 = 耳轮脚与对耳轮粘连
+| 中文定义 = 穿过耳和对耳轮脚连接处的耳轮脚脊的延伸。
+}}
+
+
+==[[HP:0011257]]==
+{{Infobox HPO
+| hpoId = HP:0011257
+| 名称 = Serpiginous crus of helix
+| 定义 = Curving course of the crus of the helix, approaching or joining the antitragus.
+| 中文译名 = 匐行性耳轮脚
+| 中文定义 = 耳轮脚卷曲过程中接近或结合到对耳屏。
+}}
+
+
+==[[HP:0011258]]==
+{{Infobox HPO
+| hpoId = HP:0011258
+| 名称 = Tragal bridge of crus of helix
+| 定义 = The anterior origin of the crus encompasses the superior margin of the tragus, the crus overrides the upper portion of the conchal cavum and ends at the antihelix.
+| 中文译名 = 耳前切迹
+| 中文定义 = 小腿的前原点涵盖耳屏的上缘，所述小腿覆盖孔查空腔的上部和结束于对耳轮。
+}}
+
+
+==[[HP:0011259]]==
+{{Infobox HPO
+| hpoId = HP:0011259
+| 名称 = Expanded terminal portion of crus of helix
+| 定义 = Widening, rather than tapering, of the crus at its posterior border near the antihelix.
+| 中文译名 = 耳轮脚末端扩大
+| 中文定义 = 靠近对耳轮处的耳轮脚后缘渐增宽，而非渐变细。
+}}
+
+
+==[[HP:0011260]]==
+{{Infobox HPO
+| hpoId = HP:0011260
+| 名称 = Darwin notch of helix
+| 定义 = Small defect of the helical fold that lies at the junction of the superior and descending portions of the helix.
+| 中文译名 = 耳轮达尔文缺口
+| 中文定义 = 位于耳轮后上部交接处的耳轮结节性小缺损。
+}}
+
+
+==[[HP:0011261]]==
+{{Infobox HPO
+| hpoId = HP:0011261
+| 名称 = Darwin tubercle of helix
+| 定义 = Small expansion of the helical fold at the junction of the superior and descending portions of the helix.
+| 中文译名 = 耳轮达尔文结节
+| 中文定义 = 位于耳轮后上部交接处的耳轮结节性小膨大。
+}}
+
+
+==[[HP:0011262]]==
+{{Infobox HPO
+| hpoId = HP:0011262
+| 名称 = Crimped helix
+| 定义 = Linear, circumferential indentation in the convexity of the outer surface of the helix.
+| 中文译名 = 耳轮卷曲
+| 中文定义 = 耳轮外表面凸面的线性环状切记。
+}}
+
+
+==[[HP:0011263]]==
+{{Infobox HPO
+| hpoId = HP:0011263
+| 名称 = Forward facing earlobe
+| 定义 = Positioning of the anterior surface of the ear lobe in a more coronal plane than the remainder of the ear.
+| 中文译名 = 前向耳垂
+| 中文定义 = 耳垂的前表面比耳朵的其它部分更近于冠状平面。
+}}
+
+
+==[[HP:0011264]]==
+{{Infobox HPO
+| hpoId = HP:0011264
+| 名称 = Discontinuous ascending root of helix
+| 定义 = #####
+| 中文译名 = 耳轮根部上升段不连续
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011265]]==
+{{Infobox HPO
+| hpoId = HP:0011265
+| 名称 = Cleft earlobe
+| 定义 = Discontinuity in the convexity of the inferior margin of the lobe.
+| 中文译名 = 耳垂裂
+| 中文定义 = 耳垂下缘在凸起出中断不连续。
+}}
+
+
+==[[HP:0011266]]==
+{{Infobox HPO
+| hpoId = HP:0011266
+| 名称 = Microtia, first degree
+| 定义 = Presence of all the normal ear components and the median longitudinal length more than two standard deviations below the mean.
+| 中文译名 = 小耳畸形，1级
+| 中文定义 = 耳廓包含所有正常耳组分，平均纵向长度低于平均值的两个以上的标准偏差。
+}}
+
+
+==[[HP:0011267]]==
+{{Infobox HPO
+| hpoId = HP:0011267
+| 名称 = Microtia, third degree
+| 定义 = Presence of some auricular structures, but none of these structures conform to recognized ear components.
+| 中文译名 = 小耳畸形，3级
+| 中文定义 = 存在一些耳廓的结构，但这些结构与公认的耳廓正常标志不符。
+}}
+
+
+==[[HP:0011268]]==
+{{Infobox HPO
+| hpoId = HP:0011268
+| 名称 = Absent tragus
+| 定义 = Lack of convexity or prominence of the contour of the ridge between the bottom of the incisura and the confluence of the ascending helix and crus helix.
+| 中文译名 = 耳屏缺失
+| 中文定义 = 上升的耳轮与耳轮脚汇合处和切迹底部之间没有凸起或者耳轮廓脊凸。
+}}
+
+
+==[[HP:0011269]]==
+{{Infobox HPO
+| hpoId = HP:0011269
+| 名称 = Bifid tragus
+| 定义 = Increased height of the tragal ridge with a shallow indentation at the apex, giving the appearance of a double peak.
+| 中文译名 = 耳屏裂
+| 中文定义 = 在顶端的浅凹槽使耳屏脊的高度增加，给人一种双峰的外观。
+}}
+
+
+==[[HP:0011270]]==
+{{Infobox HPO
+| hpoId = HP:0011270
+| 名称 = Duplicated tragus
+| 定义 = A complete or partial duplication of the tragus; expected to lie anterior to the normal tragus.
+| 中文译名 = 双耳屏
+| 中文定义 = 耳屏完全或者部分的重复，一般位于正常耳屏的前方。
+}}
+
+
+==[[HP:0011271]]==
+{{Infobox HPO
+| hpoId = HP:0011271
+| 名称 = Prominent tragus
+| 定义 = Increase posterolateral protrusion of the tragus.
+| 中文译名 = 耳屏突出
+| 中文定义 = 耳屏后外侧突起增加。
+}}
+
+
+==[[HP:0011272]]==
+{{Infobox HPO
+| hpoId = HP:0011272
+| 名称 = Underdeveloped tragus
+| 定义 = Decreased posterolateral protrusion of the tragus.
+| 中文译名 = 耳屏发育不良
+| 中文定义 = 耳屏后外侧突起的减少。
+}}
+
+
+==[[HP:0011372]]==
+{{Infobox HPO
+| hpoId = HP:0011372
+| 名称 = aplasia of the inner ear
+| 定义 = Absence of the inner ear due to a developmental defect.
+| 中文译名 = 内耳不发育
+| 中文定义 = 由于发育缺陷导致内耳缺失。
+}}
+
+
+==[[HP:0011373]]==
+{{Infobox HPO
+| hpoId = HP:0011373
+| 名称 = Incomplete partition of the cochlea
+| 定义 = Incomplete formation of the cochlear partition. The scala vestibuli and scala tympani separated by the cochlear partition, except in the apical turn where the two scalae are in continuity via the helicotrema.
+| 中文译名 = 耳蜗不完全分隔
+| 中文定义 = 耳蜗分隔不完全。除了在耳蜗顶转，前庭阶与鼓阶由蜗间隔分离；在顶转，前庭阶与鼓阶经蜗孔相通。
+}}
+
+
+==[[HP:0011374]]==
+{{Infobox HPO
+| hpoId = HP:0011374
+| 名称 = Incomplete partition of the cochlea type I
+| 定义 = The cochlea is lacking the entire modiolus and cribriform area, resulting in a cystic appearance. This is accompanied by a large cystic vestibule.
+| 中文译名 = I型耳蜗分隔不全
+| 中文定义 = 耳蜗缺乏蜗轴和筛区，导致囊性外观。这种情况下，前庭也常常呈囊性。
+}}
+
+
+==[[HP:0011375]]==
+{{Infobox HPO
+| hpoId = HP:0011375
+| 名称 = Cochlear aplasia
+| 定义 = Absence of the cochlea, a spiral shaped cavity in the inner ear, owing to a developmental defect.
+| 中文译名 = 耳蜗不发育
+| 中文定义 = 由于发育缺陷，导致在内耳中呈螺旋形态的耳蜗的缺失。
+}}
+
+
+==[[HP:0011376]]==
+{{Infobox HPO
+| hpoId = HP:0011376
+| 名称 = Morphological abnormality of the vestibule of the inner ear
+| 定义 = A morphological abnormality of the vestibule, the central part of the osseous labyrinth that is situated medial to the tympanic cavity, behind the cochlea, and in front of the semicircular canals.
+| 中文译名 = 内耳前庭的形态异常
+| 中文定义 = 前庭的形态异常，前庭是位于鼓室腔的中部内侧，耳蜗的后面，并在半规管的前部的骨迷路的中心部分。
+}}
+
+
+==[[HP:0011377]]==
+{{Infobox HPO
+| hpoId = HP:0011377
+| 名称 = aplasia of the vestibule
+| 定义 = Complete absence of the vestibule of the inner ear.
+| 中文译名 = 前庭发育缺陷
+| 中文定义 = 内耳前庭完全缺失。
+}}
+
+
+==[[HP:0011378]]==
+{{Infobox HPO
+| hpoId = HP:0011378
+| 名称 = Hypoplasia of the vestibule of the inner ear
+| 定义 = Underdevelopment of the vestibule of the inner ear.
+| 中文译名 = 内耳前庭发育不良
+| 中文定义 = 内耳前庭在发育上不完全。
+}}
+
+
+==[[HP:0011379]]==
+{{Infobox HPO
+| hpoId = HP:0011379
+| 名称 = Dilated vestibule of the inner ear
+| 定义 = Dilatation of the vestibule of the inner ear.
+| 中文译名 = 内耳前庭扩大
+| 中文定义 = 扩张内耳的前庭。内耳前庭部分的扩大
+}}
+
+
+==[[HP:0011380]]==
+{{Infobox HPO
+| hpoId = HP:0011380
+| 名称 = Morphological abnormality of the semicircular canal
+| 定义 = An abnormality of the morphology of the `semicircular canal` (FMA:60186).
+| 中文译名 = 半规管形态异常
+| 中文定义 = 半规管形态的异常（FMA: 60186）。
+}}
+
+
+==[[HP:0011381]]==
+{{Infobox HPO
+| hpoId = HP:0011381
+| 名称 = aplasia of the semicircular canal
+| 定义 = Absence of the semicircular canal.
+| 中文译名 = 半规管不发育
+| 中文定义 = 半规管缺失。
+}}
+
+
+==[[HP:0011382]]==
+{{Infobox HPO
+| hpoId = HP:0011382
+| 名称 = Hypoplasia of the semicircular canal
+| 定义 = Underdevelopment of the semicircular canal.
+| 中文译名 = 半规管发育不全
+| 中文定义 = 半规管发育不全。
+}}
+
+
+==[[HP:0011383]]==
+{{Infobox HPO
+| hpoId = HP:0011383
+| 名称 = Enlarged semicircular canal
+| 定义 = Increased size of the semicircular canal.
+| 中文译名 = 半规管扩大
+| 中文定义 = 半规管的大小增加。
+}}
+
+
+==[[HP:0011384]]==
+{{Infobox HPO
+| hpoId = HP:0011384
+| 名称 = Abnormality of the internal auditory canal
+| 定义 = An abnormality of the `Internal acoustic meatus` (FMA:53163), i.e., of the canal in the petrous part of the temporal bone through which the cranial nerve VII and cranial nerve VIII traverse.
+| 中文译名 = 内耳道异常
+| 中文定义 = “内听道”(FMA:53163)的异常，内听道为颞骨岩部管道，脑神经VII和脑神经VIII由此穿过。
+}}
+
+
+==[[HP:0011385]]==
+{{Infobox HPO
+| hpoId = HP:0011385
+| 名称 = Absent internal auditory canal
+| 定义 = Aplasia of the internal auditory canal.
+| 中文译名 = 无内听道
+| 中文定义 = 内听道不发育。
+}}
+
+
+==[[HP:0011386]]==
+{{Infobox HPO
+| hpoId = HP:0011386
+| 名称 = Narrow internal auditory canal
+| 定义 = Reduction in diameter of the internal auditory canal.
+| 中文译名 = 内听道狭窄
+| 中文定义 = 内听道的直径变窄。
+}}
+
+
+==[[HP:0011387]]==
+{{Infobox HPO
+| hpoId = HP:0011387
+| 名称 = Enlarged vestibular aqueduct
+| 定义 = Increased size of the vestibular aqueduct.
+| 中文译名 = 前庭导水管扩大
+| 中文定义 = 前庭导水管扩大。
+}}
+
+
+==[[HP:0011388]]==
+{{Infobox HPO
+| hpoId = HP:0011388
+| 名称 = Enlarged cochlear aqueduct
+| 定义 = Increased size of the `cochlear duct` (FMA:61119), i.e., of a duct that communicates between the perilymphatic space and the subarachnoid space, and transmits a vein from the cochlea to join the internal jugular.
+| 中文译名 = 耳蜗导水管扩大
+| 中文定义 = “耳蜗管”（FMA: 61119）大小的增加，而耳蜗管即为外淋巴腔与蛛网膜下腔之间的管道，并且从耳蜗发送一静脉加入颈内静脉。
+}}
+
+
+==[[HP:0011389]]==
+{{Infobox HPO
+| hpoId = HP:0011389
+| 名称 = Functional abnormality of the inner ear
+| 定义 = An abnormality of the function of the inner ear.
+| 中文译名 = 内耳机能异常
+| 中文定义 = 内耳的功能的异常。
+}}
+
+
+==[[HP:0011390]]==
+{{Infobox HPO
+| hpoId = HP:0011390
+| 名称 = Morphological abnormality of the inner ear
+| 定义 = An abnormality of the morphology or structure of the inner ear.
+| 中文译名 = 内耳形态异常
+| 中文定义 = 内耳形态或结构的异常。
+}}
+
+
+==[[HP:0011391]]==
+{{Infobox HPO
+| hpoId = HP:0011391
+| 名称 = Morphological abnormality of the nerves of the inner ear
+| 定义 = #####
+| 中文译名 = 内耳神经形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011392]]==
+{{Infobox HPO
+| hpoId = HP:0011392
+| 名称 = Abnormality of the vestibular nerve
+| 定义 = #####
+| 中文译名 = 前庭神经异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011393]]==
+{{Infobox HPO
+| hpoId = HP:0011393
+| 名称 = aplasia of the vestibular nerve.
+| 定义 = Absence of the vestibular nerve.
+| 中文译名 = 前庭神经发育缺陷
+| 中文定义 = 前庭神经缺失。
+}}
+
+
+==[[HP:0011394]]==
+{{Infobox HPO
+| hpoId = HP:0011394
+| 名称 = Hypoplasia of the vestibular nerve
+| 定义 = Underdevelopment of the vestibular nerve.
+| 中文译名 = 前庭神经发育不良
+| 中文定义 = 前庭神经在发育上不完全。
+}}
+
+
+==[[HP:0011395]]==
+{{Infobox HPO
+| hpoId = HP:0011395
+| 名称 = aplasia/Hypoplasia of the cochlea
+| 定义 = Absence or underdevelopment of the cochlea, a spiral shaped cavity in the inner ear, owing to a developmental defect.
+| 中文译名 = 耳蜗发育缺陷/不全
+| 中文定义 = 由于发育缺陷，导致在内耳中呈螺旋形态的耳蜗的缺失或发育不全。
+}}
+
+
+==[[HP:0011396]]==
+{{Infobox HPO
+| hpoId = HP:0011396
+| 名称 = Abnormality of the cochlear nerve
+| 定义 = #####
+| 中文译名 = 耳蜗神经异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011452]]==
+{{Infobox HPO
+| hpoId = HP:0011452
+| 名称 = Functional abnormality of the middle ear
+| 定义 = An abnormality of the function of the middle ear.
+| 中文译名 = 中耳机能异常
+| 中文定义 = 中耳的功能的异常。
+}}
+
+
+==[[HP:0011453]]==
+{{Infobox HPO
+| hpoId = HP:0011453
+| 名称 = Abnormality of the incus
+| 定义 = An abnormality of the `incus` (FMA:52752), an ossicle in the middle ear.
+| 中文译名 = 砧骨异常
+| 中文定义 = 在`砧骨`的异常（FMA: 52752），砧骨为中耳听小骨之一。
+}}
+
+
+==[[HP:0011454]]==
+{{Infobox HPO
+| hpoId = HP:0011454
+| 名称 = Abnormality of the malleus
+| 定义 = An abnormality of the `malleus* (FMA:52753), an ossicle in the middle ear.
+| 中文译名 = 锤骨异常
+| 中文定义 = 在“锤骨”（FMA: 52753）的异常，锤骨指位于中耳的听小骨之一。
+}}
+
+
+==[[HP:0011455]]==
+{{Infobox HPO
+| hpoId = HP:0011455
+| 名称 = Absent malleus
+| 定义 = Aplasia of the `malleus` (FMA:52753).
+| 中文译名 = 锤骨缺失
+| 中文定义 = 锤骨不发育（FMA: 52753）。
+}}
+
+
+==[[HP:0011456]]==
+{{Infobox HPO
+| hpoId = HP:0011456
+| 名称 = Absent stapes
+| 定义 = Aplasia of the `stapes` (FMA:52751).
+| 中文译名 = 镫骨缺失
+| 中文定义 = 镫骨不发育（FMA: 52751）。
+}}
+
+
+==[[HP:0011474]]==
+{{Infobox HPO
+| hpoId = HP:0011474
+| 名称 = Childhood onset sensorineural hearing impairment
+| 定义 = `Sensorineural hearing impairment` (===HP:0008538===) with childhood onset.
+| 中文译名 = 儿童期发病的感音神经性听觉障碍
+| 中文定义 = `感音神经性听觉障碍`（HP: 0008538）在儿童期起病。
+}}
+
+
+==[[HP:0011475]]==
+{{Infobox HPO
+| hpoId = HP:0011475
+| 名称 = Persistent stapedial artery
+| 定义 = Persistence of the stapedial artery, which normally regresses during embryonic life.
+| 中文译名 = 残留性镫骨动脉
+| 中文定义 = 通常在胚胎期退化却残存下来的镫骨动脉。
+}}
+
+
+==[[HP:0011476]]==
+{{Infobox HPO
+| hpoId = HP:0011476
+| 名称 = Profound sensorineural hearing impairment
+| 定义 = Complete loss of hearing related to a sensorineural defect.
+| 中文译名 = 极重度感音神经性听力损失
+| 中文定义 = 听力完全丧失的神经性缺陷。
+}}
+
+
+==[[HP:0011975]]==
+{{Infobox HPO
+| hpoId = HP:0011975
+| 名称 = Aminoglycoside-induced hearing loss
+| 定义 = Partial or complete loss of hearing following ingestion of aminoglycoside antibiotics.
+| 中文译名 = 氨基糖甙类抗生素引起的听力损失
+| 中文定义 = 摄入氨基糖苷类抗生素后听力部分或完全丧失。
+}}
+
+
+==[[HP:0012712]]==
+{{Infobox HPO
+| hpoId = HP:0012712
+| 名称 = Mild hearing impairment
+| 定义 = The presence of a `mild` (PATO:0000394) form of `hearing impairment` (===HP:0000365===).
+| 中文译名 = 轻度听力损失
+| 中文定义 = 程度轻微的（PATO: 0000394）听力损失（HP: 0000365）。
+}}
+
+
+==[[HP:0012713]]==
+{{Infobox HPO
+| hpoId = HP:0012713
+| 名称 = Moderate hearing impairment
+| 定义 = The presence of a `moderate` (PATO:0000395) form of `hearing impairment` (===HP:0000365===).
+| 中文译名 = 中度听力损失
+| 中文定义 = &#39;中等程度的（PATO: 0000395）听力损失（HP: 0000365）的。
+}}
+
+
+==[[HP:0012714]]==
+{{Infobox HPO
+| hpoId = HP:0012714
+| 名称 = Severe hearing impairment
+| 定义 = A `severe` (PATO:0000396) form of `hearing impairment` (===HP:0000365===).
+| 中文译名 = 重度耳聋
+| 中文定义 = 程度为“重度”(PATO:0000396)的“听力损失”(===HP:0000365===)。
+}}
+
+
+==[[HP:0012715]]==
+{{Infobox HPO
+| hpoId = HP:0012715
+| 名称 = Profound hearing impairment
+| 定义 = A profound (essentially complete) form of `hearing impairment` (===HP:0000365===).
+| 中文译名 = 极重度听力损失
+| 中文定义 = 极重度的（基本完全丧失的）听力损失（===HP:0000365===）。
+}}
+
+
+==[[HP:0012716]]==
+{{Infobox HPO
+| hpoId = HP:0012716
+| 名称 = Moderate conductive hearing impairment
+| 定义 = The presence of a `moderate` (PATO:0000395) form of `conductive hearing impairment` (===HP:0000405===).
+| 中文译名 = 中度传导性听力损失
+| 中文定义 = 中等程度的（PATO: 0000395）传导性听力损失（HP: 0000405）。
+}}
+
+
+==[[HP:0012717]]==
+{{Infobox HPO
+| hpoId = HP:0012717
+| 名称 = Severe conductive hearing impairment
+| 定义 = A `severe` (PATO:0000396) form of `conductive hearing impairment` (===HP:0000405===).
+| 中文译名 = 重度传导性耳聋
+| 中文定义 = 程度为“重度”(PATO:0000396)的“传导性听力损失”(===HP:0000405===)。
+}}
+
+
+==[[HP:0012779]]==
+{{Infobox HPO
+| hpoId = HP:0012779
+| 名称 = Transient hearing impairment
+| 定义 = Hearing loss that occurs acutely and resolves completely.
+| 中文译名 = 一过性听力障碍
+| 中文定义 = 急性发生且能完全恢复的听力损失。
+}}
+
+
+==[[HP:0012780]]==
+{{Infobox HPO
+| hpoId = HP:0012780
+| 名称 = Neoplasm of the ear
+| 定义 = A neoplasm` (MPATH:218)  of the ear.
+| 中文译名 = 耳肿瘤
+| 中文定义 = 耳部的肿瘤(MPATH:218)  。
+}}
+
+
+==[[HP:0012781]]==
+{{Infobox HPO
+| hpoId = HP:0012781
+| 名称 = Mid-frequency hearing loss
+| 定义 = A type of `hearing impairment` (===HP:0000365===) affecting primarily the middle frequencies of sound (1000 Hz to 3000 Hz).
+| 中文译名 = 中频听力损失
+| 中文定义 = ’听力损失的一种类型（HP: 0000365）主要影响声音的中间频率（1000赫兹至3000赫兹）。
+}}
+
+
+==[[HP:0030021]]==
+{{Infobox HPO
+| hpoId = HP:0030021
+| 名称 = Auricular tag
+| 定义 = Small protrusion within the pinna.
+| 中文译名 = 耳赘
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030022]]==
+{{Infobox HPO
+| hpoId = HP:0030022
+| 名称 = Question mark ear
+| 定义 = Cleft between the helix and the lobe.
+| 中文译名 = 问号状耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030023]]==
+{{Infobox HPO
+| hpoId = HP:0030023
+| 名称 = Quelprud Nodule
+| 定义 = Small cartilaginous prominence on the posterior concha.
+| 中文译名 = Quelprud 结节
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030025]]==
+{{Infobox HPO
+| hpoId = HP:0030025
+| 名称 = Auricular pit
+| 定义 = Small indentation in the lower part of the ascending helix, concha, or in the crus helix.
+| 中文译名 = 耳凹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030026]]==
+{{Infobox HPO
+| hpoId = HP:0030026
+| 名称 = Squared superior portion of helix
+| 定义 = Flattening instead of curving or rounded superior helix, allowing the superior helix to run more horizontally than usual.
+| 中文译名 = 耳轮方形上部
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030183]]==
+{{Infobox HPO
+| hpoId = HP:0030183
+| 名称 = Impaired visually enhanced vestibulo-ocular reflex
+| 定义 = The vestibulo-ocular reflex is responsible for the stabilization of the retinal image during movement. The visual vestibular ocular reflex (VVOR) or visual enhanced VOR, maintains ocular stability during head motion by generating compensatory eye movement opposite to head movement, and is a major component of visual vestibularninteraction. This feature is an impairment of this reflex, manifested as the combined impairment of the three compensatory eye movement reflexes, namely the vestibulo-ocular reflex (VOR), smooth pursuit (SP) and optokinetic reflex (OKR).
+| 中文译名 = 受损的视觉增强的前庭眼反射
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030393]]==
+{{Infobox HPO
+| hpoId = HP:0030393
+| 名称 = Endolymphatic sac tumor
+| 定义 = A low-grade papillary epithelial neoplasm (adenocarcinoma) with a slow growth pattern. The endolymphatic duct emerges from the posterior wall of the saccule (of the inner ear) and ends in a blind pouch, the endolymphatic sac. Endolymphatic sac tumors (ELSTs) are known under different names in the literature (Heffner tumor, aggressive papillary middle ear tumor, and low-grade adenocarcinoma of endolymphatic sac origin).
+| 中文译名 = 内淋巴囊肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030676]]==
+{{Infobox HPO
+| hpoId = HP:0030676
+| 名称 = Satyr ear
+| 定义 = Sharp pointed superior portion of the ear, with variable overfolding of the helix.
+| 中文译名 = 尖耳轮耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030677]]==
+{{Infobox HPO
+| hpoId = HP:0030677
+| 名称 = Mozart ear
+| 定义 = A congenital auricular deformity, which is mainly characterized by a bulging appearance of the anterosuperior portion of the auricle, a convexly protruded cavum conchae, and a slit-like narrowing of the orifice of the external auditory meatus.
+| 中文译名 = 莫氏耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030766]]==
+{{Infobox HPO
+| hpoId = HP:0030766
+| 名称 = Ear pain
+| 定义 = #####
+| 中文译名 = 耳痛
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030787]]==
+{{Infobox HPO
+| hpoId = HP:0030787
+| 名称 = Cerumen abnormality
+| 定义 = Any anomaly of the cerumen (ear wax), the yellowish waxy substance secreted in the ear canal.
+| 中文译名 = 耵聍异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030788]]==
+{{Infobox HPO
+| hpoId = HP:0030788
+| 名称 = Impacted cerumen
+| 定义 = Blockage of the external auditory canal by a buildup of earwax.
+| 中文译名 = 耵聍栓塞
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030789]]==
+{{Infobox HPO
+| hpoId = HP:0030789
+| 名称 = Excessive cerumen
+| 定义 = An increased quantity of earwax.
+| 中文译名 = 耵聍过多
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030790]]==
+{{Infobox HPO
+| hpoId = HP:0030790
+| 名称 = Abnormal cerumen color
+| 定义 = An anomolous earwax color. Earwax (cerumen) is usually light to dark brown or orange in color.
+| 中文译名 = 耵聍颜色异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040080]]==
+{{Infobox HPO
+| hpoId = HP:0040080
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 前倾耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040090]]==
+{{Infobox HPO
+| hpoId = HP:0040090
+| 名称 = Abnormality of the tympanic membrane
+| 定义 = An abnormality of the tympanic membrane
+| 中文译名 = 鼓膜异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040091]]==
+{{Infobox HPO
+| hpoId = HP:0040091
+| 名称 = Asymmetry of the size of ears
+| 定义 = #####
+| 中文译名 = 耳朵大小不对称
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040092]]==
+{{Infobox HPO
+| hpoId = HP:0040092
+| 名称 = Asymmetry of the shape of the ears
+| 定义 = #####
+| 中文译名 = 耳朵形状不对称
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040093]]==
+{{Infobox HPO
+| hpoId = HP:0040093
+| 名称 = Asymmetry of the position of the ears
+| 定义 = #####
+| 中文译名 = 耳朵位置不对称
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040095]]==
+{{Infobox HPO
+| hpoId = HP:0040095
+| 名称 = Neoplasm of the outer ear
+| 定义 = A tumor (abnormal growth of tissue) of the outer ear.
+| 中文译名 = 外耳肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040096]]==
+{{Infobox HPO
+| hpoId = HP:0040096
+| 名称 = Neoplasm of the inner ear
+| 定义 = A tumor (abnormal growth of tissue) of the inner ear.
+| 中文译名 = 内耳肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040097]]==
+{{Infobox HPO
+| hpoId = HP:0040097
+| 名称 = Neoplasm of the ceruminal gland
+| 定义 = A tumor (abnormal growth of tissue) of the ceruminal gland.
+| 中文译名 = 耵聍腺肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040098]]==
+{{Infobox HPO
+| hpoId = HP:0040098
+| 名称 = Basalioma of the outer ear
+| 定义 = #####
+| 中文译名 = 外耳基底细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040099]]==
+{{Infobox HPO
+| hpoId = HP:0040099
+| 名称 = Abnormality of the round window
+| 定义 = #####
+| 中文译名 = 圆窗异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040100]]==
+{{Infobox HPO
+| hpoId = HP:0040100
+| 名称 = Abnormality of the vestibular window
+| 定义 = #####
+| 中文译名 = 前庭窗异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040101]]==
+{{Infobox HPO
+| hpoId = HP:0040101
+| 名称 = Cutaneous atresia of the external auditory canal
+| 定义 = #####
+| 中文译名 = 外耳道皮肤闭锁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040102]]==
+{{Infobox HPO
+| hpoId = HP:0040102
+| 名称 = Osseous atresia of the external auditory canal
+| 定义 = #####
+| 中文译名 = 外耳道骨性闭锁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040103]]==
+{{Infobox HPO
+| hpoId = HP:0040103
+| 名称 = Cutaneous stenosis of the external auditory canal
+| 定义 = #####
+| 中文译名 = 外耳道皮肤狭窄
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040104]]==
+{{Infobox HPO
+| hpoId = HP:0040104
+| 名称 = Osseous stenosis of the external auditory canal
+| 定义 = #####
+| 中文译名 = 外耳道骨性狭窄
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040106]]==
+{{Infobox HPO
+| hpoId = HP:0040106
+| 名称 = Morphological abnormality of the lateral semicircular canal
+| 定义 = #####
+| 中文译名 = 外骨半规管形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040107]]==
+{{Infobox HPO
+| hpoId = HP:0040107
+| 名称 = Morphological abnormality of the posterior semicircular canal
+| 定义 = #####
+| 中文译名 = 后骨半规管形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040108]]==
+{{Infobox HPO
+| hpoId = HP:0040108
+| 名称 = Morphological abnormality of the anterior semicircular canal
+| 定义 = #####
+| 中文译名 = 前骨半规管形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040109]]==
+{{Infobox HPO
+| hpoId = HP:0040109
+| 名称 = Morphological abnormality of the utricle
+| 定义 = #####
+| 中文译名 = 椭圆囊形态学异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040110]]==
+{{Infobox HPO
+| hpoId = HP:0040110
+| 名称 = Morphological abnormality of the saccule
+| 定义 = #####
+| 中文译名 = 球囊形态学异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040111]]==
+{{Infobox HPO
+| hpoId = HP:0040111
+| 名称 = Bilateral external ear deformity
+| 定义 = #####
+| 中文译名 = 双侧外耳畸形
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040112]]==
+{{Infobox HPO
+| hpoId = HP:0040112
+| 名称 = Abnormal number of tubercles
+| 定义 = #####
+| 中文译名 = 结节数量异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040113]]==
+{{Infobox HPO
+| hpoId = HP:0040113
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 老年感音神经性听力障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040114]]==
+{{Infobox HPO
+| hpoId = HP:0040114
+| 名称 = Absence of the reflex of the tensor tympani muscle
+| 定义 = #####
+| 中文译名 = 鼓膜张肌反射缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040115]]==
+{{Infobox HPO
+| hpoId = HP:0040115
+| 名称 = Abnormality of the Eustachian tube
+| 定义 = #####
+| 中文译名 = 咽鼓管异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040116]]==
+{{Infobox HPO
+| hpoId = HP:0040116
+| 名称 = Aplasia of the Eustachian tube
+| 定义 = #####
+| 中文译名 = 咽鼓管不发育
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040117]]==
+{{Infobox HPO
+| hpoId = HP:0040117
+| 名称 = Atresia of the Eustachian tube
+| 定义 = #####
+| 中文译名 = 咽鼓管闭锁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040118]]==
+{{Infobox HPO
+| hpoId = HP:0040118
+| 名称 = Stenosis of the Eustachian tube
+| 定义 = #####
+| 中文译名 = 咽鼓管狭窄
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040119]]==
+{{Infobox HPO
+| hpoId = HP:0040119
+| 名称 = Unilateral conductive hearing impairment
+| 定义 = #####
+| 中文译名 = 单侧传导性听力障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040120]]==
+{{Infobox HPO
+| hpoId = HP:0040120
+| 名称 = Abnormality of the reflex of the tensor tympanii muscle
+| 定义 = #####
+| 中文译名 = 鼓膜张肌反射异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040121]]==
+{{Infobox HPO
+| hpoId = HP:0040121
+| 名称 = Abnormality of the acoustic reflex
+| 定义 = #####
+| 中文译名 = 听觉反射异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040122]]==
+{{Infobox HPO
+| hpoId = HP:0040122
+| 名称 = Impairment of the the acoustic reflex
+| 定义 = #####
+| 中文译名 = 听觉反射障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040123]]==
+{{Infobox HPO
+| hpoId = HP:0040123
+| 名称 = Impairment of the reflex of the tensor tympanii muscle
+| 定义 = #####
+| 中文译名 = 鼓膜张肌反射障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040124]]==
+{{Infobox HPO
+| hpoId = HP:0040124
+| 名称 = Patent tuba eustachii
+| 定义 = #####
+| 中文译名 = 咽鼓管开放症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040262]]==
+{{Infobox HPO
+| hpoId = HP:0040262
+| 名称 = Glue ear
+| 定义 = Middle ear is filled with glue-like fluid instead of air.
+| 中文译名 = 胶耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040268]]==
+{{Infobox HPO
+| hpoId = HP:0040268
+| 名称 = Recurrent infections of the middle ear
+| 定义 = #####
+| 中文译名 = 中耳反复感染
+| 中文定义 = #####
+}}
+
+==[[HP:0040269]]==
+{{Infobox HPO
+| hpoId = HP:0040269
+| 名称 = Blocked Eustachian tube
+| 定义 = #####
+| 中文译名 = 咽鼓管堵塞
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100015]]==
+{{Infobox HPO
+| hpoId = HP:0100015
+| 名称 = Stahl ear
+| 定义 = The presence of a `supernumerary` (PATO:0002002), i.e. third, `crus of the helix (FMA:61024) in the `helix` (FMA:60992), arising at or above the normal bifurcation of the antihelix.
+| 中文译名 = 猿耳畸形施塔尔耳
+| 中文定义 = “额外”(PATO:0002002)耳轮脚(FMA:61024的存在，即第三个耳轮脚，位于对耳轮正常分岔处或其之上。
+}}
+
+
+==[[HP:0100663]]==
+{{Infobox HPO
+| hpoId = HP:0100663
+| 名称 = Synotia
+| 定义 = A congenital malformation characterized by the union or approximation of the ears in front of the neck, often accompanied by the absence or defective development of the lower jaw.
+| 中文译名 = 并耳畸形
+| 中文定义 = 以耳颈前融合或接近融合为特征的先天性畸形，常伴有下颌缺失或发育不全
+}}
+
+
+==[[HP:0100687]]==
+{{Infobox HPO
+| hpoId = HP:0100687
+| 名称 = Polyotia
+| 定义 = The presence of an extra auricle on one or both sides of the head.
+| 中文译名 = 多耳
+| 中文定义 = 头部一侧或两侧存在一个额外的耳廓。
+}}
+
+
+==[[HP:0100720]]==
+{{Infobox HPO
+| hpoId = HP:0100720
+| 名称 = Hypoplasia of the ear cartilage
+| 定义 = #####
+| 中文译名 = 耳软骨发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100799]]==
+{{Infobox HPO
+| hpoId = HP:0100799
+| 名称 = Neoplasm of the middle ear
+| 定义 = A neoplasm` (MPATH:218)  of the `middle ear` (FMA:56513).
+| 中文译名 = 中耳肿瘤
+| 中文定义 = 中耳（FMA: 56513）的肿瘤(MPATH:218)  。
+}}
+
+
+==[[HP:0100810]]==
+{{Infobox HPO
+| hpoId = HP:0100810
+| 名称 = Pointed helix
+| 定义 = #####
+| 中文译名 = 尖头耳轮
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100830]]==
+{{Infobox HPO
+| hpoId = HP:0100830
+| 名称 = Round ear
+| 定义 = #####
+| 中文译名 = 圆耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200047]]==
+{{Infobox HPO
+| hpoId = HP:0200047
+| 名称 = Chondritis of pinna
+| 定义 = Inflammation of the cartilage of the external ear.
+| 中文译名 = 耳廓软骨炎
+| 中文定义 = 外耳软骨的炎症。
+}}
+
+
+==[[HP:0200111]]==
+{{Infobox HPO
+| hpoId = HP:0200111
+| 名称 = Absent stapes head
+| 定义 = #####
+| 中文译名 = 镫骨头缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0400002]]==
+{{Infobox HPO
+| hpoId = HP:0400002
+| 名称 = Extra concha fold
+| 定义 = Folds or ridges within the concha that are distinct from the crus helix.
+| 中文译名 = 额外耳甲皱褶
+| 中文定义 = #####
+}}
+
+
+==[[HP:0400003]]==
+{{Infobox HPO
+| hpoId = HP:0400003
+| 名称 = Focal absence of the external ear
+| 定义 = Absence of a localized portion of the ear that cannot be described by a more precise term (e.g., absent ear lobe).
+| 中文译名 = 局灶性外耳缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0400004]]==
+{{Infobox HPO
+| hpoId = HP:0400004
+| 名称 = Long ear
+| 定义 = Median longitudinal ear length greater than two SD above the mean determined by the maximal distance from the superior aspect to the inferior aspect of the external ear.
+| 中文译名 = 长耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:0400005]]==
+{{Infobox HPO
+| hpoId = HP:0400005
+| 名称 = Short ear
+| 定义 = Median longitudinal ear length less than two SD above the mean determined by the maximal distance from the superior aspect to the inferior aspect of the external ear.
+| 中文译名 = 短耳
+| 中文定义 = #####
+}}
+
+
+==[[HP:3000002]]==
+{{Infobox HPO
+| hpoId = HP:3000002
+| 名称 = Abnormal inner ear epithelium morphology
+| 定义 = Any structural anomaly of an inner ear epithelium.
+| 中文译名 = 内耳上皮细胞形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:3000022]]==
+{{Infobox HPO
+| hpoId = HP:3000022
+| 名称 = Abnormality of cartilage of external ear
+| 定义 = An abnormality of a cartilage of external ear.
+| 中文译名 = 外耳软骨异常
+| 中文定义 = #####
+}}

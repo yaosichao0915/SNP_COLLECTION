@@ -1,0 +1,5162 @@
+<accesscontrol>审核人:肿瘤,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=肿瘤(522条目)=
+
+
+==[[HP:0000030]]==
+{{Infobox HPO
+| hpoId = HP:0000030
+| 名称 = Testicular gonadoblastoma
+| 定义 = The presence of a `gonadoblastoma` (MPATH:315) of the `testis` (FMA:7210).
+| 中文译名 = 睾丸性腺母细胞瘤
+| 中文定义 = 睾丸部位存在形成的性腺母细胞瘤。
+}}
+
+==[[HP:0000131]]==
+{{Infobox HPO
+| hpoId = HP:0000131
+| 名称 = Uterine leiomyoma
+| 定义 = The presence of a `leiomyoma` (MPATH:425) of the `uterus` (FMA:17558).
+| 中文译名 = 子宫肌瘤
+| 中文定义 = 子宫部位发生的平滑肌瘤。
+}}
+
+==[[HP:0000149]]==
+{{Infobox HPO
+| hpoId = HP:0000149
+| 名称 = Ovarian gonadoblastoma
+| 定义 = The presence of a `gonadoblastoma` (MPATH:315) of the `ovary` (FMA:7209).
+| 中文译名 = 卵巢性腺母细胞瘤
+| 中文定义 = 卵巢中形成性腺母细胞瘤。
+}}
+
+
+==[[HP:0000150]]==
+{{Infobox HPO
+| hpoId = HP:0000150
+| 名称 = Gonadoblastoma
+| 定义 = The presence of a `gonadoblastoma` (MPATH:315), a `neoplasm` (MPATH:218) of a `gonad` (FMA:18250) that consists of aggregates of germ cells and sex cord elements.
+| 中文译名 = 性腺母细胞瘤
+| 中文定义 = 性腺内发生的母细胞瘤或肿瘤。这里定义的性腺由生殖细胞和生殖索成分组成。
+}}
+
+==[[HP:0000169]]==
+{{Infobox HPO
+| hpoId = HP:0000169
+| 名称 = Gingival fibromatosis
+| 定义 = The presence of `fibrosis` (MPATH:181) of the `gingiva` (FMA:59762).
+| 中文译名 = 牙龈纤维瘤病
+| 中文定义 = 牙龈部位发生的纤维瘤。
+}}
+
+==[[HP:0000329]]==
+{{Infobox HPO
+| hpoId = HP:0000329
+| 名称 = Facial hemangioma
+| 定义 = Hemangioma, a benign tumor of the vascular endothelial cells, occurring in the face.
+| 中文译名 = 面部血管瘤
+| 中文定义 = 面部血管瘤是发生在面部，一种有血管内皮细胞发展而来的良性肿瘤。
+}}
+
+==[[HP:0000854]]==
+{{Infobox HPO
+| hpoId = HP:0000854
+| 名称 = Thyroid adenoma
+| 定义 = The presence of a `adenoma` (MPATH:270) of the `thyroid gland` (FMA:9603).
+| 中文译名 = 甲状腺腺瘤
+| 中文定义 = 甲状腺部位发生的腺瘤。
+}}
+
+==[[HP:0000896]]==
+{{Infobox HPO
+| hpoId = HP:0000896
+| 名称 = Rib exostoses
+| 定义 = Multiple circumscribed bony excrescences located in the ribs.
+| 中文译名 = 肋骨外生骨疣
+| 中文定义 = 肋骨外生骨疣为肋骨部位发生的多发性赘生物。
+}}
+
+==[[HP:0000918]]==
+{{Infobox HPO
+| hpoId = HP:0000918
+| 名称 = Scapular exostoses
+| 定义 = The presence of multiple exostoses on the scapula. An exostosis is a benign growth the projects outward from the bone surface. It is cappped by cartilage.
+| 中文译名 = 肩胛外生骨疣
+| 中文定义 = 多发性肩胛外生骨疣发生在肩胛骨部位。外生骨疣是生殖于骨表面上的良性外突出，一般有软骨包盖。
+}}
+
+==[[HP:0000996]]==
+{{Infobox HPO
+| hpoId = HP:0000996
+| 名称 = Facial capillary hemangioma
+
+| 中文译名 = 面部毛细血管瘤
+
+}}
+
+==[[HP:0001012]]==
+{{Infobox HPO
+| hpoId = HP:0001012
+| 名称 = Multiple lipomas
+| 定义 = The presence of multiple lipomas (a type of benign tissue made of fatty tissue).
+| 中文译名 = 多发性脂肪瘤
+| 中文定义 = 多发性脂肪瘤的发生（一种由脂肪组织构成的的良性组织）。
+}}
+
+
+==[[HP:0001028]]==
+{{Infobox HPO
+| hpoId = HP:0001028
+| 名称 = Hemangioma
+| 定义 = A hemangioma is a benign tumor characterized by blood-filled spaces lined by benign endothelial cells. A hemangioma characterized by large endothelial spaces (caverns) is called a cavernous hemangioma (in contrast to a hemangioma with small endothelial spaces, which is called capillary hemangioma).
+| 中文译名 = 血管瘤
+| 中文定义 = 血管瘤是一种有血液填充并并列于血管内皮细胞而存在的良性肿瘤。 血管瘤有大的内皮空腔，因此又称为海绵状血管瘤，以此区别于毛细血管瘤。后者的内皮空隙狭小。在于由良性血管内皮细胞衬里血管腔。。
+}}
+
+==[[HP:0001031]]==
+{{Infobox HPO
+| hpoId = HP:0001031
+| 名称 = Subcutaneous lipoma
+| 定义 = The presence of subcutaneous `lipoma` (MPATH:417).
+| 中文译名 = 皮下脂肪瘤
+| 中文定义 = 存在于皮下的`脂肪瘤`（的mpath:417）。
+}}
+
+
+==[[HP:0001048]]==
+{{Infobox HPO
+| hpoId = HP:0001048
+| 名称 = Cavernous hemangioma
+| 定义 = The presence of a cavernous hemangioma. A hemangioma characterized by large endothelial spaces (caverns) is called a cavernous hemangioma.
+| 中文译名 = 海绵状血管瘤
+| 中文定义 = 大血管内皮空间的血管瘤被称为海绵状血管瘤。
+}}
+
+
+==[[HP:0001054]]==
+{{Infobox HPO
+| hpoId = HP:0001054
+| 名称 = Numerous nevi
+| 定义 = #####
+| 中文译名 = 多发性色素痣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001067]]==
+{{Infobox HPO
+| hpoId = HP:0001067
+| 名称 = Neurofibromas
+| 定义 = The presence of multiple cutaneous neurofibromas.
+| 中文译名 = 神经纤维瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001076]]==
+{{Infobox HPO
+| hpoId = HP:0001076
+| 名称 = Glabellar hemangioma
+| 定义 = Glabellar hemangioma,which is a benign and usually self-involuting tumor (swelling or growth) of the endothelial cells that line blood vessels that is characterised by increased number of normal or abnormal vessels filled with blood.
+| 中文译名 = 眉间血管瘤
+| 中文定义 = 血管瘤是一种良性通常能够自行消退的内皮细胞肿瘤，以血管数目增多为特征。发生在眉间的血管瘤即眉间血管瘤。
+}}
+
+
+==[[HP:0001402]]==
+{{Infobox HPO
+| hpoId = HP:0001402
+| 名称 = Hepatocellular carcinoma
+| 定义 = A kind of `neoplasm of the liver` (HP:0002896) that originates in hepatocytes and presents macroscopically as a soft and hemorrhagic tan mass in the liver.
+| 中文译名 = 肝细胞癌
+| 中文定义 = 一种起源于肝细胞的肝肿瘤，宏观上为肝脏中柔软的和出血性黄褐色团块。
+}}
+
+
+==[[HP:0001909]]==
+{{Infobox HPO
+| hpoId = HP:0001909
+| 名称 = Leukemia
+| 定义 = A cancer of the blood and bone marrow characterized by an abnormal proliferation of leukocytes.
+| 中文译名 = 白血病
+| 中文定义 = 由于白细胞的异常增殖的引起的发生在血液和骨髓的癌症。
+}}
+
+
+==[[HP:0002044]]==
+{{Infobox HPO
+| hpoId = HP:0002044
+| 名称 = Zollinger-Ellison syndrome
+| 定义 = A condition in which there is increased production of gastrin by a gastrin-secreting tumor (usually located in the pancreas, duodenum, or abdominal lymph nodes) that stimulates the gastric mucosa to maximal activity, with consequent gastrointestinal mucosal ulceration.
+| 中文译名 = Zollinger-Ellison 综合征
+| 中文定义 = 胃泌素分泌肿瘤（通常位于胰腺、十二指肠或腹部淋巴结）分泌胃泌素增多，刺激胃粘膜到最大活性，随之产生胃肠粘膜溃疡。
+}}
+
+
+==[[HP:0002444]]==
+{{Infobox HPO
+| hpoId = HP:0002444
+| 名称 = Hypothalamic hamartoma
+| 定义 = The presence of a `hamartoma` of the `hypothalamus` (FMA:62008).
+| 中文译名 = 下丘脑错构瘤
+| 中文定义 = 下丘脑存在错构瘤（FMA:62008）。
+}}
+
+
+==[[HP:0002488]]==
+{{Infobox HPO
+| hpoId = HP:0002488
+| 名称 = Acute leukemia
+| 定义 = #####
+| 中文译名 = 急性白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002664]]==
+{{Infobox HPO
+| hpoId = HP:0002664
+| 名称 = Neoplasm
+| 定义 = An organ or organ-system abnormality that consists of uncontrolled autonomous cell-proliferation which can occur in any part of the body as a benign or malignant `neoplasm` (MPATH:218) (tumour).
+| 中文译名 = 肿瘤
+| 中文定义 = 由不受控制的自主性细胞增殖而导致的器官或器官系统的异常，可发生于机体任何部位成为良性或恶性肿瘤。
+}}
+
+
+==[[HP:0002665]]==
+{{Infobox HPO
+| hpoId = HP:0002665
+| 名称 = Lymphoma
+| 定义 = A cancer originating in lymphocytes and presenting as a solid tumor of lymhpoid cells.
+| 中文译名 = 淋巴瘤
+| 中文定义 = 一种淋巴细胞起源癌症，以淋巴细胞为主的实体瘤。
+}}
+
+
+==[[HP:0002666]]==
+{{Infobox HPO
+| hpoId = HP:0002666
+| 名称 = Pheochromocytoma
+| 定义 = Pheochromocytomas (also known as chromaffin tumors) produce, store, and secrete catecholamines. Pheochromocytomas usually originate from the adrenal medulla but may also develop from chromaffin cells in or about sympathetic ganglia. A common symptom of pheochromocytoma is hypertension owing to release of catecholamines.
+| 中文译名 = 嗜铬细胞瘤
+| 中文定义 = 嗜铬细胞瘤（也称为嗜铬肿瘤）生产，储存，并分泌儿茶酚胺。嗜铬细胞瘤，通常从肾上腺髓质发起的，但也可以从在或约交感神经节铬细胞发展。嗜铬细胞瘤的常见症状是高血压，由于儿茶酚胺的释放。
+}}
+
+
+==[[HP:0002667]]==
+{{Infobox HPO
+| hpoId = HP:0002667
+| 名称 = Nephroblastoma (Wilms tumor)
+| 定义 = The presence of a `nephroblastoma` (MPATH:261), which is a neoplasm of the `kidney` (FMA:7203) that primarily affects children.
+| 中文译名 = 肾母细胞瘤（Wilms瘤）
+| 中文定义 = 肾脏的一种肿瘤，主要累及儿童。
+}}
+
+
+==[[HP:0002668]]==
+{{Infobox HPO
+| hpoId = HP:0002668
+| 名称 = Paraganglioma
+| 定义 = A carotid body tumor (also called paraganglionoma or chemodectoma) is a tumor found in the upper neck at the branching of the carotid artery. They arise from the chemoreceptor organ (paraganglion) located in the adventitia of the carotid artery bifurcation.
+| 中文译名 = 副神经节瘤
+| 中文定义 = 颈动脉体瘤（也称为神经节细胞瘤或化学感受器瘤）是一种位于上颈部颈动脉分叉处的肿瘤。它们产生来自位于颈动脉分叉的外膜的化学感受器器官（副神经节）。
+}}
+
+
+==[[HP:0002669]]==
+{{Infobox HPO
+| hpoId = HP:0002669
+| 名称 = Osteosarcoma
+| 定义 = A malignant bone tumor that usually develops during adolescence and usually affects the long bones including the tibia, femur, and humerus. The typical symptoms of osteosarcoma comprise bone pain, fracture, limitation of motion, and tenderness or swelling at the site of the tumor.
+| 中文译名 = 骨肉瘤
+| 中文定义 = 一个恶性骨肿瘤在青春期，通常开发，通常会影响长骨包括胫骨，股骨，肱骨及。骨肉瘤的典型症状包括骨痛，骨折，关节活动受限，压痛或肿瘤的部位肿胀。
+}}
+
+
+==[[HP:0002671]]==
+{{Infobox HPO
+| hpoId = HP:0002671
+| 名称 = Basal cell carcinoma
+| 定义 = The presence of a `basal cell carcinoma` (MPATH:234) of the `skin` (FMA:7163).
+| 中文译名 = 基底细胞癌
+| 中文定义 = 存在于皮肤的基底细胞癌。
+}}
+
+
+==[[HP:0002672]]==
+{{Infobox HPO
+| hpoId = HP:0002672
+| 名称 = Gastrointestinal carcinoma
+| 定义 = #####
+| 中文译名 = 胃肠道癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002762]]==
+{{Infobox HPO
+| hpoId = HP:0002762
+| 名称 = Multiple exostoses
+| 定义 = Presence of more than one exostosis. An exostosis is a benign growth the projects outward from the bone surface. It is cappped by cartilage, and arises from a bone that develops from cartilage.
+| 中文译名 = 多发性外生骨疣
+| 中文定义 = 存在一个以上的外生骨疣。一个外生骨疣是从骨表面上的良性生长的向外突出。它是由软骨cappped，和产生于骨，从软骨开发。
+}}
+
+
+==[[HP:0002858]]==
+{{Infobox HPO
+| hpoId = HP:0002858
+| 名称 = Meningioma
+| 定义 = The presence of a `meningioma` (MPATH:251), i.e., a benign tumor originating from the `dura mater` (FMA:9592) or `arachnoid mater` (FMA:9591).
+| 中文译名 = 脑膜瘤
+| 中文定义 = 脑膜瘤(MPATH:251)，即一种起源于硬脑膜（FMA:9592）或蛛网膜（FMA:9591）的良性肿瘤。
+}}
+
+
+==[[HP:0002859]]==
+{{Infobox HPO
+| hpoId = HP:0002859
+| 名称 = Rhabdomyosarcoma
+| 定义 = An aggressive and highly malignant form of cancer that develops from skeletal muscle cells that have failed to fully differentiate. It is generally considered to be a disease of childhood。
+| 中文译名 = 横纹肌肉瘤
+| 中文定义 = 一种由于骨骼肌细胞不全分化而发展成的具有侵袭性的高度恶性肿瘤，多发生于儿童期
+}}
+
+
+==[[HP:0002860]]==
+{{Infobox HPO
+| hpoId = HP:0002860
+| 名称 = Squamous cell carcinoma
+| 定义 = The presence of `squamous cell carcinoma` (MPATH:446) of the `skin` (FMA:7163).
+| 中文译名 = 鳞状细胞癌
+| 中文定义 = 指存在于皮肤的鳞状细胞癌。
+}}
+
+
+==[[HP:0002861]]==
+{{Infobox HPO
+| hpoId = HP:0002861
+| 名称 = Melanoma
+| 定义 = The presence of a `melanoma` (MPATH:359), a malignant cancer originating from pigment producing melanocytes. Melanoma can originate from the skin or the pigmented layers of the eye (the uvea).
+| 中文译名 = 黑色素瘤
+| 中文定义 = 恶性黑素瘤起源于产生色素的黑素细胞的恶性肿瘤，多发生于皮肤或眼的葡萄膜色素层。
+}}
+
+==[[HP:0002862]]==
+{{Infobox HPO
+| hpoId = HP:0002862
+| 名称 = Bladder carcinoma
+| 定义 = The presence of a `carcinoma` (MPATH:549) of the `urinary bladder` (FMA:15900).
+| 中文译名 = 膀胱癌
+| 中文定义 = 膀胱发生癌症。
+}}
+
+
+==[[HP:0002863]]==
+{{Infobox HPO
+| hpoId = HP:0002863
+| 名称 = Myelodysplasia
+| 定义 = Clonal hematopoietic stem cell disorders characterized by dysplasia (ineffective production) in one or more hematopoietic cell lineages, leading to anemia and cytopenia.
+| 中文译名 = 骨髓增生异常
+| 中文定义 = 克隆性骨髓造血干细胞发育不良，其特征在于一个或多个造血细胞谱系紊乱（无效生产），不典型增生导致贫血和血细胞减少症。
+}}
+
+==[[HP:0002864]]==
+{{Infobox HPO
+| hpoId = HP:0002864
+| 名称 = Paraganglioma of head and neck
+| 定义 = #####
+| 中文译名 = 头颈部副神经节瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0002865]]==
+{{Infobox HPO
+| hpoId = HP:0002865
+| 名称 = Medullary thyroid carcinoma
+| 定义 = The presence of a `medullary carcinoma` (MPATH:291) of the `thyroid gland` (FMA:9603).
+| 中文译名 = 甲状腺髓样癌
+| 中文定义 = 甲状腺肿存在髓样癌。
+}}
+
+
+==[[HP:0002884]]==
+{{Infobox HPO
+| hpoId = HP:0002884
+| 名称 = Hepatoblastoma
+| 定义 = A kind of `neoplasm of the liver` (HP:0002896) that originates from immature liver precursor cells and macroscopically is composed of tissue resembling fetal or mature liver cells or bile ducts.
+| 中文译名 = 肝母细胞瘤
+| 中文定义 = 一种肝肿瘤，起源于未成熟的肝脏前体细胞，宏观上由类似胎儿或成熟肝细胞或胆管的组织组成。
+}}
+
+
+==[[HP:0002885]]==
+{{Infobox HPO
+| hpoId = HP:0002885
+| 名称 = Medulloblastoma
+| 定义 = A rapidly growing embryonic tumor arising in the posterior part of the `cerebellar vermis` (FMA:76928) and neuroepithelial roof of the fourth ventricle in children. More rarely, medulloblastoma arises in the `cerebellum` (FMA:67944) in adults.
+| 中文译名 = 髓母细胞瘤
+| 中文定义 = 儿童小脑后蚓部（76928 FMA）、第四脑室神经上皮背侧迅速生长的胚胎型肿瘤。罕见成人髓母细胞瘤发生于小脑（FMA:67944）。
+}}
+
+
+==[[HP:0002886]]==
+{{Infobox HPO
+| hpoId = HP:0002886
+| 名称 = Vagal paraganglioma
+| 定义 = #####
+| 中文译名 = 迷走神经副神经节瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002888]]==
+{{Infobox HPO
+| hpoId = HP:0002888
+| 名称 = Ependymoma
+| 定义 = The presence of an `ependymoma` (MPATH:247) of the `central nervous system` (FMA:55675).
+| 中文译名 = 室管膜瘤
+| 中文定义 = 存在于&#39;中枢神经系统`(FMA:55675)的`室管膜瘤`(MPATH:247)。
+}}
+
+
+==[[HP:0002890]]==
+{{Infobox HPO
+| hpoId = HP:0002890
+| 名称 = Thyroid carcinoma
+| 定义 = The presence of a `carcinoma` (MPATH:549) of the `thyroid gland` (FMA:9603).
+| 中文译名 = 甲状腺癌
+| 中文定义 = 甲状腺的癌症。
+}}
+
+
+==[[HP:0002891]]==
+{{Infobox HPO
+| hpoId = HP:0002891
+| 名称 = Uterine leiomyosarcoma
+| 定义 = The presence of a `leiomyosarcoma` (MPATH:426) of the `uterus` (FMA:17558).
+| 中文译名 = 子宫平滑肌肉瘤
+| 中文定义 = 子宫发生平滑肌肉瘤。
+}}
+
+
+==[[HP:0002893]]==
+{{Infobox HPO
+| hpoId = HP:0002893
+| 名称 = Pituitary adenoma
+| 定义 = A benign epithelial tumor derived from intrinsic cells of the adenohypophysis.
+| 中文译名 = 垂体腺瘤
+| 中文定义 = 源自腺垂体内细胞的良性上皮性肿瘤。
+}}
+
+
+==[[HP:0002894]]==
+{{Infobox HPO
+| hpoId = HP:0002894
+| 名称 = Neoplasm of the pancreas
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺肿瘤
+| 中文定义 = 存在于胰腺的肿瘤。
+}}
+
+
+==[[HP:0002895]]==
+{{Infobox HPO
+| hpoId = HP:0002895
+| 名称 = Papillary thyroid carcinoma
+| 定义 = The presence of a `papillary adenocarcinoma` (MPATH:295) of the `thyroid gland` (FMA:9603).
+| 中文译名 = &#39;甲状腺乳头状癌
+| 中文定义 = 甲状腺内出现乳头状腺癌
+}}
+
+
+==[[HP:0002896]]==
+{{Infobox HPO
+| hpoId = HP:0002896
+| 名称 = Neoplasm of the liver
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `liver` (FMA:7197).
+| 中文译名 = 肝脏肿瘤
+| 中文定义 = 存在于肝脏的肿瘤。
+}}
+
+
+==[[HP:0002897]]==
+{{Infobox HPO
+| hpoId = HP:0002897
+| 名称 = Parathyroid adenoma
+| 定义 = A benign tumor of the parathyroid gland that can cause hyperparathyroidism.
+| 中文译名 = 甲状旁腺腺瘤
+| 中文定义 = 甲状旁腺的良性肿瘤，可引起甲状旁腺功能亢进。
+}}
+
+
+==[[HP:0002898]]==
+{{Infobox HPO
+| hpoId = HP:0002898
+| 名称 = Embryonal neoplasm
+| 定义 = A relatively uncommon type of germ cell tumor that occurs in the ovaries and testes.
+| 中文译名 = 胚胎肿瘤
+| 中文定义 = 一种较为罕见的生殖细胞肿瘤，多发生于卵巢和睾丸。
+}}
+
+
+==[[HP:0003001]]==
+{{Infobox HPO
+| hpoId = HP:0003001
+| 名称 = Glomus jugular tumor
+| 定义 = #####
+| 中文译名 = 颈静脉瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003002]]==
+{{Infobox HPO
+| hpoId = HP:0003002
+| 名称 = Breast carcinoma
+| 定义 = The presence of a `carcinoma` (MPATH:549) of the `breast` (FMA:9601).
+| 中文译名 = 乳腺癌
+| 中文定义 = 在`breast`的（FMA:9601）:一`carcinoma`的存在（549的mpath）。
+}}
+
+
+==[[HP:0003003]]==
+{{Infobox HPO
+| hpoId = HP:0003003
+| 名称 = Colon cancer
+| 定义 = #####
+| 中文译名 = 结肠癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003005]]==
+{{Infobox HPO
+| hpoId = HP:0003005
+| 名称 = Ganglioneuroma
+| 定义 = A benign neoplasm that usually arises from the sympathetic trunk in the mediastinum, representing a tumor of the sympathetic nerve fibers arising from neural crest cells.
+| 中文译名 = 神经节细胞瘤
+| 中文定义 = 良性肿瘤，通常起源于交感干纵隔，代表产生于神经嵴细胞的交感神经纤维瘤。
+}}
+
+
+==[[HP:0003006]]==
+{{Infobox HPO
+| hpoId = HP:0003006
+| 名称 = Neuroblastoma
+| 定义 = Neuroblastoma is a solid tumor that originate in neural crest cells of the sympathetic nervous system. Most neuroblastomas originate in the abdomen, and most abdominal neuroblastomas originate in the adrenal gland. Neuroblastomas can also originate in the thorax, usually in the posterior mediastinum.
+| 中文译名 = 神经母细胞瘤
+| 中文定义 = 神经母细胞是一种起源于交感神经系统神经嵴细胞的实质肿瘤。大部分神经母细胞瘤起源于腹腔，而腹腔内的神经母细胞瘤最常见于肾上腺。神经母细胞瘤也可起源于胸，通常在后纵隔。
+}}
+
+
+==[[HP:0003276]]==
+{{Infobox HPO
+| hpoId = HP:0003276
+| 名称 = Pelvic exostoses
+| 定义 = A benign growth the projects outward from the bone surface of the pelvis. Exostoses are cappped by cartilage, and arise from a bone that develops from cartilage.
+| 中文译名 = 盆骨外生骨疣
+| 中文定义 = 甲良性生长向外项目从骨盆的骨表面。外生骨疣是由软骨cappped，并产生于骨，从软骨发展。
+}}
+
+
+==[[HP:0003872]]==
+{{Infobox HPO
+| hpoId = HP:0003872
+| 名称 = Exostoses (humeral)
+| 定义 = #####
+| 中文译名 = 外生骨疣（肱骨）
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003960]]==
+{{Infobox HPO
+| hpoId = HP:0003960
+| 名称 = Exostoses of the forearm bones
+| 定义 = #####
+| 中文译名 = 前臂骨外生骨疣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003985]]==
+{{Infobox HPO
+| hpoId = HP:0003985
+| 名称 = Exostoses of the ulna
+| 定义 = #####
+| 中文译名 = 尺骨外生骨疣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003986]]==
+{{Infobox HPO
+| hpoId = HP:0003986
+| 名称 = Exostoses of the radius
+| 定义 = #####
+| 中文译名 = 桡骨外生骨疣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004017]]==
+{{Infobox HPO
+| hpoId = HP:0004017
+| 名称 = Exostoses of the radial metaphysis
+| 定义 = #####
+| 中文译名 = 桡骨干骺端外生骨疣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004276]]==
+{{Infobox HPO
+| hpoId = HP:0004276
+| 名称 = Exostoses of hand bones
+| 定义 = Abnormal formation of new bone on the surface of a bone of the hand.
+| 中文译名 = 掌骨外生骨疣
+| 中文定义 = 手的骨的表面上的异常形成新骨。
+}}
+
+==[[HP:0004375]]==
+{{Infobox HPO
+| hpoId = HP:0004375
+| 名称 = Neoplasm of the nervous system
+| 定义 = A `neoplasm` (MPATH:218) affecting the `nervous system` (FMA:7157).
+| 中文译名 = 神经系统肿瘤
+| 中文定义 = 一个`neoplasm`（的mpath:218）影响`神经system`（FMA:7157）。一种影响中枢神经系统的肿瘤
+}}
+
+==[[HP:0004376]]==
+{{Infobox HPO
+| hpoId = HP:0004376
+| 名称 = Neuroblastic tumors
+| 定义 = #####
+| 中文译名 = 神经母细胞瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0004377]]==
+{{Infobox HPO
+| hpoId = HP:0004377
+| 名称 = Hematological neoplasm
+| 定义 = #####
+| 中文译名 = 血液肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004390]]==
+{{Infobox HPO
+| hpoId = HP:0004390
+| 名称 = Hamartomatous polyps
+| 定义 = Polyp-like protrusions which are histologically hamartomas. These can occur throughout the gastrointestinal tract.
+| 中文译名 = 错构瘤性息肉
+| 中文定义 = 组织学上为错构瘤的息肉状突起。可发生于整个胃肠道。
+}}
+
+
+==[[HP:0004394]]==
+{{Infobox HPO
+| hpoId = HP:0004394
+| 名称 = Multiple gastric polyps
+| 定义 = #####
+| 中文译名 = 多发性胃息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004459]]==
+{{Infobox HPO
+| hpoId = HP:0004459
+| 名称 = Exostosis of the external auditory canal
+| 定义 = A benign bony growth projecting outward from a bone surface within the external auditory canal.
+| 中文译名 = 外耳道外生骨疣
+| 中文定义 = 外耳道骨壁的骨质向外良性增生形成的结节状隆起。
+}}
+
+
+==[[HP:0004664]]==
+{{Infobox HPO
+| hpoId = HP:0004664
+| 名称 = Facial midline hemangioma
+| 定义 = Hemangioma, a benign tumor of the vascular endothelial cells, occurring in the midline region of the face.
+| 中文译名 = 面部中线血管瘤
+| 中文定义 = 在脸部的中线区域发生的血管瘤，一种血管内皮细胞的良性肿瘤。
+}}
+
+
+==[[HP:0004783]]==
+{{Infobox HPO
+| hpoId = HP:0004783
+| 名称 = Duodenal polyposis
+| 定义 = Presence of multiple polyps in the duodenum.
+| 中文译名 = 十二指肠息肉
+| 中文定义 = 存在于十二指肠的多发性息肉。
+}}
+
+
+==[[HP:0004784]]==
+{{Infobox HPO
+| hpoId = HP:0004784
+| 名称 = Juvenile gastrointestinal polyposis
+| 定义 = #####
+| 中文译名 = 青少年型胃肠息肉
+| 中文定义 = #####
+}}
+
+==[[HP:0004795]]==
+{{Infobox HPO
+| hpoId = HP:0004795
+| 名称 = Hamartomatous stomach polyps
+| 定义 = Polyp-like protrusions which are histologically hamartomas located in the stomach.
+| 中文译名 = 错构瘤性胃息肉
+| 中文定义 = 位于胃部的组织学上为错构瘤的息肉状突起。
+}}
+
+
+==[[HP:0004808]]==
+{{Infobox HPO
+| hpoId = HP:0004808
+| 名称 = Acute myeloid leukemia
+| 定义 = A form of leukemia characterized by overproduction of an early myeloid cell.
+| 中文译名 = 急性髓性白血病
+| 中文定义 = 白血病的一种形式，特征是早期髓细胞堆积。
+}}
+
+
+==[[HP:0004812]]==
+{{Infobox HPO
+| hpoId = HP:0004812
+| 名称 = Pre-B-cell acute lymphoblastic leukemia
+| 定义 = #####
+| 中文译名 = 前B细胞急性淋巴细胞性白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004820]]==
+{{Infobox HPO
+| hpoId = HP:0004820
+| 名称 = Acute myelomonocytic leukemia
+| 定义 = A pediatric acute myeloid leukemia involving both myeloid and monocytoid precursors. At least 20% of non-erythroid cells are of monocytic origin.
+| 中文译名 = 急性骨髓单核细胞白血病
+| 中文定义 = 小儿急性髓细胞白血病同时涉及粒细胞系和单核细胞系前体。至少20％是非红系细胞的单核细胞来源的。
+}}
+
+==[[HP:0004828]]==
+{{Infobox HPO
+| hpoId = HP:0004828
+| 名称 = Refractory anemia with ringed sideroblasts
+| 定义 = A type of myelodysplastic syndrome characterized by less than 5% myeloblasts in the bone marrow, but with 15% or greater red cell precursors in the marrow being abnormal iron-stuffed cells called ringed sideroblasts.
+| 中文译名 = 难治性贫血伴环状铁粒幼红细胞
+| 中文定义 = 一型骨髓增生异常综合征，骨髓特征在原粒细胞于小于5％，但15％或更多的骨髓红细胞前体是环状铁粒幼细胞。
+}}
+
+==[[HP:0004836]]==
+{{Infobox HPO
+| hpoId = HP:0004836
+| 名称 = Acute promyelocytic leukemia
+| 定义 = A type of acute myeloid leukemia in which abnormal promyelocytes predominate.
+| 中文译名 = 急性前髓细胞性白血病
+| 中文定义 = 急性髓系白血病的一种，以异常早幼粒细胞为主。
+}}
+
+==[[HP:0004845]]==
+{{Infobox HPO
+| hpoId = HP:0004845
+| 名称 = Acute monocytic leukemia
+| 定义 = #####
+| 中文译名 = 急性单核细胞白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004848]]==
+{{Infobox HPO
+| hpoId = HP:0004848
+| 名称 = Ph-positive acute lymphoblastic leukemia
+| 定义 = #####
+| 中文译名 = Ph染色体阳性急性淋巴细胞白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005039]]==
+{{Infobox HPO
+| hpoId = HP:0005039
+| 名称 = Multiple long-bone exostoses
+| 定义 = Multiple exostoses originating in long bones.
+| 中文译名 = 多发长骨外生骨疣
+| 中文定义 = 多发性外生骨疣原产于长骨。
+}}
+
+
+==[[HP:0005220]]==
+{{Infobox HPO
+| hpoId = HP:0005220
+| 名称 = Multiple intestinal neurofibromatosis
+| 定义 = #####
+| 中文译名 = 多发性肠神经纤维瘤病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005227]]==
+{{Infobox HPO
+| hpoId = HP:0005227
+| 名称 = Adenomatous colonic polyposis
+| 定义 = Presence of multiple adenomatous polyps in the colon.
+| 中文译名 = 腺瘤性结肠息肉
+| 中文定义 = 存在于结肠的多个腺瘤性息肉。
+}}
+
+
+==[[HP:0005238]]==
+{{Infobox HPO
+| hpoId = HP:0005238
+| 名称 = Discrete intestinal polyps
+| 定义 = #####
+| 中文译名 = 分散性肠息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005266]]==
+{{Infobox HPO
+| hpoId = HP:0005266
+| 名称 = Intestinal polyp
+| 定义 = A discrete abnormal tissue mass that protrudes into the lumen of the intestine and is attached to the intestinal wall either by a stalk, pedunculus, or a broad base.
+| 中文译名 = 肠息肉
+| 中文定义 = 通过茎、脚或较大的基底而附着于肠壁、伸出到肠腔的离散的异常组织块。
+}}
+
+
+==[[HP:0005306]]==
+{{Infobox HPO
+| hpoId = HP:0005306
+| 名称 = Capillary hemangiomas
+| 定义 = The presence of a capillary hemangiomas, which are hemangiomas with small endothelial spaces.
+| 中文译名 = 毛细血管瘤
+| 中文定义 = 小血管内皮细胞间隙存在血管瘤。
+}}
+
+
+==[[HP:0005506]]==
+{{Infobox HPO
+| hpoId = HP:0005506
+| 名称 = Chronic myelogenous leukemia
+| 定义 = A myeloproliferative disorder characterized by increased proliferation of the granulocytic cell line without the loss of their capacity to differentiate.
+| 中文译名 = 慢性骨髓细胞白血病
+| 中文定义 = 骨髓增生性疾病，其特点的粒细胞系多度增殖但仍有分化能力。
+}}
+
+==[[HP:0005508]]==
+{{Infobox HPO
+| hpoId = HP:0005508
+| 名称 = Waldenstrom macroglobulinemia
+| 定义 = A malignant monoclonal gammopathy characterized by a high level of an IgM monoclonal protein.
+| 中文译名 = 华氏巨球蛋白血症
+| 中文定义 = 一种恶性单克隆丙种球蛋白病，特征为高水平的IgM 蛋白单克隆异常增高。
+}}
+
+
+==[[HP:0005517]]==
+{{Infobox HPO
+| hpoId = HP:0005517
+| 名称 = T-cell lymphoma/leukemia
+| 定义 = A type of T-cell lymphoma in which cancerous T-cells may present in the blood (leukemia), lymph nodes (lymphoma), skin or in multiple areas.
+| 中文译名 = T细胞淋巴瘤/白血病
+| 中文定义 = 一型T细胞淋巴瘤，其中恶性T细胞可以存在于血液中（白血病），淋巴结（淋巴瘤），以及皮肤或多个领域。
+}}
+
+
+==[[HP:0005523]]==
+{{Infobox HPO
+| hpoId = HP:0005523
+| 名称 = Lymphoproliferative disorder
+| 定义 = #####
+| 中文译名 = 淋巴组织增殖性疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005526]]==
+{{Infobox HPO
+| hpoId = HP:0005526
+| 名称 = Lymphoid leukemia
+| 定义 = Leukemia associated with hyperplasia of the lymphoid tissues and increased numbers of circulating malignant lymphocytes and lymphoblasts.
+| 中文译名 = 淋系白血病
+| 中文定义 = 与淋巴组织过多增生有关白血病，循环中恶性淋巴细胞和淋巴母细胞数目增加。
+}}
+
+
+==[[HP:0005531]]==
+{{Infobox HPO
+| hpoId = HP:0005531
+| 名称 = Biphenotypic acute leukaemia
+| 定义 = A type of actue leukemia with features characteristic of both the myeloid and lymphoid lineages. These leukemias are for this reason are designated mixed-lineage, hybrid or biphenotypic acute leukemias.
+| 中文译名 = 双表型急性白血病
+| 中文定义 = 一型急性白血病以同时影响髓系和淋巴细胞系为特征。这些白血病细胞为混合细胞，又称混合型或双表型急性白血病。
+}}
+
+
+==[[HP:0005534]]==
+{{Infobox HPO
+| hpoId = HP:0005534
+| 名称 = Transient myeloproliferative syndrome
+| 定义 = #####
+| 中文译名 = 暂时性的骨髓增生综合征
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005539]]==
+{{Infobox HPO
+| hpoId = HP:0005539
+| 名称 = T-cell chronic lymphocytic lymphoma/leukemia
+| 定义 = #####
+| 中文译名 = T细胞慢性淋巴细胞淋巴瘤/白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005547]]==
+{{Infobox HPO
+| hpoId = HP:0005547
+| 名称 = Myeloproliferative disorder
+| 定义 = Proliferation (excess production) of hemopoietically active tissue or of tissue which has embryonic hemopoietic potential.
+| 中文译名 = 骨髓增生性疾病
+| 中文定义 = 具有胚胎造血潜力组织过度增殖（过量生产）。
+}}
+
+
+==[[HP:0005550]]==
+{{Infobox HPO
+| hpoId = HP:0005550
+| 名称 = Chronic lymphatic leukemia
+| 定义 = A chronic lymphocytic/lymphatic/lymphoblastic leukemia (CLL) is a neoplastic disease characterized by proliferation and accumulation (blood, marrow and lymphoid organs) of morphologically mature but immunologically dysfunctional lymphocytes. A CLL is always a B-cell lymphocytic leukemia as there are no reports of cases of T-cell lymphocytic leukemias.
+| 中文译名 = 慢性淋巴性白血病
+| 中文定义 = 慢性淋巴细胞/淋巴性/成淋巴母细胞性白血病（CLL），是一种血液肿瘤性疾病。特征是在血液中发现形态成熟但免疫功能失调的淋巴细胞，在骨髓和淋巴器官的增殖和积累。因为没有T细胞淋巴细胞白血病的病例报告，慢性淋巴性白血病是一个B细胞淋巴细胞性白血病。
+}}
+
+
+==[[HP:0005558]]==
+{{Infobox HPO
+| hpoId = HP:0005558
+| 名称 = Chronic leukemia
+| 定义 = #####
+| 中文译名 = 慢性白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005584]]==
+{{Infobox HPO
+| hpoId = HP:0005584
+| 名称 = Renal cell carcinoma
+| 定义 = A type of `carcinoma` (MPATH:549) of the `kidney` (FMA:7203) with origin in the epithelium of the `proximal convoluted renal tubule` (FMA:17693).
+| 中文译名 = 肾细胞癌
+| 中文定义 = 一种肾癌，起源于近曲肾小管的上皮细胞。
+}}
+
+
+==[[HP:0005655]]==
+{{Infobox HPO
+| hpoId = HP:0005655
+| 名称 = Multiple digital exostoses
+| 定义 = Multiple exostoses originating in the fingers and toes.
+| 中文译名 = 多指外生骨疣
+| 中文定义 = 多发性外生骨疣原产于手指和脚趾。
+}}
+
+
+==[[HP:0005701]]==
+{{Infobox HPO
+| hpoId = HP:0005701
+| 名称 = Multiple enchondromatosis
+| 定义 = #####
+| 中文译名 = 多发性内生软骨瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005954]]==
+{{Infobox HPO
+| hpoId = HP:0005954
+| 名称 = Pulmonary capillary hemangiomatosis
+| 定义 = An tumours in the pulmonary capillary.
+| 中文译名 = 肺毛细血管瘤
+| 中文定义 = 肺毛细血管产生的瘤变。
+}}
+
+
+==[[HP:0006519]]==
+{{Infobox HPO
+| hpoId = HP:0006519
+| 名称 = Alveolar cell carcinoma
+| 定义 = Adenocarcinoma of the Bronchus.
+| 中文译名 = 肺泡细胞癌
+| 中文定义 = 支气管来源的腺癌。
+}}
+
+
+==[[HP:0006625]]==
+{{Infobox HPO
+| hpoId = HP:0006625
+| 名称 = Multifocal breast carcinoma
+| 定义 = Breast carcinoma that is bilateral or otherwise multifocal.
+| 中文译名 = 多灶性乳腺癌
+| 中文定义 = 乳腺癌是双侧或多发性。
+}}
+
+
+==[[HP:0006715]]==
+{{Infobox HPO
+| hpoId = HP:0006715
+| 名称 = Glomus tympanicum paraganglioma
+| 定义 = #####
+| 中文译名 = 富血管性鼓室副神经节瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0006716]]==
+{{Infobox HPO
+| hpoId = HP:0006716
+| 名称 = Hereditary nonpolyposis colorectal carcinoma
+| 定义 = #####
+| 中文译名 = 遗传性非息肉性大肠癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006717]]==
+{{Infobox HPO
+| hpoId = HP:0006717
+| 名称 = Peripheral neuroepithelioma
+| 定义 = #####
+| 中文译名 = 外周神经上皮瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0006719]]==
+{{Infobox HPO
+| hpoId = HP:0006719
+| 名称 = Benign gastrointestinal tract tumors
+| 定义 = #####
+| 中文译名 = 良性胃肠道肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006721]]==
+{{Infobox HPO
+| hpoId = HP:0006721
+| 名称 = Acute lymphatic leukemia
+| 定义 = A form of acute leukemia characterized by excess lympoblasts.
+| 中文译名 = 急性淋巴性白血病
+| 中文定义 = 急性白血病的一种形式，特点是增多的淋巴母细胞。
+}}
+
+
+==[[HP:0006722]]==
+{{Infobox HPO
+| hpoId = HP:0006722
+| 名称 = Small intestine carcinoid
+| 定义 = #####
+| 中文译名 = 小肠部类癌
+| 中文定义 = #####
+}}
+
+==[[HP:0006723]]==
+{{Infobox HPO
+| hpoId = HP:0006723
+| 名称 = Intestinal carcinoid
+| 定义 = #####
+| 中文译名 = 肠道类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006725]]==
+{{Infobox HPO
+| hpoId = HP:0006725
+| 名称 = Pancreatic adenocarcinoma
+| 定义 = The presence of an `adenocarcinoma` (MPATH:268) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺腺癌
+| 中文定义 = 存在于胰腺的腺癌。
+}}
+
+
+==[[HP:0006727]]==
+{{Infobox HPO
+| hpoId = HP:0006727
+| 名称 = T-cell acute lymphoblastic leukemias
+| 定义 = #####
+| 中文译名 = T细胞急性淋巴细胞白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006729]]==
+{{Infobox HPO
+| hpoId = HP:0006729
+| 名称 = Retroperitoneal chemodectomas
+| 定义 = A tumor of the chemodectomas type arising in the retroperitoneal space and projecting between the layers of the transverse mesocolon.
+| 中文译名 = 腹膜后化学感受器瘤
+| 中文定义 = 一种化学受体类型的肿瘤发生在腹膜后间隙，突出于横结肠系膜层之间。
+}}
+
+==[[HP:0006731]]==
+{{Infobox HPO
+| hpoId = HP:0006731
+| 名称 = Follicular thyroid carcinoma
+| 定义 = The presence of an `follicular adenocarcinoma` (MPATH:278) of the `thyroid gland` (FMA:9603).
+| 中文译名 = 甲状腺滤泡癌
+| 中文定义 = 甲状腺内存在滤泡状腺癌
+}}
+
+
+==[[HP:0006732]]==
+{{Infobox HPO
+| hpoId = HP:0006732
+| 名称 = Papillary renal cell carcinoma type 2
+| 定义 = A type of papillary renal cell carcinoma in which the papillae are covered by large eosinophilic cells with pleomorphic nuclei, prominent nucleoli, and nuclear pseudostratification.
+| 中文译名 = Ⅱ型乳头状肾细胞癌
+| 中文定义 = 一种乳头状肾细胞癌，肾乳头被大的嗜酸性细胞所覆盖，这些细胞具有多形性细胞核、凸出的核仁和假性分层的核。
+}}
+
+
+==[[HP:0006733]]==
+{{Infobox HPO
+| hpoId = HP:0006733
+| 名称 = Acute megakaryocytic leukemia
+| 定义 = #####
+| 中文译名 = 急性巨核细胞白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006735]]==
+{{Infobox HPO
+| hpoId = HP:0006735
+| 名称 = Renal cortical adenoma
+| 定义 = The presence of an `adenoma` (MPATH:270) in the `cortex of the kidney` (FMA:15581).
+| 中文译名 = 肾皮质腺瘤
+| 中文定义 = 肾皮质发生腺瘤。
+}}
+
+
+==[[HP:0006737]]==
+{{Infobox HPO
+| hpoId = HP:0006737
+| 名称 = Extraadrenal pheochromocytoma
+| 定义 = Pheochromocytoma not originating from the adrenal medulla but from another source such as from chromaffin cells in or about sympathetic ganglia.
+| 中文译名 = 异位嗜铬细胞瘤
+| 中文定义 = 不位于肾上腺髓质，而是来源于其他组织的嗜铬细胞瘤，如位于交感神经节内或周围。
+}}
+
+
+==[[HP:0006739]]==
+{{Infobox HPO
+| hpoId = HP:0006739
+| 名称 = Squamous cell carcinoma of the skin
+| 定义 = Squamous cell carcinoma of the skin is a malignant tumor of squamous epithelium.
+| 中文译名 = 皮肤鳞状上皮细胞癌
+| 中文定义 = 皮肤的鳞状细胞癌是一种来源于鳞状上皮细胞的恶性肿瘤。
+}}
+
+==[[HP:0006740]]==
+{{Infobox HPO
+| hpoId = HP:0006740
+| 名称 = Transitional cell carcinoma of the bladder
+| 定义 = The presence of a `carcinoma` (MPATH:549) of the `urinary bladder` (FMA:15900) with origin in a `transitional epithelial cell` (CL:0000244).
+| 中文译名 = 膀胱移行细胞癌
+| 中文定义 = 源于移行上皮细胞的膀胱癌。
+}}
+
+
+==[[HP:0006742]]==
+{{Infobox HPO
+| hpoId = HP:0006742
+| 名称 = Congenital neuroblastoma
+| 定义 = #####
+| 中文译名 = 先天性神经母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006743]]==
+{{Infobox HPO
+| hpoId = HP:0006743
+| 名称 = Embryonal rhabdomyosarcoma
+| 定义 = A rare histological form of cancer of connective tissue wherein the mesenchymally-derived malignant cells resemble the primitive developing skeletal muscle of the embryo.
+| 中文译名 = 胚胎性横纹肌肉瘤
+| 中文定义 = 一种间叶细胞来源的结缔组织恶性肿瘤，类似于胚胎原始发育期骨骼肌的组织学类型。
+}}
+
+
+==[[HP:0006744]]==
+{{Infobox HPO
+| hpoId = HP:0006744
+| 名称 = Adrenocortical carcinoma
+| 定义 = A malignant neoplasm of the adrenal cortex that may produce hormones such as cortisol, aldosterone, estrogen, or testosterone.
+| 中文译名 = 肾上腺皮质癌
+| 中文定义 = 肾上腺皮质的恶性肿瘤, 可产生激素如皮质醇，醛固酮，雌激素，睾酮
+}}
+
+
+==[[HP:0006747]]==
+{{Infobox HPO
+| hpoId = HP:0006747
+| 名称 = Ganglioneuroblastoma
+| 定义 = #####
+| 中文译名 = 神经节神经母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006748]]==
+{{Infobox HPO
+| hpoId = HP:0006748
+| 名称 = Adrenal pheochromocytoma
+| 定义 = Pheochromocytoma originating from the adrenal medulla.
+| 中文译名 = 肾上腺嗜铬细胞瘤
+| 中文定义 = 由肾上腺髓质起源的嗜铬细胞瘤。
+}}
+
+
+==[[HP:0006749]]==
+{{Infobox HPO
+| hpoId = HP:0006749
+| 名称 = Malignant gastrointestinal tract tumors
+| 定义 = #####
+| 中文译名 = 胃肠道恶性肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006751]]==
+{{Infobox HPO
+| hpoId = HP:0006751
+| 名称 = Paraspinal neurofibromas
+| 定义 = #####
+| 中文译名 = 椎旁神经纤维瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006753]]==
+{{Infobox HPO
+| hpoId = HP:0006753
+| 名称 = Neoplasm of the stomach
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `stomach` (FMA:7148).
+| 中文译名 = 胃肿瘤
+| 中文定义 = 存在于胃的肿瘤。
+}}
+
+
+==[[HP:0006755]]==
+{{Infobox HPO
+| hpoId = HP:0006755
+| 名称 = Cutaneous leiomyosarcoma
+| 定义 = The presence of `leiomyosarcoma` (MPATH:426) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤平滑肌肉瘤
+| 中文定义 = 皮肤来源的平滑肌肉瘤。
+}}
+
+
+==[[HP:0006756]]==
+{{Infobox HPO
+| hpoId = HP:0006756
+| 名称 = Diffuse leiomyomatosis
+| 定义 = Ａrare condition seen exclusively in women in which leiomyomata, benign smooth muscle tumors, are found in veins.
+| 中文译名 = 弥漫性平滑肌瘤病
+| 中文定义 = 一种极为罕见仅发生在女性的平滑肌良性肿瘤，发生于静脉。
+}}
+
+
+==[[HP:0006758]]==
+{{Infobox HPO
+| hpoId = HP:0006758
+| 名称 = Malignant genitourinary tract tumor
+| 定义 = The presence of a `malignant` (PATO:0002097) `neoplasm` (MPATH:218) of the `genital system` (7160).
+| 中文译名 = 恶性泌尿生殖道肿瘤
+| 中文定义 = 生殖系统恶性肿瘤。
+}}
+
+
+==[[HP:0006762]]==
+{{Infobox HPO
+| hpoId = HP:0006762
+| 名称 = Renal pelvic carcinoma
+| 定义 = The presence of a `carcinoma` (MPATH:549) in the `renal pelvis` (FMA:15575).
+| 中文译名 = 肾盂癌
+| 中文定义 = 肾盂发生肿瘤。
+}}
+
+
+==[[HP:0006763]]==
+{{Infobox HPO
+| hpoId = HP:0006763
+| 名称 = Anal canal squamous carcinoma
+| 定义 = #####
+| 中文译名 = 肛管鳞状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006765]]==
+{{Infobox HPO
+| hpoId = HP:0006765
+| 名称 = Chondrosarcoma
+| 定义 = A slowly growing malignant neoplasm derived from cartilage cells.
+| 中文译名 = 软骨肉瘤
+| 中文定义 = 缓慢增长的恶性肿瘤的软骨细胞来源。
+}}
+
+
+==[[HP:0006766]]==
+{{Infobox HPO
+| hpoId = HP:0006766
+| 名称 = Papillary renal cell carcinoma
+| 定义 = The presence of `renal cell carcinoma` (HP:0005584) in the `renal papilla` (FMA:15622).
+| 中文译名 = 乳头状肾细胞癌
+| 中文定义 = 肾乳头形成肾细胞癌。
+}}
+
+
+==[[HP:0006767]]==
+{{Infobox HPO
+| hpoId = HP:0006767
+| 名称 = Pituitary prolactin cell adenoma
+| 定义 = A type of pituitary adenoma originating in prolactin secreting cells. This kind of adenoma is characterized by overproduction of prolactin, and may cause loss of menstrual periods and breast milk production in women.
+| 中文译名 = 垂体泌乳素细胞瘤
+| 中文定义 = 一种源自于泌乳素分泌细胞的垂体腺瘤。这种腺瘤的特征是泌乳素生产过剩，并可能导致女性月经周期消失和溢乳。
+}}
+
+
+==[[HP:0006768]]==
+{{Infobox HPO
+| hpoId = HP:0006768
+| 名称 = Localized neuroblastoma
+| 定义 = #####
+| 中文译名 = 局灶神经母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006769]]==
+{{Infobox HPO
+| hpoId = HP:0006769
+| 名称 = Myxoid subcutaneous tumors
+| 定义 = #####
+| 中文译名 = 粘液样皮下肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006770]]==
+{{Infobox HPO
+| hpoId = HP:0006770
+| 名称 = Clear cell renal cell carcinoma
+| 定义 = A subtype of renal cell carcinoma thought to originate from mature renal tubular cells in the proximal tubule of the nehpron.
+| 中文译名 = 肾透明细胞癌
+| 中文定义 = 肾细胞癌的一个亚型，起源于肾单元近曲小管的成熟肾小管细胞。
+}}
+
+
+==[[HP:0006771]]==
+{{Infobox HPO
+| hpoId = HP:0006771
+| 名称 = Duodenal carcinoma
+| 定义 = #####
+| 中文译名 = 十二指肠癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006772]]==
+{{Infobox HPO
+| hpoId = HP:0006772
+| 名称 = Renal angiomyolipoma
+| 定义 = A benign renal neoplasm composed of fat, vascular, and smooth muscle elements.
+| 中文译名 = 肾血管平滑肌脂肪瘤
+| 中文定义 = 一种良性的肾肿瘤，由脂肪、血管和平滑肌组成。
+}}
+
+
+==[[HP:0006773]]==
+{{Infobox HPO
+| hpoId = HP:0006773
+| 名称 = Cutaneous angiolipomas
+| 定义 = #####
+| 中文译名 = 皮肤血管脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006774]]==
+{{Infobox HPO
+| hpoId = HP:0006774
+| 名称 = Ovarian papillary adenocarcinoma
+| 定义 = The presence of a `papillary adenocarcinoma` (MPATH:295) of the `ovary` (FMA:7209).
+| 中文译名 = 卵巢乳头状腺癌
+| 中文定义 = 卵巢形成乳头状腺癌。
+}}
+
+
+==[[HP:0006775]]==
+{{Infobox HPO
+| hpoId = HP:0006775
+| 名称 = Multiple myeloma
+| 定义 = A malignant plasma cell tumor growing within soft tissue or within the skeleton.
+| 中文译名 = 多发性骨髓瘤
+| 中文定义 = 在软组织或骨骼内生长的恶性浆细胞瘤。
+}}
+
+
+==[[HP:0006778]]==
+{{Infobox HPO
+| hpoId = HP:0006778
+| 名称 = Benign genitourinary tract neoplasm
+| 定义 = A `non-malignant` (PATO:0002096) `neoplasm` (MPATH:218) of the `genitourinary system` (FMA:280610).
+| 中文译名 = 泌尿生殖道良性肿瘤
+| 中文定义 = 泌尿生殖系统的非恶性增生。
+}}
+
+
+==[[HP:0006779]]==
+{{Infobox HPO
+| hpoId = HP:0006779
+| 名称 = Alveolar rhabdomyosarcoma
+| 定义 = Ａtype of rhabdomyosarcoma characterized by its appearance, which is similar to the alveoli of the lungs.
+| 中文译名 = 肺泡状横纹肌肉瘤
+| 中文定义 = 一种横纹肌肉瘤，外观特征类似于肺泡组织。
+}}
+
+
+==[[HP:0006780]]==
+{{Infobox HPO
+| hpoId = HP:0006780
+| 名称 = Parathyroid carcinoma
+| 定义 = A malignancy of the parathyroid glands. Parathyroid carcinoma usually secretes parathyroid hormone, leading to hyperparathyroidism.
+| 中文译名 = 甲状旁腺癌
+| 中文定义 = 甲状旁腺恶性肿瘤。通常分泌甲状旁腺激素，导致甲状旁腺功能亢进。
+}}
+
+
+==[[HP:0006781]]==
+{{Infobox HPO
+| hpoId = HP:0006781
+| 名称 = Hurthle cell thyroid adenoma
+| 定义 = A kind of `thyroid adenoma` (HP:0000854) characterized by the presence of `oxyphil cells` (CL:0002200).
+| 中文译名 = 嗜酸细胞甲状腺腺瘤
+| 中文定义 = 甲状腺腺瘤的一种，特征为存在嗜酸细胞。
+}}
+
+
+==[[HP:0006782]]==
+{{Infobox HPO
+| hpoId = HP:0006782
+| 名称 = Malignant eosinophil proliferation
+| 定义 = #####
+| 中文译名 = 嗜酸性粒细胞恶性增殖
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006851]]==
+{{Infobox HPO
+| hpoId = HP:0006851
+| 名称 = Symmetric spinal nerve root neurofibromas
+| 定义 = Multiple neurofibromas of the spinal nerve roots with a symmetric distribution.
+| 中文译名 = 对称的脊神经根神经纤维瘤
+| 中文定义 = 脊神经根的对称分布的多发性神经纤维瘤。
+}}
+
+
+==[[HP:0006866]]==
+{{Infobox HPO
+| hpoId = HP:0006866
+| 名称 = Midline central nervous system lipomas
+| 定义 = #####
+| 中文译名 = 中线中枢神经系统脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006880]]==
+{{Infobox HPO
+| hpoId = HP:0006880
+| 名称 = Cerebellar hemangioblastoma
+| 定义 = A &#39;hemangioblastoma` (HP:0010797) of the `cerebellum` (FMA:67944).
+| 中文译名 = 小脑血管母细胞瘤
+| 中文定义 = 小脑（FMA:67944）的血管母细胞瘤（0010797 HP）。
+}}
+
+
+==[[HP:0006931]]==
+{{Infobox HPO
+| hpoId = HP:0006931
+| 名称 = Lipoma of corpus callosum
+| 定义 = #####
+| 中文译名 = 胼胝体脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007129]]==
+{{Infobox HPO
+| hpoId = HP:0007129
+| 名称 = Cerebellar medulloblastoma
+| 定义 = #####
+| 中文译名 = 小脑髓母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007378]]==
+{{Infobox HPO
+| hpoId = HP:0007378
+| 名称 = Neoplasm of the gastrointestinal tract
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the gastrointestinal tract.
+| 中文译名 = 胃肠道肿瘤
+| 中文定义 = 存在于胃肠道的肿瘤。
+}}
+
+
+==[[HP:0007379]]==
+{{Infobox HPO
+| hpoId = HP:0007379
+| 名称 = Neoplasm of the genitourinary tract
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `genitourinary system` (FMA:280610).
+| 中文译名 = 泌尿生殖道肿瘤
+| 中文定义 = 泌尿生殖系统的肿瘤。
+}}
+
+
+==[[HP:0007434]]==
+{{Infobox HPO
+| hpoId = HP:0007434
+| 名称 = Plaque-like facial hemangioma
+| 定义 = Hemangioma is a benign tumor of the vascular endothelial cells. This term refers to facial hemangiomas that have a plaque-like morphology.
+| 中文译名 = 斑块样面部血管瘤
+| 中文定义 = 血管瘤是血管内皮细胞的良性肿瘤。该术语是指具有一个斑块样形态的面部血管瘤。
+}}
+
+
+==[[HP:0007437]]==
+{{Infobox HPO
+| hpoId = HP:0007437
+| 名称 = Multiple cutaneous leiomyomas
+| 定义 = The presence of `multiple` (PATO:0002118) `leiomyomas` (MPATH:425) of the `skin` (FMA:7163).
+| 中文译名 = 多发性皮肤平滑肌瘤
+| 中文定义 = 皮肤多发的平滑肌瘤。
+}}
+
+
+==[[HP:0007452]]==
+{{Infobox HPO
+| hpoId = HP:0007452
+| 名称 = Midface capillary hemangioma
+| 定义 = #####
+| 中文译名 = 面中部毛细血管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007461]]==
+{{Infobox HPO
+| hpoId = HP:0007461
+| 名称 = Hemangiomatosis
+| 定义 = Multiple hemangioma,which is a benign and usually self-involuting tumor (swelling or growth) of the endothelial cells that line blood vessels that is characterised by increased number of normal or abnormal vessels filled with blood.
+| 中文译名 = 血管瘤
+| 中文定义 = 血管瘤是一种良性通常能够自行消退的内皮细胞肿瘤，以血管数目增多为特征。多个部位发生血管瘤，即多发性血管瘤。
+}}
+
+==[[HP:0007466]]==
+{{Infobox HPO
+| hpoId = HP:0007466
+| 名称 = Midfrontal capillary hemangioma
+| 定义 = #####
+| 中文译名 = 额中部毛细血管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007486]]==
+{{Infobox HPO
+| hpoId = HP:0007486
+| 名称 = Cavernous hemangioma of the face
+| 定义 = Cavernous hemangioma located in the face.
+| 中文译名 = 面部海绵状血管瘤
+| 中文定义 = 面部的海绵状血管瘤。
+}}
+
+
+==[[HP:0007524]]==
+{{Infobox HPO
+| hpoId = HP:0007524
+| 名称 = Atypical neurofibromatosis
+| 定义 = #####
+| 中文译名 = 非典型神经纤维瘤病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007541]]==
+{{Infobox HPO
+| hpoId = HP:0007541
+| 名称 = Frontal cutaneous lipoma
+| 定义 = Presence of a cutaneous lipoma on the forehead.
+| 中文译名 = 前额皮肤脂肪瘤
+| 中文定义 = 前额部的皮肤脂肪瘤。
+}}
+
+
+==[[HP:0007576]]==
+{{Infobox HPO
+| hpoId = HP:0007576
+| 名称 = Palmar neurofibromas
+| 定义 = #####
+| 中文译名 = 手掌神经纤维瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007596]]==
+{{Infobox HPO
+| hpoId = HP:0007596
+| 名称 = Painful subcutaneous lipomas
+| 定义 = The presence of multiple subcutaneous `lipoma` (MPATH:417) that cause pain.
+| 中文译名 = 疼痛性皮下脂肪瘤
+| 中文定义 = 多发性的皮下脂肪瘤，伴疼痛。
+}}
+
+
+==[[HP:0007601]]==
+{{Infobox HPO
+| hpoId = HP:0007601
+| 名称 = Midline facial capillary hemangioma
+| 定义 = #####
+| 中文译名 = 面部中线毛细血管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007606]]==
+{{Infobox HPO
+| hpoId = HP:0007606
+| 名称 = Multiple cutaneous malignancies
+| 定义 = #####
+| 中文译名 = 多发性皮肤恶性肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007620]]==
+{{Infobox HPO
+| hpoId = HP:0007620
+| 名称 = Cutaneous leiomyoma
+| 定义 = The presence of `leiomyoma` (MPATH:425) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤平滑肌瘤
+| 中文定义 = 皮肤来源的平滑肌瘤。
+}}
+
+
+==[[HP:0007716]]==
+{{Infobox HPO
+| hpoId = HP:0007716
+| 名称 = Intraocular melanoma
+| 定义 = A malignant melanoma originating within the eye. The tumor originates from the melanocytes in the uvea (which comprises the iris, ciliary body, and choroid).
+| 中文译名 = 眼内黑色素瘤
+| 中文定义 = 恶性黑素瘤眼内始发。肿瘤来源于在葡萄膜黑色素细胞（其包括虹膜，睫状体，脉络膜）。
+}}
+
+
+==[[HP:0007872]]==
+{{Infobox HPO
+| hpoId = HP:0007872
+| 名称 = Choroidal hemangiomata
+| 定义 = The presence of multiple hemangiomas in the choroid. These are generally reddish or orange or can have increased pigmentation maiking them difficult to distinguish from choroidal melanomas.
+| 中文译名 = 脉络膜血管瘤
+| 中文定义 = 多种脉络膜血管瘤的存在。通常是微红或橙色，或者可以增加色素沉着使它们难以与脉络膜黑素瘤分辨。
+}}
+
+
+==[[HP:0008069]]==
+{{Infobox HPO
+| hpoId = HP:0008069
+| 名称 = Neoplasm of the skin
+| 定义 = A `neoplasm` (MPATH:218) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤肿瘤
+| 中文定义 = 皮肤的新生肿物
+}}
+
+
+==[[HP:0008194]]==
+{{Infobox HPO
+| hpoId = HP:0008194
+| 名称 = Multiple pancreatic beta-cell adenomas
+| 定义 = The presence of `multiple` (PATO:0002118) `pancreatic islet cell adenomas` (HP:0008261).
+| 中文译名 = 多发胰腺β细胞腺瘤
+| 中文定义 = 胰腺中存在多发的胰腺胰岛细胞腺瘤(HP:0008261).
+}}
+
+
+==[[HP:0008204]]==
+{{Infobox HPO
+| hpoId = HP:0008204
+| 名称 = Precocious puberty with Sertoli cell tumor
+| 定义 = #####
+| 中文译名 = 性早熟伴支持细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008256]]==
+{{Infobox HPO
+| hpoId = HP:0008256
+| 名称 = Adrenocortical adenoma
+| 定义 = Adrenocortical adenomas are benign tumors of the adrenal cortex.
+| 中文译名 = 肾上腺皮质腺瘤
+| 中文定义 = 肾上腺皮质腺瘤是肾上腺皮质的良性肿瘤。
+}}
+
+
+==[[HP:0008261]]==
+{{Infobox HPO
+| hpoId = HP:0008261
+| 名称 = Pancreatic islet cell adenoma
+| 定义 = The presence of an `adenoma` (MPATH:270) of the `pancreas` (FMA:7198) with origin in a `pancreatic B cell` (CL:0000169).
+| 中文译名 = 胰岛细胞瘤
+| 中文定义 = 胰腺内的一种腺瘤，来源于胰岛B细胞。
+}}
+
+
+==[[HP:0008291]]==
+{{Infobox HPO
+| hpoId = HP:0008291
+| 名称 = Pituitary corticotropic cell adenoma
+| 定义 = A type of pituitary adenoma that produces adrenocorticotropic hormone (ACTH).
+| 中文译名 = 垂体促肾上腺皮质激素腺瘤
+| 中文定义 = 一种生成促肾上腺皮质激素（ACTH）的垂体腺瘤。
+}}
+
+
+==[[HP:0008643]]==
+{{Infobox HPO
+| hpoId = HP:0008643
+| 名称 = Nephroblastomatosis
+| 定义 = Presence of persistent islands of renal blastoma in the postnatal kidney. Nephroblastomatosis represents a complex abnormality of nephrogenesis and has been defined as the persistence of metanephricblastoma into infancy and childhood.
+| 中文译名 = 肾母细胞瘤病
+| 中文定义 = 出生后持续性岛屿状肾母细胞瘤。肾母细胞瘤病代表肾生成时的复杂性异常，并定义为原肾胚细胞瘤持续至婴儿期和儿童期 。
+}}
+
+
+==[[HP:0008663]]==
+{{Infobox HPO
+| hpoId = HP:0008663
+| 名称 = Renal sarcoma
+| 定义 = A `sarcoma` (MPATH:551) of the `kidney` (FMA:7203).
+| 中文译名 = 肾肉瘤
+| 中文定义 = 肾脏的肉瘤。
+}}
+
+
+==[[HP:0008696]]==
+{{Infobox HPO
+| hpoId = HP:0008696
+| 名称 = Renal hamartoma
+| 定义 = A disordered proliferation of mature tissues that are native to the kidneys.
+| 中文译名 = 肾错构瘤
+| 中文定义 = 来源于肾的成熟组织的无序增殖。
+}}
+
+
+==[[HP:0009588]]==
+{{Infobox HPO
+| hpoId = HP:0009588
+| 名称 = Vestibular Schwannoma
+| 定义 = A vestibular Schwannoma (also known as acoustic neuroma, acoustic neurinoma, or acoustic neurilemoma) is a benign, usually slow-growing tumor that develops from the VIIIth cranial nerve supplying the inner ear.
+| 中文译名 = 前庭神经鞘瘤
+| 中文定义 = 前庭神经鞘瘤（也称为听神经瘤，听神经鞘瘤，或听神经鞘瘤）是良性的，通常是生长缓慢的肿瘤，起源于支配内耳的第八对颅神经。
+}}
+
+
+==[[HP:0009589]]==
+{{Infobox HPO
+| hpoId = HP:0009589
+| 名称 = Bilateral vestibular Schwannoma
+| 定义 = A bilateral vestibular Schwannoma (acoustic neurinoma).
+| 中文译名 = 双侧前庭神经鞘瘤
+| 中文定义 = 双侧前庭神经鞘瘤（听神经瘤）。
+}}
+
+
+==[[HP:0009590]]==
+{{Infobox HPO
+| hpoId = HP:0009590
+| 名称 = Unilateral vestibular Schwannoma
+| 定义 = A unilateral vestibular Schwannoma (acoustic neurinoma).
+| 中文译名 = 单侧前庭神经鞘瘤
+| 中文定义 = 单侧的前庭神经鞘瘤（听神经瘤）。
+}}
+
+
+==[[HP:0009592]]==
+{{Infobox HPO
+| hpoId = HP:0009592
+| 名称 = Astrocytoma
+| 定义 = Astrocytoma is a neoplasm of the central nervous system derived from astrocytes. Astrocytes are a type of glial cell, and thus astrocytoma is a subtype of `glioma` (HP:0009733).
+| 中文译名 = 星形细胞瘤
+| 中文定义 = 星形细胞瘤是从星形胶质细胞分化的一种中枢神经系统肿瘤。星形胶质细胞是一种类型的神经胶质细胞，因而星形细胞瘤是`胶质瘤`（HP:0009733）的亚型。
+}}
+
+
+==[[HP:0009593]]==
+{{Infobox HPO
+| hpoId = HP:0009593
+| 名称 = Peripheral Schwannoma
+| 定义 = The presence of a `peripheral` (PATO:0002107) `schwannoma` (MPATH:438).
+| 中文译名 = 外周神经鞘瘤
+| 中文定义 = 一个`peripheral`的存在（PATO:0002107）`schwannoma`（的mpath:438）。
+}}
+
+==[[HP:0009594]]==
+{{Infobox HPO
+| hpoId = HP:0009594
+| 名称 = Retinal hamartoma
+| 定义 = A hamartoma (a benign, focal malformation consisting of a disorganized mixture of cells and tissues) of the retina.
+| 中文译名 = 视网膜错构瘤
+| 中文定义 = 视网膜上的错构瘤（良性，局部畸形，包括细胞和组织的混合物）。
+}}
+
+
+==[[HP:0009595]]==
+{{Infobox HPO
+| hpoId = HP:0009595
+| 名称 = Occasional neurofibromas
+| 定义 = Neurofibromas present in a smaller number than usually seen in neurofibromatosis type 1.
+| 中文译名 = 偶发的神经纤维瘤
+| 中文定义 = 发生率较小的神经纤维瘤，多存在于1型神经纤维瘤
+}}
+
+
+==[[HP:0009711]]==
+{{Infobox HPO
+| hpoId = HP:0009711
+| 名称 = Retinal hemangioblastoma
+| 定义 = Retinal hemangioblastoma is a benign vascular tumor of the retina without any neoplastic characteristics. They have been called &quot;retinal angiomas&quot; and &quot;retinal hemangiomas&quot; but hemangioblastoma is the preferred term since they are histologically identical to lesions found in the CNS.
+| 中文译名 = 视网膜血管母细胞瘤
+| 中文定义 = 视网膜血管母细胞瘤是视网膜良性血管瘤，没有任何瘤形成特性。他们被称为“视网膜血管瘤”和“视网膜血管瘤”，但血管母细胞瘤是首选的术语，因为它们在组织学上相同的病变在中枢神经系统中。
+}}
+
+
+==[[HP:0009713]]==
+{{Infobox HPO
+| hpoId = HP:0009713
+| 名称 = Spinal hemangioblastoma
+| 定义 = A &#39;hemangioblastoma` (HP:0010797) of the `spinal cord` (FMA:7647).
+| 中文译名 = 脊髓血管母细胞瘤
+| 中文定义 = 位于`脊髓的（FMA:7647）:血管母细胞瘤（0010797 HP）。
+}}
+
+
+==[[HP:0009715]]==
+{{Infobox HPO
+| hpoId = HP:0009715
+| 名称 = Papillary cystadenoma of the epididymis
+| 定义 = The presence of a `papillary cystadenoma` (MPATH:298) of the `epididymis` (FMA:18255).
+| 中文译名 = 附睾乳头状囊腺瘤
+| 中文定义 = 附睾形成乳头状囊腺瘤。
+}}
+
+
+==[[HP:0009716]]==
+{{Infobox HPO
+| hpoId = HP:0009716
+| 名称 = Subependymal nodules
+| 定义 = Small nodular masses which originate in the subependymal region of the lateral ventricles and protrude into the ventricular cavity. They may represent subependymal hamartomas of tuberous sclerosis or nodular heterotopia of grey matter.
+| 中文译名 = 室管膜下结节
+| 中文定义 = 小结节性肿物发源于侧脑室室管膜下区并突入脑室腔。它们可能代表结节性硬化症的室管膜下错构瘤或灰质的结节样异位。
+}}
+
+
+==[[HP:0009717]]==
+{{Infobox HPO
+| hpoId = HP:0009717
+| 名称 = Cortical tubers
+| 定义 = Cortical tubers in the brain are hamartomatous lesions typically located at the gray-white matter interface, commonly in the frontal and parietal lobes. Cortical tubers are composed of abnormal glial and neural cells, and the size, number, and location vary among patients.
+| 中文译名 = 皮质结节
+| 中文定义 = 大脑皮质结节是错构瘤性病变，典型病灶位于灰白质交界区，通常位于额叶和顶叶。皮质结节由异常的神经胶质和神经细胞组成，不同患者中皮质结节的大小，数量，和位置差异很大。
+}}
+
+
+==[[HP:0009718]]==
+{{Infobox HPO
+| hpoId = HP:0009718
+| 名称 = Subependymal giant-cell astrocytoma
+| 定义 = A demarcated, largely intraventricular tumor in the region of the foramen of Monro composed of spindle to large plump or ganglion-like cells with eosinophilic to amphophilic cytoplasm and somewhat pleomorphic nuclei with occasional prominent nucleoli. These tumors are almost always associated with tuberous sclerosis.
+| 中文译名 = 室管膜下巨细胞星形细胞瘤
+| 中文定义 = 界限清楚的、主要位于脑室内Moron孔区的肿瘤，主要由纺锤形、大而饱满或神经节细胞样嗜酸性或嗜两性细胞质并且有少许多形核，偶见显著的核仁。这些肿瘤几乎总是与结节性硬化相关。
+}}
+
+
+==[[HP:0009720]]==
+{{Infobox HPO
+| hpoId = HP:0009720
+| 名称 = Adenoma sebaceum
+| 定义 = The presence of a `sebaceous adenoma` (MPATH:230) with origin in the `sebum secreting cells` (CL:000031) of the `skin` (FMA:7163).
+| 中文译名 = 皮脂腺腺瘤
+| 中文定义 = 存在起源于皮肤皮脂分泌细胞的皮脂腺瘤
+}}
+
+==[[HP:0009724]]==
+{{Infobox HPO
+| hpoId = HP:0009724
+| 名称 = Subungual fibromas
+| 定义 = The presence of fibromata beneath finger or toenails.
+| 中文译名 = 甲下纤维瘤
+| 中文定义 = 存在于指甲或趾甲下方的纤维瘤。
+}}
+
+
+==[[HP:0009725]]==
+{{Infobox HPO
+| hpoId = HP:0009725
+| 名称 = Bladder neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `urinary bladder` (FMA:15900).
+| 中文译名 = 膀胱肿瘤
+| 中文定义 = 膀胱发生肿瘤。
+}}
+
+
+==[[HP:0009726]]==
+{{Infobox HPO
+| hpoId = HP:0009726
+| 名称 = Renal neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `kidney` (FMA:7203).
+| 中文译名 = 肾肿瘤
+| 中文定义 = 肾形成肿瘤。
+}}
+
+
+==[[HP:0009728]]==
+{{Infobox HPO
+| hpoId = HP:0009728
+| 名称 = Neoplasm of striated muscle
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) originating in striated muscle, either skeletal muscle or cardiac muscle.
+| 中文译名 = 横纹肌瘤
+| 中文定义 = 良性或恶性`neoplasm`（的mpath:218）（肿瘤）起源于于横纹肌，包括骨骼肌和心肌。
+}}
+
+
+==[[HP:0009729]]==
+{{Infobox HPO
+| hpoId = HP:0009729
+| 名称 = Cardiac rhabdomyoma
+| 定义 = A benign tumor of cardiac striated muscle.
+| 中文译名 = 心脏横纹肌瘤
+| 中文定义 = 心脏横纹肌的良性肿瘤。
+}}
+
+
+==[[HP:0009730]]==
+{{Infobox HPO
+| hpoId = HP:0009730
+| 名称 = Rhabdomyoma
+| 定义 = A benign tumor of striated muscle.
+| 中文译名 = 横纹肌瘤
+| 中文定义 = 横纹肌的良性肿瘤。
+}}
+
+
+==[[HP:0009731]]==
+{{Infobox HPO
+| hpoId = HP:0009731
+| 名称 = Cerebral hamartomata
+| 定义 = The presence of a `hamartoma` (HP:0010566) of the `cerebrum` (FMA:62000).
+| 中文译名 = 脑错构瘤
+| 中文定义 = 在大脑（FMA:62000）出现的错构瘤（HP:0010566）。
+}}
+
+
+==[[HP:0009732]]==
+{{Infobox HPO
+| hpoId = HP:0009732
+| 名称 = Plexiform neurofibroma
+| 定义 = A neurofibroma in which Schwann cells proliferate inside the nerve sheath, producing an irregularly thickened, distorted, tortuous structure.
+| 中文译名 = 丛状神经纤维瘤
+| 中文定义 = 一个神经纤维瘤，其中雪旺细胞在神经鞘内增殖，产生不规则增厚，变形，曲折的结构。
+}}
+
+
+==[[HP:0009733]]==
+{{Infobox HPO
+| hpoId = HP:0009733
+| 名称 = Glioma
+| 定义 = The presence of a `glioma` (MPATH:249), which is a `neoplasm` (MPATH:218) of the `central nervous system` (FMA:55675) originating from a glial cell (astrocytes or oligodendrocytes).
+| 中文译名 = 神经胶质瘤
+| 中文定义 = `胶质细胞瘤` (MPATH:249)是起源于神经胶质细胞（星形胶质细胞或少突胶质细胞）的`中枢神经系统`(FMA:55675)`新生物(MPATH:218)。
+}}
+
+
+==[[HP:0009734]]==
+{{Infobox HPO
+| hpoId = HP:0009734
+| 名称 = Optic glioma
+| 定义 = A `glioma` (HP:0009733) originating in the `optic nerve` (FMA:50863) or `optic chiasm` (FMA:62045).
+| 中文译名 = 视神经胶质瘤
+| 中文定义 = 一种起源于视神经或视交叉的视神经胶质瘤
+}}
+
+
+==[[HP:0009735]]==
+{{Infobox HPO
+| hpoId = HP:0009735
+| 名称 = Spinal neurofibromas
+| 定义 = Neurofibromas originating in the spine.
+| 中文译名 = 脊髓神经纤维瘤
+| 中文定义 = 神经纤维瘤起源于脊柱内。
+}}
+
+
+==[[HP:0009737]]==
+{{Infobox HPO
+| hpoId = HP:0009737
+| 名称 = Lisch nodules
+| 定义 = The presence of pigmented, oval and dome-shaped raised hamartomatous nevi of the `iris` (FMA:58235)..
+| 中文译名 = Lisch结节
+| 中文定义 = 虹膜上的色素性，椭圆形，圆顶形（FMA:58235）的错构瘤痣..
+}}
+
+
+==[[HP:0009792]]==
+{{Infobox HPO
+| hpoId = HP:0009792
+| 名称 = Teratoma
+| 定义 = The presence of a `teratoma` (MPATH:322).
+| 中文译名 = 畸胎瘤
+| 中文定义 = 出现畸胎瘤。
+}}
+
+
+==[[HP:0009793]]==
+{{Infobox HPO
+| hpoId = HP:0009793
+| 名称 = Presacral teratoma
+| 定义 = Presence of a teratoma anterior to the sacrum.
+| 中文译名 = 骶前畸胎瘤
+| 中文定义 = 骶骨前部形成畸胎瘤。
+}}
+
+
+==[[HP:0009797]]==
+{{Infobox HPO
+| hpoId = HP:0009797
+| 名称 = Cholesteatoma
+| 定义 = Cholesteatoma is a benign but potentially destructive growth consisting of keratinizing epithelium located in the middle ear and/or mastoid process. In cholesteatoma, a skin cyst grows into the middle ear and mastoid. The cyst is not cancerous but can erode tissue and cause destruction of the ear.
+| 中文译名 = 胆脂瘤
+| 中文定义 = 胆脂瘤是一种位于中耳和/或乳突区含有角化上皮的良性但又有潜在破坏性生长的疾病。在胆脂瘤中，皮肤呈囊肿样长入中耳和乳突。囊肿不具有癌性，但能侵蚀组织，引起耳朵的破坏。
+}}
+
+
+==[[HP:0009919]]==
+{{Infobox HPO
+| hpoId = HP:0009919
+| 名称 = Retinoblastoma
+| 定义 = A tumor of the eye originating from cells of the retina.
+| 中文译名 = 视网膜母细胞瘤
+| 中文定义 = 眼睛的视网膜细胞起源的肿瘤。
+}}
+
+
+==[[HP:0010302]]==
+{{Infobox HPO
+| hpoId = HP:0010302
+| 名称 = Spinal cord tumor
+| 定义 = A `neoplasm` (MPATH:218) affecting the `spinal cord` (FMA:7647).
+| 中文译名 = 脊髓肿瘤
+| 中文定义 = 一个影响脊髓（FMA:7647）的新生物`（mpath:218）。
+}}
+
+
+==[[HP:0010566]]==
+{{Infobox HPO
+| hpoId = HP:0010566
+| 名称 = Hamartoma
+| 定义 = A disordered proliferation of mature tissues that is native to the site of origin - eg, exostoses, nevi and soft tissue hamartomas. Although most hamartomas are benign, some histologic subtypes - eg, neuromuscular hamartoma, may proliferate aggressively such as mesenchymal cystic hamartoma, Sclerosing epithelial hamartoma, Sclerosing metanephric hamartoma.
+| 中文译名 = 错构瘤
+| 中文定义 = 错构瘤是&#39;起源于器官的正常成熟组织的无序增殖，例如，外生骨疣，痣和软组织错构瘤。虽然大多数错构瘤是良性的，但一些组织学亚型-如神经肌肉的错构瘤，可产生侵袭性增殖，如间充质囊性错构瘤、硬化性上皮错构瘤、硬化性肾错构瘤。
+}}
+
+
+==[[HP:0010568]]==
+{{Infobox HPO
+| hpoId = HP:0010568
+| 名称 = Hamartoma of the eye
+| 定义 = A hamartoma (disordered proliferation of mature tissues) which can originate from any tissue of the eye.
+| 中文译名 = 眼部错构瘤
+| 中文定义 = 错构瘤（成熟组织的无序增殖），它可以从眼睛中的任何组织起源。
+}}
+
+==[[HP:0010603]]==
+{{Infobox HPO
+| hpoId = HP:0010603
+| 名称 = Keratocystic odontogenic tumor
+| 定义 = A benign uni- or multicystic, intraosseous tumor of odontogenic origin, with a characteristic lining of parakeratinized stratified squamous epithelium and potential for aggressive, infiltrative behaviour.
+| 中文译名 = 角化囊性牙源肿瘤
+| 中文定义 = 良性的单或多囊性的牙源骨内肿瘤，其特征为有类角化的复层鳞状上皮作衬里，且具有攻击性浸润性举动的潜力。
+}}
+
+
+==[[HP:0010614]]==
+{{Infobox HPO
+| hpoId = HP:0010614
+| 名称 = Fibroma
+| 定义 = Benign tumors that are composed of fibrous or connective tissue. They can grow in all organs, arising from mesenchyme tissue. The term &quot;fibroblastic&quot; or &quot;fibromatous&quot; is used to describe tumors of the fibrous connective tissue. When the term fibroma is used without modifier, it is usually considered benign, with the term fibrosarcoma reserved for malignant tumors.
+| 中文译名 = 纤维瘤
+| 中文定义 = 由纤维或结缔组织构成的良性肿瘤。它们是间质组织来源，可发生于机体的任何器官，术语“成纤维细胞”或“纤维瘤”用来描述纤维结缔组织肿瘤。通常 纤维瘤 一词指良性肿瘤，而纤维肉瘤一词是指恶性肿瘤。
+}}
+
+
+==[[HP:0010615]]==
+{{Infobox HPO
+| hpoId = HP:0010615
+| 名称 = Angiofibromas
+| 定义 = Angiofibroma consist of many often dilated vessels.
+| 中文译名 = 血管纤维瘤
+| 中文定义 = 血管纤维瘤由许多扩张的血管组成。
+}}
+
+
+==[[HP:0010616]]==
+{{Infobox HPO
+| hpoId = HP:0010616
+| 名称 = Lung fibroma
+| 定义 = The presence of a lung fibroma, a benign neoplasm that can present as a mass causing airway obstruction, cough, and hemoptysis, or present without symptoms as a solitary pulmonary nodule.
+| 中文译名 = 肺纤维瘤
+| 中文定义 = 肺纤维瘤为一种良性的肿瘤，可表现为大块病变引起气道阻塞、咳嗽、咯血或没有症状的孤立性肺结节。
+}}
+
+
+==[[HP:0010617]]==
+{{Infobox HPO
+| hpoId = HP:0010617
+| 名称 = Cardiac fibroma
+| 定义 = A `fibroma` (MPATH:407) of the `heart` (FMA:7088).
+| 中文译名 = 心脏纤维瘤
+| 中文定义 = 心脏中形成的纤维瘤（FMA:7088）。
+}}
+
+
+==[[HP:0010618]]==
+{{Infobox HPO
+| hpoId = HP:0010618
+| 名称 = Ovarian fibroma
+| 定义 = The presence of a `fibroma` (MPATH:407) of the `ovary` (FMA:7209).
+| 中文译名 = 卵巢纤维瘤
+| 中文定义 = 卵巢中存在纤维瘤。
+}}
+
+
+==[[HP:0010619]]==
+{{Infobox HPO
+| hpoId = HP:0010619
+| 名称 = Fibroma of the breast
+| 定义 = The presence of a `fibroma` (MPATH:407) of the `breast` (FMA:9601).
+| 中文译名 = 乳腺纤维瘤
+| 中文定义 = 在`breast`的（FMA:9601）:一`fibroma`的存在（407的mpath）。
+}}
+
+
+==[[HP:0010622]]==
+{{Infobox HPO
+| hpoId = HP:0010622
+| 名称 = Neoplasm of the skeletal system
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) originating in the `skeleton` (FMA:23875).
+| 中文译名 = 骨骼系统肿瘤
+| 中文定义 = 良性或恶性`neoplasm`（的mpath:218）（肿瘤）原产于`skeleton`（FMA:23875）。
+}}
+
+
+==[[HP:0010762]]==
+{{Infobox HPO
+| hpoId = HP:0010762
+| 名称 = Chordoma
+| 定义 = A chordoma is a tumors that arises from embryonic remnants of the `notochord` (FMA:85521) along the length of the neuraxis. Chordomas generally occur in the sacrum, intracranially at the clivus, or along the spinal axis.
+| 中文译名 = 脊索瘤
+| 中文定义 = 脊索瘤是肿瘤产生于&#39;notochord`（FMA:85521）的胚胎残余分子沿神经轴的长度。脊索瘤一般发生在骶骨，颅内的斜坡，或沿着脊柱轴线。
+}}
+
+
+==[[HP:0010784]]==
+{{Infobox HPO
+| hpoId = HP:0010784
+| 名称 = Uterine neoplasm
+| 定义 = A `neoplasm` (MPATH:218) of the `uterus` (FMA:17558).
+| 中文译名 = 子宫肿瘤
+| 中文定义 = 子宫发生肿瘤。
+}}
+
+
+==[[HP:0010785]]==
+{{Infobox HPO
+| hpoId = HP:0010785
+| 名称 = Gonadal neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of a `gonad` (FMA:18250).
+| 中文译名 = 性腺肿瘤
+| 中文定义 = 性腺内发生的肿瘤。
+}}
+
+
+==[[HP:0010786]]==
+{{Infobox HPO
+| hpoId = HP:0010786
+| 名称 = Urinary tract neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `urinary system` (FMA:7159).
+| 中文译名 = 尿路肿瘤
+| 中文定义 = 尿路系统形成肿瘤。
+}}
+
+
+==[[HP:0010787]]==
+{{Infobox HPO
+| hpoId = HP:0010787
+| 名称 = Genital neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `genital system` (7160).
+| 中文译名 = 生殖器肿瘤
+| 中文定义 = 生殖系统出现的肿瘤。
+}}
+
+
+==[[HP:0010788]]==
+{{Infobox HPO
+| hpoId = HP:0010788
+| 名称 = Testicular neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `testis` (FMA:7210).
+| 中文译名 = 睾丸肿瘤
+| 中文定义 = 睾丸形成肿瘤。
+}}
+
+
+==[[HP:0010795]]==
+{{Infobox HPO
+| hpoId = HP:0010795
+| 名称 = Cerebellar glioma
+| 定义 = A `glioma` (HP:0009733) affecting the `cerebellum` (FMA:67944).
+| 中文译名 = 小脑胶质瘤
+| 中文定义 = 累及小脑（FMA:67944）的胶质瘤（HP:0009733）。
+}}
+
+
+==[[HP:0010796]]==
+{{Infobox HPO
+| hpoId = HP:0010796
+| 名称 = Brainstem glioma
+| 定义 = A `glioma` (HP:0009733) affecting the `brainstem` (FMA:79876).
+| 中文译名 = 脑干胶质瘤
+| 中文定义 = 累及脑干（FMA:79876）的胶质瘤（HP:0009733）。
+}}
+
+
+==[[HP:0010797]]==
+{{Infobox HPO
+| hpoId = HP:0010797
+| 名称 = Hemangioblastoma
+| 定义 = A `hemangioblastoma` (MPATH:238) is a benign vascular neoplasm that arises almost exclusively in the central nervous system. Hemangioblastomas consist of a tightly packed cluster of small blood vessels forming a mass of up to 1 or 2 cm in diameter.
+| 中文译名 = 血管母细胞瘤
+| 中文定义 = 血管母细胞瘤（MPATH:238）是一种良性的、主要源于中枢神经系统的血管瘤。血管母细胞瘤由一群紧密排列的小血管形成的直径可达1或2厘米的肿物。
+}}
+
+
+==[[HP:0010799]]==
+{{Infobox HPO
+| hpoId = HP:0010799
+| 名称 = Pinealoma
+| 定义 = A `neoplasm` (MPATH:218) of the `pineal gland` (FMA:62033).
+| 中文译名 = 松果体瘤
+| 中文定义 = 在`松果体gland`:一个`neoplasm`（218的mpath）（FMA:62033）。
+}}
+
+
+==[[HP:0011068]]==
+{{Infobox HPO
+| hpoId = HP:0011068
+| 名称 = Odontoma
+| 定义 = The presence of an `odontoma` (MPATH:387).
+| 中文译名 = 牙瘤
+| 中文定义 = 有牙瘤
+}}
+
+
+==[[HP:0011459]]==
+{{Infobox HPO
+| hpoId = HP:0011459
+| 名称 = Esophageal carcinoma
+| 定义 = The presence of a `carcinoma` (MPATH:549) of the `esophagus` (FMA:7131).
+| 中文译名 = 食管癌
+| 中文定义 = 发生于食管的肿瘤。
+}}
+
+
+==[[HP:0011524]]==
+{{Infobox HPO
+| hpoId = HP:0011524
+| 名称 = Iris melanoma
+| 定义 = Malignant tumor of melanocytes affecting the iris.
+| 中文译名 = 虹膜黑色素瘤
+| 中文定义 = 虹膜黑色素细胞的恶性肿瘤。
+}}
+
+
+==[[HP:0011672]]==
+{{Infobox HPO
+| hpoId = HP:0011672
+| 名称 = Cardiac myxoma
+| 定义 = A myxoma (tumor of primitive connective tissue) of the heart. Cardiac myxomas consist of stellate to plump, cytologically bland mesenchymal cells set in a myxoid stroma. Cardiac myxomas are of endocardial origina and general project from the endocardium into a cardiac chamber.
+| 中文译名 = 心脏粘液瘤
+| 中文定义 = 心脏的粘液瘤（原生结缔组织肿瘤）。心脏粘液瘤由存在于粘液样基质中的星形、丰满的、表面光滑的细胞构成。心脏粘液瘤是由心内膜起源，由心内膜扩散到心腔。
+}}
+
+
+==[[HP:0011673]]==
+{{Infobox HPO
+| hpoId = HP:0011673
+| 名称 = Cardiac hemangioma
+| 定义 = Abnormal proliferation of blood vessels within the cardiac cavities attached to the endocardium.
+| 中文译名 = 心脏血管瘤
+| 中文定义 = 连接心腔与心内膜血管的异常增生。
+}}
+
+
+==[[HP:0011674]]==
+{{Infobox HPO
+| hpoId = HP:0011674
+| 名称 = Cardiac teratoma
+| 定义 = A teratoma within the heart. Most commonly, these tumors are detected in the pericardial cavity attached to the pulmonary artery and aorta. The tumour size within the heart varies from 2 to 9 cm in diameter, and intrapericardial tumors as large as 15 cm have been reported. Intracardiac tumors arise from the atrial or ventricular wall as nodular masses protruding into the cardiac chambers. Cardiac and pericardial teratomas are easily detected in the fetus and neonate by two-dimensional echocardiography as heterogeneous and encapsulated cystic masses. Histologically, cardiac teratomas contain multiple immature elements including epithelium, neuroglial tissue, thyroid, pancreas, smooth and skeletal muscle, cartilage and bone.
+| 中文译名 = 心脏畸胎瘤
+| 中文定义 = 在心脏内的畸胎瘤，一般，存在于与肺动脉和主动脉相连的心包腔内，直径大约2至9厘米，已报道的最大肿瘤15cm。心内的肿瘤起源于心房或心室壁的结节状肿块，扩散到心腔。由于其异质性以及包裹性囊性肿块，心脏和心包中的畸胎瘤很容易通过胎儿和新生儿的二维超声心动图检测到。组织学上，心脏畸胎瘤包含多个组分，包括上皮细胞、神经胶质组织、甲状腺、胰腺、平滑肌、横纹肌、软骨和骨。
+}}
+
+
+==[[HP:0011745]]==
+{{Infobox HPO
+| hpoId = HP:0011745
+| 名称 = Non-secretory adrenocortical adenoma
+| 定义 = An hormonally inactive adrenocortical adenoma, that is, an adenoma that does not secrete excessive amounts of adrenal hormones.
+| 中文译名 = 非分泌性肾上腺皮质腺瘤
+| 中文定义 = 一个激素不活跃的肾上腺皮质腺瘤，也就是说，不过量分泌肾上腺激素的腺瘤。
+}}
+
+
+==[[HP:0011746]]==
+{{Infobox HPO
+| hpoId = HP:0011746
+| 名称 = Secretory adrenocortical adenoma
+| 定义 = An hormonally active adrenocortical adenoma, that is, an adenoma that secretes excessive amounts of adrenal hormones.
+| 中文译名 = 分泌型肾上腺皮质腺瘤
+| 中文定义 = 一种仍具激素分泌活性的肾上腺皮质腺瘤，这种腺瘤分泌过量的肾上腺皮质激素。
+}}
+
+
+==[[HP:0011750]]==
+{{Infobox HPO
+| hpoId = HP:0011750
+| 名称 = Neoplasm of the anterior pituitary
+| 定义 = The presence of a `neoplasm` (MPATH:218) (tumour) in the `adenohypophysis` (FMA:74627), which is also known as the anterior lobe of the pituitary gland.
+| 中文译名 = 垂体前叶肿瘤
+| 中文定义 = 腺垂体，也被称为脑垂体的前叶的肿瘤。
+}}
+
+
+==[[HP:0011758]]==
+{{Infobox HPO
+| hpoId = HP:0011758
+| 名称 = Pituitary acidophilic stem cell adenoma
+| 定义 = #####
+| 中文译名 = 垂体嗜酸性干细胞腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011759]]==
+{{Infobox HPO
+| hpoId = HP:0011759
+| 名称 = Pituitary gonadotropic cell adenoma
+| 定义 = A type of pituitary adenoma that produces gonadotropins.
+| 中文译名 = 垂体促性腺激素腺瘤
+| 中文定义 = 一种能产生促性腺激素的垂体腺瘤。
+}}
+
+
+==[[HP:0011760]]==
+{{Infobox HPO
+| hpoId = HP:0011760
+| 名称 = Pituitary growth hormone cell adenoma
+| 定义 = A type of pituitary adenoma that produces growth hormone.
+| 中文译名 = 垂体生长激素细胞腺瘤
+| 中文定义 = 一种产生生长激素的垂体腺瘤。
+}}
+
+==[[HP:0011761]]==
+{{Infobox HPO
+| hpoId = HP:0011761
+| 名称 = Pituitary null cell adenoma
+| 定义 = A type of pituitary adenoma that is of unknown cellular origin and that lacks immunocytochemical or fine structural markers.  Null cell adenomas are not associated with hormone excess.
+| 中文译名 = 垂体无功能细胞腺瘤
+| 中文定义 = 一种未知细胞来源和缺乏免疫细胞化学或精细结构标记的垂体腺瘤。这种垂体腺瘤不伴随激素的过多分泌。
+}}
+
+==[[HP:0011762]]==
+{{Infobox HPO
+| hpoId = HP:0011762
+| 名称 = Pituitary thyrotropic cell adenoma
+| 定义 = A type of pituitary adenoma that produces thyroid stimulating hormone (TSH).
+| 中文译名 = 垂体促甲状腺素腺瘤
+| 中文定义 = 一种分泌促甲状腺激素（TSH）的垂体腺瘤
+}}
+
+==[[HP:0011763]]==
+{{Infobox HPO
+| hpoId = HP:0011763
+| 名称 = Pituitary carcinoma
+| 定义 = A pituitary tumor with subarachnoid, brain, or systemic metastasis. The diagnosis of a pituitary carcinoma requires evidence of metastatic disease, either outside the central nervous system (CNS) or as separate noncontiguous foci within the CNS.
+| 中文译名 = 垂体腺癌
+| 中文定义 = 一种伴蛛网膜下腔，脑或全身转移的垂体肿瘤。垂体腺癌的诊断需要肿瘤转移的证据，或者是转移到中枢神经系统（CNS）之外，或者是中枢神经系统内的单独的非连续的癌症。
+}}
+
+
+==[[HP:0011764]]==
+{{Infobox HPO
+| hpoId = HP:0011764
+| 名称 = Pituitary spindle cell oncocytoma
+| 定义 = A spindled-to-epithelioid, oncocytic, nonendocrine neoplasm of the anterior hypophysis that manifests in adults and follows a benign clinical course. Pituitary spindle cell oncocytomas are firm, fibrous, and adherent to surrounding structures and are highly vascular.
+| 中文译名 = 垂体梭形细胞嗜酸细胞瘤
+| 中文定义 = 垂体前叶的一种梭形至上皮样的嗜酸性非内分泌肿瘤，发生于成人，临床表现良性。 垂体梭形细胞嗜酸细胞瘤质地致密，纤维化，并附着到周围的结构且血管富集。
+}}
+
+
+==[[HP:0011774]]==
+{{Infobox HPO
+| hpoId = HP:0011774
+| 名称 = Thyroid follicular adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺滤泡性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011775]]==
+{{Infobox HPO
+| hpoId = HP:0011775
+| 名称 = Thyroid macrofollicular adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺大滤泡性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011776]]==
+{{Infobox HPO
+| hpoId = HP:0011776
+| 名称 = Thyroid microfollicular adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺小滤泡性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011777]]==
+{{Infobox HPO
+| hpoId = HP:0011777
+| 名称 = Thyroid papillary adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺乳头状腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011778]]==
+{{Infobox HPO
+| hpoId = HP:0011778
+| 名称 = Thyroid atypical adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺非典型性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011779]]==
+{{Infobox HPO
+| hpoId = HP:0011779
+| 名称 = Anaplastic thyroid carcinoma
+| 定义 = #####
+| 中文译名 = 甲状腺未分化癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011792]]==
+{{Infobox HPO
+| hpoId = HP:0011792
+| 名称 = Neoplasm by histology
+| 定义 = Neoplasm categorized according to type of histological abnormality.
+| 中文译名 = 肿瘤组织学
+| 中文定义 = 根据肿瘤组织学异常的类型分类。
+}}
+
+
+==[[HP:0011793]]==
+{{Infobox HPO
+| hpoId = HP:0011793
+| 名称 = Neoplasm by anatomical site
+| 定义 = Neoplasm categorized according to the anatomical site of origin of the neoplasm.
+| 中文译名 = 肿瘤解剖部位
+| 中文定义 = 肿瘤根据肿瘤的起源的解剖学部位分类。
+}}
+
+
+==[[HP:0011794]]==
+{{Infobox HPO
+| hpoId = HP:0011794
+| 名称 = Embryonal renal neoplasm
+| 定义 = The presence of an embryonal neoplasm of the `kidney` (FMA:7203) that primarily affects children.
+| 中文译名 = 肾胚胎瘤
+| 中文定义 = 主要在儿童期发病的肾脏胚胎肿瘤。
+}}
+
+
+==[[HP:0011795]]==
+{{Infobox HPO
+| hpoId = HP:0011795
+| 名称 = Intralobar nephroblastomatosis
+| 定义 = Presence of persistent islands of renal blastema in the postnatal kidney, anywhere within a renal lobe (a portion of a kidney consisting of a renal pyramid and the renal cortex above it).
+| 中文译名 = 肾小叶内肾母细胞瘤
+| 中文定义 = 婴儿肾小叶中存在肾母细胞瘤小岛，可以在肾小叶（肾锥体和肾皮质的一部分）的任何位置。
+}}
+
+
+==[[HP:0011796]]==
+{{Infobox HPO
+| hpoId = HP:0011796
+| 名称 = Perilobar nephroblastomatosis
+| 定义 = Abnormally persistent foci of embryonal immature blastema located in the superficial cortical region (perilobar).
+| 中文译名 = 小叶周围性肾母细胞瘤
+| 中文定义 = 在肾浅表皮层区域（小叶周围）异常持续存在的胚胎未成熟胚基灶。
+}}
+
+
+==[[HP:0011797]]==
+{{Infobox HPO
+| hpoId = HP:0011797
+| 名称 = Papillary renal cell carcinoma type 1
+| 定义 = A type of papillary renal cell carcinoma that is characterized by small cuboidal cells covering thin papillae with a single line of uniform nuclei and small nucleoli.
+| 中文译名 = Ⅰ型乳头状肾细胞癌
+| 中文定义 = 一种乳头状肾细胞癌，其特点是以小立方细胞覆盖薄乳头，细胞为单一细胞系，有均一的核和小核仁。
+}}
+
+
+==[[HP:0011798]]==
+{{Infobox HPO
+| hpoId = HP:0011798
+| 名称 = Renal oncocytoma
+| 定义 = A renal tumor originating from an oncocyte, which  is an epithelial cell characterized by an excessive amount of mitochondria, resulting in an abundant acidophilic, granular cytoplasm.
+| 中文译名 = 肾嗜酸粒细胞瘤
+| 中文定义 = 一种肾肿瘤，起源于嗜酸粒细胞，它是一种上皮瘤细胞，其特征为过量的线粒体，产生丰富的嗜酸、粒状的细胞质。
+}}
+
+
+==[[HP:0011802]]==
+{{Infobox HPO
+| hpoId = HP:0011802
+| 名称 = Hamartoma of tongue
+| 定义 = #####
+| 中文译名 = 舌头错构瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011846]]==
+{{Infobox HPO
+| hpoId = HP:0011846
+| 名称 = Osteoblastoma
+| 定义 = A benign, painful, tumor of bone characterized by the formation of osteoid tissue, primitive bone and calcified tissue.
+| 中文译名 = 成骨细胞瘤
+| 中文定义 = 甲良性的，痛苦的，肿瘤的骨为特征的骨样组织，原始骨和钙化组织的形成。
+}}
+
+
+==[[HP:0011847]]==
+{{Infobox HPO
+| hpoId = HP:0011847
+| 名称 = Giant cell tumor of bone
+| 定义 = A bone tumor composed of cellular spindle-cell stroma containing scattered multinucleated giant cells resembling osteoclasts.
+| 中文译名 = 骨巨细胞瘤
+| 中文定义 = 骨肿瘤细胞梭形细胞间质由含有分散多核巨细胞类似破骨细胞。
+}}
+
+
+==[[HP:0011857]]==
+{{Infobox HPO
+| hpoId = HP:0011857
+| 名称 = Plasmacytoma
+| 定义 = A discrete mass of neoplastic monoclonal plasma cells either in the bone marrow or in an extramedullary location.
+| 中文译名 = 浆细胞肿瘤
+| 中文定义 = 在骨髓或在髓外组织的单克隆浆细胞性肿瘤。
+}}
+
+
+==[[HP:0011953]]==
+{{Infobox HPO
+| hpoId = HP:0011953
+| 名称 = Pulmonary lymphoma
+| 定义 = Lung parenchymal involvement with lymphoma.
+| 中文译名 = 肺淋巴瘤
+| 中文定义 = 淋巴瘤累及肺实质。
+}}
+
+
+==[[HP:0012028]]==
+{{Infobox HPO
+| hpoId = HP:0012028
+| 名称 = Hepatocellular adenoma
+| 定义 = A benign tumor of the liver of presumably epithelial origin.
+| 中文译名 = 肝细胞腺瘤
+| 中文定义 = 可能为上皮来源一种肝的良性肿瘤。
+}}
+
+
+==[[HP:0012031]]==
+{{Infobox HPO
+| hpoId = HP:0012031
+| 名称 = Lipomatous tumor
+| 定义 = A common group of mesenchymal lesions.
+| 中文译名 = 脂肪瘤
+| 中文定义 = 一组常见的间充质病变
+}}
+
+
+==[[HP:0012032]]==
+{{Infobox HPO
+| hpoId = HP:0012032
+| 名称 = Lipoma
+| 定义 = Benign neoplasia derived from lipoblasts or lipocytes of white or brown fat. May be angiomatous or hibernomatous.
+| 中文译名 = 脂肪瘤
+| 中文定义 = 白色或棕色脂肪组织的成脂细胞或脂肪细胞衍生而来的良性肿瘤。可能是血管瘤型或蛰伏脂肪瘤型。
+}}
+
+
+==[[HP:0012033]]==
+{{Infobox HPO
+| hpoId = HP:0012033
+| 名称 = Sacral lipoma
+| 定义 = Presence of a lipoma in the region of the sacrum.
+| 中文译名 = 骶脂肪瘤
+| 中文定义 = 存在于骶骨区的脂肪瘤。
+}}
+
+
+==[[HP:0012034]]==
+{{Infobox HPO
+| hpoId = HP:0012034
+| 名称 = Liposarcoma
+| 定义 = Malignant neoplasms which probably originate in primitive mesenchymal stem cell populations differentiating down a lipomatous pathway.
+| 中文译名 = 脂肪肉瘤
+| 中文定义 = 一种恶性肿瘤，可能发生于于原始间充质干细胞群分化为脂肪瘤的过程中。
+}}
+
+
+==[[HP:0012035]]==
+{{Infobox HPO
+| hpoId = HP:0012035
+| 名称 = Steatocystoma multiplex
+| 定义 = Multiple, localized or widespread, asymptomatic or inflammatory dermal cysts involving the pilosebaceous units. Lesions can appear anywhere on the body, but steatocystoma multiplex is more commonly involved with those areas of the skin with a high density of developed pilosebaceous units (e.g., the axilla, groin, neck, and proximal extremities).
+| 中文译名 = 多发性皮脂腺囊瘤
+| 中文定义 = 发生于毛囊皮脂腺的多发性，无症状或炎症性皮肤囊肿，局部或广泛分布。皮损可出现在身体的任何部位，但在毛囊皮脂腺分布密集的部位（如腋窝，腹股沟，颈部和四肢近端）更为常见。
+}}
+
+
+==[[HP:0012054]]==
+{{Infobox HPO
+| hpoId = HP:0012054
+| 名称 = Choroidal melanoma
+| 定义 = Malignant tumor of melanocytes of the choroid. The classic appearance of choroidal melanoma is a pigmented dome-shaped or collar button-shaped tumor with an associated exudative retinal detachment. Choroidal melanoma is usually pigmented, but can be variably pigmented and even amelanotic (non-pigmented).
+| 中文译名 = 脉络膜黑色素瘤
+| 中文定义 = 脉络膜黑素细胞的恶性肿瘤。脉络膜黑色素瘤经典的外观是一种着色的圆顶形或套环，按钮形状的肿瘤与相应的渗出性视网膜脱离。脉络膜黑色素瘤通常是着色的，但也可以是可变颜料和甚至无黑色素（无色素沉着）。
+}}
+
+
+==[[HP:0012055]]==
+{{Infobox HPO
+| hpoId = HP:0012055
+| 名称 = Ciliary body melanoma
+| 定义 = Malignant tumor of melanocytes of the ciliary body.
+| 中文译名 = 睫状体黑色素瘤
+| 中文定义 = 睫状体黑色素细胞的恶性肿瘤。
+}}
+
+
+==[[HP:0012056]]==
+{{Infobox HPO
+| hpoId = HP:0012056
+| 名称 = Cutaneous melanoma
+| 定义 = The presence of a `melanoma` (MPATH:359) of the `skin` (FMA:7163).
+| 中文译名 = 皮肤黑色素瘤
+| 中文定义 = 皮肤来源的黑色素瘤。
+}}
+
+
+==[[HP:0012057]]==
+{{Infobox HPO
+| hpoId = HP:0012057
+| 名称 = Superficial spreading melanoma
+| 定义 = A type of melanoma that is flat and irregular in shape and color, with different shades of black and brown.
+| 中文译名 = 浅表扩散性黑素瘤
+| 中文定义 = 黑素瘤的一种，主要表现为黑棕色深浅不一的不规则扁平状肿物。
+}}
+
+
+==[[HP:0012058]]==
+{{Infobox HPO
+| hpoId = HP:0012058
+| 名称 = Nodular melanoma
+| 定义 = A type of melanoma that starts as a raised area that is usually dark blackish-blue or bluish-red but may not have any color.
+| 中文译名 = 结节性黑素瘤
+| 中文定义 = 黑素瘤的一种，初起为淡黑蓝或淡蓝红色的隆起皮损，一般无其他颜色。
+}}
+
+
+==[[HP:0012059]]==
+{{Infobox HPO
+| hpoId = HP:0012059
+| 名称 = Lentigo maligna melanoma
+| 定义 = A subtype of melanoma in situ that typically develops on sun-damaged skin. The lesion is typically a large, irregularly pigmented macule that has developed from an ordinary lentigo (a small pigmented spot on the skin with a clearly-defined edge). Change to a malignant lentigo typically takes place over 20 years or more, and many patients accept the change as a consequence of aging.
+| 中文译名 = 恶性雀斑样黑色素瘤
+| 中文定义 = 是黑色素瘤的一种亚型，常发生于日晒后受损的皮肤，开始表现为普通的雀斑（边界清楚的小色素斑 ），之后渐渐发展为较大不规则色素斑。发展成恶性常需20年以上，多数患者以为是皮肤衰老的表现。
+}}
+
+==[[HP:0012060]]==
+{{Infobox HPO
+| hpoId = HP:0012060
+| 名称 = Acral lentiginous melanoma
+| 定义 = A type of cutaneous melanoma localized to the palm, sole, or beneath the nail (subungual melanoma). Acral lentiginous melanoma starts as a slowly-enlarging flat patch of discoloured skin and usually displays a size above 6 mm and often several centimetres or more in diameter upon diagnosis and variable pigmentation with a mixture of colors including brown, and blue-grey, black and red. The surface of the lesion is initially smooth but later in the course may become thicker and irregular, and may ulcerate or bleed.
+| 中文译名 = 肢端雀斑样黑色素瘤
+| 中文定义 = 一种位于掌跖或甲下（甲下黑色素瘤）的皮肤黑色素瘤。肢端雀斑样黑色素瘤往往初起为一褪色扁平斑点，之后缓慢扩大至直径超过6毫米甚至数厘米，此外，包括棕色、蓝灰色、黑色和红色的混合性色素沉着也是特征之一。皮损起初表面光滑，之后慢慢变得粗糙且不规则，甚至可能出现溃疡和出血。
+}}
+
+
+==[[HP:0012114]]==
+{{Infobox HPO
+| hpoId = HP:0012114
+| 名称 = Endometrial carcinoma
+| 定义 = A carcinoma of the endometrium, the mucous lining of the uterus.
+| 中文译名 = 子宫内膜癌
+| 中文定义 = 子宫内膜的恶性肿瘤。
+}}
+
+
+==[[HP:0012118]]==
+{{Infobox HPO
+| hpoId = HP:0012118
+| 名称 = Laryngeal carcinoma
+| 定义 = A carcinoma of the larynx.
+| 中文译名 = 喉癌
+| 中文定义 = 喉部癌症。
+}}
+
+
+==[[HP:0012126]]==
+{{Infobox HPO
+| hpoId = HP:0012126
+| 名称 = Stomach cancer
+| 定义 = A cancer arising in any part of the stomach.
+| 中文译名 = 胃癌
+| 中文定义 = 发生于胃任何部位的癌症。
+}}
+
+
+==[[HP:0012142]]==
+{{Infobox HPO
+| hpoId = HP:0012142
+| 名称 = Pancreatic squamous cell carcinoma
+| 定义 = A subtype of ductal pancreatic carcinoma that is thought to  originate from squamous metaplasia of pancreatic ductal epithelium.
+| 中文译名 = 胰腺鳞状细胞癌
+| 中文定义 = 胰腺癌的一种亚型，被认为起源于胰腺导管上皮的鳞状组织转化。
+}}
+
+
+==[[HP:0012148]]==
+{{Infobox HPO
+| hpoId = HP:0012148
+| 名称 = Multiple lineage myelodysplasia
+| 定义 = Myelodysplasia with dysplastic changes in two or more of the myeloid lineages: erythroid, granulocytic, megakaryocytic.
+| 中文译名 = 多谱系骨髓增生异常
+| 中文定义 = 脊髓发育不良影响两个或更多的骨髓细胞系:红细胞，粒细胞，巨核细胞。
+}}
+
+==[[HP:0012149]]==
+{{Infobox HPO
+| hpoId = HP:0012149
+| 名称 = Bilineage myelodysplasia
+| 定义 = Myelodysplasia with dysplastic changes in two of the myeloid lineages: erythroid, granulocytic, megakaryocytic.
+| 中文译名 = 双谱系骨髓增生异常
+| 中文定义 = 骨髓增生异常与不典型增生改变影响两个髓系的细胞:红细胞，粒细胞或巨核细胞。
+}}
+
+==[[HP:0012150]]==
+{{Infobox HPO
+| hpoId = HP:0012150
+| 名称 = Single lineage myelodysplasia
+| 定义 = Abnormality/dysplasia of a single myeloid cell (erythroid, granulocytic, or megakaryocytic).
+| 中文译名 = 单谱系骨髓增生异常
+| 中文定义 = 单一的骨髓细胞（红细胞，粒细胞，巨核细胞或）的异常/发育异常。
+}}
+
+==[[HP:0012174]]==
+{{Infobox HPO
+| hpoId = HP:0012174
+| 名称 = Glioblastoma multiforme
+| 定义 = A tumor arising from glia in the central nervous system with macroscopic regions of necrosis and hemorrhage. Microscopically, glioblastoma multiforme is characterized by regions of pseudopalisading necrosis, pleomorphic nuclei and cells, and microvascular proliferation.
+| 中文译名 = 多形性胶质母细胞瘤
+| 中文定义 = 起源于中枢神经系统胶质细胞的肿瘤，伴有肉眼可见的坏死和出血。显微镜下，多形性胶质母细胞瘤的特点是假性栅栏样坏死，多形核和细胞以及微血管增生。
+}}
+
+
+==[[HP:0012182]]==
+{{Infobox HPO
+| hpoId = HP:0012182
+| 名称 = Oropharyngeal squamous cell carcinoma
+| 定义 = A squamous cell carcinoma that originates in the oropharnyx.
+| 中文译名 = 口咽部鳞状细胞癌
+| 中文定义 = 起源于口咽部的鳞状细胞癌。
+}}
+
+
+==[[HP:0012183]]==
+{{Infobox HPO
+| hpoId = HP:0012183
+| 名称 = Hyperplastic colonic polyposis
+| 定义 = Presence of multiple hyperplastic polyps in the colon. Hyperplastic polyps are generally about 5 mm in size and show hyperplastic mucosal proliferation.
+| 中文译名 = 增生性结肠息肉病
+| 中文定义 = 存在于结肠的多个增生性息肉。增生性息肉通常约为5毫米大小，并显示增生粘膜增殖。
+}}
+
+
+==[[HP:0012189]]==
+{{Infobox HPO
+| hpoId = HP:0012189
+| 名称 = Hodgkin lymphoma
+| 定义 = A typer of lymphoma characterized microscopically by multinucleated Reed-Sternberg cells.
+| 中文译名 = 霍奇金淋巴瘤
+| 中文定义 = 一种淋巴瘤，以多核Reed-Sternberg细胞为镜下特征。
+}}
+
+
+==[[HP:0012190]]==
+{{Infobox HPO
+| hpoId = HP:0012190
+| 名称 = T-cell lymphoma
+| 定义 = A type of lymphoma that originates in T-cells.
+| 中文译名 = T细胞淋巴瘤
+| 中文定义 = 一型起源于T细胞的淋巴瘤。
+}}
+
+
+==[[HP:0012191]]==
+{{Infobox HPO
+| hpoId = HP:0012191
+| 名称 = B-cell lymphoma
+| 定义 = A type of lymphoma that originates in B-cells.
+| 中文译名 = B细胞淋巴瘤
+| 中文定义 = 一型起源于B细胞的淋巴瘤。
+}}
+
+
+==[[HP:0012192]]==
+{{Infobox HPO
+| hpoId = HP:0012192
+| 名称 = Cutaneous T-cell lymphoma
+| 定义 = A type of T-cell lymphoma that exhibits malignant infiltration of the skin.
+| 中文译名 = 皮肤T细胞淋巴瘤
+| 中文定义 = 一型T细胞淋巴瘤，表现为对皮肤的恶性浸润。
+}}
+
+
+==[[HP:0012193]]==
+{{Infobox HPO
+| hpoId = HP:0012193
+| 名称 = Anaplastic large-cell lymphoma
+| 定义 = A type of T-cell lymphoma that is characterized by so-called hallmark cells with a pleomorphic appearance that express the CD30 antigen, are lobulated, and have indented nuclei. These so-called hallmark cells have lobulated and indented nuclei.
+| 中文译名 = 间变性大细胞淋巴瘤
+| 中文定义 = T细胞淋巴瘤的一种，其特点是表达CD30抗原，外观多形性，细胞核分叶状或退缩。
+}}
+
+
+==[[HP:0012197]]==
+{{Infobox HPO
+| hpoId = HP:0012197
+| 名称 = Insulinoma
+| 定义 = A type of tumor of the pancreatic beta cells that secretes excess insulin and can result in hypoglycemia.
+| 中文译名 = 胰岛素瘤
+| 中文定义 = 一种胰腺β细胞肿瘤，分泌过多的胰岛素，可导致低血糖症。
+}}
+
+
+==[[HP:0012198]]==
+{{Infobox HPO
+| hpoId = HP:0012198
+| 名称 = Juvenile colonic polyposis
+| 定义 = The presence of more than 5 juvenile polyps of the colon.
+| 中文译名 = 青少年型结肠息肉
+| 中文定义 = 结肠存在至少5个幼年性息肉。
+}}
+
+==[[HP:0012209]]==
+{{Infobox HPO
+| hpoId = HP:0012209
+| 名称 = Juvenile myelomonocytic leukemia
+| 定义 = Juvenile myelomonocytic leukemia (JMML) is a lethal myeloproliferative disease of young childhood characterized clinically by overproduction of myelomonocytic cells and by the in vitro phenotype of hematopoietic progenitor hypersensitivity to granulocyte-macrophage colony-stimulating factor.
+| 中文译名 = 青少年型骨髓单核细胞白血病
+| 中文定义 = 少年粒单核细胞白血病（JMML）是年轻儿童期的致命骨髓增生性疾病，表现出骨髓髓系单核细胞过多和体外对粒细胞巨噬细胞集落刺激因子高度过敏为临床特征。
+}}
+
+==[[HP:0012218]]==
+{{Infobox HPO
+| hpoId = HP:0012218
+| 名称 = Alveolar soft part sarcoma
+| 定义 = A type of soft tissue sarcoma with a histological appearance reminiscent of alveoli because of  its reticulated fibrous stroma enclosing groups of sarcoma cells, which resemble epithelial cells and are enclosed in alveoli walled with connective tissue.
+| 中文译名 = 腺泡状软组织肉瘤
+| 中文定义 = 一种具有肺泡状外观的软组织肉瘤，因为他的网状细胞间质被肉瘤细胞群封闭包绕，这类似于上皮细胞包绕在肺泡壁结缔组织的组织学外观。
+}}
+
+
+==[[HP:0012222]]==
+{{Infobox HPO
+| hpoId = HP:0012222
+| 名称 = Arachnoid hemangiomatosis
+| 定义 = The presence of multiple hemangiomas in the arachnoid.
+| 中文译名 = 蛛网膜血管瘤病
+| 中文定义 = 蛛网膜下多个血管瘤。
+}}
+
+
+==[[HP:0012226]]==
+{{Infobox HPO
+| hpoId = HP:0012226
+| 名称 = Ovarian teratoma
+| 定义 = The presence of a `teratoma` (MPATH:322) in the ovary.
+| 中文译名 = 卵巢畸胎瘤
+| 中文定义 = 卵巢中形成畸胎瘤。
+}}
+
+
+==[[HP:0012254]]==
+{{Infobox HPO
+| hpoId = HP:0012254
+| 名称 = Ewing&#39;s sarcoma
+| 定义 = A malignant tumor of the bone which always arises in the medullary tissue, occurring more often in cylindrical bones.
+| 中文译名 = 尤因氏肉瘤
+| 中文定义 = 出现于骨髓组织的恶性肿瘤，多见于柱状骨。
+}}
+
+
+==[[HP:0012268]]==
+{{Infobox HPO
+| hpoId = HP:0012268
+| 名称 = Myxoid liposarcoma
+| 定义 = A liposarcoma that contains myxomatous tissue.
+| 中文译名 = 粘液样脂肪肉瘤
+| 中文定义 = 含有粘液组织的脂肪肉瘤。
+}}
+
+
+==[[HP:0012288]]==
+{{Infobox HPO
+| hpoId = HP:0012288
+| 名称 = Neoplasm of head and neck
+| 定义 = A neoplasm of the head and neck region with origin in the lip, oral cavity, nasal cavity, paranasal sinuses, pharynx, and larynx.
+| 中文译名 = 头颈部肿瘤
+| 中文定义 = 头颈部肿瘤，源于唇，口腔，鼻腔，鼻窦，咽和喉。
+}}
+
+
+==[[HP:0012289]]==
+{{Infobox HPO
+| hpoId = HP:0012289
+| 名称 = Facial neoplasm
+| 定义 = A neoplasm of the face.
+| 中文译名 = 面部肿瘤
+| 中文定义 = 面部的肿瘤。
+}}
+
+
+==[[HP:0012290]]==
+{{Infobox HPO
+| hpoId = HP:0012290
+| 名称 = Mouth neoplasm
+| 定义 = A neoplasm of the mouth.
+| 中文译名 = 口腔肿瘤
+| 中文定义 = 口腔的肿瘤。
+}}
+
+
+==[[HP:0012315]]==
+{{Infobox HPO
+| hpoId = HP:0012315
+| 名称 = Histiocytoma
+| 定义 = A neoplasm containing histiocytes.
+| 中文译名 = 组织细胞瘤
+| 中文定义 = 包含组织细胞的肿瘤
+}}
+
+
+==[[HP:0012316]]==
+{{Infobox HPO
+| hpoId = HP:0012316
+| 名称 = Fibrous tissue neoplasm
+| 定义 = Any neoplasm composed of fibrous tissue.
+| 中文译名 = 纤维组织瘤
+| 中文定义 = 由纤维组织构成的肿瘤。
+}}
+
+
+==[[HP:0012324]]==
+{{Infobox HPO
+| hpoId = HP:0012324
+| 名称 = Myeloid leukemia
+| 定义 = A leukemia that originates from a  `myeloid cell` (CL:0000763), that is the blood forming cells of the bone marrow.
+| 中文译名 = 髓系白血病
+| 中文定义 = 起源自髓系细胞（CL:0000763）的白血病，髓系细胞即骨髓造血的细胞。
+}}
+
+
+==[[HP:0012325]]==
+{{Infobox HPO
+| hpoId = HP:0012325
+| 名称 = Chronic myelomonocytic leukemia
+| 定义 = A myelodysplastic-myeloproliferative disease characterized by monocytosis, increased monocytes in the bone marrow, variable degrees of dysplasia, but an absence of immature granulocytes in the blood.
+| 中文译名 = 慢性粒-单核细胞白血病
+| 中文定义 = 骨髓增生异常-骨髓增生性疾病，其特征是骨髓中不同程度发育异常的单核细胞增多，但外周血中幼稚粒细胞无增加。
+}}
+
+
+==[[HP:0012328]]==
+{{Infobox HPO
+| hpoId = HP:0012328
+| 名称 = Cementoma
+| 定义 = An odontogenic tumor of the `cementum of tooth` (FMA:55630).
+| 中文译名 = 牙骨质瘤
+| 中文定义 = 牙骨质的牙源性肿瘤
+}}
+
+
+==[[HP:0012329]]==
+{{Infobox HPO
+| hpoId = HP:0012329
+| 名称 = Tufted angioma
+| 定义 = A vascular tumor of the skin and subcutaneous tissues and characterized by slow angiomatous proliferation.
+| 中文译名 = 丛状血管瘤
+| 中文定义 = 皮肤和皮下组织的血管瘤，呈血管瘤样缓慢增生。
+}}
+
+==[[HP:0012341]]==
+{{Infobox HPO
+| hpoId = HP:0012341
+| 名称 = Microprolactinoma
+| 定义 = A pituitary prolactin cell adenoma of less than 10 mm diameter.
+| 中文译名 = 泌乳素微腺瘤
+| 中文定义 = 直径小于10毫米的垂体泌乳素细胞腺瘤。
+}}
+
+
+==[[HP:0012342]]==
+{{Infobox HPO
+| hpoId = HP:0012342
+| 名称 = Macroprolactinoma
+| 定义 = A pituitary prolactin cell adenoma of more than 10 mm diameter.
+| 中文译名 = 泌乳素大腺瘤
+| 中文定义 = 直径超过10毫米的垂体泌乳素细胞腺瘤。
+}}
+
+
+==[[HP:0012539]]==
+{{Infobox HPO
+| hpoId = HP:0012539
+| 名称 = Non-Hodgkin lymphoma
+| 定义 = A typer of lymphoma characterized microscopically by the absence of multinucleated Reed-Sternberg cells.
+| 中文译名 = 非霍奇金淋巴瘤
+| 中文定义 = 缺乏多核R-S细胞的淋巴瘤。
+}}
+
+
+==[[HP:0012570]]==
+{{Infobox HPO
+| hpoId = HP:0012570
+| 名称 = Synovial sarcoma
+| 定义 = A type of mesenchymal tissue cell tumor that exhibits epithelial differentiation, which most frequently arises in the extremities.
+| 中文译名 = 滑膜肉瘤
+| 中文定义 = 一类间质细胞肿瘤表现为上皮细胞分化，多出现在四肢。
+}}
+
+
+==[[HP:0012720]]==
+{{Infobox HPO
+| hpoId = HP:0012720
+| 名称 = Neoplasm of the nose
+| 定义 = Cancer of the nasal cavity.
+| 中文译名 = 鼻癌
+| 中文定义 = 鼻腔的肿瘤。
+}}
+
+==[[HP:0012737]]==
+{{Infobox HPO
+| hpoId = HP:0012737
+| 名称 = Small intestinal polyp
+| 定义 = A discrete abnormal tissue mass that protrudes into the lumen of the small intestine and is attached to the intestinal wall either by a stalk, pedunculus, or a broad base.
+| 中文译名 = 小肠息肉
+| 中文定义 = 通过茎、脚或较大的基底而附着于肠壁、伸出到小肠腔的离散的异常组织块。
+}}
+
+
+==[[HP:0012740]]==
+{{Infobox HPO
+| hpoId = HP:0012740
+| 名称 = Papilloma
+| 定义 = A tumor of the skin or mucous membrane with finger-like projections.
+| 中文译名 = 乳头状瘤
+| 中文定义 = 皮肤或粘膜表面乳头状突起的肿物。
+}}
+
+
+==[[HP:0012777]]==
+{{Infobox HPO
+| hpoId = HP:0012777
+| 名称 = Retinal neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the retina.
+| 中文译名 = 视网膜肿瘤
+| 中文定义 = 视网膜的新生物。
+}}
+
+
+==[[HP:0012778]]==
+{{Infobox HPO
+| hpoId = HP:0012778
+| 名称 = Retinal astrocytic hamartoma
+| 定义 = A glial tumor of the retinal nerve fiber layer arising from a retinal astrocyte.
+| 中文译名 = 视网膜星形细胞错构瘤
+| 中文定义 = 从视网膜胶质细胞引起的视网膜神经纤维层的胶质细胞瘤。
+}}
+
+
+==[[HP:0012780]]==
+{{Infobox HPO
+| hpoId = HP:0012780
+| 名称 = Neoplasm of the ear
+| 定义 = A neoplasm` (MPATH:218)  of the ear.
+| 中文译名 = 耳部肿瘤
+| 中文定义 = 耳部的肿瘤(MPATH:218)  。
+}}
+
+==[[HP:0012797]]==
+{{Infobox HPO
+| hpoId = HP:0012797
+| 名称 = Lymphatic vessel neoplasm
+| 定义 = A neoplasm in tubular vessels that are involved in the transport of LYMPH and LYMPHOCYTES.
+| 中文译名 = 淋巴管瘤
+| 中文定义 = 发生在淋巴管的肿瘤。
+}}
+
+
+==[[HP:0012798]]==
+{{Infobox HPO
+| hpoId = HP:0012798
+| 名称 = Pulmonary lymphangiomyomatosis
+| 定义 = Infiltration of smooth muscle-like cells in lymph vessels as well as the lung (pleura, alveolar septa, bronchi, pulmonary vessels and lymphatics as well as lymph nodes, especially in posterior mediastinum and retroperitoneum). Focal emphysema can develop because of airway narrowing, and the thoracic duct may be obliterated.
+| 中文译名 = 肺淋巴管肌瘤病
+| 中文定义 = 平滑肌细胞样细胞在淋巴管以及肺部（胸膜，肺泡隔，支气管，肺血管和淋巴管，以及淋巴结，特别是在后纵隔和腹腔后膜）浸润。局灶性肺气肿可能由于气道狭窄而不断增生，甚至胸导管可能会被擦掉。
+}}
+
+
+==[[HP:0012842]]==
+{{Infobox HPO
+| hpoId = HP:0012842
+| 名称 = Skin adnexal neoplasm
+| 定义 = #####
+| 中文译名 = 皮肤附属部位肿瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0012843]]==
+{{Infobox HPO
+| hpoId = HP:0012843
+| 名称 = Hair follicle neoplasm
+| 定义 = An uncontrolled autonomous cell-proliferation originating in a hair follicle, which is an epidermal adnexal structures responsible for hair growth.
+| 中文译名 = 毛囊瘤，毛囊痣
+| 中文定义 = 毛囊瘤是由毛囊不受控制的自主增生所致，而毛囊是毛发生长所需要的重要皮肤附属器。
+}}
+
+==[[HP:0012844]]==
+{{Infobox HPO
+| hpoId = HP:0012844
+| 名称 = Trichilemmoma
+| 定义 = A benign tumour originating from the outer root sheath of the hair follicle.
+| 中文译名 = 毛根鞘瘤
+| 中文定义 = 来源于毛囊外根鞘的良性肿瘤。
+}}
+
+==[[HP:0012845]]==
+{{Infobox HPO
+| hpoId = HP:0012845
+| 名称 = Single trichilemmoma
+| 定义 = Presence of a unitary trichilemmoma, a benign tumour originating from the outer root sheath of the hair follicle.
+| 中文译名 = 单发性毛根鞘瘤
+| 中文定义 = 单一的毛根鞘瘤，来源于毛囊外毛根鞘的良性肿瘤。
+}}
+
+==[[HP:0012846]]==
+{{Infobox HPO
+| hpoId = HP:0012846
+| 名称 = Multiple trichilemmomata
+| 定义 = Presence of multiple trichilemmomata, a benign tumour originating from the outer root sheath of the hair follicle.
+| 中文译名 = 多发性毛根鞘瘤
+| 中文定义 = 毛囊瘤呈多发性，是起源于毛囊外根鞘的良性肿瘤。
+}}
+
+==[[HP:0030038]]==
+{{Infobox HPO
+| hpoId = HP:0030038
+| 名称 = Enchondroma
+| 定义 = A solitary, benign, intramedullary cartilage tumor that is often found in the short tubular bones of the hands and feet, distal femur, and proximal humerus.
+| 中文译名 = 内生软骨瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030060]]==
+{{Infobox HPO
+| hpoId = HP:0030060
+| 名称 = Nervous tissue neoplasm
+| 定义 = A neoplasm derived from nervous tissue (not necessarity a neoplasm located in the nervous system).
+| 中文译名 = 神经组织肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030061]]==
+{{Infobox HPO
+| hpoId = HP:0030061
+| 名称 = Neuroectodermal neoplasm
+| 定义 = A neoplasm arising in the neuroectoderm, the portion of the ectoderm of the early embryo that gives rise to the central and peripheral nervous systems, including some glial cells.
+| 中文译名 = 神经外胚层肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030062]]==
+{{Infobox HPO
+| hpoId = HP:0030062
+| 名称 = Craniopharyngioma
+| 定义 = A benign pituitary-region neoplasm that originates from Rathke&#39;s pouch. Craniopharyngiomas are benign slow growing tumours that are located within the sellar and para sellar region of the central nervous system.
+| 中文译名 = 颅咽管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030063]]==
+{{Infobox HPO
+| hpoId = HP:0030063
+| 名称 = Neuroepithelial neoplasm
+| 定义 = A neoplasm composed of neural epithelium, not necessarily a neoplasm located in the neural epithelium or neuroepithelium.
+| 中文译名 = 神经上皮肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030064]]==
+{{Infobox HPO
+| hpoId = HP:0030064
+| 名称 = Neurocytoma
+| 定义 = A benign brain tumor composed of neural elements which most often arise from the septum pellucidum and the walls of the lateral ventricles.
+| 中文译名 = 神经细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030065]]==
+{{Infobox HPO
+| hpoId = HP:0030065
+| 名称 = Primitive neuroectodermal tumor
+| 定义 = A tumor that originates in cells from the primitive neural crest. This group of tumors is characteirzed by the presence of primitive cells with elements of neuronal and/or glial differentiation.
+| 中文译名 = 原始神经外胚层肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030066]]==
+{{Infobox HPO
+| hpoId = HP:0030066
+| 名称 = Ependymoblastoma
+| 定义 = A highly malignant embryonal tumor of infancy and young childhood characterized by neuroectodermal elements organized in distinctive multilayered rosettes. Ependymoblastomas are large lesions that occur in the supratentorial compartment, typically displaying a physical connection to the ventricular system.
+| 中文译名 = 室管膜母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030067]]==
+{{Infobox HPO
+| hpoId = HP:0030067
+| 名称 = Peripheral primitive neuroectodermal neoplasm
+| 定义 = A primitive neuroectodermal neoplasm that occurs extracranially in soft tissue and bone.
+| 中文译名 = 外周原始神经外胚层肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030068]]==
+{{Infobox HPO
+| hpoId = HP:0030068
+| 名称 = Olfactory esthesioneuroblastoma
+| 定义 = A malignant olfactory neuroblastoma arising from the olfactory epithelium of the superior nasal cavity and cribriform plate.
+| 中文译名 = 嗅神经母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030069]]==
+{{Infobox HPO
+| hpoId = HP:0030069
+| 名称 = Primary central nervous system lymphoma
+| 定义 = A form of extranodal, high-grade non-Hodgkin B-cell neoplasm, usually large cell or immunoblastic type that originates in the brain, leptomeninges, spinal cord, or eyes and typically remains confined to the CNS.
+| 中文译名 = 原发性中枢神经系统淋巴瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030070]]==
+{{Infobox HPO
+| hpoId = HP:0030070
+| 名称 = Central primitive neuroectodermal tumor
+| 定义 = A primitive neuroectodermal neoplasm that occurs in the central nervous system.
+| 中文译名 = 中枢性原始神经外胚层肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030071]]==
+{{Infobox HPO
+| hpoId = HP:0030071
+| 名称 = Medulloepithelioma
+| 定义 = A primitive neuroectodermal tumor that originates from the cells of the embryonic medullary canal.
+| 中文译名 = 髓上皮瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030072]]==
+{{Infobox HPO
+| hpoId = HP:0030072
+| 名称 = Paranasal sinus neoplasm
+| 定义 = A tumor that originates in the paranasal sinus.
+| 中文译名 = 鼻旁窦肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030074]]==
+{{Infobox HPO
+| hpoId = HP:0030074
+| 名称 = Chemodectoma
+| 定义 = A usually benign neoplasm originating in the chemoreceptor tissue of the cartodi body, glomus jugulare, glomus tympanicum, aortic bodies, or the female genital tract.
+| 中文译名 = 化学感受器瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030075]]==
+{{Infobox HPO
+| hpoId = HP:0030075
+| 名称 = Ductal carcinoma in situ
+| 定义 = Presence of abnormal cells inside a milk duct, that is, non-invasive breast cancer. Ductal carcinoma in situ is considered to be a precursor lesion to invasive breast cancer.
+| 中文译名 = 导管原位癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030076]]==
+{{Infobox HPO
+| hpoId = HP:0030076
+| 名称 = Lobular carcinoma in situ
+| 定义 = #####
+| 中文译名 = 小叶原位癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030077]]==
+{{Infobox HPO
+| hpoId = HP:0030077
+| 名称 = Bronchial neoplasm
+| 定义 = A tumor originating in a bronchus.
+| 中文译名 = 支气管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030078]]==
+{{Infobox HPO
+| hpoId = HP:0030078
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 肺腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030079]]==
+{{Infobox HPO
+| hpoId = HP:0030079
+| 名称 = Cervix cancer
+| 定义 = A tumor of the uterine cervix.
+| 中文译名 = 宫颈癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030080]]==
+{{Infobox HPO
+| hpoId = HP:0030080
+| 名称 = Burkitt lymphoma
+| 定义 = A form of undifferentiated malignant lymphoma commonly manifested as a large osteolytic lesion in the jaw or as an abdominal mass.
+| 中文译名 = 伯基特淋巴瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030153]]==
+{{Infobox HPO
+| hpoId = HP:0030153
+| 名称 = Cholangiocarcinoma
+| 定义 = Cholangiocarcinoma is a primary cancer originating in the biliary epithelium i.e., the cholangiocytes, of the extrahepatic and intrahepatic biliary ducts. It is extremely invasive, develops rapidly, often metastasizes, and has a very poor prognosis. They are slow growing tumors which spread longitudinally along the bile ducts with neural, perineural and subepithelial extension.
+| 中文译名 = 胆管癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030255]]==
+{{Infobox HPO
+| hpoId = HP:0030255
+| 名称 = Large intestinal polyposis
+| 定义 = The presence of multiple polyps in the large intestine.
+| 中文译名 = 大肠息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030256]]==
+{{Infobox HPO
+| hpoId = HP:0030256
+| 名称 = Small intestinal polyposis
+| 定义 = The presence of multiple polyps in the small intestine.
+| 中文译名 = 小肠息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030357]]==
+{{Infobox HPO
+| hpoId = HP:0030357
+| 名称 = Small cell lung carcinoma
+| 定义 = Small cell lung cancer (SCLC) is a type of highly malignant lung cancer that is composed of small ovoid cells. In the past, SCLC was called oat cell carcinoma because the microscopic appearance of the cells was felt to resemble oats. SLCLC usually originates near the bronchi and in many cases may grow and metastasize quickly.
+| 中文译名 = 小细胞肺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030358]]==
+{{Infobox HPO
+| hpoId = HP:0030358
+| 名称 = Non-small cell lung carcinoma
+| 定义 = #####
+| 中文译名 = 非小细胞肺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030359]]==
+{{Infobox HPO
+| hpoId = HP:0030359
+| 名称 = Squamous cell lung carcinoma
+| 定义 = A type of non-small cell lung carcinoma that is derived from stratified squamous epithelial cells.
+| 中文译名 = 肺鳞状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030360]]==
+{{Infobox HPO
+| hpoId = HP:0030360
+| 名称 = Large cell lung carcinoma
+| 定义 = A type of non-small cell lung carcinoma that is derived from undifferentiated malignant neoplasms originating from transformed epithelial cells in the lung, and which is differentiate from small-cell lung carcinoma by the larger size of the anaplastic cells, a higher cytoplasmic-to-nuclear size ratio, and a lack of salt-and-pepper appearance of the chromatin.
+| 中文译名 = 大细胞肺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030392]]==
+{{Infobox HPO
+| hpoId = HP:0030392
+| 名称 = Choroid plexus carcinoma
+| 定义 = Intraventricular papillary neoplasm derived from choroid plexus epithelium. Plexus tumors are most common in the lateral and fourth ventricles; while 80% of lateral ventricle tumors present in children, fourth ventricle tumors are evenly distributed in all age groups. Clinically, choroid plexus tumors tend to cause hydrocephalus and increased intracranial pressure. Histologically, choroid plexus papillomas correspond to WHO grade I, choroid plexus carcinomas to WHO grade III.
+| 中文译名 = 脉络丛癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030393]]==
+{{Infobox HPO
+| hpoId = HP:0030393
+| 名称 = Endolymphatic sac tumor
+| 定义 = A low-grade papillary epithelial neoplasm (adenocarcinoma) with a slow growth pattern. The endolymphatic duct emerges from the posterior wall of the saccule (of the inner ear) and ends in a blind pouch, the endolymphatic sac. Endolymphatic sac tumors (ELSTs) are known under different names in the literature (Heffner tumor, aggressive papillary middle ear tumor, and low-grade adenocarcinoma of endolymphatic sac origin).
+| 中文译名 = 内淋巴囊肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030394]]==
+{{Infobox HPO
+| hpoId = HP:0030394
+| 名称 = Fallopian tube carcinoma
+| 定义 = Carcinoma that originates in the Fallopian tube. It may be located in the wall or within the lumen as a growth attached to the wall by a stalk.
+| 中文译名 = 输卵管癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030404]]==
+{{Infobox HPO
+| hpoId = HP:0030404
+| 名称 = Glucagonoma
+| 定义 = An endocrine tumor of the pancreas that secretes excessive amounts of glucagon.
+| 中文译名 = 胰高血糖素瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030405]]==
+{{Infobox HPO
+| hpoId = HP:0030405
+| 名称 = Pancreatic endocrine tumor
+| 定义 = A neuroendocrine tumor originating in a hormone-producing cell (islet cell) of the pancreas.
+| 中文译名 = 胰腺内分泌肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030406]]==
+{{Infobox HPO
+| hpoId = HP:0030406
+| 名称 = Primary peritoneal carcinoma
+| 定义 = A type of cancer that originates in the peritoneam. It is to be distinguished from metastatic cancer of the peritoneum. Peritoneal cancer can occur anywhere in the abdominal space, and affects the surface of organs contained inside the peritoneum.
+| 中文译名 = 原发性腹膜癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030407]]==
+{{Infobox HPO
+| hpoId = HP:0030407
+| 名称 = Pineocytoma
+| 定义 = A type of pineal parenchymal cell neoplasm that is a mature well-differentiated tumour (WHO grade I).
+| 中文译名 = 松果体细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030408]]==
+{{Infobox HPO
+| hpoId = HP:0030408
+| 名称 = Pineoblastoma
+| 定义 = Pineoblastoma is a rare primitive neuroectodermal tumour (PNET) arising in the pineal gland. Pineoblastomas are classified as a WHO grade IV tumour and comprise one-fourth to one-half of pineal parenchymal tumours. Pineoblastoma is a highly cellular tumor originating in the pineal gland and containing small, poorly differentiated cells.
+| 中文译名 = 松果体母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030409]]==
+{{Infobox HPO
+| hpoId = HP:0030409
+| 名称 = Renal transitional cell carcinoma
+| 定义 = A malignant tumor that arises from the transitional (urothelial) epithelial cells lining the urinary tract from the renal calyces to the ureteral orifice.
+| 中文译名 = 肾移行细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030410]]==
+{{Infobox HPO
+| hpoId = HP:0030410
+| 名称 = Sebaceous gland carcinoma
+| 定义 = A carcinoma that arises in a sebaseous gland (an exocrine gland of the skin that secretes sebum, a waxy substance.
+| 中文译名 = 皮脂腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030411]]==
+{{Infobox HPO
+| hpoId = HP:0030411
+| 名称 = Jejunal adenocarcinoma
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the jejunum.
+| 中文译名 = 空肠腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030412]]==
+{{Infobox HPO
+| hpoId = HP:0030412
+| 名称 = Ileal adenocarcinoma
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the ileum.
+| 中文译名 = 回肠腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030413]]==
+{{Infobox HPO
+| hpoId = HP:0030413
+| 名称 = Squamous cell carcinoma of the tongue
+| 定义 = A carcinoma derived from a squamous epithelial cell of the tongue.
+| 中文译名 = 舌鳞状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030414]]==
+{{Infobox HPO
+| hpoId = HP:0030414
+| 名称 = Verrucous cell carcinoma of the tongue
+| 定义 = A low-grade variant of squamous cell carcinoma of the tongue with a warty (verrucous) appearance.
+| 中文译名 = 舌疣状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030415]]==
+{{Infobox HPO
+| hpoId = HP:0030415
+| 名称 = Sarcomatoid carcinoma of the tongue
+| 定义 = Sarcomatoid (spindle cell) carcinomas of the tongue is a variant of squamous carcinoma of tongue that is monoclonal, having evolved from a conventional squamous carcinoma with dedifferentiation associated with sarcomatoid transformation.
+| 中文译名 = 舌肉瘤样癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030416]]==
+{{Infobox HPO
+| hpoId = HP:0030416
+| 名称 = Vulvar neoplasm
+| 定义 = A tumor (abnormal growth of tissue) of the female external genital tract (vulva).
+| 中文译名 = 外阴肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030417]]==
+{{Infobox HPO
+| hpoId = HP:0030417
+| 名称 = Squamous cell carcinoma of the vulva
+| 定义 = A cancer that originates in the sqamous cells that line the surface of the vulva.
+| 中文译名 = 外阴鳞状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030418]]==
+{{Infobox HPO
+| hpoId = HP:0030418
+| 名称 = Vulvar melanoma
+| 定义 = A type of vulvar cancer that originates from melanocytes of the vulva.
+| 中文译名 = 外阴黑色素瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030419]]==
+{{Infobox HPO
+| hpoId = HP:0030419
+| 名称 = Bartholin gland carcinoma
+| 定义 = A cancer arising in a cell of the Bartholin gland, a racemose gland located slightly posterior to the opening of the vagina.
+| 中文译名 = 前庭大腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030420]]==
+{{Infobox HPO
+| hpoId = HP:0030420
+| 名称 = Vulvar adenocarcinoma
+| 定义 = An adenocarcinoma arising in the vulva.
+| 中文译名 = 外阴腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030421]]==
+{{Infobox HPO
+| hpoId = HP:0030421
+| 名称 = Epididymal neoplasm
+| 定义 = A tumor (abnormal growth of tissue) of the epididymis, an duct that transports spermatozoa from the testis to the vas deferens.
+| 中文译名 = 附睾肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030426]]==
+{{Infobox HPO
+| hpoId = HP:0030426
+| 名称 = Ossifying fibroma
+| 定义 = A benign central bone tumor composed of fibrous connective tissue within which bone is formed.
+| 中文译名 = 骨化性纤维瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030427]]==
+{{Infobox HPO
+| hpoId = HP:0030427
+| 名称 = Ossifying fibroma of the jaw
+| 定义 = A benign central bone tumor of the jaw composed of fibrous connective tissue within which bone is formed.
+| 中文译名 = 颌部骨化性纤维瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030428]]==
+{{Infobox HPO
+| hpoId = HP:0030428
+| 名称 = Cutaneous myxoma
+| 定义 = A myxoma originating in the skin.
+| 中文译名 = 皮肤粘液瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030429]]==
+{{Infobox HPO
+| hpoId = HP:0030429
+| 名称 = Juvenile nasopharyngeal angiofibroma
+| 定义 = A benign but highly vascular nasopharyngeal neoplasm. The tumor originates from the sphenopalatine foramen and involves both the pterygopalatine fossa and the posterior nasal cavity.
+| 中文译名 = 青少年型鼻咽血管纤维瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0030430]]==
+{{Infobox HPO
+| hpoId = HP:0030430
+| 名称 = Neuroma
+| 定义 = A tumor made up of nerve cells and nerve fibers.
+| 中文译名 = 神经瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030431]]==
+{{Infobox HPO
+| hpoId = HP:0030431
+| 名称 = Osteochondroma
+| 定义 = A cartilage capped bony outgrowth of a long bone. Osteochondroma arises on the external surface of bone containing a marrow cavity that is continuous with that of the underlying bone.
+| 中文译名 = 骨软骨瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030432]]==
+{{Infobox HPO
+| hpoId = HP:0030432
+| 名称 = Chondroblastoma
+| 定义 = A usually benign tumor composed of cells which arise from chondroblasts or their precursors and which tend to differentiate into cartilage cells.
+| 中文译名 = 软骨母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030433]]==
+{{Infobox HPO
+| hpoId = HP:0030433
+| 名称 = Osteoid osteoma
+| 定义 = A bening tumor of bone composed of a central zone named nidus which is an atypical bone completely enclosed within a well vascularized stroma and a peripheral sclerotic reaction zone.
+| 中文译名 = 骨样骨瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030434]]==
+{{Infobox HPO
+| hpoId = HP:0030434
+| 名称 = Pilomatrixoma
+| 定义 = Pilomatricoma is an asymptomatic slowly growing benign cutaneous tumor, differentiating towards the hair matrix of the hair follicle. It is covered by normal or hyperemic skin, and usually varies in size from 0.5 to 3 cm.
+| 中文译名 = 毛母质瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030436]]==
+{{Infobox HPO
+| hpoId = HP:0030436
+| 名称 = Fibrofolliculoma
+| 定义 = Fibrofolliculoma is a clinically asymptomatic, 2-4 mm, skin-colored, dome-shaped smooth papule. It usually arises in the form of multiple lesions in adults in different areas such as the scalp, forehead, face, and neck. According to histology, the lesion is a fibrotic hamartoma characterized by infundibular epithelial proliferation and perifollicular fibrous proliferation.
+| 中文译名 = 纤维毛囊瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030437]]==
+{{Infobox HPO
+| hpoId = HP:0030437
+| 名称 = Anal canal neoplasm
+| 定义 = #####
+| 中文译名 = 肛管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030438]]==
+{{Infobox HPO
+| hpoId = HP:0030438
+| 名称 = Anal canal squamous cell carcinoma
+| 定义 = A squamous cell carcinoma that originates in the anal canal.
+| 中文译名 = 肛管鳞状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030439]]==
+{{Infobox HPO
+| hpoId = HP:0030439
+| 名称 = Anal canal adenocarcinoma
+| 定义 = An adenoma carcinoma that originates in the anal canal.
+| 中文译名 = 肛管腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030445]]==
+{{Infobox HPO
+| hpoId = HP:0030445
+| 名称 = Pulmonary carcinoid tumor
+| 定义 = A malignant neuroendocrine tumor of the lung. According to histopathologic criteria (WHO 2004), carcinoids are divided into four groups i.e. typical and atypical carcinoids, large cell neuroendocrine carcinoma and small cell lung carcinoma.
+| 中文译名 = 肺类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030446]]==
+{{Infobox HPO
+| hpoId = HP:0030446
+| 名称 = Atypical pulmonary carcinoid tumor
+| 定义 = #####
+| 中文译名 = 非典型肺类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030447]]==
+{{Infobox HPO
+| hpoId = HP:0030447
+| 名称 = Merkel cell skin cancer
+| 定义 = A malignant cutaneous tumor of the elderly that is characterized by an aggressive course with regional nodal involvement, distant metastases and a high rate of recurrence. Most patients present with rapidly growing, painless, firm, non-tender, dome-shaped red, occasionally ulcerated skin nodules, which have a red or bluish color, measuring up to several centimeters, on predominantly sun-exposed areas of the body. The overlying skin is smooth and shiny, sometimes exhibiting ulcerative, acneiform or telangiectatic features.
+| 中文译名 = 默克尔细胞皮肤癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030448]]==
+{{Infobox HPO
+| hpoId = HP:0030448
+| 名称 = Soft tissue sarcoma
+| 定义 = A type of sarcoma (A connective tissue neoplasm formed by proliferation of mesodermal cells) that develops from soft tissues like fat, muscle, nerves, fibrous tissues, blood vessels, or deep skin tissues.
+| 中文译名 = 软组织肉瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030450]]==
+{{Infobox HPO
+| hpoId = HP:0030450
+| 名称 = Neuroplasm of the autonomic nervous system
+| 定义 = A tumor that arises from an element of the autonomic nervous system.
+| 中文译名 = 自主神经系统肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030508]]==
+{{Infobox HPO
+| hpoId = HP:0030508
+| 名称 = Retinal cavernous hemangioma
+| 定义 = #####
+| 中文译名 = 视网膜海绵状血管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030509]]==
+{{Infobox HPO
+| hpoId = HP:0030509
+| 名称 = Retinal racemose hemangioma
+| 定义 = #####
+| 中文译名 = 视网膜蔓状血管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030510]]==
+{{Infobox HPO
+| hpoId = HP:0030510
+| 名称 = Combined hamartoma of the retinal pigment epithelium and retina
+| 定义 = #####
+| 中文译名 = 视网膜和视网膜色素上皮联合错构瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030692]]==
+{{Infobox HPO
+| hpoId = HP:0030692
+| 名称 = Brain neoplasm
+| 定义 = A benign or malignant neoplasm that arises from or metastasizes to the brain.
+| 中文译名 = 脑肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030693]]==
+{{Infobox HPO
+| hpoId = HP:0030693
+| 名称 = Supratentorial neoplasm
+| 定义 = A benign or malignant neoplasm that occurs within the intracranial cavity above the tentorium cerebelli.
+| 中文译名 = 幕上肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030694]]==
+{{Infobox HPO
+| hpoId = HP:0030694
+| 名称 = Pineal parenchymal cell neoplasm
+| 定义 = #####
+| 中文译名 = 松果体实质细胞肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030731]]==
+{{Infobox HPO
+| hpoId = HP:0030731
+| 名称 = Carcinoma
+| 定义 = A malignant tumor arising from epithelial cells. Carcinomas that arise from glandular epithelium are called adenocarcinomas, those that arise from squamous epithelium are called squamous cell carcinomas, and those that arise from transitional epithelium are called transitional cell carcinomas (NCI Thesaurus).
+| 中文译名 = 癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030736]]==
+{{Infobox HPO
+| hpoId = HP:0030736
+| 名称 = Sacrococcygeal teratoma
+| 定义 = A teratoma arising in the sacro-coccygeal region.
+| 中文译名 = 骶尾部畸胎瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030737]]==
+{{Infobox HPO
+| hpoId = HP:0030737
+| 名称 = Altman type I sacrococcygeal teratoma
+| 定义 = A type of sacrococcygeal teratoma that is predominantly external and projects from the sacrococcygeal region and presents with distortion of the buttocks.
+| 中文译名 = 奥特曼 I 型骶尾部畸胎瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030738]]==
+{{Infobox HPO
+| hpoId = HP:0030738
+| 名称 = Altman type II sacrococcygeal teratoma
+| 定义 = A type of sacrococcygeal teratoma that is predominantly external but has a large intrapelvic component.
+| 中文译名 = 奥特曼 II 型骶尾部畸胎瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030739]]==
+{{Infobox HPO
+| hpoId = HP:0030739
+| 名称 = Altman type III sacrococcygeal teratoma
+| 定义 = A type of sacrococcygeal teratoma that is predominantly intrapelvic with a small external, buttock mass.
+| 中文译名 = 奥特曼 III 型骶尾部畸胎瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030741]]==
+{{Infobox HPO
+| hpoId = HP:0030741
+| 名称 = Mediastinal teratoma
+| 定义 = A teratoma located with the mediastinum (the cavity between the pleural sacs that contains the heart and all of the thoracic viscera except the lungs).
+| 中文译名 = 纵隔畸胎瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030755]]==
+{{Infobox HPO
+| hpoId = HP:0030755
+| 名称 = Craniofacial teratoma
+| 定义 = A teratoma located in the craniofacial region.
+| 中文译名 = 颅面畸胎瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030767]]==
+{{Infobox HPO
+| hpoId = HP:0030767
+| 名称 = Epignathus
+| 定义 = Epignathus is a teratoma originating from the upper jaw, usually connected with the sphenoid bone or hard palate.
+| 中文译名 = 上颌寄生胎畸胎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030785]]==
+{{Infobox HPO
+| hpoId = HP:0030785
+| 名称 = Mediastinal cystic lymphangioma
+| 定义 = A lymphangioma (congenital malformation consisting of focal proliferations of well-differentiated lymphatic tissue in multi cystic or sponge like structures) located within the mediastinum, i.e., the central compartment of the thoracic cavity that is surrounded by loose connective tissue. Mediastinal lymphangioma is a slow growing mass with benign features, and accounts for 1% of all mediastinal tumors.
+| 中文译名 = 纵隔囊性淋巴管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030792]]==
+{{Infobox HPO
+| hpoId = HP:0030792
+| 名称 = Jaw neoplasm
+| 定义 = A tumor originating in the jaw (mandible or maxilla).
+| 中文译名 = 颌骨肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030815]]==
+{{Infobox HPO
+| hpoId = HP:0030815
+| 名称 = Lipoma of the tongue
+| 定义 = A lipoma localized to the tongue. May present as a nontender, soft, spherical mass of the tongue.
+| 中文译名 = 舌部脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040095]]==
+{{Infobox HPO
+| hpoId = HP:0040095
+| 名称 = Neoplasm of the outer ear
+| 定义 = A tumor (abnormal growth of tissue) of the outer ear.
+| 中文译名 = 外耳肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040096]]==
+{{Infobox HPO
+| hpoId = HP:0040096
+| 名称 = Neoplasm of the inner ear
+| 定义 = A tumor (abnormal growth of tissue) of the inner ear.
+| 中文译名 = 内耳肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040097]]==
+{{Infobox HPO
+| hpoId = HP:0040097
+| 名称 = Neoplasm of the ceruminal gland
+| 定义 = A tumor (abnormal growth of tissue) of the ceruminal gland.
+| 中文译名 = 耵聍腺肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040098]]==
+{{Infobox HPO
+| hpoId = HP:0040098
+| 名称 = Basalioma of the outer ear
+| 定义 = #####
+| 中文译名 = 外耳基底细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040164]]==
+{{Infobox HPO
+| hpoId = HP:0040164
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 上眼睑脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040167]]==
+{{Infobox HPO
+| hpoId = HP:0040167
+| 名称 = Facial papilloma
+| 定义 = #####
+| 中文译名 = 面部乳头状瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040192]]==
+{{Infobox HPO
+| hpoId = HP:0040192
+| 名称 = APUdoma
+| 定义 = An endocrine tumor arising from an APUD cell.
+| 中文译名 = APUD瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040198]]==
+{{Infobox HPO
+| hpoId = HP:0040198
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 甲状腺非髓样癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040273]]==
+{{Infobox HPO
+| hpoId = HP:0040273
+| 名称 = Adenocarcinoma of the intestines
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the intestines.
+| 中文译名 = 肠腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040274]]==
+{{Infobox HPO
+| hpoId = HP:0040274
+| 名称 = Adenocarcinoma of the small intestine
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the small intestine.
+| 中文译名 = 小肠腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040275]]==
+{{Infobox HPO
+| hpoId = HP:0040275
+| 名称 = Adenocarcinoma of the large intestine
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the large intestine.
+| 中文译名 = 大肠腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040276]]==
+{{Infobox HPO
+| hpoId = HP:0040276
+| 名称 = Adenocarcinoma of the colon
+| 定义 = #####
+| 中文译名 = 结肠腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045038]]==
+{{Infobox HPO
+| hpoId = HP:0045038
+| 名称 = Gastric lymphoma
+| 定义 = Llymphoma that originates in the stomach itself.
+| 中文译名 = 胃淋巴瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100001]]==
+{{Infobox HPO
+| hpoId = HP:0100001
+| 名称 = Malignant mesothelioma
+| 定义 = Malignant mesothelioma is a form of cancer that originates from the cells of the mesothelium, a thin tissue layer surrounding the body&#39;s internal organs. Malignant mesothelioma is almost exclusively caused by asbestos exposure, pleural mesothelioma being the most common form, affecting the lining of the lungs called the pleura. Other forms such as perioneal-, percardial- or testicular- mesothelioma are much rarer.
+| 中文译名 = 恶性间皮瘤
+| 中文定义 = 恶性间皮瘤起源于间皮细胞，即一层包绕人体内脏的薄层组织。恶性间皮瘤的发生几乎都与石棉的暴露接触有关，胸膜间皮瘤是最常见的形式，发生于胸膜组织。其他还有发生于腹膜、心包以及睾丸的间皮瘤，后者更为少见。
+}}
+
+
+==[[HP:0100002]]==
+{{Infobox HPO
+| hpoId = HP:0100002
+| 名称 = Pleural mesothelioma
+| 定义 = A `Malignant mesothelioma` (HP:0100001) originating from cells of the pleura (the thin layer of mesothelium lining the lungs). Pleural mesothelioma is the most common form of mesothelioma.
+| 中文译名 = 胸膜间皮瘤
+| 中文定义 = 起源于胸膜细胞的恶性间皮瘤（胸膜是衬于肺外围的薄层间皮）。胸膜间皮瘤是间皮瘤的最常见形式。
+}}
+
+
+==[[HP:0100003]]==
+{{Infobox HPO
+| hpoId = HP:0100003
+| 名称 = Peritoneal mesothelioma
+| 定义 = A `Malignant mesothelioma` (HP:0100001) originating from cells of the peritoneum (the thin layer of mesothelium lining the abdomen). Peritoneal mesothelioma is the second most common form of mesothelioma after pleural mesothelioma.
+| 中文译名 = 腹膜间皮瘤
+| 中文定义 = 一种起源于腹膜细胞（腹部的薄层间皮）的恶性间皮瘤。是仅次于胸膜间皮瘤的第二常见的间皮瘤形式。
+}}
+
+
+==[[HP:0100004]]==
+{{Infobox HPO
+| hpoId = HP:0100004
+| 名称 = Pericardial mesothelioma
+| 定义 = A `Malignant mesothelioma` (HP:0100001) originating from cells of the pericardium (the thin layer of mesothelium lining the heart).
+| 中文译名 = 心包间皮瘤
+| 中文定义 = 源于心包细胞（间皮薄层衬的心脏）的“恶性间皮瘤”（HP:0100001）。
+}}
+
+
+==[[HP:0100005]]==
+{{Infobox HPO
+| hpoId = HP:0100005
+| 名称 = Testicular mesothelioma
+| 定义 = A `Malignant mesothelioma` (HP:0100001) of the `testis` (FMA:7210).
+| 中文译名 = 睾丸间皮瘤
+| 中文定义 = 睾丸形成恶性间皮瘤。
+}}
+
+
+==[[HP:0100006]]==
+{{Infobox HPO
+| hpoId = HP:0100006
+| 名称 = Neoplasm of the central nervous system
+| 定义 = A `neoplasm` (MPATH:218) of the `central nervous system` (FMA:55675).
+| 中文译名 = 中枢神经系统的肿瘤
+| 中文定义 = 在`中枢神经system`的（FMA:55675）:一个`neoplasm`（218的mpath）。一种中枢神经系统的肿瘤
+}}
+
+
+==[[HP:0100007]]==
+{{Infobox HPO
+| hpoId = HP:0100007
+| 名称 = Neoplasm of the peripheral nervous system
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) of the `peripheral nervous system` (FMA:9903).
+| 中文译名 = 外周神经系统的肿瘤
+| 中文定义 = 在&#39;周围神经system`的（肿瘤）（FMA:9903）:一个良性或恶性`neoplasm`（218的mpath）。外周神经系统良性或恶性的肿瘤
+}}
+
+
+==[[HP:0100008]]==
+{{Infobox HPO
+| hpoId = HP:0100008
+| 名称 = Schwannoma
+| 定义 = A benign nerve sheath tumor composed of Schwann cells.
+| 中文译名 = 神经鞘瘤
+| 中文定义 = 由雪旺细胞形成的良性神经鞘瘤。
+}}
+
+
+==[[HP:0100009]]==
+{{Infobox HPO
+| hpoId = HP:0100009
+| 名称 = Intracranial meningioma
+| 定义 = #####
+| 中文译名 = 颅内脑膜瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100010]]==
+{{Infobox HPO
+| hpoId = HP:0100010
+| 名称 = Spinal meningioma
+| 定义 = #####
+| 中文译名 = 脊膜瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100011]]==
+{{Infobox HPO
+| hpoId = HP:0100011
+| 名称 = Scleral schwannoma
+| 定义 = schwannoma on the Scleral
+| 中文译名 = 巩膜神经鞘瘤
+| 中文定义 = 巩膜上发生的神经鞘瘤
+}}
+
+
+==[[HP:0100012]]==
+{{Infobox HPO
+| hpoId = HP:0100012
+| 名称 = Neoplasm of the eye
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the eye.
+| 中文译名 = 眼肿瘤
+| 中文定义 = 眼睛的一个新生物（218的mpath）的存在。
+}}
+
+
+==[[HP:0100013]]==
+{{Infobox HPO
+| hpoId = HP:0100013
+| 名称 = Neoplasm of the breast
+| 定义 = A `neoplasm` (MPATH:218) of the `breast` (FMA:9601).
+| 中文译名 = 乳腺肿瘤
+| 中文定义 = 在`breast`的（FMA:9601）:一个`neoplasm`（218的mpath）。
+}}
+
+
+==[[HP:0100031]]==
+{{Infobox HPO
+| hpoId = HP:0100031
+| 名称 = Neoplasm of the thyroid gland
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `thyroid gland` (FMA:9603).
+| 中文译名 = 甲状腺肿瘤
+| 中文定义 = 甲状腺肿瘤
+}}
+
+
+==[[HP:0100242]]==
+{{Infobox HPO
+| hpoId = HP:0100242
+| 名称 = Sarcoma
+| 定义 = The presence of a `sarcoma` (MPATH:551).
+| 中文译名 = 肉瘤
+| 中文定义 = 一个`sarcoma`的存在（的mpath:551）。
+}}
+
+
+==[[HP:0100243]]==
+{{Infobox HPO
+| hpoId = HP:0100243
+| 名称 = Leiomyosarcoma
+| 定义 = A smooth muscle connective tissue tumor, which is rare type of cancer that is a malignant neoplasm of smooth muscle. When such a neoplasm is benign, it is called a leiomyoma.
+| 中文译名 = 平滑肌肉瘤
+| 中文定义 = 平滑肌结缔组织肿瘤，是一种少见的发生于平滑肌的恶性肿瘤，当这种肿瘤为良性时则称为平滑肌瘤。
+}}
+
+
+==[[HP:0100244]]==
+{{Infobox HPO
+| hpoId = HP:0100244
+| 名称 = Fibrosarcoma
+| 定义 = A fibroblastic sarcoma is a malignant tumor derived from fibrous connective tissue and characterized by immature proliferating fibroblasts or undifferentiated anaplastic spindle cells.
+| 中文译名 = 纤维肉瘤
+| 中文定义 = 纤维母细胞肉瘤是起源于纤维结缔组织增生的恶性肿瘤，以未成熟或未分化的梭形细胞增生的成纤维细胞为特征。
+}}
+
+
+==[[HP:0100245]]==
+{{Infobox HPO
+| hpoId = HP:0100245
+| 名称 = Desmoid tumors
+| 定义 = Benign, slow-growing tumors without any metastatic potential. Despite their benign nature, they can damage nearby structures causing organ dysfunction. Histologically they resemble low-grade fibrosarcomas, but they are very locally aggressive and tend to recur even after complete resection. There is a tendency for recurrence in the setting of prior surgery and the most common localisation of these tumors is intraabdominal from smooth muscle cells of the instestine.
+| 中文译名 = 硬纤维瘤
+| 中文定义 = 良性的，生长缓慢的肿瘤，没有任何转移的可能。尽管具有良性属性，它们能损害周围结构从而引起器官功能障碍。组织学上，它们与低度恶性纤维肉瘤类似，但它们仅限于原位侵袭且易于复发，即使是完全切除后。施行手术前即有复发的趋势，且这些肿瘤最常见定位于腹内肠道平滑肌细胞。
+}}
+
+==[[HP:0100246]]==
+{{Infobox HPO
+| hpoId = HP:0100246
+| 名称 = Osteoma
+| 定义 = Osteomas are bony growths found most commonly on the skull and mandible; however, they may occur in any bone of the body. Osteomas do not usually cause clinical problems and do not become malignant.
+| 中文译名 = 骨瘤
+| 中文定义 = 骨瘤是发现最常见的头骨和下颌骨骨生长;然而，它们可能发生在身体的任何骨。骨瘤通常不会引起临床问题，不要变成恶性的。
+}}
+
+
+==[[HP:0100251]]==
+{{Infobox HPO
+| hpoId = HP:0100251
+| 名称 = Lipomas of the central neryous system
+| 定义 = #####
+| 中文译名 = 中枢神经系统脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100273]]==
+{{Infobox HPO
+| hpoId = HP:0100273
+| 名称 = Neoplasm of the colon
+| 定义 = #####
+| 中文译名 = 结肠肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100312]]==
+{{Infobox HPO
+| hpoId = HP:0100312
+| 名称 = Cerebral germinoma
+| 定义 = The presence of a `germ cell tumor` (MPATH:310) of the `cerebrum` (FMA:62000).
+| 中文译名 = 脑胚细胞瘤
+| 中文定义 = 脑中发生源自生殖细胞的肿瘤。
+}}
+
+==[[HP:0100516]]==
+{{Infobox HPO
+| hpoId = HP:0100516
+| 名称 = Neoplasm of the ureter
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `ureter` (FMA:9704).
+| 中文译名 = 输尿管肿瘤
+| 中文定义 = 输尿管（FMA:9704）的一种肿瘤(MPATH:218)。
+}}
+
+
+==[[HP:0100517]]==
+{{Infobox HPO
+| hpoId = HP:0100517
+| 名称 = Neoplasm of the urethra
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `urethra` (FMA:19667).
+| 中文译名 = 尿道肿瘤
+| 中文定义 = 尿道的一种肿瘤。
+}}
+
+
+==[[HP:0100521]]==
+{{Infobox HPO
+| hpoId = HP:0100521
+| 名称 = Neoplasm of the thymus
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) originating in the `thymus` (FMA:9607).
+| 中文译名 = 胸腺瘤
+| 中文定义 = 起源于胸腺的良或恶性肿瘤（FMA:9607）。
+}}
+
+
+==[[HP:0100522]]==
+{{Infobox HPO
+| hpoId = HP:0100522
+| 名称 = Thymoma
+| 定义 = A tumor originating from the epithelial cells of the `thymus` (FMA:9607).
+| 中文译名 = 胸腺瘤
+| 中文定义 = 胸腺上皮细胞起源的肿瘤（FMA:9607）。
+}}
+
+
+==[[HP:0100526]]==
+{{Infobox HPO
+| hpoId = HP:0100526
+| 名称 = Neoplasm of the lungs
+| 定义 = Tumor of the lung.
+| 中文译名 = 肺部肿瘤
+| 中文定义 = 肿部的瘤肺。
+}}
+
+
+==[[HP:0100527]]==
+{{Infobox HPO
+| hpoId = HP:0100527
+| 名称 = Neoplasia of the pleura
+| 定义 = #####
+| 中文译名 = 胸膜肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100528]]==
+{{Infobox HPO
+| hpoId = HP:0100528
+| 名称 = Pleuropulmonary blastoma
+| 定义 = A rare cancer originating in the lung or pleural cavity that occurs most often in infants and young children but also has been reported in adults. Pleuropulmonary blastoma is regarded as malignant.
+| 中文译名 = 胸膜肺母细胞瘤
+| 中文定义 = 一种起源于肺或胸膜腔的罕见恶性肿瘤，最常发生于婴幼儿，成人也有报道。胸膜肺母细胞瘤被认为是恶性的。
+}}
+
+
+==[[HP:0100544]]==
+{{Infobox HPO
+| hpoId = HP:0100544
+| 名称 = Neoplasm of the heart
+| 定义 = A `neoplasm` (MPATH:218) of the `heart` (FMA:7088).
+| 中文译名 = 心脏肿瘤
+| 中文定义 = 在心脏（FMA:7088）的肿瘤（MPATH:218）。
+}}
+
+
+==[[HP:0100551]]==
+{{Infobox HPO
+| hpoId = HP:0100551
+| 名称 = Neoplasm of the trachea
+| 定义 = #####
+| 中文译名 = 气管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100552]]==
+{{Infobox HPO
+| hpoId = HP:0100552
+| 名称 = Neoplasm of the tracheobronchial system
+| 定义 = #####
+| 中文译名 = 气管支气管系统肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100568]]==
+{{Infobox HPO
+| hpoId = HP:0100568
+| 名称 = Neoplasm of the endocrine system
+| 定义 = The presence of a `neoplasm` (MPATH:218) (tumour) in the `endocrine system` (FMA:9668).
+| 中文译名 = 内分泌系统的肿瘤
+| 中文定义 = 内分泌系统的肿瘤
+}}
+
+
+==[[HP:0100570]]==
+{{Infobox HPO
+| hpoId = HP:0100570
+| 名称 = Carcinoid
+| 定义 = A tumor formed from the endocrine (argentaffin) cells of the mucosal lining of a variety of organs including the stomach and intestine. These cells are from neuroectodermal origin.
+| 中文译名 = 类癌
+| 中文定义 = 由各种器官如胃和肠的粘膜内层的内分泌（嗜银）细胞形成的肿瘤。这些细胞来源于神经外胚层
+}}
+
+
+==[[HP:0100574]]==
+{{Infobox HPO
+| hpoId = HP:0100574
+| 名称 = Biliary tract neoplasm
+| 定义 = A `neoplasm` (MPATH:218) of the `biliary system` (FMA:79646).
+| 中文译名 = 胆管瘤
+| 中文定义 = 胆管系统的肿瘤。
+}}
+
+
+==[[HP:0100575]]==
+{{Infobox HPO
+| hpoId = HP:0100575
+| 名称 = Neoplasm of the gallbladder
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊肿瘤
+| 中文定义 = 存在于胆囊的肿瘤。
+}}
+
+
+==[[HP:0100580]]==
+{{Infobox HPO
+| hpoId = HP:0100580
+| 名称 = Barrett esophagus
+| 定义 = An abnormal change (metaplasia) in the cells of the inferior portion of the esophagus. The normal squamous epithelium lining of the esophagus is replaced by metaplastic columnar epithelium. Columnar epithelium refers to a cell type that is typically found in more distal parts of the gastrointestinal system.
+| 中文译名 = Barrett食管
+| 中文定义 = 食管下部细胞的一种异常改变（组织转化）。食管的正常鳞状上皮层被化生的柱状上皮层取代。柱状上皮是指一种通常被发现于胃肠系统更远端部分细胞类型。
+}}
+
+
+==[[HP:0100604]]==
+{{Infobox HPO
+| hpoId = HP:0100604
+| 名称 = Neoplasm of the lip
+| 定义 = A `neoplasm` (MPATH:218) of the `lips` (FMA:59815).
+| 中文译名 = 唇瘤
+| 中文定义 = 唇部的肿瘤
+}}
+
+
+==[[HP:0100605]]==
+{{Infobox HPO
+| hpoId = HP:0100605
+| 名称 = Neoplasm of the larynx
+| 定义 = #####
+| 中文译名 = 喉部肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100606]]==
+{{Infobox HPO
+| hpoId = HP:0100606
+| 名称 = Neoplasm of the respiratory system
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) originating in the respiratory system.
+| 中文译名 = 呼吸系统肿瘤
+| 中文定义 = 良性或恶性`neoplasm`（的mpath:218）（肿瘤）发生于呼吸系统。
+}}
+
+
+==[[HP:0100612]]==
+{{Infobox HPO
+| hpoId = HP:0100612
+| 名称 = Odontogenic neoplasm
+| 定义 = Neoplasm involving odontogenic cells, an `odontogenic tumor` (MPATH:379).
+| 中文译名 = 牙源性瘤
+| 中文定义 = 累及牙源性细胞的瘤，即牙源性肿瘤
+}}
+
+
+==[[HP:0100615]]==
+{{Infobox HPO
+| hpoId = HP:0100615
+| 名称 = Ovarian neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) the `ovary` (FMA:7209).
+| 中文译名 = 卵巢肿瘤
+| 中文定义 = 卵巢形成肿瘤。
+}}
+
+
+==[[HP:0100616]]==
+{{Infobox HPO
+| hpoId = HP:0100616
+| 名称 = Testicular teratoma
+| 定义 = The presence of a `teratoma` (MPATH:322) of the `testis` (FMA:7210).
+| 中文译名 = 睾丸畸胎瘤
+| 中文定义 = 睾丸形成畸胎瘤。
+}}
+
+
+==[[HP:0100617]]==
+{{Infobox HPO
+| hpoId = HP:0100617
+| 名称 = Testicular seminoma
+| 定义 = The presence of a `seminoma` (MPATH:317), an undifferentiated germ cell tumor of the `testis` (FMA:7210).
+| 中文译名 = 睾丸精原细胞瘤
+| 中文定义 = 形成睾丸精原细胞瘤，一种未分化的睾丸生殖细胞肿瘤。
+}}
+
+
+==[[HP:0100618]]==
+{{Infobox HPO
+| hpoId = HP:0100618
+| 名称 = Leydig cell neoplasia
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `testis` (FMA:7210) with origin in a `Leydig cell` (CL:0000178).
+| 中文译名 = 间质细胞瘤
+| 中文定义 = 一类起源于睾丸的间质细胞的肿瘤。
+}}
+
+
+==[[HP:0100619]]==
+{{Infobox HPO
+| hpoId = HP:0100619
+| 名称 = Sertoli cell neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `testis` (FMA:7210) with origin in a ` Sertoli cell` (CL:0000216).
+| 中文译名 = 支持细胞瘤
+| 中文定义 = 起源于支持细胞的睾丸肿瘤。
+}}
+
+
+==[[HP:0100620]]==
+{{Infobox HPO
+| hpoId = HP:0100620
+| 名称 = Germinoma
+| 定义 = A type of undifferentiated germ cell tumor that may be benign or malignant.
+| 中文译名 = 生殖细胞瘤
+| 中文定义 = 一类未分化的生殖细胞肿瘤，可能是良性或恶性。
+}}
+
+
+==[[HP:0100621]]==
+{{Infobox HPO
+| hpoId = HP:0100621
+| 名称 = Dysgerminoma
+| 定义 = The presence of a `dysgerminoma` (MPATH:312), i.e., an undifferentiated germ cell tumor of the `ovary` (FMA:7209).
+| 中文译名 = 无性细胞瘤
+| 中文定义 = 无性细胞瘤为卵巢未分化的生殖细胞肿瘤。
+}}
+
+
+==[[HP:0100630]]==
+{{Infobox HPO
+| hpoId = HP:0100630
+| 名称 = Neoplasia of the nasopharynx
+| 定义 = #####
+| 中文译名 = 鼻咽部赘生瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0100631]]==
+{{Infobox HPO
+| hpoId = HP:0100631
+| 名称 = Neoplasm of the adrenal gland
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `adrenal gland` (FMA:9604).
+| 中文译名 = 肾上腺肿瘤
+| 中文定义 = 肾上腺肿瘤
+}}
+
+
+==[[HP:0100634]]==
+{{Infobox HPO
+| hpoId = HP:0100634
+| 名称 = Neuroendocrine neoplasm
+| 定义 = #####
+| 中文译名 = 神经内分泌肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100635]]==
+{{Infobox HPO
+| hpoId = HP:0100635
+| 名称 = Carotid paraganglioma
+| 定义 = A paraganglioma (a  neuroendocrine neoplasm) originating in a carotid artery.
+| 中文译名 = 颈动脉体副神经节瘤
+| 中文定义 = 起源于颈动脉的副神经节瘤（神经内分泌肿瘤）。
+}}
+
+==[[HP:0100636]]==
+{{Infobox HPO
+| hpoId = HP:0100636
+| 名称 = Pulmonary paraglioma
+| 定义 = #####
+| 中文译名 = 肺副神经节瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0100638]]==
+{{Infobox HPO
+| hpoId = HP:0100638
+| 名称 = Neoplasia of the pharynx
+| 定义 = #####
+| 中文译名 = 咽部赘生瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0100641]]==
+{{Infobox HPO
+| hpoId = HP:0100641
+| 名称 = Neoplasm of the adrenal cortex
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `adrenal cortex` (FMA:15632).
+| 中文译名 = 肾上腺皮质肿瘤
+| 中文定义 = 肾上腺皮质肿瘤
+}}
+
+
+==[[HP:0100642]]==
+{{Infobox HPO
+| hpoId = HP:0100642
+| 名称 = Neoplasm of the adrenal medulla
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `adrenal medulla` (FMA:15633).
+| 中文译名 = 肾上腺髓质肿瘤
+| 中文定义 = 肾上腺髓质肿瘤
+}}
+
+
+==[[HP:0100648]]==
+{{Infobox HPO
+| hpoId = HP:0100648
+| 名称 = Neoplasm of the tongue
+| 定义 = A `neoplasm` (MPATH:218) of the `tongue` (FMA:54640).
+| 中文译名 = 舌瘤
+| 中文定义 = 舌的肿瘤
+}}
+
+
+==[[HP:0100649]]==
+{{Infobox HPO
+| hpoId = HP:0100649
+| 名称 = Neoplasm of the oral cavity
+| 定义 = A `neoplasm` (MPATH:218) occurring in the `oral cavity` (FMA:20292).
+| 中文译名 = 口腔肿瘤
+| 中文定义 = 口腔里发生的肿瘤
+}}
+
+==[[HP:0100650]]==
+{{Infobox HPO
+| hpoId = HP:0100650
+| 名称 = Vaginal neoplasm
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `vagina` (FMA:19949).
+| 中文译名 = 阴道肿瘤
+| 中文定义 = 阴道发生肿瘤。
+}}
+
+
+==[[HP:0100684]]==
+{{Infobox HPO
+| hpoId = HP:0100684
+| 名称 = Salivary gland neoplasm
+| 定义 = A `neoplasm` (MPATH:218) originating in a `salivary gland` (FMA:9597).
+| 中文译名 = 唾液腺肿瘤
+| 中文定义 = 唾液腺来的肿瘤。
+}}
+
+
+==[[HP:0100697]]==
+{{Infobox HPO
+| hpoId = HP:0100697
+| 名称 = Neurofibrosarcoma
+| 定义 = A form of malignant cancer of the connective tissue surrounding nerves. Given its origin and behavior, it is classified as a sarcoma.
+| 中文译名 = 神经纤维肉瘤
+| 中文定义 = 一种神经周围结缔组织的恶性肿瘤，据组织学来源及生物学行为，被分类为肉瘤。
+}}
+
+
+==[[HP:0100698]]==
+{{Infobox HPO
+| hpoId = HP:0100698
+| 名称 = Subcutaneous neurofibromas
+| 定义 = The presence of `Neurofibromas` (HP:0001067) in the subcutis.
+| 中文译名 = 皮下神经纤维瘤
+| 中文定义 = `神经纤维瘤`（0001067 HP）存在于皮下组织。
+}}
+
+==[[HP:0100723]]==
+{{Infobox HPO
+| hpoId = HP:0100723
+| 名称 = Gastrointestinal stroma tumor
+| 定义 = #####
+| 中文译名 = 胃肠道间质瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0100726]]==
+{{Infobox HPO
+| hpoId = HP:0100726
+| 名称 = Kaposi&#39;s sarcoma
+| 定义 = A systemic disease which can present with cutaneous lesions with or without internal involvement. Tumors are caused by Human herpesvirus 8 (HHV8), also known as Kaposi&#39;s sarcoma-associated herpesvirus (KSHV).
+| 中文译名 = 卡波西肉瘤
+| 中文定义 = 一种系统性疾病，表现为伴或不伴内脏受累的皮肤损伤。由人疱疹病毒8（HHV8），又称卡波西肉瘤相关疱疹病毒（KSHV）引起。
+}}
+
+
+==[[HP:0100728]]==
+{{Infobox HPO
+| hpoId = HP:0100728
+| 名称 = Germ cell neoplasia
+| 定义 = #####
+| 中文译名 = 生殖细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100733]]==
+{{Infobox HPO
+| hpoId = HP:0100733
+| 名称 = Neoplasm of the parathyroid gland
+| 定义 = The presence of a `neoplasm` (MPATH:218) (tumour) in the `parathyroid gland` (FMA:13890).
+| 中文译名 = 甲状旁腺肿瘤
+| 中文定义 = 甲状旁腺肿瘤
+}}
+
+
+==[[HP:0100742]]==
+{{Infobox HPO
+| hpoId = HP:0100742
+| 名称 = Vascular neoplasm
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) originating in the vascular system.
+| 中文译名 = 血管瘤
+| 中文定义 = 起源于血管系统的良性或恶性肿瘤。
+}}
+
+
+==[[HP:0100743]]==
+{{Infobox HPO
+| hpoId = HP:0100743
+| 名称 = Neoplasm of the rectum
+| 定义 = #####
+| 中文译名 = 直肠肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100751]]==
+{{Infobox HPO
+| hpoId = HP:0100751
+| 名称 = Esophageal neoplasm
+| 定义 = #####
+| 中文译名 = 食管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100757]]==
+{{Infobox HPO
+| hpoId = HP:0100757
+| 名称 = Pancreatoblastoma
+| 定义 = A rare pediatric carcinoma of the pancreas.
+| 中文译名 = 胰胚细胞瘤
+| 中文定义 = 一种罕见的小儿胰腺癌。
+}}
+
+
+==[[HP:0100761]]==
+{{Infobox HPO
+| hpoId = HP:0100761
+| 名称 = Visceral angiomatosis
+| 定义 = angiomatosis in viscera.
+| 中文译名 = 内脏血管瘤病
+| 中文定义 = 内脏血管瘤病
+}}
+
+
+==[[HP:0100764]]==
+{{Infobox HPO
+| hpoId = HP:0100764
+| 名称 = Lymphangioma
+| 定义 = #####
+| 中文译名 = 淋巴管瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100768]]==
+{{Infobox HPO
+| hpoId = HP:0100768
+| 名称 = Choriocarcinoma
+| 定义 = A malignant, trophoblastic and aggressive cancer, usually of the placenta. It is characterized by early hematogenous spread to the lungs and belongs to the far end of the spectrum of gestational trophoblastic disease (GTD), a subset of germ cell tumors.
+| 中文译名 = 绒毛膜癌
+| 中文定义 = 源自胎盘细胞的恶性侵润性滋养细胞癌。它的特点是早期血行播散到肺，属于妊娠滋养细胞疾病谱（GTD）的一种罕见类型，GTS是生殖细胞肿瘤的一个子集。
+}}
+
+==[[HP:0100777]]==
+{{Infobox HPO
+| hpoId = HP:0100777
+| 名称 = Exostoses
+| 定义 = An exostosis is a benign growth the projects outward from the bone surface. It is cappped by cartilage, and arises from a bone that develops from cartilage.
+| 中文译名 = 外生骨疣
+| 中文定义 = 一个外生骨疣是从骨表面上的良性生长的向外突出。它是由软骨cappped，和产生于骨，从软骨开发。
+}}
+
+
+==[[HP:0100780]]==
+{{Infobox HPO
+| hpoId = HP:0100780
+| 名称 = Conjunctival hamartoma
+| 定义 = A hamartoma (disordered proliferation of mature tissues) of the conjunctiva.
+| 中文译名 = 结膜错构瘤
+| 中文定义 = 结膜的错构瘤（成熟组织的无序增殖）。
+}}
+
+
+==[[HP:0100799]]==
+{{Infobox HPO
+| hpoId = HP:0100799
+| 名称 = Neoplasm of the middle ear
+| 定义 = A neoplasm` (MPATH:218)  of the `middle ear` (FMA:56513).
+| 中文译名 = 中耳肿瘤
+| 中文定义 = 中耳（FMA: 56513）的肿瘤(MPATH:218)  。
+}}
+
+
+==[[HP:0100804]]==
+{{Infobox HPO
+| hpoId = HP:0100804
+| 名称 = Ungual fibroma
+| 定义 = Flesh-colored papule in or around the nail bed. Ungual fibromas may be periungual (arising under the proximal nail fold ) or subungual (originating under the nail plate).
+| 中文译名 = 甲纤维瘤
+| 中文定义 = 甲纤维瘤是位于甲床或其周围部位的肉色丘疹。可发生于甲周（甲沟近侧）或甲下（甲板下）。
+}}
+
+
+==[[HP:0100826]]==
+{{Infobox HPO
+| hpoId = HP:0100826
+| 名称 = Neoplasm of the nail
+| 定义 = #####
+| 中文译名 = 甲肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100833]]==
+{{Infobox HPO
+| hpoId = HP:0100833
+| 名称 = Neoplasm of the small intestine
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the small intestine.
+| 中文译名 = 小肠肿瘤
+| 中文定义 = 存在于小肠的肿瘤。
+}}
+
+
+==[[HP:0100834]]==
+{{Infobox HPO
+| hpoId = HP:0100834
+| 名称 = Neoplasm of the large intestine
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the large intestine.
+| 中文译名 = 大肠肿瘤
+| 中文定义 = 存在于大肠的肿瘤。
+}}
+
+
+==[[HP:0100835]]==
+{{Infobox HPO
+| hpoId = HP:0100835
+| 名称 = Benign neoplasm of the central nervous system
+| 定义 = #####
+| 中文译名 = 中枢神经系统良性肿瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0100836]]==
+{{Infobox HPO
+| hpoId = HP:0100836
+| 名称 = Malignant neoplasm of the central nervous system
+| 定义 = #####
+| 中文译名 = 中枢神经系统恶性肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100843]]==
+{{Infobox HPO
+| hpoId = HP:0100843
+| 名称 = Glioblastoma
+| 定义 = #####
+| 中文译名 = 胶质母细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100848]]==
+{{Infobox HPO
+| hpoId = HP:0100848
+| 名称 = Neoplasia of the male external genitalia
+| 定义 = A `Neoplasia` (HP:0002664) of the `Male external genitalia` (FMA:45642) .
+| 中文译名 = 男性外生殖器肿瘤
+| 中文定义 = 男性外生殖器的肿瘤。
+}}
+
+
+==[[HP:0100849]]==
+{{Infobox HPO
+| hpoId = HP:0100849
+| 名称 = Neoplasia of the scrotum
+| 定义 = #####
+| 中文译名 = 阴囊瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100850]]==
+{{Infobox HPO
+| hpoId = HP:0100850
+| 名称 = Neoplasia of the penis
+| 定义 = #####
+| 中文译名 = 阴茎肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100881]]==
+{{Infobox HPO
+| hpoId = HP:0100881
+| 名称 = Congenital mesoblastic nephroma
+| 定义 = Congenital mesoblastic nephroma is a type of kidney tumor that is usually found before birth by ultrasound or within the first 3 months of life. It contains fibroblastic cells (connective tissue cells), and may spread to the other kidney or to nearby tissue.
+| 中文译名 = 先天性中胚层肾瘤
+| 中文定义 = 先天性中胚层肾瘤是一种肾脏肿瘤亚型，通常在出生前或出生后三个月内通过超声发现。它包含成纤维细胞（结缔组织细胞），并可以扩散到另一侧肾脏或附近组织。
+}}
+
+
+==[[HP:0100882]]==
+{{Infobox HPO
+| hpoId = HP:0100882
+| 名称 = Fibrous hamartoma
+| 定义 = A rare, benign soft tissue tumor that typically occurs within the first two years of life.
+| 中文译名 = 纤维错构瘤
+| 中文定义 = 一种罕见的，良性的软组织肿瘤，通常发生在出生后两年内。
+}}
+
+
+==[[HP:0100883]]==
+{{Infobox HPO
+| hpoId = HP:0100883
+| 名称 = Chorangioma
+| 定义 = Hamartoma-like growth in the placenta consisting of blood vessels.
+| 中文译名 = 绒膜血管瘤
+| 中文定义 = 在胎盘中呈错构瘤样生长，由血管组成。
+}}
+
+
+==[[HP:0100896]]==
+{{Infobox HPO
+| hpoId = HP:0100896
+| 名称 = Rectal polyposis
+| 定义 = The presence of multiple rectal hyperplastic/adenomatous polyps.
+| 中文译名 = 直肠息肉
+| 中文定义 = 存在于直肠的多个增生性/腺瘤性息肉。
+}}
+
+
+==[[HP:0200008]]==
+{{Infobox HPO
+| hpoId = HP:0200008
+| 名称 = Intestinal polyposis
+| 定义 = The presence of multiple polyps in the intestine.
+| 中文译名 = 肠息肉病
+| 中文定义 = 存在于肠的多发性息肉。
+}}
+
+
+==[[HP:0200013]]==
+{{Infobox HPO
+| hpoId = HP:0200013
+| 名称 = Neoplasm of fatty tissue
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) of adipose tissue.
+| 中文译名 = 脂肪组织肿瘤
+| 中文定义 = 脂肪组织（肿瘤）:一个良性或恶性`neoplasm`（218的mpath）。
+}}
+
+==[[HP:0200022]]==
+{{Infobox HPO
+| hpoId = HP:0200022
+| 名称 = Choroid plexus papilloma
+| 定义 = `Choroid plexus papilloma` (MPATH:246) is a histologically benign `neoplasm` (MPATH:218) located in the ventricular system of the `choroid plexus` (FMA:61934).
+| 中文译名 = 脉络丛乳头状瘤
+| 中文定义 = 脉络丛乳头状瘤（MPATH:246），是一种位于脑室系统脉络膜丛（FMA:61934）的组织学上为良性的赘生物（MPATH:218）。
+}}
+
+
+==[[HP:0200043]]==
+{{Infobox HPO
+| hpoId = HP:0200043
+| 名称 = Verrucae
+| 定义 = Warts, benign growths on the skin or mucous membranes that cause cosmetic problems as well as pain and discomfort. Warts most often occur on the hands, feet, and genital areas.
+| 中文译名 = 瘊子
+| 中文定义 = 疣指发生于皮肤或粘膜，常常引起美容问题以及疼痛不适。最常发生于手，足和生殖器部位。
+}}
+
+
+==[[HP:0200058]]==
+{{Infobox HPO
+| hpoId = HP:0200058
+| 名称 = Angiosarcoma
+| 定义 = Ａ malignant neoplasm of endothelial-type cells that line vessel walls. This may be in reference to blood or lymphatic vessels.
+| 中文译名 = 血管肉瘤
+| 中文定义 = 沿血管壁排列的血管壁内皮细胞的恶性肿瘤。与血管和淋巴管相关
+}}
+
+
+==[[HP:0200059]]==
+{{Infobox HPO
+| hpoId = HP:0200059
+| 名称 = Metastatic angiosarcoma
+| 定义 = Ａmetastatic malignant neoplasm of endothelial-type cells that line vessel walls. This may be in reference to blood or lymphatic vessels.
+| 中文译名 = 转移性血管肉瘤
+| 中文定义 = 血管壁内皮细胞的转移性恶性肿瘤，与血管和淋巴管相关。
+}}
+
+
+==[[HP:0200063]]==
+{{Infobox HPO
+| hpoId = HP:0200063
+| 名称 = Colorectal polyps
+| 定义 = #####
+| 中文译名 = 大肠息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200151]]==
+{{Infobox HPO
+| hpoId = HP:0200151
+| 名称 = Cutaneous mastocytosis
+| 定义 = #####
+| 中文译名 = 皮肤肥大细胞增多症
+| 中文定义 = #####
+}}

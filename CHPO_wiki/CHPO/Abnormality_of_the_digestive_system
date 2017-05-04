@@ -1,0 +1,4854 @@
+<accesscontrol>审核人:消化系统异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=消化系统异常(504条目)=
+
+
+==[[HP:0000023]]==
+{{Infobox HPO
+| hpoId = HP:0000023
+| 名称 = Inguinal hernia
+| 定义 = Protrusion of the contents of the abdominal cavity through the inguinal canal.
+| 中文译名 = 腹股沟疝
+| 中文定义 = 经由腹股沟的腹腔内容物的突起。
+}}
+
+
+==[[HP:0000143]]==
+{{Infobox HPO
+| hpoId = HP:0000143
+| 名称 = Rectovaginal fistula
+| 定义 = The presence of a `fistula` (MPATH:70) between the `vagina` (FMA:19949) and the `rectum` (FMA:14544).
+| 中文译名 = 直肠阴道瘘
+| 中文定义 = 直肠和阴道之间的瘘管。
+}}
+
+
+==[[HP:0000471]]==
+{{Infobox HPO
+| hpoId = HP:0000471
+| 名称 = Gastrointestinal angiodysplasia
+| 定义 = `Dysplasia` (MPATH:589) affecting the vasculature of the `gastrointestinal tract` (FMA:71132).
+| 中文译名 = 胃肠道血管发育不良
+| 中文定义 = 影响胃肠道血管的发育异常。
+}}
+
+==[[HP:0000952]]==
+{{Infobox HPO
+| hpoId = HP:0000952
+| 名称 = Jaundice
+| 定义 = Yellow pigmentation of the skin or sclera due to bilirubin, which in turn is the result of increased bilirubin concentration in the bloodstream.
+| 中文译名 = 黄疸
+| 中文定义 = 胆红素导致的皮肤或巩膜黄染，此为血液中胆红素浓度增加的结果。
+}}
+
+==[[HP:0001046]]==
+{{Infobox HPO
+| hpoId = HP:0001046
+| 名称 = Intermittent jaundice
+| 定义 = Jaundice that is sometimes present, sometimes not.
+| 中文译名 = 间歇性黄疸
+| 中文定义 = 黄疸症状时有时无。
+}}
+
+
+==[[HP:0001080]]==
+{{Infobox HPO
+| hpoId = HP:0001080
+| 名称 = Biliary tract abnormality
+| 定义 = An abnormality of the `biliary tree` (FMA:14665).
+| 中文译名 = 胆道异常
+| 中文定义 = “胆管树”的异常。
+}}
+
+==[[HP:0001081]]==
+{{Infobox HPO
+| hpoId = HP:0001081
+| 名称 = Cholelithiasis
+| 定义 = Hard, pebble-like deposits that form within the `gallbladder` (FMA:7202).
+| 中文译名 = 胆石症
+| 中文定义 = 形成于胆囊内的坚硬的、鹅卵石状的沉积物。
+}}
+
+
+==[[HP:0001082]]==
+{{Infobox HPO
+| hpoId = HP:0001082
+| 名称 = Cholecystitis
+| 定义 = The presence of `inflammatory` (PATO:0002104) changes in the `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊炎
+| 中文定义 = 胆囊存在炎症改变。
+}}
+
+
+==[[HP:0001392]]==
+{{Infobox HPO
+| hpoId = HP:0001392
+| 名称 = Abnormality of the liver
+| 定义 = An abnormality of the `liver` (FMA:7197).
+| 中文译名 = 肝脏异常
+| 中文定义 = 肝脏的异常。
+}}
+
+
+==[[HP:0001394]]==
+{{Infobox HPO
+| hpoId = HP:0001394
+| 名称 = Cirrhosis
+| 定义 = A chronic disorder of the `liver` (FMA:7197) in which liver tissue becomes `scarred` (PATO:0001850) and is partially replaced by regenerative nodules and fibrotic tissue resulting in loss of liver function.
+| 中文译名 = 肝硬化
+| 中文定义 = 肝脏的一种慢性疾病，其肝组织变得“瘢痕累累”，并且部分被再生结节和纤维组织取代，进而导致肝功能的丧失。
+}}
+
+==[[HP:0001395]]==
+{{Infobox HPO
+| hpoId = HP:0001395
+| 名称 = Hepatic fibrosis
+| 定义 = The presence of `fibrosis` (MPATH:181) of the `liver` (FMA:7197) tissue.
+| 中文译名 = 肝纤维化
+| 中文定义 = 存在于肝组织的纤维化。
+}}
+
+
+==[[HP:0001396]]==
+{{Infobox HPO
+| hpoId = HP:0001396
+| 名称 = Cholestasis
+| 定义 = Impairment of bile flow due to obstruction in bile ducts.
+| 中文译名 = 胆汁淤积
+| 中文定义 = 由于胆管堵塞导致的胆汁流出障碍。
+}}
+
+==[[HP:0001397]]==
+{{Infobox HPO
+| hpoId = HP:0001397
+| 名称 = Hepatic steatosis
+| 定义 = The presence of `steatosis` (MPATH:622) in the `liver` (FMA:7197).
+| 中文译名 = 肝脂肪变性
+| 中文定义 = 存在于肝脏的脂肪变性。
+}}
+
+
+==[[HP:0001399]]==
+{{Infobox HPO
+| hpoId = HP:0001399
+| 名称 = Hepatic failure
+| 定义 = #####
+| 中文译名 = 肝功能衰竭
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001400]]==
+{{Infobox HPO
+| hpoId = HP:0001400
+| 名称 = Hepatic abscesses due to immunodeficiency
+| 定义 = #####
+| 中文译名 = 免疫缺陷性肝脓肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001401]]==
+{{Infobox HPO
+| hpoId = HP:0001401
+| 名称 = Intrahepatic biliary dysgenesis
+| 定义 = #####
+| 中文译名 = 肝内胆管发育不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001402]]==
+{{Infobox HPO
+| hpoId = HP:0001402
+| 名称 = Hepatocellular carcinoma
+| 定义 = A kind of `neoplasm of the liver` (HP:0002896) that originates in hepatocytes and presents macroscopically as a soft and hemorrhagic tan mass in the liver.
+| 中文译名 = 肝细胞癌
+| 中文定义 = 一种起源于肝细胞的肝脏肿瘤，宏观上表现为肝脏中柔软、易出血的黄褐色团块。
+}}
+
+==[[HP:0001403]]==
+{{Infobox HPO
+| hpoId = HP:0001403
+| 名称 = Macrovesicular hepatic steatosis
+| 定义 = A form of `hepatic steatosis` (HP:0001397) characterized by the presence of large, lipid-laden vesicles in the affected hepatocytes.
+| 中文译名 = 大泡性肝脂肪变性
+| 中文定义 = 肝脂肪变性的一种，其特征为受累的肝细胞具有大的、充满脂质的囊泡。
+}}
+
+==[[HP:0001404]]==
+{{Infobox HPO
+| hpoId = HP:0001404
+| 名称 = Hepatocellular necrosis
+| 定义 = #####
+| 中文译名 = 肝细胞坏死
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001405]]==
+{{Infobox HPO
+| hpoId = HP:0001405
+| 名称 = Periportal fibrosis
+| 定义 = The presence of `fibrosis` (MPATH:181) affecting the `interlobular stroma of liver` (FMA:17525).
+| 中文译名 = 门脉周围纤维化
+| 中文定义 = 累及肝脏小叶间质的纤维化。
+}}
+
+==[[HP:0001406]]==
+{{Infobox HPO
+| hpoId = HP:0001406
+| 名称 = Intrahepatic cholestasis
+| 定义 = Impairment of bile flow due to obstruction in the small bile ducts within the liver.
+| 中文译名 = 肝内胆汁淤积
+| 中文定义 = 由肝内小胆管阻塞引起的胆汁流动障碍。
+}}
+
+
+==[[HP:0001407]]==
+{{Infobox HPO
+| hpoId = HP:0001407
+| 名称 = Hepatic cysts
+| 定义 = #####
+| 中文译名 = 肝囊肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001408]]==
+{{Infobox HPO
+| hpoId = HP:0001408
+| 名称 = Bile duct proliferation
+| 定义 = Proliferative changes of the `bile ducts` (FMA:9706).
+| 中文译名 = 胆管增生
+| 中文定义 = 胆管的增生性改变。
+}}
+
+
+==[[HP:0001409]]==
+{{Infobox HPO
+| hpoId = HP:0001409
+| 名称 = Portal hypertension
+| 定义 = `Increased pressure` (PATO:0001576) in the `portal vein` (FMA:66645).
+| 中文译名 = 门脉高压
+| 中文定义 = `门静脉压力增高。
+}}
+
+==[[HP:0001410]]==
+{{Infobox HPO
+| hpoId = HP:0001410
+| 名称 = Decreased liver function
+| 定义 = Reduced ability of the liver to perform its functions.
+| 中文译名 = 肝功能下降
+| 中文定义 = 肝脏行使其功能的能力降低。
+}}
+
+
+==[[HP:0001412]]==
+{{Infobox HPO
+| hpoId = HP:0001412
+| 名称 = Enteroviral hepatitis
+| 定义 = #####
+| 中文译名 = 肠道病毒性肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001413]]==
+{{Infobox HPO
+| hpoId = HP:0001413
+| 名称 = Micronodular cirrhosis
+| 定义 = A type of `cirrhosis` (HP:0001394) characterized by the presence of small regenerative nodules.
+| 中文译名 = 小结节性肝硬变
+| 中文定义 = 肝硬化的一种，其特征为具有小的再生性结节。
+}}
+
+
+==[[HP:0001414]]==
+{{Infobox HPO
+| hpoId = HP:0001414
+| 名称 = Microvesicular hepatic steatosis
+| 定义 = A form of `hepatic steatosis` (HP:0001397) characterized by the presence of small, lipid-laden vesicles in the affected hepatocytes.
+| 中文译名 = 小泡性肝脂肪变性
+| 中文定义 = 肝脂肪变性的一种，其特征为受累肝细胞具有小的、充满脂质的囊泡。
+}}
+
+==[[HP:0001433]]==
+{{Infobox HPO
+| hpoId = HP:0001433
+| 名称 = Hepatosplenomegaly
+| 定义 = Simultaneous `enlargement` (PATO:0000586) of the `liver` (FMA:7197) and `spleen` (FMA:7196).
+| 中文译名 = 肝脾肿大
+| 中文定义 = 肝脏和脾脏同时增大。
+}}
+
+
+==[[HP:0001438]]==
+{{Infobox HPO
+| hpoId = HP:0001438
+| 名称 = Abnormality of the abdomen
+| 定义 = Abnormality of the `abdomen` (FMA:9577) (&#39;belly&#39;), that is, the part of the body between the pelvis and the thorax.
+| 中文译名 = 腹部异常
+| 中文定义 = 位于骨盆和胸部之间的身体部位，即腹部（肚子）的异常。
+}}
+
+
+==[[HP:0001537]]==
+{{Infobox HPO
+| hpoId = HP:0001537
+| 名称 = Umbilical hernia
+| 定义 = Protrusion of abdominal contents through a defect in the abdominal wall musculature around the umbilicus. Skin and subcutaneous tissue overlie the defect.
+| 中文译名 = 脐疝
+| 中文定义 = 腹腔脏器经由脐周围腹壁肌肉之缺陷而突出。皮肤和皮下组织覆盖这一缺陷。
+}}
+
+==[[HP:0001538]]==
+{{Infobox HPO
+| hpoId = HP:0001538
+| 名称 = Protuberant abdomen
+| 定义 = A thrusting or bulging out of the abdomen.
+| 中文译名 = 腹部隆凸
+| 中文定义 = 突起的或凸出的腹部。
+}}
+
+
+==[[HP:0001539]]==
+{{Infobox HPO
+| hpoId = HP:0001539
+| 名称 = Omphalocele
+| 定义 = A midline anterior `incomplete closure` (PATO:0000609) of the `abdominal wall` (FMA:259054) in which there is herniation of the abdominal viscera into the base of the abdominal cord.
+| 中文译名 = 脐膨出
+| 中文定义 = 腹部脏器经由腹壁前部中线的不完全闭合，疝入脐带基部。
+}}
+
+==[[HP:0001540]]==
+{{Infobox HPO
+| hpoId = HP:0001540
+| 名称 = Diastasis recti
+| 定义 = A separation of the rectus abdominis muscle into right and left halves (which are normally joined at the midline at the linea alba).
+| 中文译名 = 腹直肌分离
+| 中文定义 = 腹直肌分离为左右两部分（它们通常在腹白线中线处连接）。
+}}
+
+
+==[[HP:0001541]]==
+{{Infobox HPO
+| hpoId = HP:0001541
+| 名称 = Ascites
+| 定义 = Accumulation of fluid in the peritoneal cavity.
+| 中文译名 = 腹水
+| 中文定义 = 腹腔中的液体积聚。
+}}
+
+==[[HP:0001543]]==
+{{Infobox HPO
+| hpoId = HP:0001543
+| 名称 = Gastroschisis
+| 定义 = A type of congenital ventral `incomplete closure` (PATO:0000609) of the `abdominal wall` (FMA:259054) in which the intestines and sometimes other organs to extend freely into the amniotic fluid space through a small opening in the abdomen, usually to the right of the umbilicus.
+| 中文译名 = 腹裂
+| 中文定义 = 一种先天性腹壁腹侧的不完全闭合，（胎儿的）肠（有时为其他器官）经由腹壁的一个通常在脐部右侧的小口伸出至羊水中。
+}}
+
+==[[HP:0001544]]==
+{{Infobox HPO
+| hpoId = HP:0001544
+| 名称 = Prominent umbilicus
+| 定义 = Abnormally prominent umbilicus (belly button).
+| 中文译名 = 脐突出
+| 中文定义 = 异常突出的肚脐。
+}}
+
+
+==[[HP:0001545]]==
+{{Infobox HPO
+| hpoId = HP:0001545
+| 名称 = Anteriorly placed anus
+| 定义 = Anterior malposition of the anus.
+| 中文译名 = 肛门前置
+| 中文定义 = 错位于前部的肛门。
+}}
+
+
+==[[HP:0001549]]==
+{{Infobox HPO
+| hpoId = HP:0001549
+| 名称 = Abnormality of the ileum
+| 定义 = #####
+| 中文译名 = 回肠异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001551]]==
+{{Infobox HPO
+| hpoId = HP:0001551
+| 名称 = Abnormality of the umbilicus
+| 定义 = Abnormality of the `umbilicus` (FMA:61584).
+| 中文译名 = 肚脐异常
+| 中文定义 = 肚脐的异常。
+}}
+
+
+==[[HP:0001732]]==
+{{Infobox HPO
+| hpoId = HP:0001732
+| 名称 = Abnormality of the pancreas
+| 定义 = An abnormality of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺异常
+| 中文定义 = 胰腺的异常。
+}}
+
+
+==[[HP:0001733]]==
+{{Infobox HPO
+| hpoId = HP:0001733
+| 名称 = Pancreatitis
+| 定义 = The presence of `inflammation` (MPATH:212) in the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺炎
+| 中文定义 = 存在于胰腺的炎症。
+}}
+
+
+==[[HP:0001734]]==
+{{Infobox HPO
+| hpoId = HP:0001734
+| 名称 = Annular pancreas
+| 定义 = A congenital anomaly in which the pancreas completely (or sometimes incompletely) encircles the second portion of duodenum and occasionally obstructs the more proximal duodenum.
+| 中文译名 = 环状胰腺
+| 中文定义 = 一种胰腺先天异常，胰腺完全（有时候不完全）环绕十二指肠第二段，且偶尔会阻塞更近段的十二指肠。
+}}
+
+==[[HP:0001735]]==
+{{Infobox HPO
+| hpoId = HP:0001735
+| 名称 = Acute pancreatitis
+| 定义 = A `acute` (PATO:0000389) form of `pancreatitis` (HP:0001733).
+| 中文译名 = 急性胰腺炎
+| 中文定义 = 一种急性形式的胰腺炎。
+}}
+
+==[[HP:0001737]]==
+{{Infobox HPO
+| hpoId = HP:0001737
+| 名称 = Pancreatic cysts
+| 定义 = A cyst of the pancreas that possess a lining of mucous epithelium.
+| 中文译名 = 胰腺囊肿
+| 中文定义 = 具有粘膜上皮的胰腺囊肿。
+}}
+
+
+==[[HP:0001738]]==
+{{Infobox HPO
+| hpoId = HP:0001738
+| 名称 = Exocrine pancreatic insufficiency
+| 定义 = Impaired function of the exocrine pancreas associated with a reduced ability to digest foods because of lack of digestive enzymes.
+| 中文译名 = 胰腺外分泌功能不全
+| 中文定义 =胰腺外分泌功能受损，与消化酶缺乏导致的消化食物能力降低相关。
+}}
+
+==[[HP:0001743]]==
+{{Infobox HPO
+| hpoId = HP:0001743
+| 名称 = Abnormality of the spleen
+| 定义 = An abnormality of the `spleen` (FMA:7196).
+| 中文译名 = 脾脏异常
+| 中文定义 = 脾脏的异常。
+}}
+
+
+==[[HP:0001744]]==
+{{Infobox HPO
+| hpoId = HP:0001744
+| 名称 = Splenomegaly
+| 定义 = Abnormal `increased size` (PATO:0000586) of the `spleen` (FMA:7196).
+| 中文译名 = 脾肿大
+| 中文定义 = 脾大小异常增加。
+}}
+
+==[[HP:0001746]]==
+{{Infobox HPO
+| hpoId = HP:0001746
+| 名称 = Asplenia
+| 定义 = Absence (aplasia) of the `spleen` (FMA:7196).
+| 中文译名 = 无脾
+| 中文定义 = 脾的缺失（不发育）。
+}}
+
+
+==[[HP:0001747]]==
+{{Infobox HPO
+| hpoId = HP:0001747
+| 名称 = Accessory spleen
+| 定义 = An accessory spleen is a round, iso-echogenic, homogenic and smooth structure and is seen as a normal variant mostly on the medial contour of the spleen, near the hilus or around the lower pole. This has no pathogenic relevance.
+| 中文译名 = 副脾
+| 中文定义 = 副脾为一个圆形的、等超声波回声的、均质的及光滑的结构，是一种正常变异，其多数位于脾的内侧轮廓，邻近门区或在下极周围。无致病相关性。
+}}
+
+==[[HP:0001748]]==
+{{Infobox HPO
+| hpoId = HP:0001748
+| 名称 = Polysplenia
+| 定义 = Polysplenia is a congenital disease manifested by multiple small accessory spleens.
+| 中文译名 = 多脾
+| 中文定义 = 多脾是一种先天性疾病，表现为多个小的副脾。
+}}
+
+==[[HP:0001791]]==
+{{Infobox HPO
+| hpoId = HP:0001791
+| 名称 = Fetal ascites
+| 定义 = Accumulation of fluid in the peritoneal cavity during the fetal period.
+| 中文译名 = 胎儿腹水
+| 中文定义 = 胎儿期腹腔内的液体积累。
+}}
+
+==[[HP:0001971]]==
+{{Infobox HPO
+| hpoId = HP:0001971
+| 名称 = Hypersplenism
+| 定义 = A malfunctioning of the `spleen` (FMA:7196) in which it prematurely destroys red blood cells.
+| 中文译名 = 脾功能亢进
+| 中文定义 = 脾功能失常而过早地破坏红细胞。
+}}
+
+
+==[[HP:0002012]]==
+{{Infobox HPO
+| hpoId = HP:0002012
+| 名称 = Abnormality of the abdominal organs
+| 定义 = An abnormality of the `viscera of the abdomen` (FMA:259123).
+| 中文译名 = 腹部器官异常
+| 中文定义 = 腹部脏器的异常。
+}}
+
+
+==[[HP:0002013]]==
+{{Infobox HPO
+| hpoId = HP:0002013
+| 名称 = Vomiting
+| 定义 = Forceful ejection of the contents of the stomach through the mouth by means of a series of involuntary spasmic contractions.
+| 中文译名 = 呕吐
+| 中文定义 = 通过一系列无意识的痉挛收缩而使胃内容物经口有力地喷出。
+}}
+
+==[[HP:0002014]]==
+{{Infobox HPO
+| hpoId = HP:0002014
+| 名称 = Diarrhea
+| 定义 = Abnormally increased frequency of loose or watery bowel movements.
+| 中文译名 = 腹泻
+| 中文定义 = 频次异常增加的松散或水样大便。
+}}
+
+
+==[[HP:0002015]]==
+{{Infobox HPO
+| hpoId = HP:0002015
+| 名称 = Dysphagia
+| 定义 = Difficulty in swallowing.
+| 中文译名 = 吞咽困难
+| 中文定义 = 吞咽困难。
+}}
+
+
+==[[HP:0002017]]==
+{{Infobox HPO
+| hpoId = HP:0002017
+| 名称 = Nausea and vomiting
+| 定义 = #####
+| 中文译名 = 恶心和呕吐
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002018]]==
+{{Infobox HPO
+| hpoId = HP:0002018
+| 名称 = Nausea
+| 定义 = A sensation of unease in the stomach together with an urge to vomit.
+| 中文译名 = 恶心
+| 中文定义 = 胃部不适伴随呕吐冲动的感觉。
+}}
+
+
+==[[HP:0002019]]==
+{{Infobox HPO
+| hpoId = HP:0002019
+| 名称 = Constipation
+| 定义 = Infrequent or difficult evacuation of feces.
+| 中文译名 = 便秘
+| 中文定义 = 排便次数少或排便困难。
+}}
+
+
+==[[HP:0002020]]==
+{{Infobox HPO
+| hpoId = HP:0002020
+| 名称 = Gastroesophageal reflux
+| 定义 = A condition in which the stomach contents leak backwards from the stomach into the esophagus through the lower esophageal sphincter.
+| 中文译名 = 胃食管反流
+| 中文定义 = 胃内容物自胃部通过食管下段括约肌漏回食管的现象。
+}}
+
+==[[HP:0002021]]==
+{{Infobox HPO
+| hpoId = HP:0002021
+| 名称 = Pyloric stenosis
+| 定义 = An abnormal narrowing of the `pylorus` (FMA:14581).
+| 中文译名 = 幽门狭窄
+| 中文定义 = 幽门异常狭窄。
+}}
+
+
+==[[HP:0002023]]==
+{{Infobox HPO
+| hpoId = HP:0002023
+| 名称 = Anal atresia
+| 定义 = Congenital absence of the anus, i.e., the opening at the bottom end of the intestinal tract.
+| 中文译名 = 肛门闭锁
+| 中文定义 = 肛门，即肠道末端的开口的先天性缺失。
+}}
+
+
+==[[HP:0002024]]==
+{{Infobox HPO
+| hpoId = HP:0002024
+| 名称 = Malabsorption
+| 定义 = Impaired ability to absorb one or more nutrients from the intestine.
+| 中文译名 = 吸收不良
+| 中文定义 = 从肠道吸收一种或多种营养素的能力受损。
+}}
+
+
+==[[HP:0002025]]==
+{{Infobox HPO
+| hpoId = HP:0002025
+| 名称 = Anal stenosis
+| 定义 = Abnormal narrowing of the anal opening.
+| 中文译名 = 肛门狭窄
+| 中文定义 = 肛门口异常狭窄。
+}}
+
+
+==[[HP:0002027]]==
+{{Infobox HPO
+| hpoId = HP:0002027
+| 名称 = Abdominal pain
+| 定义 = Pain perceived to originate in the abdomen.
+| 中文译名 = 腹痛
+| 中文定义 = 源于腹部的痛感。
+}}
+
+
+==[[HP:0002028]]==
+{{Infobox HPO
+| hpoId = HP:0002028
+| 名称 = Chronic diarrhea
+| 定义 = The presence of chronic `diarrhea` (HP:0002014), which is usually taken to mean diarrhea that has persisted for over 4 weeks.
+| 中文译名 = 慢性腹泻
+| 中文定义 = 通常指持续4周以上的腹泻。
+}}
+
+
+==[[HP:0002031]]==
+{{Infobox HPO
+| hpoId = HP:0002031
+| 名称 = Abnormality of the esophagus
+| 定义 = An abnormality of the `esophagus` (FMA:7131).
+| 中文译名 = 食管异常
+| 中文定义 = 食管的异常。
+}}
+
+
+==[[HP:0002032]]==
+{{Infobox HPO
+| hpoId = HP:0002032
+| 名称 = Esophageal atresia
+| 定义 = A developmental defect resulting in complete obliteration of the lumen of the esophagus such that the esophagus ends in a blind pouch rather than connecting to the stomach.
+| 中文译名 = 食管闭锁
+| 中文定义 = 一种导致食管腔完全闭锁的发育缺陷，食管末端形成一盲袋而非连接于胃。
+}}
+
+
+==[[HP:0002033]]==
+{{Infobox HPO
+| hpoId = HP:0002033
+| 名称 = Poor suck
+| 定义 = An inadequate sucking reflex, resulting in the difficult of newborns to be breast-fed.
+| 中文译名 = 吸吮无力
+| 中文定义 = 一种吸吮反射不足，导致新生儿难以以母乳喂养。
+}}
+
+
+==[[HP:0002034]]==
+{{Infobox HPO
+| hpoId = HP:0002034
+| 名称 = Abnormality of the rectum
+| 定义 = An abnormaltiy of the `rectum` (FMA:14544), the final segment of the large intestine that stores solid waste until it passes through the anus.
+| 中文译名 = 直肠异常
+| 中文定义 = 直肠，即储存固体废物直至其通过肛门的大肠的最后一段的异常。
+}}
+
+==[[HP:0002035]]==
+{{Infobox HPO
+| hpoId = HP:0002035
+| 名称 = Rectal prolapse
+| 定义 = Protrusion of the rectal mucous membrane through the anus.
+| 中文译名 = 直肠脱垂
+| 中文定义 = 直肠粘膜通过肛门突出。
+}}
+
+
+==[[HP:0002036]]==
+{{Infobox HPO
+| hpoId = HP:0002036
+| 名称 = Hiatus hernia
+| 定义 = The presence of a `hernia` (MPATH:75) in which the upper part of the stomach, i.e., mainly the `gastric cardia` (FMA:14561) protrudes through the diaphragmatic `esophageal hiatus` (FMA:58289).
+| 中文译名 = 裂孔疝
+| 中文定义 = 胃的上部，即主要是胃的贲门部，通过膈食管裂孔突出而形成的疝。
+}}
+
+==[[HP:0002037]]==
+{{Infobox HPO
+| hpoId = HP:0002037
+| 名称 = Inflammation of the large intestine
+| 定义 = #####
+| 中文译名 = 大肠炎症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002038]]==
+{{Infobox HPO
+| hpoId = HP:0002038
+| 名称 = Protein avoidance
+| 定义 = #####
+| 中文译名 = 蛋白质禁食
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002039]]==
+{{Infobox HPO
+| hpoId = HP:0002039
+| 名称 = Anorexia
+| 定义 = A lack or loss of appetite for food (as a medical condition).
+| 中文译名 = 厌食症
+| 中文定义 = 缺乏或丧失食欲（一种医学状况）。
+}}
+
+==[[HP:0002040]]==
+{{Infobox HPO
+| hpoId = HP:0002040
+| 名称 = Esophageal varix
+| 定义 = Extreme dilation of the submucusoal veins of the esophagus， mainly in the lower portion.
+| 中文译名 = 食管静脉曲张
+| 中文定义 = 食管粘膜下层的静脉极度扩张，多出现于食管下段。
+}}
+
+==[[HP:0002041]]==
+{{Infobox HPO
+| hpoId = HP:0002041
+| 名称 = Intractable diarrhea
+| 定义 = #####
+| 中文译名 = 顽固性腹泻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002043]]==
+{{Infobox HPO
+| hpoId = HP:0002043
+| 名称 = Esophageal stricture
+| 定义 = A pathological narrowing of the esophagus that is caused by the development of a ring of scar tissue that constricts the esophageal lumen.
+| 中文译名 = 食管瘢痕狭窄
+| 中文定义 = 食管的一种病理狭窄，由于一个环形的瘢痕组织的发展而压迫食管腔引起。
+}}
+
+
+==[[HP:0002044]]==
+{{Infobox HPO
+| hpoId = HP:0002044
+| 名称 = Zollinger-Ellison syndrome
+| 定义 = A condition in which there is increased production of gastrin by a gastrin-secreting tumor (usually located in the pancreas, duodenum, or abdominal lymph nodes) that stimulates the gastric mucosa to maximal activity, with consequent gastrointestinal mucosal ulceration.
+| 中文译名 = Zollinger-Ellison 综合征
+| 中文定义 = 分泌胃泌素的肿瘤（通常位于胰腺、十二指肠或腹部淋巴结）合成胃泌素增多，刺激胃粘膜到最大（分泌）活性，随之发生胃肠粘膜溃疡。
+}}
+
+==[[HP:0002068]]==
+{{Infobox HPO
+| hpoId = HP:0002068
+| 名称 = Neuromuscular dysphagia
+| 定义 = #####
+| 中文译名 = 神经肌肉源性吞咽困难
+| 中文定义 = #####
+}}
+
+==[[HP:0002239]]==
+{{Infobox HPO
+| hpoId = HP:0002239
+| 名称 = Gastrointestinal hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) affecting the `gastrointestinal tract` (FMA:71132).
+| 中文译名 = 胃肠道出血
+| 中文定义 = 累及胃肠道的出血。
+}}
+
+==[[HP:0002240]]==
+{{Infobox HPO
+| hpoId = HP:0002240
+| 名称 = Hepatomegaly
+| 定义 = Abnormally `increased size` (PATO:0000586) of the `liver` (FMA:7197).
+| 中文译名 = 肝脏肿大
+| 中文定义 = 肝脏尺寸异常增大。
+}}
+
+
+==[[HP:0002242]]==
+{{Infobox HPO
+| hpoId = HP:0002242
+| 名称 = Abnormality of the intestine
+| 定义 = An abnormality of the `intestine` (FMA:7199). The closely related term enteropathy is used to refer to any disease of the intestine.
+| 中文译名 = 肠道异常
+| 中文定义 = 肠道的异常。与其密切相关的术语，肠病，被用于指肠道的任何疾病。
+}}
+
+
+==[[HP:0002243]]==
+{{Infobox HPO
+| hpoId = HP:0002243
+| 名称 = Protein-losing enteropathy
+| 定义 = Abnormal loss of protein from the digestive tract related to excessive leakage of plasma proteins into the lumen of the gastrointestinal tract.
+| 中文译名 = 蛋白丢失性肠病
+| 中文定义 = 血浆蛋白过量渗漏入消化道内引起的蛋白从消化道异常丢失。
+}}
+
+==[[HP:0002244]]==
+{{Infobox HPO
+| hpoId = HP:0002244
+| 名称 = Abnormality of the small intestine
+| 定义 = An abnormality of the `small intestine` (FMA:7200).
+| 中文译名 = 小肠异常
+| 中文定义 = 小肠的异常。
+}}
+
+
+==[[HP:0002245]]==
+{{Infobox HPO
+| hpoId = HP:0002245
+| 名称 = Meckel diverticulum
+| 定义 = Meckel&#39;s diverticulum is a congenital diverticulum located in the distal ileum.
+| 中文译名 = Meckel憩室
+| 中文定义 = Meckel憩室是位于回肠远端的先天性憩室。
+}}
+
+
+==[[HP:0002246]]==
+{{Infobox HPO
+| hpoId = HP:0002246
+| 名称 = Abnormality of the duodenum
+| 定义 = An abnormality of the duodenum, i.e., the first section of the small intestine.
+| 中文译名 = 十二指肠异常
+| 中文定义 = 十二指肠，即小肠第一部分的异常。
+}}
+
+==[[HP:0002247]]==
+{{Infobox HPO
+| hpoId = HP:0002247
+| 名称 = Duodenal atresia
+| 定义 = A developmental defect resulting in complete obliteration of the duodenal lumen, that is, an abnormal closure of the duodenum.
+| 中文译名 = 十二指肠闭锁
+| 中文定义 = 一种导致十二指肠腔完全闭锁的发育缺陷，即，十二指肠的异常闭合。
+}}
+
+
+==[[HP:0002248]]==
+{{Infobox HPO
+| hpoId = HP:0002248
+| 名称 = Hematemesis
+| 定义 = The vomiting of blood.
+| 中文译名 = 呕血
+| 中文定义 = 呕出血液。
+}}
+
+==[[HP:0002249]]==
+{{Infobox HPO
+| hpoId = HP:0002249
+| 名称 = Melena
+| 定义 = The passage of blackish, tarry feces associated with gastrointestinal hemorrhage. Melena occurs if the blood remains in the colon long enough for it to be broken down by colonic bacteria. One degradation product, hematin, imbues the stool with a blackish color. Thus, melena generally occurs with bleeding from the upper gastrointestinal tract (e.g., sotmach ulcers or duodenal ulcers), since the blood usually remains in the gut for a longer period of time than with lower gastrointestinal bleeding.
+| 中文译名 = 黑便
+| 中文定义 = 与消化道出血相关的黑色、柏油样粪便的排泄。如果血在结肠停留的时间够长，足以使结肠细菌将其降解而产生黑便。一种降解产物，血红素，将粪便染为黑色。因此，黑便通常伴随上消化道出血（例如，胃溃疡或十二指肠溃疡），因血液在肠道中停留的时间通常较下消化道出血更长。
+}}
+
+==[[HP:0002250]]==
+{{Infobox HPO
+| hpoId = HP:0002250
+| 名称 = Abnormality of the large intestine
+| 定义 = Any abnormality of the `large intestine` (FMA:7201).
+| 中文译名 = 大肠异常
+| 中文定义 = 大肠的任何异常。
+}}
+
+
+==[[HP:0002251]]==
+{{Infobox HPO
+| hpoId = HP:0002251
+| 名称 = Aganglionic megacolon
+| 定义 = An abnormality resulting from a lack of intestinal ganglion cells (i.e., an aganglionic section of bowel) that results in bowel obstruction with enlargement of the colon.
+| 中文译名 = 无神经节性巨结肠
+| 中文定义 = 由于缺乏肠神经节细胞引起的异常（即肠道的无神经节节段），导致肠梗阻伴结肠扩张。
+}}
+
+==[[HP:0002253]]==
+{{Infobox HPO
+| hpoId = HP:0002253
+| 名称 = Colonic diverticulosis
+| 定义 = The presence of `multiple` (PATO:0002118) `diverticula` (MPATH:68) of the colon.
+| 中文译名 = 结肠憩室
+| 中文定义 = 结肠存在多个憩室。
+}}
+
+
+==[[HP:0002254]]==
+{{Infobox HPO
+| hpoId = HP:0002254
+| 名称 = Intermittent diarrhea
+| 定义 = #####
+| 中文译名 = 间歇性腹泻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002256]]==
+{{Infobox HPO
+| hpoId = HP:0002256
+| 名称 = Small bowel diverticula
+| 定义 = #####
+| 中文译名 = 小肠憩室
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002566]]==
+{{Infobox HPO
+| hpoId = HP:0002566
+| 名称 = Intestinal malrotation
+| 定义 = An abnormality of the intestinal rotation and fixation that normally occurs during the development of the gut. This can lead to volvulus, or twisting of the intestine that causes obstruction and necrosis.
+| 中文译名 = 肠旋转不良
+| 中文定义 = 通常发生于肠发育过程中的肠道旋转和固定的异常。这将引起肠扭转，导致肠道的阻塞和坏死。
+}}
+
+==[[HP:0002570]]==
+{{Infobox HPO
+| hpoId = HP:0002570
+| 名称 = Steatorrhea
+| 定义 = Greater than normal amounts of fat in the feces. This is a result of malabsorption of lipids in the small intestine and results in frothy foul-smelling fecal matter that floats.
+| 中文译名 = 脂肪泻
+| 中文定义 = 粪便中脂肪含量高于正常。这是小肠脂肪吸收不良的结果，产生泡沫状、恶臭味的漂浮粪质。
+}}
+
+==[[HP:0002571]]==
+{{Infobox HPO
+| hpoId = HP:0002571
+| 名称 = Achalasia
+| 定义 = A disorder of esophageal motility characterized by the inability of the lower esophageal sphincter to relax during swallowing and by inadequate or lacking peristalsis in the lower half of the body of the esophagus.
+| 中文译名 = 贲门失弛缓症
+| 中文定义 = 一种食管动力的异常，其特征为食管下段括约肌在吞咽时无法松弛，以及下半食管的蠕动不足或缺乏。
+}}
+
+==[[HP:0002572]]==
+{{Infobox HPO
+| hpoId = HP:0002572
+| 名称 = Episodic vomiting
+| 定义 = Paroxysmal, recurrent episodes of vomiting.
+| 中文译名 = 阵发性呕吐
+| 中文定义 = 阵发性、反复发作的呕吐。
+}}
+
+==[[HP:0002573]]==
+{{Infobox HPO
+| hpoId = HP:0002573
+| 名称 = Hematochezia
+| 定义 = The passage of fresh (red) blood per anus, usually in or with stools. Most rectal bleeding comes from the colon, rectum, or anus.
+| 中文译名 = 便血
+| 中文定义 = 通常伴随粪便或在粪便中经由肛门而出的（红色的）鲜血。大多数直肠出血来自结肠、直肠或肛门。
+}}
+
+
+==[[HP:0002574]]==
+{{Infobox HPO
+| hpoId = HP:0002574
+| 名称 = Episodic abdominal pain
+| 定义 = An `intermittent` (PATO:0000690) form of `abdominal pain` (HP:0002027).
+| 中文译名 = 阵发性腹痛
+| 中文定义 = 一种间歇性形式的腹痛。
+}}
+
+
+==[[HP:0002575]]==
+{{Infobox HPO
+| hpoId = HP:0002575
+| 名称 = Tracheoesophageal fistula
+| 定义 = An abnormal connection (fistula) between the esophagus and the trachea.
+| 中文译名 = 气管食管瘘
+| 中文定义 = 食管和气管之间的一种异常连接（瘘管）。
+}}
+
+
+==[[HP:0002576]]==
+{{Infobox HPO
+| hpoId = HP:0002576
+| 名称 = Intussusception
+| 定义 = An abnormality of the `intestine` (FMA:7199) in which part of the intestine invaginates (telescopes) into another part of the intestine.
+| 中文译名 = 肠套叠
+| 中文定义 = 肠道的一种异常，其中部分肠管内陷（叠缩）进入另一部分肠管。
+}}
+
+==[[HP:0002577]]==
+{{Infobox HPO
+| hpoId = HP:0002577
+| 名称 = Abnormality of the stomach
+| 定义 = An abnormality of the `stomach` (FMA:7148).
+| 中文译名 = 胃部异常
+| 中文定义 = 胃部的异常。
+}}
+
+
+==[[HP:0002578]]==
+{{Infobox HPO
+| hpoId = HP:0002578
+| 名称 = Gastroparesis
+| 定义 = `Decreased strength` (PATO:0001779) of the `Muscle layer of stomach` (FMA:14909), which leads to a decreased ability to empty the contents of the stomach despite the absence of obstruction.
+| 中文译名 = 胃轻瘫
+| 中文定义 = 胃的肌层张力降低，尽管无阻塞也会出现胃排空能力下降。
+}}
+
+==[[HP:0002579]]==
+{{Infobox HPO
+| hpoId = HP:0002579
+| 名称 = Gastrointestinal dysmotility
+| 定义 = Abnormal intestinal contractions, such as spasms and intestinal paralysis, related to the loss of the ability of the gut to coordinate muscular activity because of endogenous or exogenous causes.
+| 中文译名 = 胃肠动力障碍
+| 中文定义 = 肠道的异常收缩，如痉挛和肠麻痹，与内源性或外源性因素导致的肠道调节肌肉活性的能力丧失相关。
+}}
+
+==[[HP:0002580]]==
+{{Infobox HPO
+| hpoId = HP:0002580
+| 名称 = Volvulus
+| 定义 = Abnormal twisting of a portion of intestine around itself or around a stalk of mesentery tissue.
+| 中文译名 = 肠扭转
+| 中文定义 = 小肠的一部分围绕其自身或肠系膜轴的异常旋转。
+}}
+
+==[[HP:0002582]]==
+{{Infobox HPO
+| hpoId = HP:0002582
+| 名称 = Chronic atrophic gastritis
+| 定义 = A form of `chronic gastritis` (HP:0005231) associated with `atrophic` (PATO:0001623) `gastric mucous membrane` (FMA:14907).
+| 中文译名 = 慢性萎缩性胃炎
+| 中文定义 = 慢性胃炎的一种形式，伴随萎缩的胃粘膜。
+}}
+
+==[[HP:0002583]]==
+{{Infobox HPO
+| hpoId = HP:0002583
+| 名称 = Colitis
+| 定义 = Colitis refers to an inflammation of the colon and is often used to describe an inflammation of the large intestine (colon, cecum and rectum). Colitides may be acute and self-limited or chronic, and broadly fit into the category of digestive diseases.
+| 中文译名 = 结肠炎
+| 中文定义 = 结肠炎是指结肠的一种炎症，通常用来描述大肠（结肠，盲肠和直肠）的一种炎症。结肠炎可以是急性的和自限性的，或者慢性的，且在广义上归到消化系统疾病的类别。
+}}
+
+
+==[[HP:0002584]]==
+{{Infobox HPO
+| hpoId = HP:0002584
+| 名称 = Intestinal bleeding
+| 定义 = Bleeding from the intestines.
+| 中文译名 = 肠道出血
+| 中文定义 = 来自肠道的出血。
+}}
+
+==[[HP:0002585]]==
+{{Infobox HPO
+| hpoId = HP:0002585
+| 名称 = Abnormality of the peritoneum
+| 定义 = An abnormality of the `peritoneum` (FMA:9584).
+| 中文译名 = 腹膜异常
+| 中文定义 = 腹膜的异常。
+}}
+
+
+==[[HP:0002586]]==
+{{Infobox HPO
+| hpoId = HP:0002586
+| 名称 = Peritonitis
+| 定义 = `Inflammation` (MPATH:212) of the `peritoneum` (FMA:9584).
+| 中文译名 = 腹膜炎
+| 中文定义 = `存在于腹膜的炎症。
+}}
+
+
+==[[HP:0002587]]==
+{{Infobox HPO
+| hpoId = HP:0002587
+| 名称 = Projectile vomiting
+| 定义 = Vomiting that ejects the gastric contents with great force.
+| 中文译名 = 喷射性呕吐
+| 中文定义 = 胃内容物以很大力量喷射性呕吐出来。
+}}
+
+
+==[[HP:0002588]]==
+{{Infobox HPO
+| hpoId = HP:0002588
+| 名称 = Duodenal ulcer
+| 定义 = An erosion of the mucous membrane of in a portion of the duodenum.
+| 中文译名 = 十二指肠溃疡
+| 中文定义 = 部分十二指肠的粘膜糜烂。
+}}
+
+
+==[[HP:0002589]]==
+{{Infobox HPO
+| hpoId = HP:0002589
+| 名称 = Gastrointestinal atresia
+| 定义 = #####
+| 中文译名 = 消化道闭锁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002590]]==
+{{Infobox HPO
+| hpoId = HP:0002590
+| 名称 = Paralytic ileus
+| 定义 = #####
+| 中文译名 = 麻痹性肠梗阻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002592]]==
+{{Infobox HPO
+| hpoId = HP:0002592
+| 名称 = Gastric ulcer
+| 定义 = An `ulcer` (MPATH:579), that is, an erosion of an area of the `gastric mucous membrane` (FMA:14907).
+| 中文译名 = 胃溃疡
+| 中文定义 = 胃溃疡，即，某个区域的胃粘膜的糜烂。
+}}
+
+==[[HP:0002593]]==
+{{Infobox HPO
+| hpoId = HP:0002593
+| 名称 = Intestinal lymphangiectasia
+| 定义 = Angiectasia of lymph vessels (i.e., dilatation of lymphatic vessels) in the intestines.
+| 中文译名 = 肠淋巴管扩张
+| 中文定义 = 肠淋巴管的扩张（即，淋巴管的膨胀）。
+}}
+
+
+==[[HP:0002594]]==
+{{Infobox HPO
+| hpoId = HP:0002594
+| 名称 = Pancreatic hypoplasia
+| 定义 = `Hypoplasia` (MPATH:133) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺发育不良
+| 中文定义 = `胰腺的发育不良。
+}}
+
+
+==[[HP:0002595]]==
+{{Infobox HPO
+| hpoId = HP:0002595
+| 名称 = Ileus
+| 定义 = Acute obstruction of the intestines preventing passage of the contents of the intestines.
+| 中文译名 = 肠梗阻
+| 中文定义 = 肠的急性阻塞阻止了肠内容物的通过。
+}}
+
+
+==[[HP:0002604]]==
+{{Infobox HPO
+| hpoId = HP:0002604
+| 名称 = Gastrointestinal telangiectasia
+| 定义 = `Telangiectasia` (MPATH:476) affecting the`gastrointestinal tract` (FMA:71132).
+| 中文译名 = 胃肠道毛细血管扩张
+| 中文定义 = 累及胃肠道的毛细血管扩张。
+}}
+
+==[[HP:0002605]]==
+{{Infobox HPO
+| hpoId = HP:0002605
+| 名称 = Hepatic necrosis
+| 定义 = The presence of `necrosis` (MPATH:4) affecting the `liver` (FMA:7197).
+| 中文译名 = 肝坏死
+| 中文定义 = 肝脏的坏死。
+}}
+
+==[[HP:0002607]]==
+{{Infobox HPO
+| hpoId = HP:0002607
+| 名称 = Bowel incontinence
+| 定义 = Involuntary fecal soiling in adults and children who have usually already been toilet trained.
+| 中文译名 = 大便失禁
+| 中文定义 = 已经过如厕训练的成人和儿童的无意识排便。
+}}
+
+==[[HP:0002608]]==
+{{Infobox HPO
+| hpoId = HP:0002608
+| 名称 = Celiac disease
+| 定义 = #####
+| 中文译名 = 乳糜泻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002611]]==
+{{Infobox HPO
+| hpoId = HP:0002611
+| 名称 = Cholestatic liver disease
+| 定义 = #####
+| 中文译名 = 胆汁淤积性肝病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002612]]==
+{{Infobox HPO
+| hpoId = HP:0002612
+| 名称 = Congenital hepatic fibrosis
+| 定义 = The presence of `fibrosis` (MPATH:181) of that part of the `liver` (FMA:7197) with `congenital onset` (HP:0003577).
+| 中文译名 = 先天性肝纤维化
+| 中文定义 = 先天发生于肝脏部位的“纤维化”。
+}}
+
+
+==[[HP:0002613]]==
+{{Infobox HPO
+| hpoId = HP:0002613
+| 名称 = Biliary cirrhosis
+| 定义 = Progressive destruction of the small-to-medium bile ducts of the `intrahepatic biliary tree` (FMA:68016), which leads to progressive cholestasis and often end-stage liver disease.
+| 中文译名 = 胆汁性肝硬化
+| 中文定义 = 肝内胆道从小胆管到中胆管的进行性破坏，导致进行性胆汁淤积且常发生终末期肝病。
+}}
+
+==[[HP:0002614]]==
+{{Infobox HPO
+| hpoId = HP:0002614
+| 名称 = Hepatic periportal necrosis
+| 定义 = A type of `hepatic necrosis` (HP:0002605) that is concentrated around the necrosis of hepatocytes localized around the `intrahepatic branch of portal vein` (FMA:15417).
+| 中文译名 = 肝脏门脉周围坏死
+| 中文定义 = 一种集中发生于肝内门脉分支周围的肝细胞的肝脏坏死。
+}}
+
+==[[HP:0002629]]==
+{{Infobox HPO
+| hpoId = HP:0002629
+| 名称 = Gastrointestinal arteriovenous malformation
+| 定义 = #####
+| 中文译名 = 胃肠道动静脉畸形
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002630]]==
+{{Infobox HPO
+| hpoId = HP:0002630
+| 名称 = Fat malabsorption
+| 定义 = Abnormality of the absorption of fat from the gastrointestinal tract.
+| 中文译名 = 脂肪吸收障碍
+| 中文定义 = 自胃肠道吸收脂肪的异常。
+}}
+
+
+==[[HP:0002672]]==
+{{Infobox HPO
+| hpoId = HP:0002672
+| 名称 = Gastrointestinal carcinoma
+| 定义 = #####
+| 中文译名 = 胃肠道癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002836]]==
+{{Infobox HPO
+| hpoId = HP:0002836
+| 名称 = Bladder exstrophy
+| 定义 = `Eversion` (PATO:0001597) of the `urinary bladder` (FMA:15900). This is a congenital anomaly in which part of the bladder is everted outside of the abdominal wall.
+| 中文译名 = 膀胱外翻
+| 中文定义 = 膀胱的外翻，是一种部分膀胱外翻于腹壁外的发育异常。
+}}
+
+==[[HP:0002884]]==
+{{Infobox HPO
+| hpoId = HP:0002884
+| 名称 = Hepatoblastoma
+| 定义 = A kind of `neoplasm of the liver` (HP:0002896) that originates from immature liver precursor cells and macroscopically is composed of tissue resembling fetal or mature liver cells or bile ducts.
+| 中文译名 = 肝母细胞瘤
+| 中文定义 = 一种肝肿瘤，起源于未成熟的肝脏前体细胞，宏观上由类似胎儿或成人的肝细胞或胆管组织组成。
+}}
+
+==[[HP:0002894]]==
+{{Infobox HPO
+| hpoId = HP:0002894
+| 名称 = Neoplasm of the pancreas
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺肿瘤
+| 中文定义 = 存在于胰腺的肿瘤。
+}}
+
+
+==[[HP:0002896]]==
+{{Infobox HPO
+| hpoId = HP:0002896
+| 名称 = Neoplasm of the liver
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `liver` (FMA:7197).
+| 中文译名 = 肝脏肿瘤
+| 中文定义 = 存在于肝脏的肿瘤。
+}}
+
+
+==[[HP:0002910]]==
+{{Infobox HPO
+| hpoId = HP:0002910
+| 名称 = Elevated hepatic transaminases
+| 定义 = Elevations of the levels of SGOT and SGPT in the serum. SGOT (serum glutamic oxaloacetic transaminase) and SGPT (serum glutamic pyruvic transaminase) are transaminases primarily found in the liver and heart and are released into the bloodstream as the result of liver or heart damage. SGOT and SGPT are used clinically mainly as markers of liver damage.
+| 中文译名 = 肝脏转氨酶升高
+| 中文定义 = 血清中SGOT和SGPT水平升高。SGOT（血清谷草转氨酶）和SGPT（血清谷丙转氨酶）是主要发现于肝脏和心脏的转氨酶，当肝脏和心脏损伤时被释放到血液中。临床上SGOT和SGPT是肝损伤的主要标志物。
+}}
+
+
+==[[HP:0002933]]==
+{{Infobox HPO
+| hpoId = HP:0002933
+| 名称 = Ventral hernia
+| 定义 = Ventral hernia refers to a condition in which abdominal contents protrude through a weakened portion of the abnominal wall.
+| 中文译名 = 腹疝
+| 中文定义 = 腹疝是指腹内脏器通过腹壁的一个薄弱部分而突出。
+}}
+
+
+==[[HP:0003003]]==
+{{Infobox HPO
+| hpoId = HP:0003003
+| 名称 = Colon cancer
+| 定义 = #####
+| 中文译名 = 结肠癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003270]]==
+{{Infobox HPO
+| hpoId = HP:0003270
+| 名称 = Abdominal distention
+| 定义 = `Distention` (PATO:0001602) of the `abdomen` (FMA:9577).
+| 中文译名 = 腹胀
+| 中文定义 = `腹部胀大或胀满。
+}}
+
+
+==[[HP:0003271]]==
+{{Infobox HPO
+| hpoId = HP:0003271
+| 名称 = Visceromegaly
+| 定义 = Abnormal `increased size` (PATO:0000586) of the `viscera of the abdomen` (FMA:259123).
+| 中文译名 = 内脏肿大
+| 中文定义 = 腹内脏器尺寸异常增大。
+}}
+
+==[[HP:0003363]]==
+{{Infobox HPO
+| hpoId = HP:0003363
+| 名称 = Abdominal situs inversus
+| 定义 = A left-right reversal (or &quot;mirror reflection&quot;) of the anatomical location of the `viscera of the abdomen` (FMA:259123).
+| 中文译名 = 腹部内脏逆位
+| 中文定义 = 腹部脏器解剖位置左右反转（或镜面反射）。
+}}
+
+
+==[[HP:0004295]]==
+{{Infobox HPO
+| hpoId = HP:0004295
+| 名称 = Abnormality of the gastric mucosa
+| 定义 = An abnormality of the `gastric mucous membrane` (FMA:14907).
+| 中文译名 = 胃粘膜异常
+| 中文定义 = 胃粘膜的异常。
+}}
+
+
+==[[HP:0004296]]==
+{{Infobox HPO
+| hpoId = HP:0004296
+| 名称 = Abnormality of gastrointestinal vasculature
+| 定义 = #####
+| 中文译名 = 胃肠道血管畸形
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004297]]==
+{{Infobox HPO
+| hpoId = HP:0004297
+| 名称 = Abnormality of the biliary system
+| 定义 = An abnormality of the `biliary system` (FMA:79646).
+| 中文译名 = 胆道系统异常
+| 中文定义 = 胆道系统的异常。
+}}
+
+
+==[[HP:0004298]]==
+{{Infobox HPO
+| hpoId = HP:0004298
+| 名称 = Abnormality of the abdominal wall
+| 定义 = The presence of any abnormality affecting the `abdominal wall` (FMA:259054).
+| 中文译名 = 腹壁异常
+| 中文定义 = 影响腹壁的任何异常。
+}}
+
+
+==[[HP:0004299]]==
+{{Infobox HPO
+| hpoId = HP:0004299
+| 名称 = Hernia of the abdominal wall
+| 定义 = The presence of a hernia in the `abdominal wall` (FMA:259054).
+| 中文译名 = 腹壁疝
+| 中文定义 = 存在于腹壁的疝。
+}}
+
+
+==[[HP:0004362]]==
+{{Infobox HPO
+| hpoId = HP:0004362
+| 名称 = Abnormality of the enteric ganglia
+| 定义 = An abnormality of the enteric nervous system, which comprises two types of ganglia, the myenteric (Auerbach&#39;s) and submucosal (Meissner&#39;s) plexuses. The enteric nervous system functions to control gut movement, fluid exchange between the gut and its lumen, and local blood flow.
+| 中文译名 = 肠神经节异常
+| 中文定义 = 肠神经系统的异常；肠神经系统包括两种类型的神经节，肌间的（Auerbach's）和粘膜下（Meissner's）神经丛。肠神经系统的功能是控制肠道运动、肠道与其内腔之间的液体交换与局部血流。
+}}
+
+==[[HP:0004378]]==
+{{Infobox HPO
+| hpoId = HP:0004378
+| 名称 = Abnormality of the anus
+| 定义 = Abnormality of the `anal canal` (FMA:15703).
+| 中文译名 = 肛门异常
+| 中文定义 = 肛管异常。
+}}
+
+
+==[[HP:0004385]]==
+{{Infobox HPO
+| hpoId = HP:0004385
+| 名称 = Protracted diarrhea
+| 定义 = #####
+| 中文译名 = 迁延性腹泻
+| 中文定义 = #####
+}}
+
+==[[HP:0004386]]==
+{{Infobox HPO
+| hpoId = HP:0004386
+| 名称 = Gastrointestinal inflammation
+| 定义 = #####
+| 中文译名 = 胃肠道炎症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004387]]==
+{{Infobox HPO
+| hpoId = HP:0004387
+| 名称 = Enterocolitis
+| 定义 = An inflammation of the colon and small intestine. However, most conditions are either categorized as Enteritis (inflammation of the small intestine) or Colitis (inflammation of the large intestine).
+| 中文译名 = 小肠结肠炎
+| 中文定义 = 结肠和小肠的一种炎症。然而，大多数情况下，分类为肠炎（小肠的炎症）或结肠炎（大肠的炎症）。
+}}
+
+
+==[[HP:0004388]]==
+{{Infobox HPO
+| hpoId = HP:0004388
+| 名称 = Microcolon
+| 定义 = A colon of abnormally small caliber.
+| 中文译名 = 细小结肠
+| 中文定义 = 异常细的结肠。
+}}
+
+==[[HP:0004389]]==
+{{Infobox HPO
+| hpoId = HP:0004389
+| 名称 = Intestinal pseudo-obstruction
+| 定义 = A functional rather than mechanical obstruction of the intestines.
+| 中文译名 = 假性肠梗阻
+| 中文定义 = 功能性而非机械性的肠道梗阻。
+}}
+
+
+==[[HP:0004390]]==
+{{Infobox HPO
+| hpoId = HP:0004390
+| 名称 = Hamartomatous polyps
+| 定义 = Polyp-like protrusions which are histologically hamartomas. These can occur throughout the gastrointestinal tract.
+| 中文译名 = 错构瘤性息肉
+| 中文定义 = 组织学上为错构瘤的息肉状突起。可发生于整个胃肠道。
+}}
+
+
+==[[HP:0004392]]==
+{{Infobox HPO
+| hpoId = HP:0004392
+| 名称 = Prune belly
+| 定义 = A kind of congenital defect of the anterior `abdominal wall` (FMA:259054) in which the intestines are evident through the thin, lax, and protruding abdominal wall in affected infants.
+| 中文译名 = 梨状腹
+| 中文定义 = 前腹壁的一种先天缺陷，受累婴儿的肠道通过菲薄、松弛、凸出的腹壁清晰可见。
+}}
+
+==[[HP:0004394]]==
+{{Infobox HPO
+| hpoId = HP:0004394
+| 名称 = Multiple gastric polyps
+| 定义 = #####
+| 中文译名 = 多发性胃息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004395]]==
+{{Infobox HPO
+| hpoId = HP:0004395
+| 名称 = Malnutrition
+| 定义 = #####
+| 中文译名 = 营养不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004396]]==
+{{Infobox HPO
+| hpoId = HP:0004396
+| 名称 = Poor appetite
+| 定义 = #####
+| 中文译名 = 食欲不振
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004397]]==
+{{Infobox HPO
+| hpoId = HP:0004397
+| 名称 = Ectopic anus
+| 定义 = Abnormal displacement or malposition of the anus.
+| 中文译名 = 肛门异位
+| 中文定义 = 肛门的异常移位或错位。
+}}
+
+==[[HP:0004398]]==
+{{Infobox HPO
+| hpoId = HP:0004398
+| 名称 = Peptic ulcer
+| 定义 = An `ulcer` (MPATH:579) of the `gastrointestinal tract` (FMA:71132).
+| 中文译名 = 消化性溃疡
+| 中文定义 = 胃肠道的溃疡。
+}}
+
+==[[HP:0004399]]==
+{{Infobox HPO
+| hpoId = HP:0004399
+| 名称 = Congenital pyloric atresia
+| 定义 = `Congenital` (HP:0003577) atresia of the `pylorus` (FMA:14581).
+| 中文译名 = 先天性幽门闭锁
+| 中文定义 = `幽门的先天性闭锁。
+}}
+
+
+==[[HP:0004400]]==
+{{Infobox HPO
+| hpoId = HP:0004400
+| 名称 = Abnormality of the pylorus
+| 定义 = An abnormality of the `pylorus` (FMA:14581).
+| 中文译名 = 幽门异常
+| 中文定义 = 幽门的异常。
+}}
+
+
+==[[HP:0004401]]==
+{{Infobox HPO
+| hpoId = HP:0004401
+| 名称 = Meconium ileus
+| 定义 = Obstruction of the intestine due to abnormally thick meconium.
+| 中文译名 = 胎粪性肠梗阻
+| 中文定义 = 由于异常粘稠的胎粪导致的肠梗阻。
+}}
+
+
+==[[HP:0004403]]==
+{{Infobox HPO
+| hpoId = HP:0004403
+| 名称 = Proximal esophageal atresia
+| 定义 = #####
+| 中文译名 = 近端食管闭锁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004448]]==
+{{Infobox HPO
+| hpoId = HP:0004448
+| 名称 = Fulminant hepatic failure
+| 定义 = Hepatic failure refers to the inability of the liver to perform its normal synthetic and metabolic functions, which can result in coagulopathy and alteration in the mental status of a previously healthy individual. Hepatic failure is defined as fulminant if there is onset of encephalopathy within 4 weeks of the onset of symptoms in a patient with a previously healthy liver.
+| 中文译名 = 暴发性肝衰竭
+| 中文定义 = 肝衰竭是指肝脏无法行使其正常的合成和代谢功能，这将导致既往健康个体的凝血异常及精神状态改变。若既往肝脏正常的病人在起病4周内出现脑病发作，则定义为爆发性肝衰竭。
+}}
+
+==[[HP:0004510]]==
+{{Infobox HPO
+| hpoId = HP:0004510
+| 名称 = Pancreatic islet-cell hyperplasia
+| 定义 = Hyperplasia of the islets of Langerhans, i.e., of the regions of the pancreas that contain its endocrine cells.
+| 中文译名 = 胰岛细胞增生
+| 中文定义 = 朗格汉斯岛（胰岛），即胰腺含有内分泌细胞的区域的增生。
+}}
+
+
+==[[HP:0004783]]==
+{{Infobox HPO
+| hpoId = HP:0004783
+| 名称 = Duodenal polyposis
+| 定义 = Presence of multiple polyps in the duodenum.
+| 中文译名 = 十二指肠息肉
+| 中文定义 = 存在于十二指肠的多发性息肉。
+}}
+
+
+==[[HP:0004784]]==
+{{Infobox HPO
+| hpoId = HP:0004784
+| 名称 = Juvenile gastrointestinal polyposis
+| 定义 = #####
+| 中文译名 = 幼年性胃肠息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004785]]==
+{{Infobox HPO
+| hpoId = HP:0004785
+| 名称 = Malrotation of colon
+| 定义 = An anatomical anomaly that results from an abnormal rotation of the gut as it returns to the abdominal cavity during embryogenesis.
+| 中文译名 = 大肠旋转不良
+| 中文定义 = 一种解剖学上的异常，源于胚胎发育过程中肠道返回腹腔时的异常旋转。
+}}
+
+==[[HP:0004786]]==
+{{Infobox HPO
+| hpoId = HP:0004786
+| 名称 = Jejunal diverticula
+| 定义 = #####
+| 中文译名 = 空肠憩室
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004787]]==
+{{Infobox HPO
+| hpoId = HP:0004787
+| 名称 = Fulminant hepatitis
+| 定义 = Acute hepatitis complicated by acute liver failure with hepatic encephalopathy occurring less than 8 weeks after the onset of jaundice.
+| 中文译名 = 暴发性肝炎
+| 中文定义 = 合并急性肝衰竭的急性肝炎，黄疸发生后8周内出现肝性脑病。
+}}
+
+==[[HP:0004788]]==
+{{Infobox HPO
+| hpoId = HP:0004788
+| 名称 = Intestinal lymphedema
+| 定义 = Fluid retention and edema in the intestine caused by a compromised lymphatic system.
+| 中文译名 = 肠淋巴水肿
+| 中文定义 = 淋巴系统受损引起的肠道液体潴留和水肿。
+}}
+
+==[[HP:0004789]]==
+{{Infobox HPO
+| hpoId = HP:0004789
+| 名称 = Lactose intolerance
+| 定义 = An inability to digest lactose.
+| 中文译名 = 乳糖不耐受
+| 中文定义 = 无法消化乳糖。
+}}
+
+
+==[[HP:0004790]]==
+{{Infobox HPO
+| hpoId = HP:0004790
+| 名称 = Hypoplasia of the small intestine
+| 定义 = Underdevelopment of the small intestine.
+| 中文译名 = 小肠发育不良
+| 中文定义 = 小肠的发育不良。
+}}
+
+
+==[[HP:0004791]]==
+{{Infobox HPO
+| hpoId = HP:0004791
+| 名称 = Esophageal ulceration
+| 定义 = Defect in the epithelium of the esophagus, essentially an open sore in the lining of the esophagus.
+| 中文译名 = 食管溃疡
+| 中文定义 = 食管上皮的缺损，本质上是食管上皮的创口。
+}}
+
+==[[HP:0004792]]==
+{{Infobox HPO
+| hpoId = HP:0004792
+| 名称 = Rectoperineal fistula
+| 定义 = The presence of a `fistula` (MPATH:70) between the `perineum` (FMA:9579) and the `rectum` (FMA:14544).
+| 中文译名 = 直肠会阴瘘
+| 中文定义 = 直肠和会阴之间的瘘管。
+}}
+
+
+==[[HP:0004794]]==
+{{Infobox HPO
+| hpoId = HP:0004794
+| 名称 = Malrotation of small bowel
+| 定义 = A deviation from the normal rotation of the midgut during embryologic development with mislocalization of the small bowel.
+| 中文译名 = 小肠旋转不良
+| 中文定义 = 中肠在胚胎发育过程中从正常旋转中偏离，伴随小肠的错位。
+}}
+
+==[[HP:0004795]]==
+{{Infobox HPO
+| hpoId = HP:0004795
+| 名称 = Hamartomatous stomach polyps
+| 定义 = Polyp-like protrusions which are histologically hamartomas located in the stomach.
+| 中文译名 = 错构瘤性胃息肉
+| 中文定义 = 位于胃部的组织学上为错构瘤的息肉样突起。
+}}
+
+==[[HP:0004796]]==
+{{Infobox HPO
+| hpoId = HP:0004796
+| 名称 = Gastrointestinal obstruction
+| 定义 = #####
+| 中文译名 = 胃肠道梗阻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004797]]==
+{{Infobox HPO
+| hpoId = HP:0004797
+| 名称 = Multiple small bowel atresias
+| 定义 = The presence of multiple areas of `atresia` (PATO:0001819) affecting the `small intestine` (FMA:7200).
+| 中文译名 = 多发性小肠闭锁
+| 中文定义 = 影响小肠的多个区域的闭锁。
+}}
+
+
+==[[HP:0004798]]==
+{{Infobox HPO
+| hpoId = HP:0004798
+| 名称 = Recurrent infection of the gastrointestinal tract
+| 定义 = `Recurrent` (PATO:0000427) infection of the `gastrointestinal tract` (FMA:71132).
+| 中文译名 = 胃肠道复发性感染
+| 中文定义 = `胃肠道的复发性感染。
+}}
+
+==[[HP:0004799]]==
+{{Infobox HPO
+| hpoId = HP:0004799
+| 名称 = Jejunoileal diverticula
+| 定义 = #####
+| 中文译名 = 空回肠憩室
+| 中文定义 = #####
+}}
+
+==[[HP:0004800]]==
+{{Infobox HPO
+| hpoId = HP:0004800
+| 名称 = Duodenal diverticula
+| 定义 = #####
+| 中文译名 = 十二指肠憩室
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004872]]==
+{{Infobox HPO
+| hpoId = HP:0004872
+| 名称 = Incisional hernia
+| 定义 = An abdominal hernia that occurs at a site of weakness in the abdominal wall resulting from an incompletely-healed surgical wound.
+| 中文译名 = 切口疝
+| 中文定义 = 手术伤口的不完全愈合导致的发生于腹壁薄弱处的疝。
+}}
+
+
+==[[HP:0004941]]==
+{{Infobox HPO
+| hpoId = HP:0004941
+| 名称 = Extrahepatic portal hypertension
+| 定义 = `Increased pressure` (PATO:0001576) in the `pre-hepatic portal vein` (FMA:71904).
+| 中文译名 = 肝外性门脉高压
+| 中文定义 = `肝前门脉的压力增高。
+}}
+
+==[[HP:0005199]]==
+{{Infobox HPO
+| hpoId = HP:0005199
+| 名称 = aplasia of the abdominal wall musculature
+| 定义 = Absence of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌肉发育不全
+| 中文定义 = 腹壁肌群缺失。
+}}
+
+
+==[[HP:0005200]]==
+{{Infobox HPO
+| hpoId = HP:0005200
+| 名称 = Retroperitoneal fibrosis
+| 定义 = #####
+| 中文译名 = 腹膜后纤维化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005201]]==
+{{Infobox HPO
+| hpoId = HP:0005201
+| 名称 = Anomalous splenoportal venous system
+| 定义 = #####
+| 中文译名 = 异常脾门静脉系统
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005202]]==
+{{Infobox HPO
+| hpoId = HP:0005202
+| 名称 = Helicobacter pylori infection
+| 定义 = #####
+| 中文译名 = 幽门螺杆菌感染
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005203]]==
+{{Infobox HPO
+| hpoId = HP:0005203
+| 名称 = Spontaneous esophageal perforation
+| 定义 = The occurrence of the full-thickness tear (perforation) of the wall of the esophagus.
+| 中文译名 = 自发性食管穿孔
+| 中文定义 = 食管壁发生全层撕裂（穿孔）。
+}}
+
+==[[HP:0005206]]==
+{{Infobox HPO
+| hpoId = HP:0005206
+| 名称 = Pancreatic pseudocyst
+| 定义 = Cyst-like space not lined by epithelium and contained within the pancreas. Pancreatic pseudocysts are often associated with pancreatitis.
+| 中文译名 = 胰腺假性囊肿
+| 中文定义 = 位于胰腺内、未被覆上皮细胞的囊肿样空间。胰腺假性囊肿通常与胰腺炎有关。
+}}
+
+==[[HP:0005207]]==
+{{Infobox HPO
+| hpoId = HP:0005207
+| 名称 = Gastric hypertrophy
+| 定义 = `Hypertrophy` (MPATH:159) of the `stomach` (FMA:7148).
+| 中文译名 = 胃肥大
+| 中文定义 = `胃部膨大。
+}}
+
+
+==[[HP:0005208]]==
+{{Infobox HPO
+| hpoId = HP:0005208
+| 名称 = Secretory diarrhea
+| 定义 = Watery voluminous diarrhea resulting from an imbalance between  ion and water secretion and absorption.
+| 中文译名 = 分泌性腹泻
+| 中文定义 = 由于离子和水的分泌与吸收的不平衡而产生的大量水样腹泻。
+}}
+
+
+==[[HP:0005209]]==
+{{Infobox HPO
+| hpoId = HP:0005209
+| 名称 = Intrahepatic bile duct cysts
+| 定义 = The presence of `cyst` (MPATH:62) of the `intrahepatic bile duct` (FMA:15766).
+| 中文译名 = 肝内胆管囊肿
+| 中文定义 = 存在于肝内胆管的囊肿。
+}}
+
+
+==[[HP:0005210]]==
+{{Infobox HPO
+| hpoId = HP:0005210
+| 名称 = Hypoplastic colon
+| 定义 = Underdevelopment of the colon.
+| 中文译名 = 结肠发育不良
+| 中文定义 = 结肠的发育不良。
+}}
+
+
+==[[HP:0005211]]==
+{{Infobox HPO
+| hpoId = HP:0005211
+| 名称 = Midgut malrotation
+| 定义 = #####
+| 中文译名 = 中肠旋转不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005212]]==
+{{Infobox HPO
+| hpoId = HP:0005212
+| 名称 = Anal mucosal leukoplakia
+| 定义 = Leukoplakia is a precancerous dermatosis of mucous membranes analogous Leukoplakia is basically a chronic inflammatory hypertrophy in which anaplasia and malignant dyskeratosis may develop and subsequently advance to an invasive squamous cell cancer. The clinical diagnosis of primary anal leukoplakia is indicated by single or multiple slightly raised,irregular, marginated, grayish-white keratinized&#39; patches in the anal canal. Tissue biopsy is necessary for confirmation.
+| 中文译名 = 肛门粘膜白斑
+| 中文定义 = 白斑是粘膜类似物的一种癌前皮肤病变。白斑本质上是一种慢性炎症性肥厚，可能会发展为间变及恶性异常角化，随后进展至侵袭性鳞状细胞癌。位于肛管的单个或多个微微隆起、不规则、有边缘的、灰白色角化的白斑，可提示原发性肛门白斑的临床诊断。确认须进行组织活检。
+}}
+
+==[[HP:0005213]]==
+{{Infobox HPO
+| hpoId = HP:0005213
+| 名称 = Pancreatic calcification
+| 定义 = The presence of abnormal `calcium deposition` (MPATH:36) lesions in the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺钙化
+| 中文定义 = 胰腺存在的异常钙质沉积。
+}}
+
+==[[HP:0005214]]==
+{{Infobox HPO
+| hpoId = HP:0005214
+| 名称 = Intestinal obstruction
+| 定义 = Blockage or impairment of the normal flow of the contents of the intestine towards the anal canal.
+| 中文译名 = 肠梗阻
+| 中文定义 = 肠内容物向肛管的正常流动受到阻塞或损害。
+}}
+
+==[[HP:0005215]]==
+{{Infobox HPO
+| hpoId = HP:0005215
+| 名称 = Frequent Giardia lamblia infestation
+| 定义 = Increased susceptibility to Giardia lamblia infection of the intestine, as manifested by a medical history of multiple episodes of Giardia lamblia intestinal infection.
+| 中文译名 = 频繁贾第鞭毛虫感染
+| 中文定义 = 肠道对贾第鞭毛虫感染的易感性增加，表现为贾第鞭毛虫肠道感染多次发作的病史。
+}}
+
+==[[HP:0005216]]==
+{{Infobox HPO
+| hpoId = HP:0005216
+| 名称 = Chewing difficulties
+| 定义 = #####
+| 中文译名 = 咀嚼困难
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005217]]==
+{{Infobox HPO
+| hpoId = HP:0005217
+| 名称 = Duplication of internal organs
+| 定义 = #####
+| 中文译名 = 内部器官重复
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005218]]==
+{{Infobox HPO
+| hpoId = HP:0005218
+| 名称 = Anoperineal fistula
+| 定义 = The presence of a fistula (abnormal tunnel) between the `anal canal` (FMA:15703) and the `perineum` (FMA:9579).
+| 中文译名 = 肛门会阴瘘
+| 中文定义 = 肛门和会阴之间存在的瘘道（异常通道）。
+}}
+
+
+==[[HP:0005219]]==
+{{Infobox HPO
+| hpoId = HP:0005219
+| 名称 = Absence of intrinsic factor
+| 定义 = Absence of `gastric intrinsic factor` (PRO:000007975), which is normally produced by the parietal cells of the stomach, and is required for the absorption of vitamin B12.
+| 中文译名 = 内因子缺乏
+| 中文定义 = “胃内因子”的缺失，该因子一般由胃的壁细胞产生，为维生素B12的吸收所需要。
+}}
+
+==[[HP:0005220]]==
+{{Infobox HPO
+| hpoId = HP:0005220
+| 名称 = Multiple intestinal neurofibromatosis
+| 定义 = #####
+| 中文译名 = 多发性肠神经纤维瘤病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005222]]==
+{{Infobox HPO
+| hpoId = HP:0005222
+| 名称 = Bowel diverticulosis
+| 定义 = The presence of `multiple` (PATO:0002118) `diverticula` (MPATH:68) of the `intestine` (FMA:7199).
+| 中文译名 = 肠憩室病
+| 中文定义 = 肠道存在多发憩室。
+}}
+
+==[[HP:0005223]]==
+{{Infobox HPO
+| hpoId = HP:0005223
+| 名称 = Duplicated colon
+| 定义 = #####
+| 中文译名 = 重复结肠
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005224]]==
+{{Infobox HPO
+| hpoId = HP:0005224
+| 名称 = Rectal abscess
+| 定义 = A collection of pus in the area of the rectum.
+| 中文译名 = 直肠脓肿
+| 中文定义 = 脓液在直肠区域积聚。
+}}
+
+==[[HP:0005225]]==
+{{Infobox HPO
+| hpoId = HP:0005225
+| 名称 = Intestinal edema
+| 定义 = Accumulation of cell free, noninflammatony fluid within the wall of the intestinal tract producing uniform thickening of the mucosal folds.
+| 中文译名 = 肠道水肿
+| 中文定义 = 肠壁内无细胞、非炎性的液体积聚，导致粘膜皱襞的均匀增厚。
+}}
+
+==[[HP:0005227]]==
+{{Infobox HPO
+| hpoId = HP:0005227
+| 名称 = Adenomatous colonic polyposis
+| 定义 = Presence of multiple adenomatous polyps in the colon.
+| 中文译名 = 腺瘤性结肠息肉病
+| 中文定义 = 存在于结肠的多发腺瘤性息肉。
+}}
+
+==[[HP:0005229]]==
+{{Infobox HPO
+| hpoId = HP:0005229
+| 名称 = Jejunoileal ulceration
+| 定义 = #####
+| 中文译名 = 空回肠溃疡
+| 中文定义 = #####
+}}
+
+==[[HP:0005230]]==
+{{Infobox HPO
+| hpoId = HP:0005230
+| 名称 = Biliary tract obstruction
+| 定义 = `Obstruction` (MPATH:80) affecting the `biliary tree` (FMA:14665).
+| 中文译名 = 胆道梗阻
+| 中文定义 = 胆管树的梗阻。
+}}
+
+==[[HP:0005231]]==
+{{Infobox HPO
+| hpoId = HP:0005231
+| 名称 = Chronic gastritis
+| 定义 = A `chronic` form of `gastritis` (HP:0005263).
+| 中文译名 = 慢性胃炎
+| 中文定义 = 胃炎的一种慢性形式。
+}}
+
+
+==[[HP:0005232]]==
+{{Infobox HPO
+| hpoId = HP:0005232
+| 名称 = Pancreatic cysts
+| 定义 = The presence of `developmental dysplasia` (MPATH:64) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺囊肿
+| 中文定义 = 胰腺存在发育异常。
+}}
+
+
+==[[HP:0005233]]==
+{{Infobox HPO
+| hpoId = HP:0005233
+| 名称 = Hypoplasia of the gallbladder
+| 定义 = The presence of a `hypoplastic` (PATO:0000645) `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊发育不良
+| 中文定义 = 胆囊存在发育不全。
+}}
+
+
+==[[HP:0005234]]==
+{{Infobox HPO
+| hpoId = HP:0005234
+| 名称 = Neonatal intestinal obstruction
+| 定义 = #####
+| 中文译名 = 新生儿肠梗阻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005235]]==
+{{Infobox HPO
+| hpoId = HP:0005235
+| 名称 = Jejunal atresia
+| 定义 = A developmental defect resulting in abnormal closure, or `atresia` (PATO:0001819) of the tubular structure of the `jejunum` (FMA:7207).
+| 中文译名 = 空肠闭锁
+| 中文定义 = 导致空肠管状结构异常闭合，或“闭锁”的发育缺陷。
+}}
+
+
+==[[HP:0005236]]==
+{{Infobox HPO
+| hpoId = HP:0005236
+| 名称 = Chronic calcifying pancreatitis
+| 定义 = A form of `chronic pancreatitis` (HP:0006280) that is characterized by `calcification` (PATO:0001447).
+| 中文译名 = 慢性钙化性胰腺炎
+| 中文定义 = 一种以钙化为特征的慢性胰腺炎。
+}}
+
+==[[HP:0005237]]==
+{{Infobox HPO
+| hpoId = HP:0005237
+| 名称 = Degenerative liver disease
+| 定义 = The presence of `degenerative` (PATO:0000639) changes of the `liver` (FMA:7197).
+| 中文译名 = 退行性肝病
+| 中文定义 = 肝脏存在退行性改变。
+}}
+
+
+==[[HP:0005238]]==
+{{Infobox HPO
+| hpoId = HP:0005238
+| 名称 = Discrete intestinal polyps
+| 定义 = #####
+| 中文译名 = 分散性肠息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005240]]==
+{{Infobox HPO
+| hpoId = HP:0005240
+| 名称 = Esophageal obstruction
+| 定义 = #####
+| 中文译名 = 食管梗阻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005241]]==
+{{Infobox HPO
+| hpoId = HP:0005241
+| 名称 = Total intestinal aganglionosis
+| 定义 = A congenital defect characterized by the lack of ganglion cells in the entire intestine, i.e., the aganglionic segment comprises the entire large and small bowel.
+| 中文译名 = 完全性肠神经节细胞缺乏
+| 中文定义 = 一种先天性缺陷，特点是整个肠道缺少神经节细胞，即无神经节节段包括整个大小肠。
+}}
+
+==[[HP:0005242]]==
+{{Infobox HPO
+| hpoId = HP:0005242
+| 名称 = Extrahepatic biliary duct atresia
+| 定义 = `Atresia` (PATO:0001819) in the `extrahepatic bile duct` (FMA:14678).
+| 中文译名 = 肝外胆道闭锁
+| 中文定义 = `发生于肝外胆道的闭锁。
+}}
+
+
+==[[HP:0005243]]==
+{{Infobox HPO
+| hpoId = HP:0005243
+| 名称 = Partial abdominal muscle agenesis
+| 定义 = Failure to form of portions  of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 局部腹肌发育不全
+| 中文定义 = 一部分腹部肌肉未能形成。
+}}
+
+
+==[[HP:0005244]]==
+{{Infobox HPO
+| hpoId = HP:0005244
+| 名称 = Gastrointestinal infarctions
+| 定义 = #####
+| 中文译名 = 胃肠道梗塞
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005245]]==
+{{Infobox HPO
+| hpoId = HP:0005245
+| 名称 = Intestinal hypoplasia
+| 定义 = Developmental hypoplasia of the `intestine` (FMA:7199).
+| 中文译名 = 肠道发育不良
+| 中文定义 = 肠的发育不良。
+}}
+
+
+==[[HP:0005246]]==
+{{Infobox HPO
+| hpoId = HP:0005246
+| 名称 = Giant hypertrophic gastritis
+| 定义 = A type of `gastritis` (HP:0005263) characterized by excessive proliferation of the gastric mucosa and diffuse thickening of the gastric mucosal folds.
+| 中文译名 = 巨大肥厚性胃炎
+| 中文定义 = 一种胃炎，其特征为胃粘膜过度增生和胃粘膜皱襞弥漫性增厚。
+}}
+
+
+==[[HP:0005247]]==
+{{Infobox HPO
+| hpoId = HP:0005247
+| 名称 = Hypoplasia of the abdominal wall musculature
+| 定义 = Underdevelopment of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌肉发育不良
+| 中文定义 = 腹壁肌肉的发育不良。
+}}
+
+
+==[[HP:0005248]]==
+{{Infobox HPO
+| hpoId = HP:0005248
+| 名称 = Intrahepatic biliary atresia
+| 定义 = `Atresia` (PATO:0001819) in the `intrahepatic bile duct` (FMA:15766).
+| 中文译名 = 肝内胆道闭锁
+| 中文定义 = 肝内胆道的闭锁。
+}}
+
+==[[HP:0005249]]==
+{{Infobox HPO
+| hpoId = HP:0005249
+| 名称 = Functional intestinal obstruction
+| 定义 = #####
+| 中文译名 = 功能性肠梗阻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005250]]==
+{{Infobox HPO
+| hpoId = HP:0005250
+| 名称 = High intestinal obstruction
+| 定义 = #####
+| 中文译名 = 高位肠梗阻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005263]]==
+{{Infobox HPO
+| hpoId = HP:0005263
+| 名称 = Gastritis
+| 定义 = The presence of `inflammation` (MPATH:212) of the `gastric mucous membrane` (FMA:14907).
+| 中文译名 = 胃炎
+| 中文定义 = 存在于胃粘膜的炎症。
+}}
+
+
+==[[HP:0005264]]==
+{{Infobox HPO
+| hpoId = HP:0005264
+| 名称 = Abnormality of the gallbladder
+| 定义 = An abnormality of the `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊异常
+| 中文定义 = 胆囊的异常。
+}}
+
+
+==[[HP:0005265]]==
+{{Infobox HPO
+| hpoId = HP:0005265
+| 名称 = Abnormality of the jejunum
+| 定义 = An abnormality of the `jejunum` (FMA:7207), i.e., of the middle section of the small intestine.
+| 中文译名 = 空肠异常
+| 中文定义 = 空肠，即小肠的中间部分的异常。
+}}
+
+
+==[[HP:0005266]]==
+{{Infobox HPO
+| hpoId = HP:0005266
+| 名称 = Intestinal polyp
+| 定义 = A discrete abnormal tissue mass that protrudes into the lumen of the intestine and is attached to the intestinal wall either by a stalk, pedunculus, or a broad base.
+| 中文译名 = 肠息肉
+| 中文定义 = 通过茎、脚或较宽基底附着于肠壁、伸出至肠腔的离散的异常组织块。
+}}
+
+==[[HP:0005608]]==
+{{Infobox HPO
+| hpoId = HP:0005608
+| 名称 = Bilobate gallbladder
+| 定义 = The presence of a `bilobed` (PATO:0002214) `gallbladder` (FMA:7202), related to a duplication of the gallbladder primordium.
+| 中文译名 = 双叶胆囊
+| 中文定义 = 具有分叶的胆囊，与胆囊原基复制有关。
+}}
+
+
+==[[HP:0005609]]==
+{{Infobox HPO
+| hpoId = HP:0005609
+| 名称 = Gallbladder dysfunction
+| 定义 = #####
+| 中文译名 = 胆囊功能障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005912]]==
+{{Infobox HPO
+| hpoId = HP:0005912
+| 名称 = Biliary atresia
+| 定义 = `Atresia` (PATO:0001819) in of the `biliary tree` (FMA:14665).
+| 中文译名 = 胆道闭锁
+| 中文定义 = `胆道的闭锁。
+}}
+
+
+==[[HP:0006268]]==
+{{Infobox HPO
+| hpoId = HP:0006268
+| 名称 = Fluctuating splenomegaly
+| 定义 = Intermittently `increased size` (PATO:0000586) of the `spleen` (FMA:7196).
+| 中文译名 = 间歇性脾肿大
+| 中文定义 = 脾脏大小间歇性增加。
+}}
+
+==[[HP:0006270]]==
+{{Infobox HPO
+| hpoId = HP:0006270
+| 名称 = Hypoplastic spleen
+| 定义 = Underdevelopment of the `spleen` (FMA:7196).
+| 中文译名 = 脾脏发育不全
+| 中文定义 = 脾的发育不全。
+}}
+
+
+==[[HP:0006273]]==
+{{Infobox HPO
+| hpoId = HP:0006273
+| 名称 = Pancreatic lymphangiectasis
+| 定义 = The presence of `lymphangiectasis` (MPATH:98) in the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺淋巴管扩张
+| 中文定义 = 存在于胰腺的淋巴管扩张。
+}}
+
+
+==[[HP:0006274]]==
+{{Infobox HPO
+| hpoId = HP:0006274
+| 名称 = Reduced pancreatic beta cells
+| 定义 = Reduced number of beta cells in the pancreatic islets of Langerhans.
+| 中文译名 = 胰腺β细胞减少
+| 中文定义 = 胰腺胰岛的β细胞数目减少。
+}}
+
+==[[HP:0006276]]==
+{{Infobox HPO
+| hpoId = HP:0006276
+| 名称 = Hyperechogenic pancreas
+| 定义 = #####
+| 中文译名 = 胰腺高回声
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006277]]==
+{{Infobox HPO
+| hpoId = HP:0006277
+| 名称 = Pancreatic hyperplasia
+| 定义 = `Hyperplasia` (MPATH:134) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺增生
+| 中文定义 = 胰腺的增生。
+}}
+
+==[[HP:0006278]]==
+{{Infobox HPO
+| hpoId = HP:0006278
+| 名称 = Ectopic pancreatic tissue
+| 定义 = The presence of pancreatic tissue outside the normal pancreas, in many cases along the foregut and proximal midgut.
+| 中文译名 = 胰腺组织异位
+| 中文定义 = 存在于正常胰腺外的胰腺组织，很多情况下沿着前肠和近端中肠分布。
+}}
+
+==[[HP:0006279]]==
+{{Infobox HPO
+| hpoId = HP:0006279
+| 名称 = Beta-cell dysfunction
+| 定义 = #####
+| 中文译名 = β细胞功能障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006280]]==
+{{Infobox HPO
+| hpoId = HP:0006280
+| 名称 = Chronic pancreatitis
+| 定义 = A `chronic` (PATO:0001863) form of `pancreatitis` (HP:0001733).
+| 中文译名 = 慢性胰腺炎
+| 中文定义 = 胰腺炎的一种慢性形式。
+}}
+
+
+==[[HP:0006476]]==
+{{Infobox HPO
+| hpoId = HP:0006476
+| 名称 = Abnormality of the pancreatic islet cells
+| 定义 = An abnormality of the islet of Langerhans, i.e., of the regions of the pancreas that contain its endocrine cells. These are the alpha cells, which produce glucagon, the beta cells, which produce insulin and amylin, the delta cells, which produce somatostatin, the PP cells, which produce pancreatic polypeptide, and the epsilon cells, which produce ghrelin.
+| 中文译名 = 胰岛细胞异常
+| 中文定义 = 胰岛—即胰腺包含激素分泌细胞的部位—的异常。这些细胞为产生胰高血糖素的α细胞、产生胰岛素和胰淀素的β细胞、产生生长抑素的δ细胞、产生胰多肽的PP细胞以及产生胃饥饿素的ε细胞。
+}}
+
+==[[HP:0006554]]==
+{{Infobox HPO
+| hpoId = HP:0006554
+| 名称 = Acute hepatic failure
+| 定义 = Hepatic failure refers to the inability of the liver to perform its normal synthetic and metabolic functions, which can result in coagulopathy and alteration in the mental status of a previously healthy individual. Hepatic failure is defined as acute if there is onset of encephalopathy within 8 weeks of the onset of symptoms in a patient with a previously healthy liver.
+| 中文译名 = 急性肝功能衰竭
+| 中文定义 = 肝功能衰竭是指肝脏无法行使其正常的合成和代谢功能，这将导致凝血病和正常个体的精神状态的改变。若原先肝脏为正常的病人在肝功能衰竭症状发生8周内脑病发作，则为急性肝功能衰竭。
+}}
+
+
+==[[HP:0006555]]==
+{{Infobox HPO
+| hpoId = HP:0006555
+| 名称 = Diffuse hepatic steatosis
+| 定义 = A `diffuse` (PATO:0001513) form of `hepatic steatosis` (HP:0001397).
+| 中文译名 = 弥漫性肝脂肪变性
+| 中文定义 = 肝脂肪变性的一种弥漫性形式。
+}}
+
+==[[HP:0006557]]==
+{{Infobox HPO
+| hpoId = HP:0006557
+| 名称 = Polycystic liver disease
+| 定义 = #####
+| 中文译名 = 多囊性肝病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006558]]==
+{{Infobox HPO
+| hpoId = HP:0006558
+| 名称 = Decreased mitochondrial complex III activity in liver tissue
+| 定义 = Decreased activity of complex III Of the mitochondrion in the liver.
+| 中文译名 = 肝组织线粒体复合物III活性降低
+| 中文定义 = 肝组织中线粒体复合物III活性降低。
+}}
+
+
+==[[HP:0006559]]==
+{{Infobox HPO
+| hpoId = HP:0006559
+| 名称 = Hepatic calcification
+| 定义 = The presence of abnormal `calcium deposition` (MPATH:36) in the `liver` (FMA:7197).
+| 中文译名 = 肝钙化
+| 中文定义 = 肝脏中存在异常的钙化沉积。
+}}
+
+==[[HP:0006560]]==
+{{Infobox HPO
+| hpoId = HP:0006560
+| 名称 = Biliary hyperplasia
+| 定义 = `Hyperplasia` (MPATH:134) of the `biliary tree` (FMA:14665), as manifested by increased size of bile ducts, dilated lumen, and histologically by an increased number of epithelial cells or hyperplasia.
+| 中文译名 = 胆管增生
+| 中文定义 = 胆管树的增生，表现为胆管大小增加、管腔扩张，组织学上表现为上皮细胞数目增加或增生。
+}}
+
+==[[HP:0006561]]==
+{{Infobox HPO
+| hpoId = HP:0006561
+| 名称 = Lipid accumulation in hepatocytes
+| 定义 = #####
+| 中文译名 = 肝细胞内脂质堆积
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006562]]==
+{{Infobox HPO
+| hpoId = HP:0006562
+| 名称 = Viral hepatitis
+| 定义 = Inflammation of the liver due to infection with a virus.
+| 中文译名 = 病毒性肝炎
+| 中文定义 = 病毒感染导致的肝炎。
+}}
+
+
+==[[HP:0006563]]==
+{{Infobox HPO
+| hpoId = HP:0006563
+| 名称 = Malformation of the hepatic ductal plate
+| 定义 = #####
+| 中文译名 = 肝管板畸形
+| 中文定义 = #####
+}}
+
+==[[HP:0006564]]==
+{{Infobox HPO
+| hpoId = HP:0006564
+| 名称 = Fluctuating hepatomegaly
+| 定义 = Intermittently `increased size` (PATO:0000586) of the `liver` (FMA:7197).
+| 中文译名 = 间歇性肝肿大
+| 中文定义 = 肝脏大小间歇性增加。
+}}
+
+
+==[[HP:0006565]]==
+{{Infobox HPO
+| hpoId = HP:0006565
+| 名称 = Increased hepatocellular lipid droplets
+| 定义 = An abnormal increase in the amount of intracellular lipid droplets in hepatocytes.
+| 中文译名 = 肝细胞内脂滴增加
+| 中文定义 = 肝细胞内脂滴量异常增加。
+}}
+
+
+==[[HP:0006566]]==
+{{Infobox HPO
+| hpoId = HP:0006566
+| 名称 = Neonatal cholestatic liver disease
+| 定义 = #####
+| 中文译名 = 新生儿胆汁淤积性肝病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006568]]==
+{{Infobox HPO
+| hpoId = HP:0006568
+| 名称 = Increased hepatic glycogen content
+| 定义 = An increase in the amount of glycogen stored in hepatocytes compared to normal.
+| 中文译名 = 肝糖原含量增高
+| 中文定义 = 肝细胞的糖原储存量较正常增加。
+}}
+
+==[[HP:0006571]]==
+{{Infobox HPO
+| hpoId = HP:0006571
+| 名称 = Reduced number of intrahepatic bile ducts
+| 定义 = The presence of `reduced numbers of ` (PATO:0001999) `intrahepatic bile duct` (FMA:15766) than normal.
+| 中文译名 = 肝内胆管数量减少
+| 中文定义 = 肝内胆管数量较正常减少。
+}}
+
+==[[HP:0006572]]==
+{{Infobox HPO
+| hpoId = HP:0006572
+| 名称 = Subacute progressive viral hepatitis
+| 定义 = #####
+| 中文译名 = 亚急性进行性病毒性肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006573]]==
+{{Infobox HPO
+| hpoId = HP:0006573
+| 名称 = Acute hepatic steatosis
+| 定义 = An `acute` (PATO:0000389) form of `hepatic steatosis` (HP:0001397).
+| 中文译名 = 急性肝脂肪变性
+| 中文定义 = 一种急性形式的肝脂肪变性。
+}}
+
+==[[HP:0006574]]==
+{{Infobox HPO
+| hpoId = HP:0006574
+| 名称 = Hepatic arteriovenous malformation
+| 定义 = #####
+| 中文译名 = 肝动静脉畸形
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006575]]==
+{{Infobox HPO
+| hpoId = HP:0006575
+| 名称 = Intrahepatic cholestasis with episodic jaundice
+| 定义 = #####
+| 中文译名 = 肝内胆汁淤积伴发作性黄疸
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006576]]==
+{{Infobox HPO
+| hpoId = HP:0006576
+| 名称 = Hepatic vascular malformations
+| 定义 = #####
+| 中文译名 = 肝脏血管畸形
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006577]]==
+{{Infobox HPO
+| hpoId = HP:0006577
+| 名称 = Macronodular cirrhosis
+| 定义 = A type of `cirrhosis` (HP:0001394) characterized by the presence of large regenerative nodules.
+| 中文译名 = 大结节性肝硬化
+| 中文定义 = 一种肝硬化，其特征为具有大的再生性结节。
+}}
+
+
+==[[HP:0006579]]==
+{{Infobox HPO
+| hpoId = HP:0006579
+| 名称 = Prolonged neonatal jaundice
+| 定义 = Neonatal jaundice refers to a yellowing of the skin and other tissues of a newborn infant as a result of increased concentrations of bilirubin in the blood. Neonatal jaundice affects over half of all newborns to some extent in the first week of life. Prolonged neonatal jaundice is said to be present if the jaundice persists for longer than 14 days in term infants and 21 days in preterm infants.
+| 中文译名 = 新生儿黄疸期延长
+| 中文定义 = 新生儿黄疸是指新生儿的皮肤或其他组织是血液中胆红素浓度升高而出现黄染。新生儿黄疸影响超过一半的一周龄新生儿。如果黄疸在足月儿持续超过14天，在早产儿持续超过21天则为新生儿黄疸期延长。
+}}
+
+==[[HP:0006580]]==
+{{Infobox HPO
+| hpoId = HP:0006580
+| 名称 = Portal fibrosis
+| 定义 = Fibroblast proliferation and fiber expansion from the portal areas to the lobule.
+| 中文译名 = 汇管区纤维化
+| 中文定义 = 自汇管区至肝小叶的成纤维细胞增生和纤维扩展。
+}}
+
+==[[HP:0006581]]==
+{{Infobox HPO
+| hpoId = HP:0006581
+| 名称 = Depletion of mitochondrial DNA in liver
+| 定义 = An abnormal reduction in the number of mitochondria in hepatocytes.
+| 中文译名 = 肝脏线粒体DNA缺失
+| 中文定义 = 肝细胞中线粒体数目的异常减少。
+}}
+
+==[[HP:0006582]]==
+{{Infobox HPO
+| hpoId = HP:0006582
+| 名称 = Reye syndrome-like episodes
+| 定义 = #####
+| 中文译名 = Reye综合征样发作
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006583]]==
+{{Infobox HPO
+| hpoId = HP:0006583
+| 名称 = Fatal liver failure in infancy
+| 定义 = #####
+| 中文译名 = 婴儿期致命性肝功能衰竭
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006706]]==
+{{Infobox HPO
+| hpoId = HP:0006706
+| 名称 = Cystic liver disease
+| 定义 = #####
+| 中文译名 = 囊性肝病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006707]]==
+{{Infobox HPO
+| hpoId = HP:0006707
+| 名称 = Abnormality of the hepatic vasculature
+| 定义 = An abnormality of the `hepatic vasculature` (FMA:73748).
+| 中文译名 = 肝脏血管异常
+| 中文定义 = 肝血管的异常。
+}}
+
+
+==[[HP:0006716]]==
+{{Infobox HPO
+| hpoId = HP:0006716
+| 名称 = Hereditary nonpolyposis colorectal carcinoma
+| 定义 = #####
+| 中文译名 = 遗传性非息肉性结直肠癌
+| 中文定义 = #####
+}}
+
+==[[HP:0006719]]==
+{{Infobox HPO
+| hpoId = HP:0006719
+| 名称 = Benign gastrointestinal tract tumors
+| 定义 = #####
+| 中文译名 = 良性胃肠道肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006722]]==
+{{Infobox HPO
+| hpoId = HP:0006722
+| 名称 = Small intestine carcinoid
+| 定义 = #####
+| 中文译名 = 小肠类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006723]]==
+{{Infobox HPO
+| hpoId = HP:0006723
+| 名称 = Intestinal carcinoid
+| 定义 = #####
+| 中文译名 = 肠道类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006725]]==
+{{Infobox HPO
+| hpoId = HP:0006725
+| 名称 = Pancreatic adenocarcinoma
+| 定义 = The presence of an `adenocarcinoma` (MPATH:268) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺腺癌
+| 中文定义 = 存在于胰腺的腺癌。
+}}
+
+
+==[[HP:0006749]]==
+{{Infobox HPO
+| hpoId = HP:0006749
+| 名称 = Malignant gastrointestinal tract tumors
+| 定义 = #####
+| 中文译名 = 胃肠道恶性肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006753]]==
+{{Infobox HPO
+| hpoId = HP:0006753
+| 名称 = Neoplasm of the stomach
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `stomach` (FMA:7148).
+| 中文译名 = 胃肿瘤
+| 中文定义 = 存在于胃的肿瘤。
+}}
+
+
+==[[HP:0006763]]==
+{{Infobox HPO
+| hpoId = HP:0006763
+| 名称 = Anal canal squamous carcinoma
+| 定义 = #####
+| 中文译名 = 肛管鳞状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006771]]==
+{{Infobox HPO
+| hpoId = HP:0006771
+| 名称 = Duodenal carcinoma
+| 定义 = #####
+| 中文译名 = 十二指肠癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007024]]==
+{{Infobox HPO
+| hpoId = HP:0007024
+| 名称 = Pseudobulbar paralysis
+| 定义 = Bilateral impairment of the function of the cranial nerves 9-12, which control musculature involved in eating, swallowing, and speech. Pseudobulbar paralysis is characterized clinically by dysarthria, dysphonia, and dysphagia with bifacial paralysis, and may be accompanied by `Pseudobulbar behavioral symptoms` (HP:0002193) such as enforced crying and laughing.
+| 中文译名 = 假性球麻痹
+| 中文定义 = 第9-12对颅神经控制与进食、吞咽、语言相关的肌肉，双侧受损时表现为假性球麻痹。假性球麻痹以构音障碍、发音困难、吞咽困难伴双侧为临床特征，可能伴有强哭强笑等“假性球麻痹性行为症状”。
+}}
+
+==[[HP:0007378]]==
+{{Infobox HPO
+| hpoId = HP:0007378
+| 名称 = Neoplasm of the gastrointestinal tract
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the gastrointestinal tract.
+| 中文译名 = 胃肠道肿瘤
+| 中文定义 = 存在于胃肠道的肿瘤。
+}}
+
+
+==[[HP:0008150]]==
+{{Infobox HPO
+| hpoId = HP:0008150
+| 名称 = Elevated serum transaminases during infections
+| 定义 = Elevations of the levels of SGOT (serum glutamic oxaloacetic transaminase) and SGPT (serum glutamic pyruvic transaminase) that occur during infections.
+| 中文译名 = 感染期血清转氨酶升高
+| 中文定义 = 发生于感染期的SGOT（血清谷草转氨酶）和SGPT（血清谷丙转氨酶）水平升高。
+}}
+
+
+==[[HP:0008194]]==
+{{Infobox HPO
+| hpoId = HP:0008194
+| 名称 = Multiple pancreatic beta-cell adenomas
+| 定义 = The presence of `multiple` (PATO:0002118) `pancreatic islet cell adenomas` (HP:0008261).
+| 中文译名 = 多发胰腺β细胞腺瘤
+| 中文定义 = 胰腺中存在多发的胰腺胰岛细胞腺瘤(HP:0008261).
+}}
+
+
+==[[HP:0008261]]==
+{{Infobox HPO
+| hpoId = HP:0008261
+| 名称 = Pancreatic islet cell adenoma
+| 定义 = The presence of an `adenoma` (MPATH:270) of the `pancreas` (FMA:7198) with origin in a `pancreatic B cell` (CL:0000169).
+| 中文译名 = 胰岛细胞腺瘤
+| 中文定义 = 胰腺的一种腺瘤，来源于胰岛B细胞。
+}}
+
+==[[HP:0008872]]==
+{{Infobox HPO
+| hpoId = HP:0008872
+| 名称 = Feeding difficulties in infancy
+| 定义 = Impaired feeding performance of an infant as manifested by difficulties such as weak and ineffective sucking, brief bursts of sucking, and falling asleep during sucking. There may be difficulties with chewing or maintaining attention.
+| 中文译名 = 婴儿期喂养困难
+| 中文定义 = 婴儿喂养行为受损，表现为诸如弱的或无效吮吸、短暂吮吸及吮吸时睡着。也可能是咀嚼或维持注意力的困难。
+}}
+
+==[[HP:0009023]]==
+{{Infobox HPO
+| hpoId = HP:0009023
+| 名称 = Abdominal wall muscle weakness
+| 定义 = `Decreased strength` (PATO:0001779) of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌无力
+| 中文定义 = 腹部肌肉张力低下。
+}}
+
+
+==[[HP:0009789]]==
+{{Infobox HPO
+| hpoId = HP:0009789
+| 名称 = Perianal abscess
+| 定义 = The presence of an abscess located around the anus.
+| 中文译名 = 肛周脓肿
+| 中文定义 = 位于肛门周围的脓肿。
+}}
+
+
+==[[HP:0009799]]==
+{{Infobox HPO
+| hpoId = HP:0009799
+| 名称 = Supernumerary spleens
+| 定义 = The presence of two or more accessory spleens.
+| 中文译名 = 多脾
+| 中文定义 = 两个或两个以上副脾的存在。
+}}
+
+
+==[[HP:0010318]]==
+{{Infobox HPO
+| hpoId = HP:0010318
+| 名称 = aplasia/Hypoplasia of the abdominal wall musculature
+| 定义 = Absence or underdevelopment of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌群发育不全/发育不良
+| 中文定义 = 腹壁肌群缺失或发育不全。
+}}
+
+
+==[[HP:0010447]]==
+{{Infobox HPO
+| hpoId = HP:0010447
+| 名称 = Anal fistula
+| 定义 = An abnormal connection between the epithelialised surface of the anal canal and the perianal skin.
+| 中文译名 = 肛瘘
+| 中文定义 = 肛管上皮表面和肛周皮肤之间的异常连接。
+}}
+
+
+==[[HP:0010448]]==
+{{Infobox HPO
+| hpoId = HP:0010448
+| 名称 = Colonic atresia
+| 定义 = A developmental defect resulting in complete obliteration of the lumen of the colon. That is, there is an abnormal closure, or `atresia` (PATO:0001819) of the tubular structure of the `colon` (FMA:14543).
+| 中文译名 = 结肠闭锁
+| 中文定义 = 一种导致结肠腔完全消失的发育缺陷。即，结肠的管状结构有一个异常的闭合，或“闭锁”。
+}}
+
+
+==[[HP:0010450]]==
+{{Infobox HPO
+| hpoId = HP:0010450
+| 名称 = Esophageal stenosis
+| 定义 = An abnormal narrowing of the lumen of the esophagus.
+| 中文译名 = 食管狭窄
+| 中文定义 = 食管腔的异常变窄。
+}}
+
+
+==[[HP:0010451]]==
+{{Infobox HPO
+| hpoId = HP:0010451
+| 名称 = aplasia/Hypoplasia of the spleen
+| 定义 = Absence or underdevelopment of the `spleen` (FMA:7196).
+| 中文译名 = 脾发育不全/发育不良
+| 中文定义 = 脾的缺失或发育不全。
+}}
+
+
+==[[HP:0010452]]==
+{{Infobox HPO
+| hpoId = HP:0010452
+| 名称 = Ectopia of the spleen
+| 定义 = An abnormal (non-anatomic) location of the `spleen` (FMA:7196).
+| 中文译名 = 脾异位
+| 中文定义 = 脾的一种异常（非解剖）定位。
+}}
+
+
+==[[HP:0010475]]==
+{{Infobox HPO
+| hpoId = HP:0010475
+| 名称 = Cloacal exstrophy
+| 定义 = Cloacal exstrophy is a severe anterior abdominal wall defect in which the two hemibladders are visible and are separated by a midline intestinal plate, an omphalocele, and an imperforate anus.
+| 中文译名 = 泄殖腔外翻
+| 中文定义 = 泄殖腔外翻是一种严重的前腹壁缺损，可见被中线肠板分成两个半膀胱，脐膨出和肛门闭锁。
+}}
+
+==[[HP:0010676]]==
+{{Infobox HPO
+| hpoId = HP:0010676
+| 名称 = Mechanical ileus
+| 定义 = #####
+| 中文译名 = 机械性肠梗阻
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010866]]==
+{{Infobox HPO
+| hpoId = HP:0010866
+| 名称 = Abdominal wall defect
+| 定义 = An `incomplete closure` (PATO:0000609) of the `abdominal wall` (FMA:259054).
+| 中文译名 = 腹壁缺损
+| 中文定义 = 腹壁的不完全闭合。
+}}
+
+
+==[[HP:0010991]]==
+{{Infobox HPO
+| hpoId = HP:0010991
+| 名称 = Abnormality of the abdominal musculature
+| 定义 = An abnormality of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹部肌肉系统异常
+| 中文定义 = 腹部肌肉的异常。
+}}
+
+
+==[[HP:0011005]]==
+{{Infobox HPO
+| hpoId = HP:0011005
+| 名称 = Mixed cirrhosis
+| 定义 = A type of `cirrhosis` (HP:0001394) characterized by the presence of regenerative nodules of a variety of sizes.
+| 中文译名 = 混合性肝硬化
+| 中文定义 = 肝硬化的一种，其特征为具有大小不等的再生性结节。
+}}
+
+
+==[[HP:0011024]]==
+{{Infobox HPO
+| hpoId = HP:0011024
+| 名称 = Abnormality of the gastrointestinal tract
+| 定义 = An abnormality of the `gastrointestinal tract` (FMA:71132).
+| 中文译名 = 胃肠道异常
+| 中文定义 = 胃肠道的异常。
+}}
+
+
+==[[HP:0011040]]==
+{{Infobox HPO
+| hpoId = HP:0011040
+| 名称 = Abnormality of the intrahepatic bile duct
+| 定义 = An abnormality of the `intrahepatic bile duct` (FMA:15766).
+| 中文译名 = 肝内胆管异常
+| 中文定义 = 肝内胆管的异常。
+}}
+
+
+==[[HP:0011100]]==
+{{Infobox HPO
+| hpoId = HP:0011100
+| 名称 = Intestinal atresia
+| 定义 = An abnormal closure, or `atresia` (PATO:0001819) of the tubular structure of the `intestine` (FMA:7199).
+| 中文译名 = 肠闭锁
+| 中文定义 = 肠道管状机结构一种异常闭合，或“闭锁”。
+}}
+
+==[[HP:0011102]]==
+{{Infobox HPO
+| hpoId = HP:0011102
+| 名称 = Ileal atresia
+| 定义 = An abnormal closure, or `atresia` (PATO:0001819) of the tubular structure of the `ileum` (FMA:7208).
+| 中文译名 = 回肠闭锁
+| 中文定义 = 回肠管状结构的一种异常闭合，或“闭锁”
+}}
+
+
+==[[HP:0011128]]==
+{{Infobox HPO
+| hpoId = HP:0011128
+| 名称 = Acute esophageal necrosis
+| 定义 = A condition characterized by necrosis of the mucosal and submucosal layers of the esophagus not related to ingestion of caustic or other injurious agents. Endoscopically, there is a dark lesion (&#39;black esophagus&#39;) distributed in a circumferential manner in the distal one-third of the esophagus with or without exudates. There is involvement of the distal esophagus ending sharply at the gastroesophageal junction.
+| 中文译名 = 急性食管坏死
+| 中文定义 = 其特征在于食管粘膜或粘膜下层坏死，这种坏死与腐蚀剂或其他有害物质的摄入无关。内镜观察会发现食管远端1/3环绕分布的黑色病灶（“黑食管”），有或无渗出。可累及食管远端，止于胃食管交界处。
+}}
+
+==[[HP:0011131]]==
+{{Infobox HPO
+| hpoId = HP:0011131
+| 名称 = Perianal rash
+| 定义 = The presence of a rash (change of color and texture) of the perianal skin.
+| 中文译名 = 肛周皮疹
+| 中文定义 = 存在于肛周皮肤的皮疹（颜色和结构改变）。
+}}
+
+
+==[[HP:0011139]]==
+{{Infobox HPO
+| hpoId = HP:0011139
+| 名称 = Gastric duplication
+| 定义 = Gastric duplication is a usually cystic malformation of gastrointestinal tract, usually attached to the greater curvature of the stomach and has no communication with the stomach.
+| 中文译名 = 胃重复畸形
+| 中文定义 = 胃重复畸形通常是胃肠道的囊状畸形，一般附着于胃的大弯侧，但与胃不相通。
+}}
+
+==[[HP:0011140]]==
+{{Infobox HPO
+| hpoId = HP:0011140
+| 名称 = Gastrointestinal duplication
+| 定义 = A spherical hollow structure with a smooth muscle coat, lined by a mucous membrane, and attached to any part of the gastrointestinal tract, from the base of the tongue to the anus.
+| 中文译名 = 胃肠重复
+| 中文定义 = 一个具有平滑肌外壳的中空球形结构，通过粘膜连接到胃肠道的任何部位（从舌的基部到肛门）。
+}}
+
+
+==[[HP:0011284]]==
+{{Infobox HPO
+| hpoId = HP:0011284
+| 名称 = Short-segment aganglionic megacolon
+| 定义 = A type of aganglionic megacolon in which the aganglionic segment does not extend beyond the upper sigmoid.
+| 中文译名 = 短段无神经节巨结肠
+| 中文定义 = 一种无神经节巨结肠，其中的无神经节节段不超出上段乙状结肠。
+}}
+
+==[[HP:0011285]]==
+{{Infobox HPO
+| hpoId = HP:0011285
+| 名称 = Long-segment aganglionic megacolon
+| 定义 = A type of aganglionic megacolon in which the aganglionic segment extends proximal to the sigmoid.
+| 中文译名 = 长节段无神经节巨结肠
+| 中文定义 = 一种无神经节的巨结肠，从近端延伸到乙状结肠。
+}}
+
+
+==[[HP:0011286]]==
+{{Infobox HPO
+| hpoId = HP:0011286
+| 名称 = Total colonic aganglionosis
+| 定义 = A type of aganglionic megacolon in which the aganglionic segment comprises the entire colon.
+| 中文译名 = 全结肠无神经节细胞
+| 中文定义 = 一种无神经节性巨结肠，其无神经节细胞节段包括整个结肠。
+}}
+
+
+==[[HP:0011458]]==
+{{Infobox HPO
+| hpoId = HP:0011458
+| 名称 = Abdominal symptom
+| 定义 = #####
+| 中文译名 = 腹部症状
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011459]]==
+{{Infobox HPO
+| hpoId = HP:0011459
+| 名称 = Esophageal carcinoma
+| 定义 = The presence of a `carcinoma` (MPATH:549) of the `esophagus` (FMA:7131).
+| 中文译名 = 食管癌
+| 中文定义 = 发生于食管的肿瘤。
+}}
+
+
+==[[HP:0011464]]==
+{{Infobox HPO
+| hpoId = HP:0011464
+| 名称 = Aganglionosis of the small intestine
+| 定义 = A lack of intestinal ganglion cells (i.e., an aganglionic section of bowel) affecting the small intestine.
+| 中文译名 = 小肠神经节细胞缺乏症
+| 中文定义 = 小肠缺少神经节细胞（即肠的无神经节段）。
+}}
+
+==[[HP:0011465]]==
+{{Infobox HPO
+| hpoId = HP:0011465
+| 名称 = Duodenal aganglionosis
+| 定义 = A lack of intestinal ganglion cells (i.e., an aganglionic section of bowel) affecting the duodenum.
+| 中文译名 = 十二指肠神经节细胞缺乏症
+| 中文定义 = 十二指肠缺少神经节细胞（即肠的无神经节段）。
+}}
+
+==[[HP:0011466]]==
+{{Infobox HPO
+| hpoId = HP:0011466
+| 名称 = aplasia/Hypoplasia of the gallbladder
+| 定义 = Absence or underdevelopment of the `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊发育不全/发育不良
+| 中文定义 = 胆囊的缺失或发育不全。
+}}
+
+
+==[[HP:0011467]]==
+{{Infobox HPO
+| hpoId = HP:0011467
+| 名称 = Absent gallbladder
+| 定义 = A developmental defect in which the `gallbladder` (FMA:7202) fails to form.
+| 中文译名 = 胆囊缺失
+| 中文定义 = 一种未形成胆囊的发育缺陷。
+}}
+
+
+==[[HP:0011469]]==
+{{Infobox HPO
+| hpoId = HP:0011469
+| 名称 = Nasal regurgitation
+| 定义 = Regurgitation of milk through the nose.
+| 中文译名 = 鼻腔返流
+| 中文定义 = （婴儿）经由鼻腔吐奶。
+}}
+
+
+==[[HP:0011470]]==
+{{Infobox HPO
+| hpoId = HP:0011470
+| 名称 = Nasogastric tube feeding in infancy
+| 定义 = Feeding problem necessitating nasogastric tube feeding.
+| 中文译名 = 婴儿期鼻胃管饲
+| 中文定义 = （婴儿期）由于喂养问题必要行鼻胃管饲。
+}}
+
+==[[HP:0011471]]==
+{{Infobox HPO
+| hpoId = HP:0011471
+| 名称 = Gastrostomy tube feeding in infancy
+| 定义 = Feeding problem necessitating gastrostomy tube feeding.
+| 中文译名 = 婴儿期胃造口管饲
+| 中文定义 = （婴儿期）由于喂养问题不得不进行胃造口管饲。
+}}
+
+
+==[[HP:0011472]]==
+{{Infobox HPO
+| hpoId = HP:0011472
+| 名称 = Abnormality of small intestinal villus morphology
+| 定义 = #####
+| 中文译名 = 小肠绒毛形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011473]]==
+{{Infobox HPO
+| hpoId = HP:0011473
+| 名称 = Villous atrophy
+| 定义 = The enteric villi are atrophic or absent.
+| 中文译名 = 绒毛萎缩
+| 中文定义 = 肠绒毛萎缩或缺失。
+}}
+
+
+==[[HP:0011620]]==
+{{Infobox HPO
+| hpoId = HP:0011620
+| 名称 = Abnormality of abdominal situs
+| 定义 = An abnormality of the abdominal situs, i.e., of the sidedness of the abdomin and its organs.
+| 中文译名 = 腹部位置异常
+| 中文定义 = 腹部位置的异常，即，腹部及其脏器的边界异常。
+}}
+
+==[[HP:0011848]]==
+{{Infobox HPO
+| hpoId = HP:0011848
+| 名称 = Abdominal colic
+| 定义 = #####
+| 中文译名 = 腹部绞痛
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011854]]==
+{{Infobox HPO
+| hpoId = HP:0011854
+| 名称 = Hemoperitoneum
+| 定义 = Accumulation of blood in the peritoneal cavity owing to internal hemorrhage.
+| 中文译名 = 腹腔积血
+| 中文定义 = 由于内出血导致腹腔中血液积累。
+}}
+
+==[[HP:0011954]]==
+{{Infobox HPO
+| hpoId = HP:0011954
+| 名称 = Nodular regenerative hyperplasia of liver
+| 定义 = Diffuse benign transformation of the hepatic parenchyma into small regenerative nodules with minimal or no fibrosis.
+| 中文译名 = 肝脏结节性再生性增生
+| 中文定义 = 肝实质向小的再生性结节的弥漫性良性转化，伴随细微的纤维化或无纤维化。
+}}
+
+==[[HP:0011955]]==
+{{Infobox HPO
+| hpoId = HP:0011955
+| 名称 = Hepatic granulomatosis
+| 定义 = The presence of multiple granulomas in the liver as based on pathological examination. Granulomas are small 0.5 to 2 mm collections of modified macrophages called epithelioid cells usually surrounded by lymphocytes.
+| 中文译名 = 肝肉芽肿
+| 中文定义 = 基于病理检测的肝脏中多个肉芽肿的存在。肉芽肿大小为0.5-2毫米，为淋巴细胞包围的改性巨噬细胞（上皮样细胞）的聚集形成。
+}}
+
+==[[HP:0011956]]==
+{{Infobox HPO
+| hpoId = HP:0011956
+| 名称 = Intestinal lymphoid nodular  hyperplasia
+| 定义 = A lymphoproliferative abnormality of the intestine characterized by numerous visible mucosal nodules measuring up to, and rarely exceeding, 0.5 cm in diameter Histologically, hyperplastic lymphoid follicles with large germinal centres are seen in the lamina propria and superficial submucosa. There is enlargement of the mucosal B cell follicles caused by hyperplasia of the follicle centres; surrounded by a normal appearing mantle zone. Disease may involve the stomach, the entire small intestine, and the large intestine.
+| 中文译名 = 肠道淋巴组织样结节性增生
+| 中文定义 = 肠淋巴组织异常增生，其特征为大量可见的粘膜结节，直径可达且罕有超过0.5cm。在组织学上，在固有层和粘膜下层浅层可见增生的淋巴滤泡伴有大的生发中心。滤泡中心增生引起粘膜B细胞滤泡增大，由表观正常的套区围绕。该病可累及胃、整个小肠和大肠。
+}}
+
+==[[HP:0011968]]==
+{{Infobox HPO
+| hpoId = HP:0011968
+| 名称 = Feeding difficulties
+| 定义 = Impaired ability to eat related to problems gathering food and getting ready to suck, chew, or swallow it.
+| 中文译名 = 喂养困难
+| 中文定义 = 进食能力受损，与收集食物和吮吸、咀嚼或吞咽食物的问题相关。
+}}
+
+==[[HP:0011980]]==
+{{Infobox HPO
+| hpoId = HP:0011980
+| 名称 = Cholesterol gallstones
+| 定义 = Gallstones composed primarily of cholesterol, usually about 2-3 cm in length with an oval form and a yellow or green/brown color.
+| 中文译名 = 胆固醇胆结石
+| 中文定义 = 主要成分为胆固醇的胆结石，通常为2-3厘米长，椭圆形，黄色或绿色/棕色。
+}}
+
+
+==[[HP:0011981]]==
+{{Infobox HPO
+| hpoId = HP:0011981
+| 名称 = Pigment gallstones
+| 定义 = Gallstones composed primarily of bilirubin and calcium salts (calcium bilirubinate) with a low cholesterol concentration.
+| 中文译名 = 胆色素胆结石
+| 中文定义 = 主要由胆红素和钙盐（胆红素钙）组成的低胆固醇浓度的胆结石。
+}}
+
+
+==[[HP:0011982]]==
+{{Infobox HPO
+| hpoId = HP:0011982
+| 名称 = Black pigment gallstones
+| 定义 = A type of pigment gallstone that is hard and black, containing calcium carbonate and calcium phosphates.
+| 中文译名 = 黑色素结石
+| 中文定义 = 一种有色素的胆结石，坚硬且为黑色，含有碳酸钙和磷酸钙。
+}}
+
+
+==[[HP:0011983]]==
+{{Infobox HPO
+| hpoId = HP:0011983
+| 名称 = Brown pigment gallstones
+| 定义 = A type of pigment gallstone that is brown, containing calcium fatty acids. These stones are softer than black pigment gallstones.
+| 中文译名 = 褐色素胆结石
+| 中文定义 = 一种有色素的胆结石，结石为棕色，含有脂肪酸钙。该结石硬度较黑色胆结石软。
+}}
+
+
+==[[HP:0011984]]==
+{{Infobox HPO
+| hpoId = HP:0011984
+| 名称 = Atretic gallbladder
+| 定义 = Failure of formation of the lumen of the gallbladder, often associated with gallbladder hypoplasia.
+| 中文译名 = 胆囊闭锁
+| 中文定义 = 胆囊腔未形成，往往与胆囊发育不全有关。
+}}
+
+
+==[[HP:0011985]]==
+{{Infobox HPO
+| hpoId = HP:0011985
+| 名称 = Acholic stools
+| 定义 = Clay colored stools lacking bile pigment.
+| 中文译名 = 无胆色大便
+| 中文定义 = 缺乏胆色素的陶土色大便。
+}}
+
+
+==[[HP:0012028]]==
+{{Infobox HPO
+| hpoId = HP:0012028
+| 名称 = Hepatocellular adenoma
+| 定义 = A benign tumor of the liver of presumably epithelial origin.
+| 中文译名 = 肝细胞腺瘤
+| 中文定义 = 可能为上皮来源的一种肝脏良性肿瘤。
+}}
+
+==[[HP:0012090]]==
+{{Infobox HPO
+| hpoId = HP:0012090
+| 名称 = Abnormality of pancreas morphology
+| 定义 = #####
+| 中文译名 = 胰腺形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012091]]==
+{{Infobox HPO
+| hpoId = HP:0012091
+| 名称 = Abnormality of pancreas physiology
+| 定义 = An anomaly of the function of the pancreas.
+| 中文译名 = 胰腺生理功能异常
+| 中文定义 = 胰腺功能的异常。
+}}
+
+
+==[[HP:0012092]]==
+{{Infobox HPO
+| hpoId = HP:0012092
+| 名称 = Abnormality of exocrine pancreas physiology
+| 定义 = A functional anomaly of the acinar gland portion of the pancreas that secretes digestive enzymes.
+| 中文译名 = 胰腺外分泌生理功能异常
+| 中文定义 = 分泌消化酶的胰腺腺泡腺体功能性异常。
+}}
+
+
+==[[HP:0012093]]==
+{{Infobox HPO
+| hpoId = HP:0012093
+| 名称 = Abnormality of endocrine pancreas physiology
+| 定义 = A function abnormality of the endocrine pancreas.
+| 中文译名 = 胰腺内分泌生理功能异常
+| 中文定义 = 内分泌胰腺的功能异常。
+}}
+
+
+==[[HP:0012094]]==
+{{Infobox HPO
+| hpoId = HP:0012094
+| 名称 = Abnormal pancreas size
+| 定义 = A deviation from the normal size of the pancreas.
+| 中文译名 = 胰腺大小异常
+| 中文定义 = 与正常胰脏大小存在偏差。
+}}
+
+
+==[[HP:0012115]]==
+{{Infobox HPO
+| hpoId = HP:0012115
+| 名称 = Hepatitis
+| 定义 = Inflammation of the liver.
+| 中文译名 = 肝炎
+| 中文定义 = 肝脏的炎症。
+}}
+
+
+==[[HP:0012126]]==
+{{Infobox HPO
+| hpoId = HP:0012126
+| 名称 = Stomach cancer
+| 定义 = A cancer arising in any part of the stomach.
+| 中文译名 = 胃癌
+| 中文定义 = 发生于胃任何部位的癌症。
+}}
+
+
+==[[HP:0012142]]==
+{{Infobox HPO
+| hpoId = HP:0012142
+| 名称 = Pancreatic squamous cell carcinoma
+| 定义 = A subtype of ductal pancreatic carcinoma that is thought to  originate from squamous metaplasia of pancreatic ductal epithelium.
+| 中文译名 = 胰腺鳞状细胞癌
+| 中文定义 = 胰腺导管癌的一种亚型，被认为起源于胰腺导管上皮的鳞状化生。
+}}
+
+==[[HP:0012183]]==
+{{Infobox HPO
+| hpoId = HP:0012183
+| 名称 = Hyperplastic colonic polyposis
+| 定义 = Presence of multiple hyperplastic polyps in the colon. Hyperplastic polyps are generally about 5 mm in size and show hyperplastic mucosal proliferation.
+| 中文译名 = 增生性结肠息肉病
+| 中文定义 = 存在于结肠的多个增生性息肉。增生性息肉通常约为5毫米大小，并显示增殖性粘膜增生。
+}}
+
+==[[HP:0012197]]==
+{{Infobox HPO
+| hpoId = HP:0012197
+| 名称 = Insulinoma
+| 定义 = A type of tumor of the pancreatic beta cells that secretes excess insulin and can result in hypoglycemia.
+| 中文译名 = 胰岛素瘤
+| 中文定义 = 一种胰腺β细胞肿瘤，分泌过多的胰岛素，可导致低血糖症。
+}}
+
+
+==[[HP:0012198]]==
+{{Infobox HPO
+| hpoId = HP:0012198
+| 名称 = Juvenile colonic polyposis
+| 定义 = The presence of more than 5 juvenile polyps of the colon.
+| 中文译名 = 幼年性结肠息肉病
+| 中文定义 = 结肠存在至少5个幼年性息肉。
+}}
+
+==[[HP:0012223]]==
+{{Infobox HPO
+| hpoId = HP:0012223
+| 名称 = Splenic rupture
+| 定义 = A breach of the capsule of the spleen.
+| 中文译名 = 脾破裂
+| 中文定义 = 脾包膜破裂。
+}}
+
+
+==[[HP:0012280]]==
+{{Infobox HPO
+| hpoId = HP:0012280
+| 名称 = Hepatic amyloidosis
+| 定义 = A form of `amyloidosis` (HP:0011034) that affects the liver.
+| 中文译名 = 肝淀粉样变性
+| 中文定义 = 一种影响肝脏的“淀粉样病变”形式。
+}}
+
+
+==[[HP:0012281]]==
+{{Infobox HPO
+| hpoId = HP:0012281
+| 名称 = Chylous ascites
+| 定义 = Extravasation of chyle into the peritoneal cavity.
+| 中文译名 = 乳糜腹水
+| 中文定义 = 乳糜外渗进入腹腔。
+}}
+
+
+==[[HP:0012334]]==
+{{Infobox HPO
+| hpoId = HP:0012334
+| 名称 = Extrahepatic cholestasis
+| 定义 = Impairment of bile flow due to obstruction in large bile ducts outside the liver.
+| 中文译名 = 肝外胆汁淤积
+| 中文定义 = 由于肝外大型胆管阻塞引起的胆汁流动障碍。
+}}
+
+
+==[[HP:0012381]]==
+{{Infobox HPO
+| hpoId = HP:0012381
+| 名称 = Delayed self-feeding during toddler years
+| 定义 = A delay in the development of skills required to feed oneself in the toddler period (between one and three years of age).
+| 中文译名 = 学步期自我喂饭能力发育落后
+| 中文定义 = 学步期（1-3岁期间）自己吃饭所需能力发育延后。
+}}
+
+
+==[[HP:0012390]]==
+{{Infobox HPO
+| hpoId = HP:0012390
+| 名称 = Anal fissure
+| 定义 = A small tear in the thin, moist tissue (mucosa) that lines the anus. It appears as a crack or slit in the mucous membrane of the anus.
+| 中文译名 = 肛裂
+| 中文定义 = 沿肛门的薄而湿润的组织（粘膜）的小撕裂，表现为肛门粘膜的破裂或裂缝。
+}}
+
+
+==[[HP:0012396]]==
+{{Infobox HPO
+| hpoId = HP:0012396
+| 名称 = Biliary dyskinesia
+| 定义 = A motility disorder characterized by biliary colic in the absence of gallstones with a reduced gallbladder ejection fraction.
+| 中文译名 = 胆囊运动障碍
+| 中文定义 = 胆囊的一种动力失调，其特征在于无胆结石而引起胆绞痛，伴有胆囊排空率降低。
+}}
+
+
+==[[HP:0012414]]==
+{{Infobox HPO
+| hpoId = HP:0012414
+| 名称 = Duodenal atrophy
+| 定义 = Wasting or decrease in size of all or part of the duodenum.
+| 中文译名 = 十二指肠萎缩
+| 中文定义 = 十二指肠全部或部分长度的损耗或减少。
+}}
+
+==[[HP:0012423]]==
+{{Infobox HPO
+| hpoId = HP:0012423
+| 名称 = Colonic inertia
+| 定义 = The inability of the colon to modify stool to an acceptable consistency and move the stool from the cecum to the rectosigmoid area at least once every three days.
+| 中文译名 = 结肠无力
+| 中文定义 = 结肠不能调节粪便至可接受的硬度并至少每三天一次将粪便从盲肠移动至直乙肠状结肠。
+}}
+
+==[[HP:0012425]]==
+{{Infobox HPO
+| hpoId = HP:0012425
+| 名称 = Stercoral ulcer
+| 定义 = An ulcer of the colon due to pressure and irritation from retained fecal masses.
+| 中文译名 = 粪性溃疡
+| 中文定义 = 由于停留（于结肠的）粪便团块的压力和刺激而导致的结肠溃疡。
+}}
+
+
+==[[HP:0012437]]==
+{{Infobox HPO
+| hpoId = HP:0012437
+| 名称 = Abnormal gallbladder morphology
+| 定义 = A structural anomaly of the `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊形态异常
+| 中文定义 = 胆囊结构异常。
+}}
+
+
+==[[HP:0012438]]==
+{{Infobox HPO
+| hpoId = HP:0012438
+| 名称 = Abnormal gallbladder physiology
+| 定义 = A functional anomaly of the `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊生理功能异常
+| 中文定义 = 胆囊功能异常。
+}}
+
+
+==[[HP:0012439]]==
+{{Infobox HPO
+| hpoId = HP:0012439
+| 名称 = Abnormal biliary tract physiology
+| 定义 = A functional abnormality of the `biliary tree` (FMA:14665).
+| 中文译名 = 胆道生理功能异常
+| 中文定义 = 胆道功能异常。
+}}
+
+
+==[[HP:0012440]]==
+{{Infobox HPO
+| hpoId = HP:0012440
+| 名称 = Abnormal biliary tract morphology
+| 定义 = A structural abnormality of the `biliary tree` (FMA:14665).
+| 中文译名 = 胆道形态异常
+| 中文定义 = 胆道结构异常。
+}}
+
+
+==[[HP:0012441]]==
+{{Infobox HPO
+| hpoId = HP:0012441
+| 名称 = Sphincter of Oddi dyskinesia
+| 定义 = Reduced motility through the `sphincter of Oddi` (FMA:15077), resulting in impedance of bile and pancreatic juice flow from the common bile duct into the duodenum.
+| 中文译名 = Oddi括约肌运动障碍
+| 中文定义 = Oddi括约肌动力降低，导致胆汁和胰液从胆总管流至十二指肠受阻。
+}}
+
+==[[HP:0012442]]==
+{{Infobox HPO
+| hpoId = HP:0012442
+| 名称 = Gallbladder dyskinesia
+| 定义 = Reduced motility of the gallbladder with reduced emptying fraction.
+| 中文译名 = 胆囊运动障碍
+| 中文定义 = 伴有排空分数降低的胆囊动力降低。
+}}
+
+
+==[[HP:0012450]]==
+{{Infobox HPO
+| hpoId = HP:0012450
+| 名称 = Chronic constipation
+| 定义 = Constipation for longer than three months with fewer than 3 bowel movements per week, straining, lumpy or hard stools, and a sensation of anorectal obstruction or incomplete defecation.
+| 中文译名 = 慢性便秘
+| 中文定义 = 超过3个月的便秘，每周少于3次大便，强制排便，块状或硬便，以及肛肠阻塞感或排便不完全感。
+}}
+
+
+==[[HP:0012451]]==
+{{Infobox HPO
+| hpoId = HP:0012451
+| 名称 = Acute constipation
+| 定义 = Constipation of sudden onset and lasting for less than three months.
+| 中文译名 = 急性便秘
+| 中文定义 = 突然发作，且持续时间不超过三个月的便秘。
+}}
+
+
+==[[HP:0012465]]==
+{{Infobox HPO
+| hpoId = HP:0012465
+| 名称 = Elevated hepatic iron concentration
+| 定义 = An increased level of iron in liver tissues.
+| 中文译名 = 肝内铁浓度升高
+| 中文定义 = 肝组织中铁水平增加。
+}}
+
+==[[HP:0012550]]==
+{{Infobox HPO
+| hpoId = HP:0012550
+| 名称 = Colonic varices
+| 定义 = The presence of varices (enlarged and convoluted blood vessels) in the colon.
+| 中文译名 = 结肠静脉曲张
+| 中文定义 = 结肠中存在静脉曲张（扩大的和盘旋的血管）。
+}}
+
+
+==[[HP:0012620]]==
+{{Infobox HPO
+| hpoId = HP:0012620
+| 名称 = Cloacal abnormality
+| 定义 = A developmental anomaly associated with the failure of rectum, vagina, and bladder to separate.
+| 中文译名 = 泄殖腔畸形
+| 中文定义 = 一种发育异常，直肠、阴道和膀胱未能分离。
+}}
+
+==[[HP:0012621]]==
+{{Infobox HPO
+| hpoId = HP:0012621
+| 名称 = Persistent cloaca
+| 定义 = Developmental anomaly in which the vagina, bladder, and rectum fuse resulting in a common channel.
+| 中文译名 = 泄殖腔遗存
+| 中文定义 = 一种发育异常，阴道、膀胱和直肠融合形成公共通道。
+}}
+
+
+==[[HP:0012700]]==
+{{Infobox HPO
+| hpoId = HP:0012700
+| 名称 = Abnormal large intestine physiology
+| 定义 = A functional anomaly of the large intestine.
+| 中文译名 = 大肠生理功能异常
+| 中文定义 = 大肠功能异常。
+}}
+
+
+==[[HP:0012701]]==
+{{Infobox HPO
+| hpoId = HP:0012701
+| 名称 = Bowel urgency
+| 定义 = A sudden, irresistible need to have a bowel movement.
+| 中文译名 = 排便紧迫感
+| 中文定义 = 一种突然且不可抗拒的排便需求。
+}}
+
+
+==[[HP:0012702]]==
+{{Infobox HPO
+| hpoId = HP:0012702
+| 名称 = Tenesmus
+| 定义 = A repeated, painful urge to defecate without excreting stool.
+| 中文译名 = 里急后重
+| 中文定义 = 重复的、疼痛的、急促排便感，但无排便。
+}}
+
+
+==[[HP:0012718]]==
+{{Infobox HPO
+| hpoId = HP:0012718
+| 名称 = Morphological abnormality of the gastrointestinal tract
+| 定义 = Abnormal structure of the gastrointestinal tract.
+| 中文译名 = 胃肠道形态异常
+| 中文定义 = 胃肠道的异常结构。
+}}
+
+
+==[[HP:0012719]]==
+{{Infobox HPO
+| hpoId = HP:0012719
+| 名称 = Functional abnormality of the gastrointestinal tract
+| 定义 = `Abnormal` (PATO:0000460) `functionality` (PATO:0001509) of the gastrointestinal tract.
+| 中文译名 = 胃肠道功能异常
+| 中文定义 = 胃肠道在功能上出现异常。
+}}
+
+
+==[[HP:0012732]]==
+{{Infobox HPO
+| hpoId = HP:0012732
+| 名称 = Anorectal anomaly
+| 定义 = An abnormality of the anus or rectum.
+| 中文译名 = 肛肠异常
+| 中文定义 = 肛门或直肠的异常。
+}}
+
+
+==[[HP:0012737]]==
+{{Infobox HPO
+| hpoId = HP:0012737
+| 名称 = Small intestinal polyp
+| 定义 = A discrete abnormal tissue mass that protrudes into the lumen of the small intestine and is attached to the intestinal wall either by a stalk, pedunculus, or a broad base.
+| 中文译名 = 小肠息肉
+| 中文定义 = 通过茎、脚或较大的基底而附着于肠壁、伸出到小肠腔的离散的异常组织块。
+}}
+
+
+==[[HP:0012739]]==
+{{Infobox HPO
+| hpoId = HP:0012739
+| 名称 = Agenesis of the small intestine
+| 定义 = Failure to develop of the small intestine.
+| 中文译名 = 小肠发育不全
+| 中文定义 = 小肠未能发育。
+}}
+
+
+==[[HP:0012848]]==
+{{Infobox HPO
+| hpoId = HP:0012848
+| 名称 = Small intestinal stenosis
+| 定义 = The narrowing or partial blockage of a portion of the small intestine.
+| 中文译名 = 小肠狭窄
+| 中文定义 = 小肠的一部分变窄或部分堵塞。
+}}
+
+
+==[[HP:0012849]]==
+{{Infobox HPO
+| hpoId = HP:0012849
+| 名称 = Small intestinal bleeding
+| 定义 = Bleeding from the small intestine.
+| 中文译名 = 小肠出血
+| 中文定义 = 来自小肠的出血。
+}}
+
+==[[HP:0012850]]==
+{{Infobox HPO
+| hpoId = HP:0012850
+| 名称 = Small intestinal dysmotility
+| 定义 = Abnormal small intestinal contractions, such as spasms and intestinal paralysis related to the loss of the ability of the gut to coordinate muscular activity because of endogenous or exogenous causes.
+| 中文译名 = 小肠动力障碍
+| 中文定义 = 小肠的异常收缩，如痉挛和肠麻痹，与由于内源性或外源性因素导致的肠调整肌肉活性的能力丧失相关。
+}}
+
+
+==[[HP:0012851]]==
+{{Infobox HPO
+| hpoId = HP:0012851
+| 名称 = Colonic stenosis
+| 定义 = A narrowing of a segment of colon whereby bowel continuity is maintained.
+| 中文译名 = 结肠狭窄
+| 中文定义 = 结肠的一段变窄，该处肠道的连续性仍保持。
+}}
+
+
+==[[HP:0012852]]==
+{{Infobox HPO
+| hpoId = HP:0012852
+| 名称 = Hepatic bridging fibrosis
+| 定义 = Hepatic fibrosis that reaches from a portal area to another portal area.
+| 中文译名 = 肝桥接纤维化
+| 中文定义 = 从汇管区扩展至另一汇管区的肝脏纤维化。
+}}
+
+==[[HP:0012859]]==
+{{Infobox HPO
+| hpoId = HP:0012859
+| 名称 = Esophageal leukoplakia
+| 定义 = A white patch or plaque occurring on the surface of the esophageal mucous membranes that cannot be rubbed off and cannot be characterized clinically as any other disease.
+| 中文译名 = 食管白斑
+| 中文定义 = 发生于食管粘膜表面的白色斑点或斑块，其不能被擦除且不能被做为其他疾病的临床特征。
+}}
+
+
+==[[HP:0012890]]==
+{{Infobox HPO
+| hpoId = HP:0012890
+| 名称 = Posteriorly placed anus
+| 定义 = Posterior malposition of the anus.
+| 中文译名 = 肛门后置
+| 中文定义 = 肛门的后部错位。
+}}
+
+
+==[[HP:0025023]]==
+{{Infobox HPO
+| hpoId = HP:0025023
+| 名称 = Rectal atresia
+| 定义 = A developmental defect resulting in complete obliteration of the lumen of the rectum. That is, there is an abnormal closure, or atresia of the tubular structure of the rectum.
+| 中文译名 = 直肠闭锁
+| 中文定义 = 导致直肠腔完全闭塞的发育缺陷。即，直肠管状结构存在异常闭合，或闭锁。
+}}
+
+==[[HP:0025024]]==
+{{Infobox HPO
+| hpoId = HP:0025024
+| 名称 = Megarectum
+| 定义 = An abnormal dilation of the rectum. There is a large filled rectum as a result of underlying innervation or mulscular abnormalities, which remains after disimpaction of the rectum.
+| 中文译名 = 巨直肠
+| 中文定义 = 直肠的异常扩张。因失神经支配或肌肉异常导致的被填充的巨大直肠，解除嵌塞后仍存在。
+}}
+
+==[[HP:0025025]]==
+{{Infobox HPO
+| hpoId = HP:0025025
+| 名称 = Rectovestibular fistula
+| 定义 = A congenital malformation characterized by an abnormal connection (fistula) between the rectum and the vulval vestibule, at the lower aspect of the vaginal opening.
+| 中文译名 = 直肠前庭瘘
+| 中文定义 = 以存在于直肠和会阴前庭（阴道开口的较低部分）之间的异常连接（瘘管）为特征的先天性畸形。
+}}
+
+==[[HP:0025026]]==
+{{Infobox HPO
+| hpoId = HP:0025026
+| 名称 = H-type rectovestibular fistula
+| 定义 = Rectovestibular fistula with a normal anus is known as H-type fistula or double termination of the alimentary tract.
+| 中文译名 = H型直肠前庭瘘
+| 中文定义 = 直肠前庭瘘伴正常肛门，被称为H型瘘管或消化道双重末端。
+}}
+
+==[[HP:0025028]]==
+{{Infobox HPO
+| hpoId = HP:0025028
+| 名称 = Abnormality of enteric nervous system morphology
+| 定义 = A structural anomaly of nerves of the enteric nervous system.
+| 中文译名 = 肠神经系统形态异常
+| 中文定义 = 肠神经系统形态的异常。
+}}
+
+==[[HP:0025029]]==
+{{Infobox HPO
+| hpoId = HP:0025029
+| 名称 = Abnormality of enteric neuron morphology
+| 定义 = #####
+| 中文译名 = 肠神经元形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0025030]]==
+{{Infobox HPO
+| hpoId = HP:0025030
+| 名称 = Enteric neuronal degeneration
+| 定义 = Deterioration of enteric neurons with impairment of enteric neuronal structure. Typical neuropathological findings include qualitative (e.g., neuronal swelling, intranuclear inclusions, axonal degeneration) and quantitative (e.g., reduction in the number of neurons) abnormalities of the enteric neurons.
+| 中文译名 = 肠神经元变性
+| 中文定义 = 肠神经元退变伴肠神经元结构异常。典型的神经病理所见包括肠神经元的定性的（如神经元水肿、细胞核内包涵体、轴突退变）和定量的（如神经元数量减少）异常。
+}}
+
+==[[HP:0025031]]==
+{{Infobox HPO
+| hpoId = HP:0025031
+| 名称 = Abnormality of the digestive system
+| 定义 = #####
+| 中文译名 = 消化系统异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0025032]]==
+{{Infobox HPO
+| hpoId = HP:0025032
+| 名称 = Abnormality of digestive system physiology
+| 定义 = #####
+| 中文译名 = 消化系统生理异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0025033]]==
+{{Infobox HPO
+| hpoId = HP:0025033
+| 名称 = Abnormality of digestive system morphology
+| 定义 = #####
+| 中文译名 = 消化系统形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030142]]==
+{{Infobox HPO
+| hpoId = HP:0030142
+| 名称 = Abnormal bowel sounds
+| 定义 = An anomaly of the amount or nature of abdominal sounds. Abdominal sounds (bowel sounds) are made by the movement of the intestines as they promote passage of abdominal contents by peristalsis.
+| 中文译名 = 肠鸣音异常
+| 中文定义 = 肠鸣音的数量和性质的异常。肠鸣音（肠鸣音）因肠道蠕动使内容物通过而产生。
+}}
+
+==[[HP:0030143]]==
+{{Infobox HPO
+| hpoId = HP:0030143
+| 名称 = Hyperactive bowel sounds
+| 定义 = An increased amount of bowel sounds.
+| 中文译名 = 肠鸣音亢进
+| 中文定义 = 肠鸣音数量增加。
+}}
+
+==[[HP:0030144]]==
+{{Infobox HPO
+| hpoId = HP:0030144
+| 名称 = Hypoactive bowel sounds
+| 定义 = An decreased amount of bowel sounds.
+| 中文译名 = 肠鸣音减弱
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030145]]==
+{{Infobox HPO
+| hpoId = HP:0030145
+| 名称 = Lack of bowel sounds
+| 定义 = Complete lack of abdominal sounds as assayed by examination of the abdomen with a stethoscope.
+| 中文译名 = 肠鸣音消失
+| 中文定义 = 听诊评估腹部发现肠鸣音完全消失。
+}}
+
+==[[HP:0030146]]==
+{{Infobox HPO
+| hpoId = HP:0030146
+| 名称 = Abnormal liver parenchyma morphology
+| 定义 = #####
+| 中文译名 = 肝实质形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030151]]==
+{{Infobox HPO
+| hpoId = HP:0030151
+| 名称 = Cholangitis
+| 定义 = Inflammation of the biliary ductal system, affecting the intrahepatic or extrahepatic portions, or both.
+| 中文译名 = 胆管炎
+| 中文定义 = 胆管系统的炎症，累及肝内或肝外部分，或两者均受累。
+}}
+
+==[[HP:0030153]]==
+{{Infobox HPO
+| hpoId = HP:0030153
+| 名称 = Cholangiocarcinoma
+| 定义 = Cholangiocarcinoma is a primary cancer originating in the biliary epithelium i.e., the cholangiocytes, of the extrahepatic and intrahepatic biliary ducts. They are slow growing tumors which spread longitudinally along the bile ducts with neural, perineural and subepithelial extension.
+| 中文译名 = 胆管癌
+| 中文定义 = 胆管癌是起源于肝外或肝内胆管的胆管上皮（即胆管细胞）的原发癌。通常生长缓慢，延胆管纵向扩展，伴有神经、神经周围及上皮下扩散。
+}}
+
+==[[HP:0030154]]==
+{{Infobox HPO
+| hpoId = HP:0030154
+| 名称 = Gallbladder perforation
+| 定义 = Rupture of the wall of the gallbladder.
+| 中文译名 = 胆囊穿孔
+| 中文定义 = 胆囊壁破裂。
+}}
+
+==[[HP:0030157]]==
+{{Infobox HPO
+| hpoId = HP:0030157
+| 名称 = Flank pain
+| 定义 = An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) and perceived to originate in the flank.
+| 中文译名 = 侧腹疼痛
+| 中文定义 = 一种不适感，以身体不适（如针刺样、搏动感或疼痛）和源自侧腹为主要特征。
+}}
+
+==[[HP:0030169]]==
+{{Infobox HPO
+| hpoId = HP:0030169
+| 名称 = Gastric varix
+| 定义 = Extreme dilation of the submucusoal veins in the stomach.
+| 中文译名 = 胃静脉曲张
+| 中文定义 = 胃部粘膜下静脉的极度扩张。
+}}
+
+==[[HP:0030170]]==
+{{Infobox HPO
+| hpoId = HP:0030170
+| 名称 = Cystic artery pseudoaneurysm
+| 定义 = Presence of a pseudoaneurysm in the artery that supplies the gallbladder and cystic duct with blood. A pseudoaneurysm, also known as a false aneurysm, forms when blood leaks through a breach of the arterial wall but is contained by the adventitia or surrounding perivascular soft tissue.
+| 中文译名 = 胆囊假性动脉瘤
+| 中文定义 = 供应胆囊及胆囊管血供的动脉存在假性动脉瘤。假性动脉瘤，也称假性动脉瘤，在血液自动脉壁破口溢出而被外膜或血管周围软组织所局限时形成。
+}}
+
+==[[HP:0030255]]==
+{{Infobox HPO
+| hpoId = HP:0030255
+| 名称 = Large intestinal polyposis
+| 定义 = The presence of multiple polyps in the large intestine.
+| 中文译名 = 大肠息肉病
+| 中文定义 = 大肠存在多发息肉。
+}}
+
+==[[HP:0030256]]==
+{{Infobox HPO
+| hpoId = HP:0030256
+| 名称 = Small intestinal polyposis
+| 定义 = The presence of multiple polyps in the small intestine.
+| 中文译名 = 小肠息肉病
+| 中文定义 = 小肠存在多发息肉。
+}}
+
+==[[HP:0030406]]==
+{{Infobox HPO
+| hpoId = HP:0030406
+| 名称 = Primary peritoneal carcinoma
+| 定义 = A type of cancer that originates in the peritoneam. It is to be distinguished from metastatic cancer of the peritoneum. Peritoneal cancer can occur anywhere in the abdominal space, and affects the surface of organs contained inside the peritoneum.
+| 中文译名 = 原发性腹膜癌
+| 中文定义 = 一种起源于腹膜的癌。区别于腹膜转移癌。腹膜癌可在腹腔任何一处发生，并累及腹膜覆盖的脏器表层。
+}}
+
+==[[HP:0030411]]==
+{{Infobox HPO
+| hpoId = HP:0030411
+| 名称 = Jejunal adenocarcinoma
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the jejunum.
+| 中文译名 = 空肠腺癌
+| 中文定义 = 起源于空肠的一种恶性上皮肿瘤。
+}}
+
+==[[HP:0030412]]==
+{{Infobox HPO
+| hpoId = HP:0030412
+| 名称 = Ileal adenocarcinoma
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the ileum.
+| 中文译名 = 回肠腺癌
+| 中文定义 = 起源于回肠的一种恶性上皮肿瘤
+}}
+
+==[[HP:0030423]]==
+{{Infobox HPO
+| hpoId = HP:0030423
+| 名称 = Splenic cyst
+| 定义 = A closed sac located in the spleen.
+| 中文译名 = 脾囊肿
+| 中文定义 = 位于脾的闭合囊腔。
+}}
+
+==[[HP:0030437]]==
+{{Infobox HPO
+| hpoId = HP:0030437
+| 名称 = Anal canal neoplasm
+| 定义 = #####
+| 中文译名 = 肛管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030438]]==
+{{Infobox HPO
+| hpoId = HP:0030438
+| 名称 = Anal canal squamous cell carcinoma
+| 定义 = A squamous cell carcinoma that originates in the anal canal.
+| 中文译名 = 肛管鳞状细胞癌
+| 中文定义 = 起源于肛管的一种鳞状上皮癌。
+}}
+
+==[[HP:0030439]]==
+{{Infobox HPO
+| hpoId = HP:0030439
+| 名称 = Anal canal adenocarcinoma
+| 定义 = An adenoma carcinoma that originates in the anal canal.
+| 中文译名 = 肛管腺癌
+| 中文定义 = 起源于肛管的一种腺癌。
+}}
+
+==[[HP:0030440]]==
+{{Infobox HPO
+| hpoId = HP:0030440
+| 名称 = Anal margin neoplasm
+| 定义 = A tumor of the anal margin.
+| 中文译名 = 肛缘肿瘤
+| 中文定义 = 肛缘的肿瘤。
+}}
+
+==[[HP:0030441]]==
+{{Infobox HPO
+| hpoId = HP:0030441
+| 名称 = Anal margin Paget&#39;s disease
+| 定义 = An intraepithelial adenocarcinoma originating in the anal margin and characterized by presence of typical Paget&#39;s cells, appearing as large rounded vacuolated cells.
+| 中文译名 = 肛缘派杰氏病
+| 中文定义 = 起源于肛缘的上皮内腺癌，特征为存在典型的Paget细胞（显示为大的圆形空泡细胞）。
+}}
+
+==[[HP:0030442]]==
+{{Infobox HPO
+| hpoId = HP:0030442
+| 名称 = Anal margin squamous cell carcinoma
+| 定义 = A squamous cell carcinoma that originates in the skin of the anal margin.
+| 中文译名 = 肛缘鳞状细胞癌
+| 中文定义 = 起源于肛源皮肤的鳞状上皮癌。
+}}
+
+==[[HP:0030443]]==
+{{Infobox HPO
+| hpoId = HP:0030443
+| 名称 = Anal margin basal cell carcinoma
+| 定义 = A basal cell carcinoma that originates in the anal margin.
+| 中文译名 = 肛缘基底细胞癌
+| 中文定义 = 起源于肛缘的基底细胞癌。
+}}
+
+==[[HP:0030444]]==
+{{Infobox HPO
+| hpoId = HP:0030444
+| 名称 = Anal margin melanoma
+| 定义 = A melanoma that originates in the anal margin.
+| 中文译名 = 肛缘恶性黑色素瘤
+| 中文定义 = 起源于肛缘的黑色素瘤。
+}}
+
+==[[HP:0030451]]==
+{{Infobox HPO
+| hpoId = HP:0030451
+| 名称 = Mesenteric cyst
+| 定义 = A closed fluid filled sac originating from the mesentary.
+| 中文译名 = 肠系膜囊肿
+| 中文定义 = 源自肠系膜的闭合的充满液体的囊腔。
+}}
+
+==[[HP:0030452]]==
+{{Infobox HPO
+| hpoId = HP:0030452
+| 名称 = Chylolymphatic mesenteric cyst
+| 定义 = A type of mesenteric cyst that is lined with a thin endothelium or mesothelium and filled with chylous and lymphatic fluid.
+| 中文译名 = 乳糜淋巴性肠系膜囊肿
+| 中文定义 = 包被菲薄上皮或间皮、充满乳糜和淋巴液的肠系膜囊肿。
+}}
+
+==[[HP:0030664]]==
+{{Infobox HPO
+| hpoId = HP:0030664
+| 名称 = Beevor&#39;s sign
+| 定义 = Weakness of the inferior portion of the rectus abdominal muscle, which is ascertained clinically as follows. When a patient sits up or raises the head from a recumbent position, the umbilicus is displaced toward the head. This is the result of paralysis of the inferior portion of the rectus abdominal muscle, so that the upper fibres predominate pulling upwards the umbilicus.
+| 中文译名 = 比佛氏征
+| 中文定义 = 腹直肌下段的无力，临床上按如下方式确认。当病人自卧位坐起或抬头时，脐部向头侧移动。这是腹直肌下部麻痹的结果，使得上部肌纤维占主导地位、向上牵引脐部。
+}}
+
+==[[HP:0030717]]==
+{{Infobox HPO
+| hpoId = HP:0030717
+| 名称 = Meconium peritonitis
+| 定义 = peritonitis caused by intrauterine intestinal rupture and spillage of fetal meconium into the fetal peritoneal cavity. Intra-peritoneal meconium usually calcifies, sometimes within 24 hours. Ultrasound findings may include intraabdominal calcifications.
+| 中文译名 = 胎粪性腹膜炎
+| 中文定义 = 因子宫内肠破裂、胎粪溢至胎儿腹腔内导致的腹膜炎。腹腔内胎粪经常钙化，有时在24小时内发生。超声所见可能包括腹腔内钙化。
+}}
+
+==[[HP:0030722]]==
+{{Infobox HPO
+| hpoId = HP:0030722
+| 名称 = Ectopic liver
+| 定义 = Ectopic liver is a rare developmental anomaly in which liver tissue is situated outside the liver. Thus, ectopic liver refers to autonomous islands of normal liver parenchyma located outside the liver. The term ectopic liver is also used, to include liver appendices attached to the native liver by a thin stalk although being fully separated from the latter.
+| 中文译名 = 异位肝
+| 中文定义 = 异位肝是一种罕见的发育异常，肝组织位于肝脏之外。因此，异位肝指位于肝脏之外的独立岛状的正常肝实质。异位肝名词亦包括与肝脏完全分离但仍以细蒂附着于正常肝脏的“阑尾肝”。
+}}
+
+==[[HP:0030884]]==
+{{Infobox HPO
+| hpoId = HP:0030884
+| 名称 = Gastrojejunal tube feeding in infancy
+| 定义 = Feeding problem necessitating gastrojejunal tube feeding.
+| 中文译名 = 婴儿胃空肠管饲
+| 中文定义 = （婴儿期）喂养问题所需的胃空肠管饲。
+}}
+
+==[[HP:0030889]]==
+{{Infobox HPO
+| hpoId = HP:0030889
+| 名称 = Congenital shortened small intestine
+| 定义 = Substantially shortened length of the small intestine as a result of a developmental defect.
+| 中文译名 = 先天性小肠短缩
+| 中文定义 = 因发育缺陷造成的小肠长度明显缩短。
+}}
+
+==[[HP:0030895]]==
+{{Infobox HPO
+| hpoId = HP:0030895
+| 名称 = Abnormal gastrointestinal motility
+| 定义 = An anomaly of the muscular contractions that propel food though the gastrointestinal tract.
+| 中文译名 = 胃肠蠕动异常
+| 中文定义 = 推动食物通过胃肠道的肌肉收缩的异常。
+}}
+
+==[[HP:0030896]]==
+{{Infobox HPO
+| hpoId = HP:0030896
+| 名称 = Abnormal gastrointestinal transit time
+| 定义 = #####
+| 中文译名 = 胃肠通过时间异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030897]]==
+{{Infobox HPO
+| hpoId = HP:0030897
+| 名称 = Decreased intestinal transit time
+| 定义 = A reduction in the length of time required for food to pass through the intestines.
+| 中文译名 = 肠道通过时间缩短
+| 中文定义 = 食物通过肠道所需的时间缩短。
+}}
+
+==[[HP:0030914]]==
+{{Infobox HPO
+| hpoId = HP:0030914
+| 名称 = Abnormal peristalsis
+| 定义 = An anomaly of the wave-like muscle contractions of the digestive tract.
+| 中文译名 = （消化道）蠕动异常
+| 中文定义 = 消化道的波样肌肉收缩的异常。
+}}
+
+==[[HP:0040134]]==
+{{Infobox HPO
+| hpoId = HP:0040134
+| 名称 = Abnormal hepatic iron concentration
+| 定义 = #####
+| 中文译名 = 肝脏铁浓度异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040183]]==
+{{Infobox HPO
+| hpoId = HP:0040183
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 大便失禁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040273]]==
+{{Infobox HPO
+| hpoId = HP:0040273
+| 名称 = Adenocarcinoma of the intestines
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the intestines.
+| 中文译名 = 肠腺癌
+| 中文定义 = 发生于肠道的存在腺体形态的恶性上皮肿瘤
+}}
+
+==[[HP:0040274]]==
+{{Infobox HPO
+| hpoId = HP:0040274
+| 名称 = Adenocarcinoma of the small intestine
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the small intestine.
+| 中文译名 = 小肠腺癌
+| 中文定义 = 发生于大肠的存在腺体形态的恶性上皮肿瘤。
+}}
+
+==[[HP:0040275]]==
+{{Infobox HPO
+| hpoId = HP:0040275
+| 名称 = Adenocarcinoma of the large intestine
+| 定义 = A malignant epithelial tumor with a glandular organization that originates in the large intestine.
+| 中文译名 = 大肠腺癌
+| 中文定义 = 发生于大肠的存在腺体形态的恶性上皮肿瘤。
+}}
+
+==[[HP:0040276]]==
+{{Infobox HPO
+| hpoId = HP:0040276
+| 名称 = Adenocarcinoma of the colon
+| 定义 = #####
+| 中文译名 = 结肠腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045038]]==
+{{Infobox HPO
+| hpoId = HP:0045038
+| 名称 = Gastric lymphoma
+| 定义 = Llymphoma that originates in the stomach itself.
+| 中文译名 = 胃淋巴瘤
+| 中文定义 = 起源于胃本身的淋巴瘤
+}}
+
+==[[HP:0045061]]==
+{{Infobox HPO
+| hpoId = HP:0045061
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 降低肝中肉碱水平
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100003]]==
+{{Infobox HPO
+| hpoId = HP:0100003
+| 名称 = Peritoneal mesothelioma
+| 定义 = A `Malignant mesothelioma` (HP:0100001) originating from cells of the peritoneum (the thin layer of mesothelium lining the abdomen). Peritoneal mesothelioma is the second most common form of mesothelioma after pleural mesothelioma.
+| 中文译名 = 腹膜间皮瘤
+| 中文定义 = 一种起源于腹膜细胞（腹部的薄层间皮）的恶性间皮瘤。是仅次于胸膜间皮瘤的第二常见的间皮瘤形式。
+}}
+
+
+==[[HP:0100016]]==
+{{Infobox HPO
+| hpoId = HP:0100016
+| 名称 = Abnormality of the mesentery
+| 定义 = Folds of membranous tissue (peritoneum, mesothelium) attached to the wall of the abdomen and enclosing viscera. Examples include the mesentery for the small intestine; the transverse mesocolon, which attaches the transverse portion of the colon to the back wall of the abdomen; and the mesosigmoid, which enfolds the sigmoid portion of the colon. Cells of the same embryologic origin also surround the other organs of the body such as the lungs (pleura) or the heart (pericardium).
+| 中文译名 = 肠系膜异常
+| 中文定义 = 附着于腹壁及其包裹的内脏之间的膜状组织（腹膜，间皮）的反折。包括小肠肠系膜、连接横结肠和背侧腹壁的结肠系膜、以及结肠乙状弯曲部分折叠而成的乙状结肠系膜。相同胚系起源的细胞也环绕身体的其他器官，如肺（胸膜）或心脏（心包膜）。
+}}
+
+==[[HP:0100027]]==
+{{Infobox HPO
+| hpoId = HP:0100027
+| 名称 = Recurrent pancreatitis
+| 定义 = A `recurrent` (PATO:0000427) form of `pancreatitis` (HP:0001733).
+| 中文译名 = 复发性胰腺炎
+| 中文定义 = 胰腺炎的复发形式。
+}}
+
+
+==[[HP:0100245]]==
+{{Infobox HPO
+| hpoId = HP:0100245
+| 名称 = Desmoid tumors
+| 定义 = Benign, slow-growing tumors without any metastatic potential. Despite their benign nature, they can damage nearby structures causing organ dysfunction. Histologically they resemble low-grade fibrosarcomas, but they are very locally aggressive and tend to recur even after complete resection. There is a tendency for recurrence in the setting of prior surgery and the most common localisation of these tumors is intraabdominal from smooth muscle cells of the instestine.
+| 中文译名 = 硬性纤维瘤
+| 中文定义 = 良性的，生长缓慢的肿瘤，没有任何转移的可能。尽管具有良性属性，它们能损害周围结构从而引起器官功能障碍。组织学上，它们与低度恶性纤维肉瘤类似，但它们仅限于原位侵袭且易于复发，即使是完全切除后。施行手术前即有复发的趋势，且这些肿瘤最常见定位于腹内肠道平滑肌细胞。
+}}
+
+
+==[[HP:0100273]]==
+{{Infobox HPO
+| hpoId = HP:0100273
+| 名称 = Neoplasm of the colon
+| 定义 = #####
+| 中文译名 = 结肠肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100279]]==
+{{Infobox HPO
+| hpoId = HP:0100279
+| 名称 = Ulcerative colitis
+| 定义 = A chronic inflammatory bowel disease that includes characteristic ulcers, or open sores, in the colon. The main symptom of active disease is usually constant diarrhea mixed with blood, of gradual onset and intermittent periods of exacerbated symptoms contrasting with periods that are relatively symptom-free. In contrast to Crohn&#39;s disease this special form of colitis begins in the distal parts of the rectum, spreads continually upwards and affects only mucose and submucose tissue of the colon.
+| 中文译名 = 溃疡性结肠炎
+| 中文定义 = 一种慢性炎症性肠病，包括结肠部位特征性的溃疡或破损。活动性疾病的主要症状通常包括带血的腹泻、渐进性发作、周期性、与无症状期相比症状逐渐加重。与克罗恩病相比，这种特殊形式的结肠炎始于直肠的远端，连续向上扩展，且只影响结肠的粘膜层和粘膜下层组织。
+}}
+
+==[[HP:0100280]]==
+{{Infobox HPO
+| hpoId = HP:0100280
+| 名称 = Crohn&#39;s disease
+| 定义 = A chronic granulomatous inflammatory disease of the intestines that may affect any part of the gastrointestinal tract from mouth to anus, causing a wide variety of symptoms. It primarily causes abdominal pain, diarrhea which may be bloody, vomiting, or weight loss, but may also cause complications outside of the gastrointestinal tract such as skin rashes, arthritis, inflammation of the eye, tiredness, and lack of concentration. Crohn&#39;s disease is thought to be an autoimmune disease, in which the body&#39;s immune system attacks the gastrointestinal tract, causing inflammation.
+| 中文译名 = Crohn&#39;s 病
+| 中文定义 = 肠道的一种慢性肉芽肿炎症疾病，可能影响从口到肛门的消化道的任何部分，引起多种症状。该病主要引起腹痛、腹泻（可能便血）、呕吐或体重减轻，但也可能引起肠道外的并发症，如皮疹、关节炎、眼部炎症、疲倦、注意力不集中。克罗恩病被认为是一种自身免疫性疾病，身体的免疫系统攻击胃肠道，引起炎症。
+}}
+
+==[[HP:0100281]]==
+{{Infobox HPO
+| hpoId = HP:0100281
+| 名称 = Chronic colitis
+| 定义 = A chronic inflammatory disease of the large intestine (colon, cecum and rectum).
+| 中文译名 = 慢性结肠炎
+| 中文定义 = 大肠（结肠、盲肠和直肠）的一种慢性炎症性疾病。
+}}
+
+
+==[[HP:0100282]]==
+{{Infobox HPO
+| hpoId = HP:0100282
+| 名称 = Acute colitis
+| 定义 = An acute and self-limited inflammatory disease of the large intestine (colon, cecum and rectum).
+| 中文译名 = 急性结肠炎
+| 中文定义 = 大肠（包括结肠，盲肠和直肠）的一种急性和自限性的炎症性疾病。
+}}
+
+
+==[[HP:0100523]]==
+{{Infobox HPO
+| hpoId = HP:0100523
+| 名称 = Liver abscess
+| 定义 = The presence of an `abscess` (MPATH:608) of the `liver` (FMA:7197).
+| 中文译名 = 肝脓肿
+| 中文定义 = 存在于肝脏的脓肿。
+}}
+
+
+==[[HP:0100541]]==
+{{Infobox HPO
+| hpoId = HP:0100541
+| 名称 = Femoral hernia
+| 定义 = A hernia which occurs just below the inguinal ligament, where abdominal contents pass through a naturally occurring weakness called the femoral canal.
+| 中文译名 = 股疝
+| 中文定义 = 发生于腹股沟韧带下方的疝，该处腹内脏器通过名为股管的一个天然存在的薄弱处。
+}}
+
+==[[HP:0100548]]==
+{{Infobox HPO
+| hpoId = HP:0100548
+| 名称 = Exstrophy
+| 定义 = Eversion of a hollow organ and exposure, inside out, and protruded through the abdominal wall.
+| 中文译名 = 外翻
+| 中文定义 = 中空器官的外翻和暴露，里面翻到外面，并穿过腹壁伸出。
+}}
+
+
+==[[HP:0100574]]==
+{{Infobox HPO
+| hpoId = HP:0100574
+| 名称 = Biliary tract neoplasm
+| 定义 = A `neoplasm` (MPATH:218) of the `biliary system` (FMA:79646).
+| 中文译名 = 胆管瘤
+| 中文定义 = 胆管系统的肿瘤。
+}}
+
+
+==[[HP:0100575]]==
+{{Infobox HPO
+| hpoId = HP:0100575
+| 名称 = Neoplasm of the gallbladder
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the `gallbladder` (FMA:7202).
+| 中文译名 = 胆囊肿瘤
+| 中文定义 = 存在于胆囊的肿瘤。
+}}
+
+
+==[[HP:0100580]]==
+{{Infobox HPO
+| hpoId = HP:0100580
+| 名称 = Barrett esophagus
+| 定义 = An abnormal change (metaplasia) in the cells of the inferior portion of the esophagus. The normal squamous epithelium lining of the esophagus is replaced by metaplastic columnar epithelium. Columnar epithelium refers to a cell type that is typically found in more distal parts of the gastrointestinal system.
+| 中文译名 = Barrett食管
+| 中文定义 = 食管下部细胞的一种异常改变（组织化生）。食管的正常鳞状上皮层被化生的柱状上皮层取代。柱状上皮是指一种通常被发现于胃肠系统更远端部分的细胞类型。
+}}
+
+==[[HP:0100590]]==
+{{Infobox HPO
+| hpoId = HP:0100590
+| 名称 = Rectal fistula
+| 定义 = The presence of a `fistula` (MPATH:70) affecting the `rectum` (FMA:14544).
+| 中文译名 = 直肠瘘
+| 中文定义 = 累及直肠的瘘管。
+}}
+
+
+==[[HP:0100592]]==
+{{Infobox HPO
+| hpoId = HP:0100592
+| 名称 = Peritoneal abscess
+| 定义 = The presence of an `abscess` (MPATH:608) of the `peritoneum` (FMA:9584).
+| 中文译名 = 腹膜脓肿
+| 中文定义 = 存在于腹膜的脓肿。
+}}
+
+
+==[[HP:0100594]]==
+{{Infobox HPO
+| hpoId = HP:0100594
+| 名称 = Esophageal web
+| 定义 = Thin (2-3mm) membranes of normal esophageal tissue consisting of mucosa and submucosa that can be congenital or acquired. Congenital webs commonly appear in the middle and inferior third of the esophagus, and they are more likely to be circumferential with a central or eccentric orifice. Acquired webs are much more common than congenital webs and typically appear in the cervical area (postcricoid). Clinical symptoms of this condition are selective (solid more than liquids) dysphagia, thoracic pain, nasopharyngeal reflux, aspiration, perforation and food impaction (the last two are very rare).
+| 中文译名 = 食管蹼
+| 中文定义 = 先天性或获得性的由粘膜层和粘膜下层组成的正常食管组织形成的薄膜（2-3mm）。先天性蹼通常出现在食管中、下三分之一，更可能是一个中心或偏心开孔的环状结构。获得性蹼较先天性蹼更为常见，通常出现在颈部区域（环状软骨后）。这种情况的临床症状包括选择性吞咽困难（固体多于液体）、胸痛、鼻咽返流、误吸、穿孔和食物嵌塞（最后两个非常罕见）。
+}}
+
+==[[HP:0100626]]==
+{{Infobox HPO
+| hpoId = HP:0100626
+| 名称 = Chronic hepatic failure
+| 定义 = #####
+| 中文译名 = 慢性肝功能衰竭
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100628]]==
+{{Infobox HPO
+| hpoId = HP:0100628
+| 名称 = Esophageal diverticulum
+| 定义 = The presence of a `diverticulum` (MPATH:68) of the `esophagus` (FMA:7131).
+| 中文译名 = 食管憩室
+| 中文定义 = 存在于食管的憩室。
+}}
+
+
+==[[HP:0100633]]==
+{{Infobox HPO
+| hpoId = HP:0100633
+| 名称 = Esophagitis
+| 定义 = Inflammation of the esophagus.
+| 中文译名 = 食管炎
+| 中文定义 = 食管的炎症。
+}}
+
+
+==[[HP:0100656]]==
+{{Infobox HPO
+| hpoId = HP:0100656
+| 名称 = Thoracoabdominal wall defects
+| 定义 = #####
+| 中文译名 = 胸腹壁缺损
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100657]]==
+{{Infobox HPO
+| hpoId = HP:0100657
+| 名称 = Celosomia
+| 定义 = Congenital protrusion of the abdominal or thoracic viscera, usually with a defect of the sternum and ribs as well as of the abdominal walls.
+| 中文译名 = 内脏外露
+| 中文定义 = 在腹腔或胸腔内脏先天性突出，通常伴胸骨、肋骨及腹壁的缺陷。
+}}
+
+==[[HP:0100668]]==
+{{Infobox HPO
+| hpoId = HP:0100668
+| 名称 = Intestinal duplication
+| 定义 = A developmental disorder in which there is a duplication the entire intestine or of a portion of the intestine.
+| 中文译名 = 肠重复
+| 中文定义 = 一种发育异常，其中整个或部分肠重复发生。
+}}
+
+==[[HP:0100681]]==
+{{Infobox HPO
+| hpoId = HP:0100681
+| 名称 = Esophageal duplication
+| 定义 = A developmental disorder in which there is a duplication of a portion of the muscle and submucosa of the esophagus without epithelial duplication.
+| 中文译名 = 食管重复
+| 中文定义 = 食管的部分肌层和粘膜下层重复发生，而不伴有上皮重复的一种发育异常。
+}}
+
+==[[HP:0100723]]==
+{{Infobox HPO
+| hpoId = HP:0100723
+| 名称 = Gastrointestinal stroma tumor
+| 定义 = #####
+| 中文译名 = 胃肠道间质肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100732]]==
+{{Infobox HPO
+| hpoId = HP:0100732
+| 名称 = Pancreatic fibrosis
+| 定义 = #####
+| 中文译名 = 胰腺纤维化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100743]]==
+{{Infobox HPO
+| hpoId = HP:0100743
+| 名称 = Neoplasm of the rectum
+| 定义 = #####
+| 中文译名 = 直肠肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100751]]==
+{{Infobox HPO
+| hpoId = HP:0100751
+| 名称 = Esophageal neoplasm
+| 定义 = #####
+| 中文译名 = 食管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100752]]==
+{{Infobox HPO
+| hpoId = HP:0100752
+| 名称 = Abnormal liver lobulation
+| 定义 = #####
+| 中文译名 = 肝分叶异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100757]]==
+{{Infobox HPO
+| hpoId = HP:0100757
+| 名称 = Pancreatoblastoma
+| 定义 = A rare pediatric carcinoma of the pancreas.
+| 中文译名 = 胰母细胞瘤
+| 中文定义 = 一种罕见的小儿胰腺癌。
+}}
+
+==[[HP:0100762]]==
+{{Infobox HPO
+| hpoId = HP:0100762
+| 名称 = Hemobilia
+| 定义 = Bleeding into the biliary tree.
+| 中文译名 = 胆道出血
+| 中文定义 = 胆道中的出血。
+}}
+
+
+==[[HP:0100770]]==
+{{Infobox HPO
+| hpoId = HP:0100770
+| 名称 = Hyperperistalsis
+| 定义 = #####
+| 中文译名 = 蠕动过强
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100771]]==
+{{Infobox HPO
+| hpoId = HP:0100771
+| 名称 = Hypoperistalsis
+| 定义 = #####
+| 中文译名 = 蠕动迟缓
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100800]]==
+{{Infobox HPO
+| hpoId = HP:0100800
+| 名称 = aplasia/Hypoplasia of the pancreas
+| 定义 = A congential underdevelopment (aplasia or hypoplasia) of the pancreas.
+| 中文译名 = 胰腺发育不良/发育不全
+| 中文定义 = 胰腺的一种先天性发育不良（不发育或发育不全）。
+}}
+
+==[[HP:0100801]]==
+{{Infobox HPO
+| hpoId = HP:0100801
+| 名称 = Pancreatic aplasia
+| 定义 = `Aplasia` (MPATH:58) of the `pancreas` (FMA:7198).
+| 中文译名 = 胰腺发育不良
+| 中文定义 = `胰腺的发育缺陷。
+}}
+
+
+==[[HP:0100802]]==
+{{Infobox HPO
+| hpoId = HP:0100802
+| 名称 = Malposition of the stomach
+| 定义 = #####
+| 中文译名 = 胃错位
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100808]]==
+{{Infobox HPO
+| hpoId = HP:0100808
+| 名称 = Gastric diverticulum
+| 定义 = #####
+| 中文译名 = 胃憩室
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100811]]==
+{{Infobox HPO
+| hpoId = HP:0100811
+| 名称 = aplasia/Hypoplasia of the colon
+| 定义 = Congenital absence or underdevelopment of the colon.
+| 中文译名 = 结肠发育不全/发育不良
+| 中文定义 = 结肠的先天缺失或发育不全。
+}}
+
+
+==[[HP:0100819]]==
+{{Infobox HPO
+| hpoId = HP:0100819
+| 名称 = Intestinal fistula
+| 定义 = An abnormal connection between the gut and another hollow organ, such as the bladder, urethra, vagina, or other regions of the gastrointestinal tract.
+| 中文译名 = 肠瘘
+| 中文定义 = 肠和其他中空器官，如膀胱、尿道、阴道或胃肠道的其他部分之间的一种异常连接。
+}}
+
+
+==[[HP:0100822]]==
+{{Infobox HPO
+| hpoId = HP:0100822
+| 名称 = Rectocele
+| 定义 = A Rectocele results from a tear in the rectovaginal septum (which is normally a tough, fibrous, sheet-like divider between the rectum and vagina). Rectal tissue bulges through this tear and into the vagina as a hernia. There are two main causes of this tear: childbirth, and hysterectomy.
+| 中文译名 = 直肠前突
+| 中文定义 = 直肠阴道隔撕裂（正常是一个坚韧的纤维性片状分隔结构，位于直肠和阴道之间）导致的直肠前突。直肠组织通过这个裂隙膨入阴道形成疝。有两个主要撕裂原因：分娩和子宫切除术。
+}}
+
+==[[HP:0100833]]==
+{{Infobox HPO
+| hpoId = HP:0100833
+| 名称 = Neoplasm of the small intestine
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the small intestine.
+| 中文译名 = 小肠肿瘤
+| 中文定义 = 存在于小肠的肿瘤。
+}}
+
+
+==[[HP:0100834]]==
+{{Infobox HPO
+| hpoId = HP:0100834
+| 名称 = Neoplasm of the large intestine
+| 定义 = The presence of a `neoplasm` (MPATH:218) of the large intestine.
+| 中文译名 = 大肠肿瘤
+| 中文定义 = 存在于大肠的肿瘤。
+}}
+
+
+==[[HP:0100839]]==
+{{Infobox HPO
+| hpoId = HP:0100839
+| 名称 = Hepatic agenesis
+| 定义 = #####
+| 中文译名 = 肝脏发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100841]]==
+{{Infobox HPO
+| hpoId = HP:0100841
+| 名称 = Microgastria
+| 定义 = #####
+| 中文译名 = 小胃
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100844]]==
+{{Infobox HPO
+| hpoId = HP:0100844
+| 名称 = Pancreatic fistula
+| 定义 = #####
+| 中文译名 = 胰瘘
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100867]]==
+{{Infobox HPO
+| hpoId = HP:0100867
+| 名称 = Duodenal stenosis
+| 定义 = The narrowing or partial blockage of a portion of the duodenum.
+| 中文译名 = 十二指肠狭窄
+| 中文定义 = 十二指肠的一部分变窄或部分堵塞。
+}}
+
+
+==[[HP:0100889]]==
+{{Infobox HPO
+| hpoId = HP:0100889
+| 名称 = Abnormality of the ductus choledochus
+| 定义 = An abnormality of the `Common bile duct` (FMA:14667), a tube-like anatomic structure in the human gastrointestinal tract, formed by the union of the `Common hepatic duct` (FMA:14668) and the `Cystic duct` (FMA:14539) from the gall bladder.
+| 中文译名 = 胆总管异常
+| 中文定义 = 胆总管的一种异常，由肝总管和胆囊管汇合形成人体胃肠道的一种管状解剖结构。
+}}
+
+==[[HP:0100890]]==
+{{Infobox HPO
+| hpoId = HP:0100890
+| 名称 = Cyst of the ductus choledochus
+| 定义 = #####
+| 中文译名 = 胆总管囊肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100896]]==
+{{Infobox HPO
+| hpoId = HP:0100896
+| 名称 = Rectal polyposis
+| 定义 = The presence of multiple rectal hyperplastic/adenomatous polyps.
+| 中文译名 = 直肠息肉病
+| 中文定义 = 存在于直肠的多个增生性/腺瘤性息肉。
+}}
+
+==[[HP:0200008]]==
+{{Infobox HPO
+| hpoId = HP:0200008
+| 名称 = Intestinal polyposis
+| 定义 = The presence of multiple polyps in the intestine.
+| 中文译名 = 肠息肉病
+| 中文定义 = 存在于肠的多发性息肉。
+}}
+
+
+==[[HP:0200063]]==
+{{Infobox HPO
+| hpoId = HP:0200063
+| 名称 = Colorectal polyps
+| 定义 = #####
+| 中文译名 = 大肠息肉
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200084]]==
+{{Infobox HPO
+| hpoId = HP:0200084
+| 名称 = Giant cell hepatitis
+| 定义 = #####
+| 中文译名 = 巨细胞肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200116]]==
+{{Infobox HPO
+| hpoId = HP:0200116
+| 名称 = Distal ileal atresia
+| 定义 = #####
+| 中文译名 = 远端回肠闭锁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200119]]==
+{{Infobox HPO
+| hpoId = HP:0200119
+| 名称 = Acute hepatitis
+| 定义 = #####
+| 中文译名 = 急性肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200120]]==
+{{Infobox HPO
+| hpoId = HP:0200120
+| 名称 = Chronic active hepatitis
+| 定义 = #####
+| 中文译名 = 慢性活动性肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200122]]==
+{{Infobox HPO
+| hpoId = HP:0200122
+| 名称 = Atypical or prolonged hepatitis
+| 定义 = #####
+| 中文译名 = 非典型或持续性肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200123]]==
+{{Infobox HPO
+| hpoId = HP:0200123
+| 名称 = Chronic hepatitis
+| 定义 = #####
+| 中文译名 = 慢性肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200124]]==
+{{Infobox HPO
+| hpoId = HP:0200124
+| 名称 = Chronic hepatitis due to cryptospridium infection
+| 定义 = #####
+| 中文译名 = 隐孢子虫感染引起的慢性肝炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200136]]==
+{{Infobox HPO
+| hpoId = HP:0200136
+| 名称 = Oral-pharyngeal dysphagia
+| 定义 = #####
+| 中文译名 = 口咽部吞咽困难
+| 中文定义 = #####
+}}
+
+==[[HP:0200148]]==
+{{Infobox HPO
+| hpoId = HP:0200148
+| 名称 = Abnormal liver function tests during pregnancy
+| 定义 = #####
+| 中文译名 = 孕期肝功能检查异常
+| 中文定义 = #####
+}}

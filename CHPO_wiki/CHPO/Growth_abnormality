@@ -1,0 +1,709 @@
+<accesscontrol>审核人:生长异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=生长异常(75条目)=
+
+
+==[[HP:0000002]]==
+{{Infobox HPO
+| hpoId = HP:0000002
+| 名称 = Abnormality of body height
+| 定义 = Deviation from the norm of height with respect to that which is expected according to age and gender norms.
+| 中文译名 = 身高异常
+| 中文定义 = 身高偏离该年龄性别预期身高的正常范围。
+}}
+
+
+==[[HP:0000098]]==
+{{Infobox HPO
+| hpoId = HP:0000098
+| 名称 = Tall stature
+| 定义 = A height above that which is expected according to age and gender norms.
+| 中文译名 = 高身材
+| 中文定义 = 身高高于该年龄性别预期身高的正常范围。
+}}
+
+==[[HP:0000823]]==
+{{Infobox HPO
+| hpoId = HP:0000823
+| 名称 = Delayed puberty
+| 定义 = Passing the age when puberty normally occurs with no physical or hormonal signs of the onset of puberty.
+| 中文译名 = 青春期延迟
+| 中文定义 = 在青春期通常开始的年龄没有显示青春期启动的体征或激素变化。
+}}
+
+
+==[[HP:0000839]]==
+{{Infobox HPO
+| hpoId = HP:0000839
+| 名称 = Pituitary dwarfism
+| 定义 = A type of reduced stature with normal proportions related to dysfunction of the pituitary gland related to either an isolated defect in the secretion of growth hormone or to panhypopituitarism, i.e., a deficit of all the anterior pituitary hormones.
+| 中文译名 = 垂体性侏儒症
+| 中文定义 = 一种比例正常但矮小的身材，与垂体功能异常有关，这种异常或者只是生长激素的分泌不足，或者是全垂体机能减退，即所有垂体前叶激素分泌不足。
+}}
+
+
+==[[HP:0001507]]==
+{{Infobox HPO
+| hpoId = HP:0001507
+| 名称 = Growth abnormality
+| 定义 = #####
+| 中文译名 = 生长异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001508]]==
+{{Infobox HPO
+| hpoId = HP:0001508
+| 名称 = Failure to thrive
+| 定义 = Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.
+| 中文译名 = 不能生长发育
+| 中文定义 = 不能生长发育（FTT）是指孩子的身体生长明显低于正常。
+}}
+
+==[[HP:0001510]]==
+{{Infobox HPO
+| hpoId = HP:0001510
+| 名称 = Growth delay
+| 定义 = A deficiency or slowing down of growth pre- and postnatally.
+| 中文译名 = 生长延迟
+| 中文定义 = 长前和出生后生长缓慢或缺乏。
+}}
+
+
+==[[HP:0001511]]==
+{{Infobox HPO
+| hpoId = HP:0001511
+| 名称 = Intrauterine growth retardation
+| 定义 = An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.
+| 中文译名 = 胎儿宫内发育迟缓
+| 中文定义 = 胎儿生长异常受限，胎儿体重低于该孕龄体重第十百分位以下。
+}}
+
+
+==[[HP:0001513]]==
+{{Infobox HPO
+| hpoId = HP:0001513
+| 名称 = Obesity
+| 定义 = Body weight that is grossly above the acceptable or desirable weight, usually due to accumulation of excess fats in the body. The standards may vary with age, sex, genetic or cultural background. In the body mass index (BMI), a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese.
+| 中文译名 = 肥胖
+| 中文定义 = 体重严重高于可接受或期望重量，通常是由于过量的脂肪在体内蓄积。该标准可能随年龄、性别、遗传或文化背景不同而变化。就身体质量指数（BMI）而言，当BMI大于30.0kg/m2被认为是肥胖，BMI大于40.0kg/m2被认为是病态肥胖。
+}}
+
+==[[HP:0001518]]==
+{{Infobox HPO
+| hpoId = HP:0001518
+| 名称 = Small for gestational age
+| 定义 = Smaller than normal size according to sex and gestational age related norms, defined as a weight below the 10th percentile for the gestational age.
+| 中文译名 = 小于胎龄儿
+| 中文定义 = 体型小于该性别该孕龄相关标准体型，定义为重量位于该孕龄重量第十百分位以下。
+}}
+
+==[[HP:0001519]]==
+{{Infobox HPO
+| hpoId = HP:0001519
+| 名称 = Disproportionate tall stature
+| 定义 = A tall and slim body build with increased arm span to height ratio (&gt;1.05) and a reduced upper-to-lower segment ratio (&lt;0.85), i.e., unusually long arms and legs. The extremities as well as the hands and feet are unusually slim.
+| 中文译名 = 不成比例的高身材
+| 中文定义 = 一个高大苗条的身材，伴随臂展与身高比增加（&gt; 1.05）和上半身与下半身比降低（&lt;0.85），即，超长的胳膊和腿。四肢及手脚都异常苗条。
+}}
+
+==[[HP:0001520]]==
+{{Infobox HPO
+| hpoId = HP:0001520
+| 名称 = Large for gestational age
+| 定义 = The term large for gestational age applies to babies whose birth weight lies above the 90th percentile for that gestational age.
+| 中文译名 = 大于胎龄儿
+| 中文定义 = 大于胎龄儿指婴儿出生时体重大于该孕龄体重90百分位以上。
+}}
+
+
+==[[HP:0001525]]==
+{{Infobox HPO
+| hpoId = HP:0001525
+| 名称 = Severe failure to thrive
+| 定义 = #####
+| 中文译名 = 严重生长不旺
+| 中文定义 = #####
+}}
+
+==[[HP:0001528]]==
+{{Infobox HPO
+| hpoId = HP:0001528
+| 名称 = Hemihypertrophy
+| 定义 = Overgrowth of only one side of the body.
+| 中文译名 = 偏身肥大
+| 中文定义 = 过度生长体的一侧的。
+}}
+
+
+==[[HP:0001530]]==
+{{Infobox HPO
+| hpoId = HP:0001530
+| 名称 = Mild postnatal growth retardation
+| 定义 = A mild degree of slow or limited growth after birth, being between two and three standard deviations below age- and sex-related norms.
+| 中文译名 = 轻度产后发育迟缓
+| 中文定义 = 轻微程度的产后生长迟缓或受限，程度在该年龄和性别平均水平负2标准差到负3标准差之间。
+}}
+
+==[[HP:0001531]]==
+{{Infobox HPO
+| hpoId = HP:0001531
+| 名称 = Failure to thrive in infancy
+| 定义 = #####
+| 中文译名 = 婴儿期生长不旺
+| 中文定义 = #####
+}}
+
+==[[HP:0001533]]==
+{{Infobox HPO
+| hpoId = HP:0001533
+| 名称 = Slender build
+| 定义 = Asthenic habitus refers to a slender build with long limbs, an angular profile, and prominent muscles or bones.
+| 中文译名 = 修长的身材
+| 中文定义 = 瘦长体型指伴有长四肢，消瘦外形和突出的肌肉或骨骼的修长身材。
+}}
+
+
+==[[HP:0001548]]==
+{{Infobox HPO
+| hpoId = HP:0001548
+| 名称 = Overgrowth
+| 定义 = Excessive postnatal growth which may comprise increased weight, increased length, and/or increased head circumference.
+| 中文译名 = 过度生长
+| 中文定义 = 出生后过度生长，其可以包括体重的增加，身高的增加，和/或头围的增加。
+}}
+
+
+==[[HP:0001824]]==
+{{Infobox HPO
+| hpoId = HP:0001824
+| 名称 = Weight loss
+| 定义 = Reduction inexisting body weight.
+| 中文译名 = 体重减轻
+| 中文定义 = 体重减少。
+}}
+
+==[[HP:0001956]]==
+{{Infobox HPO
+| hpoId = HP:0001956
+| 名称 = Truncal obesity
+| 定义 = Obesity located preferentially in the trunk of the body as opposed to the extremities.
+| 中文译名 = 躯干性肥胖
+| 中文定义 = 肥胖症在相对于末端的身体躯干位于优先。肥胖主要位于躯干部分而非四肢部分。
+}}
+
+
+==[[HP:0003363]]==
+{{Infobox HPO
+| hpoId = HP:0003363
+| 名称 = Abdominal situs inversus
+| 定义 = A left-right reversal (or &quot;mirror reflection&quot;) of the anatomical location of the `viscera of the abdomen` (FMA:259123).
+| 中文译名 = 腹部内脏逆位
+| 中文定义 = 腹部脏器解剖位置左右反转（或镜面反射）。
+}}
+
+
+==[[HP:0003498]]==
+{{Infobox HPO
+| hpoId = HP:0003498
+| 名称 = Disproportionate short stature
+| 定义 = A kind of `short stature` (===[[HP:0004322) in which different regions of the body are shortened to differing extents.
+| 中文译名 = 不成比例的身材矮小
+| 中文定义 = `矮小`（HP:0004322）的一种，其中身体的不同区域被缩短的程度不同。
+}}
+
+==[[HP:0003502]]==
+{{Infobox HPO
+| hpoId = HP:0003502
+| 名称 = Mild short stature
+| 定义 = A mild degree of short stature, more than -2 SD but not more than -3 SD from mean corrected for age and sex.
+| 中文译名 = 轻度身材矮小
+| 中文定义 = 轻微程度的身材矮小，低于该年龄和性别平均水平负2标准差以上，但不超过负3标准差。
+}}
+
+==[[HP:0003508]]==
+{{Infobox HPO
+| hpoId = HP:0003508
+| 名称 = Proportionate short stature
+| 定义 = A kind of "short stature" (HP:0004322) in which different regions of the body are shortened to a comparable extent.
+| 中文译名 = 成比例身材矮小
+| 中文定义 = 矮小（HP:0004322）的一种，其中身体的不同区域被缩短的程度相当。
+}}
+
+==[[HP:0003510]]==
+{{Infobox HPO
+| hpoId = HP:0003510
+| 名称 = Severe short stature
+| 定义 = A severe degree of short stature, more than -4 SD from the mean corrected for age and sex.
+| 中文译名 = 严重的身材矮小
+| 中文定义 = 严重程度身材矮小，身高位于同年龄同性别平均身高下超过负4标准差。
+}}
+
+==[[HP:0003517]]==
+{{Infobox HPO
+| hpoId = HP:0003517
+| 名称 = Birth length greater than 97th percentile
+| 定义 = #####
+| 中文译名 = 出生身长大于97百分位数
+| 中文定义 = #####
+}}
+
+==[[HP:0003521]]==
+{{Infobox HPO
+| hpoId = HP:0003521
+| 名称 = Disproportionate short-trunk short stature
+| 定义 = A type of "disproportionate short stature" (HP:0003498) characterized by a short trunk but a average-sized limbs.
+| 中文译名 = 不成比例的短躯干型矮小
+| 中文定义 = “不成比例的身材矮小”（HP:0003498）的一种，特点是短躯干，但一个中等大小的四肢。
+}}
+
+==[[HP:0003561]]==
+{{Infobox HPO
+| hpoId = HP:0003561
+| 名称 = Birth length less than 3rd percentile
+| 定义 = #####
+| 中文译名 = 出生身长小于第3百分位数
+| 中文定义 = #####
+}}
+
+==[[HP:0003782]]==
+{{Infobox HPO
+| hpoId = HP:0003782
+| 名称 = Eunuchoid habitus
+| 定义 = A body habitus that is tall, slim and underweight, with long legs and long arms (i.e., arm span exceeds height by 5 cm or more).
+| 中文译名 = 类无睾者习性
+| 中文定义 = 体型是高大，苗条和体重过轻，有很长的腿和臂（即，臂展超过5厘米以上）。
+}}
+
+
+==[[HP:0004322]]==
+{{Infobox HPO
+| hpoId = HP:0004322
+| 名称 = Short stature
+| 定义 = A height below that which is expected according to age and gender norms. Although there is no universally accepted definition of short stature, many refer to &quot;short stature&quot; as height more than 2 standard deviations below the mean for age and gender (or below the 3rd percentile for age and gender dependent norms).
+| 中文译名 = 身材矮小
+| 中文定义 = 身高低于该年龄性别预期身高的正常范围。虽然没有普遍接受的身材矮小的定义，许多 “身材矮小”的定义指身高低于该年龄同性别平均值超过2个标准差（或位于该年龄同性别身高第3百分位以下）。
+}}
+
+
+==[[HP:0004323]]==
+{{Infobox HPO
+| hpoId = HP:0004323
+| 名称 = Abnormality of body weight
+| 定义 = An abnormal increase or decrease of weight or an abnormal distribution of mass in the body.
+| 中文译名 = 体重异常
+| 中文定义 = 体重的异常增加或降低，或质量在体内异常分布。
+}}
+
+
+==[[HP:0004324]]==
+{{Infobox HPO
+| hpoId = HP:0004324
+| 名称 = Increased body weight
+| 定义 = #####
+| 中文译名 = 体重增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004325]]==
+{{Infobox HPO
+| hpoId = HP:0004325
+| 名称 = Decreased body weight
+| 定义 = #####
+| 中文译名 = 体重下降
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004326]]==
+{{Infobox HPO
+| hpoId = HP:0004326
+| 名称 = Cachexia
+| 定义 = Severe weight loss, wasting of muscle, loss of appetite, and general debility related to a chronic disease.
+| 中文译名 = 恶病质
+| 中文定义 = 严重的体重减轻，肌肉消瘦，食欲不振，与慢性疾病相关的全身虚弱。
+}}
+
+
+==[[HP:0004991]]==
+{{Infobox HPO
+| hpoId = HP:0004991
+| 名称 = Rhizomelic arm shortening
+| 定义 = Disproportionate shortening of the proximal segment of the arm (i.e. the humerus).
+| 中文译名 = 肢根型手臂短缩
+| 中文定义 = 臂的近端段的不成比例缩短（即肱骨）。
+}}
+
+==[[HP:0005026]]==
+{{Infobox HPO
+| hpoId = HP:0005026
+| 名称 = mesomelic/rhizomelic limb shortening
+| 定义 = #####
+| 中文译名 = 肢体中部/根部肢体短缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005069]]==
+{{Infobox HPO
+| hpoId = HP:0005069
+| 名称 = rhizo-meso-acromelic limb shortening
+| 定义 = #####
+| 中文译名 = 根-干-端型肢体短缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008845]]==
+{{Infobox HPO
+| hpoId = HP:0008845
+| 名称 = Mesomelic short stature
+| 定义 = A type of "disproportionate short stature" (HP:0003498) characterized by disproportionate shortening of the medial parts of the extremities (forearm or lower leg).
+| 中文译名 = 肢中部的身材矮小
+| 中文定义 = “不成比例的身材矮小”（HP:0003498）的一种，其特征是四肢（前臂或小腿）的中间部分不成比例的缩短。
+}}
+
+==[[HP:0008846]]==
+{{Infobox HPO
+| hpoId = HP:0008846
+| 名称 = Severe intrauterine growth retardation
+| 定义 = Intrauterine growth retardation that is 4 or more standard deviations below average, corrected for sex and gestational age.
+| 中文译名 = 严重的胎儿宫内发育迟缓
+| 中文定义 = 胎儿宫内发育迟缓程度低于同性别同胎龄平均水平超过4个标准差。
+}}
+
+
+==[[HP:0008848]]==
+{{Infobox HPO
+| hpoId = HP:0008848
+| 名称 = Moderately short stature
+| 定义 = A moderate degree of short stature, more than -3 SD but not more than -4 SD from mean corrected for age and sex.
+| 中文译名 = 中度身材矮小
+| 中文定义 = 中等程度身材矮小，身高位于同年龄同性别平均身高下负3-4标准差之间。
+}}
+
+
+==[[HP:0008850]]==
+{{Infobox HPO
+| hpoId = HP:0008850
+| 名称 = Severe postnatal growth retardation
+| 定义 = Severely slow or limited growth after birth, being four standard deviations or more below age- and sex-related norms.
+| 中文译名 = 严重的产后生长发育迟缓
+| 中文定义 = 严重的产后生长迟缓或受限，位于同年龄同性别标准下超过负4标准差。
+}}
+
+
+==[[HP:0008855]]==
+{{Infobox HPO
+| hpoId = HP:0008855
+| 名称 = Moderate postnatal growth retardation
+| 定义 = A moderate degree of slow or limited growth after birth, being between three and four standard deviations below age- and sex-related norms.
+| 中文译名 = 中度产后发育迟缓
+| 中文定义 = 中等程度的产后生长迟缓或受限，位于同年龄同性别标准下负3-4标准差之间。
+}}
+
+
+==[[HP:0008857]]==
+{{Infobox HPO
+| hpoId = HP:0008857
+| 名称 = Neonatal short-trunk short stature
+| 定义 = A type of "disproportionate short stature" (HP:0003498) characterized by a short trunk but a average-sized limbs with congenital onset recognizable at birth.
+| 中文译名 = 新生儿短躯干型矮小
+| 中文定义 = “不成比例的身材矮小”（HP:0003498）的一种，特点是短躯干，但一个中等大小的四肢先天性发病识别出生。
+}}
+
+==[[HP:0008873]]==
+{{Infobox HPO
+| hpoId = HP:0008873
+| 名称 = Disproportionate short-limb short stature
+| 定义 = A type of `disproportionate short stature` (===[[HP:0003498) characterized by a short limbs but an average-sized trunk.
+| 中文译名 = 不相称的短肢矮小
+| 中文定义 = 不成比例的身材矮小（HP:0003498）的一种，特点是四肢短小，但躯干尺寸正常。
+}}
+
+
+==[[HP:0008883]]==
+{{Infobox HPO
+| hpoId = HP:0008883
+| 名称 = Mild intrauterine growth retardation
+| 定义 = Intrauterine growth retardation that is at least 2 standard deviations (SD) below average, but not as low as 3 SD, corrected for sex and gestational age.
+| 中文译名 = 轻度胎儿宫内发育迟缓
+| 中文定义 = 胎儿宫内发育迟缓，低于该胎龄同性别平均水平至少2个标准差，但不到3个标准差。
+}}
+
+==[[HP:0008890]]==
+{{Infobox HPO
+| hpoId = HP:0008890
+| 名称 = Severe short-limb dwarfism
+| 定义 = #####
+| 中文译名 = 严重的短肢侏儒症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008897]]==
+{{Infobox HPO
+| hpoId = HP:0008897
+| 名称 = Postnatal growth retardation
+| 定义 = Slow or limited growth after birth.
+| 中文译名 = 出生后生长迟缓
+| 中文定义 = 出生后生长迟缓或受限。
+}}
+
+
+==[[HP:0008905]]==
+{{Infobox HPO
+| hpoId = HP:0008905
+| 名称 = Rhizomelia
+| 定义 = Disproportionate shortening of the proximal segment of limbs (i.e. the femur and humerus).
+| 中文译名 = 肢根短缩
+| 中文定义 = 肢体的近端部分的不成比例缩短（即股骨和肱骨）。
+}}
+
+==[[HP:0008909]]==
+{{Infobox HPO
+| hpoId = HP:0008909
+| 名称 = Lethal short-limbed short stature
+| 定义 = #####
+| 中文译名 = 致死性短肢型矮小
+| 中文定义 = #####
+}}
+
+==[[HP:0008915]]==
+{{Infobox HPO
+| hpoId = HP:0008915
+| 名称 = Childhood-onset truncal obesity
+| 定义 = Truncal obesity with onset during childhood, defined as between 2 and 10 years of age.
+| 中文译名 = 儿童期发病的躯干肥胖
+| 中文定义 = 躯干肥胖在儿童期发病，儿童期定义为2至10岁。
+}}
+
+
+==[[HP:0008921]]==
+{{Infobox HPO
+| hpoId = HP:0008921
+| 名称 = Neonatal short-limb short stature
+| 定义 = A type of short-limbed dwarfism that is manifest beginning in the neonatal period.
+| 中文译名 = 新生儿短肢型矮小
+| 中文定义 = 在新生儿期开始表现出的一种短肢侏儒症。
+}}
+
+==[[HP:0008922]]==
+{{Infobox HPO
+| hpoId = HP:0008922
+| 名称 = Childhood-onset short-trunk short stature
+| 定义 = A type of `disproportionate short stature` (HP:0003498) characterized by a short trunk but a average-sized limbs with onset in childhood.
+| 中文译名 = 儿童期发病的短躯干型矮小
+| 中文定义 = “不成比例的身材矮小”（HP:0003498）的一种，特点是短躯干，但一个中等大小的肢体发生在童年。
+}}
+
+==[[HP:0008929]]==
+{{Infobox HPO
+| hpoId = HP:0008929
+| 名称 = Asymmetric short stature
+| 定义 = #####
+| 中文译名 = 不对称的身材矮小
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011404]]==
+{{Infobox HPO
+| hpoId = HP:0011404
+| 名称 = Lethal short-trunk short stature
+| 定义 = A type of `disproportionate short stature` (HP:0003498) characterized by a short trunk but a average-sized limbs that is lethal at birth.
+| 中文译名 = 致死性短躯干型矮小
+| 中文定义 = “不成比例的身材矮小”（HP:0003498）的一种，特点是短躯干，但一个中等大小的四肢是致命的出生。
+}}
+
+==[[HP:0011405]]==
+{{Infobox HPO
+| hpoId = HP:0011405
+| 名称 = Childhood onset short-limb short stature
+| 定义 = #####
+| 中文译名 = 儿童期发病的短肢型矮小
+| 中文定义 = #####
+}}
+
+==[[HP:0011406]]==
+{{Infobox HPO
+| hpoId = HP:0011406
+| 名称 = Infancy onset short-trunk short stature
+| 定义 = A type of `disproportionate short stature` (HP:0003498) characterized by a short trunk but a average-sized limbs with onset in infancy.
+| 中文译名 = 婴儿发病的短躯干型矮小
+| 中文定义 = “不成比例的身材矮小”（HP:0003498）的一种，特点是短躯干，但一个中等大小的肢体发生在婴儿期。
+}}
+
+==[[HP:0011407]]==
+{{Infobox HPO
+| hpoId = HP:0011407
+| 名称 = Proportionate tall stature
+| 定义 = #####
+| 中文译名 = 成比例高身材
+| 中文定义 = #####
+}}
+
+==[[HP:0011408]]==
+{{Infobox HPO
+| hpoId = HP:0011408
+| 名称 = Moderate intrauterine growth retardation
+| 定义 = Intrauterine growth retardation that is at least 3 standard deviations (SD) below average, but not as low as 4 SD, corrected for sex and gestational age.
+| 中文译名 = 中度胎儿宫内发育迟缓
+| 中文定义 = 宫内发育迟缓程度大于同性别同胎龄至少3个标准偏差，但不到4个标准差。
+}}
+
+==[[HP:0011620]]==
+{{Infobox HPO
+| hpoId = HP:0011620
+| 名称 = Abnormality of abdominal situs
+| 定义 = An abnormality of the abdominal situs, i.e., of the sidedness of the abdomin and its organs.
+| 中文译名 = 腹部位置异常
+| 中文定义 = 腹部位置的异常，即，腹部及其中脏器的边界异常。
+}}
+
+
+==[[HP:0012106]]==
+{{Infobox HPO
+| hpoId = HP:0012106
+| 名称 = Rhizomelic leg shortening
+| 定义 = Disproportionate shortening of the proximal segment of the leg (i.e. the femur).
+| 中文译名 = 肢根型腿短缩
+| 中文定义 = 腿的近端部分的不成比例缩短（即股骨）。
+}}
+
+==[[HP:0012569]]==
+{{Infobox HPO
+| hpoId = HP:0012569
+| 名称 = Delayed menarche
+| 定义 = First period after the age of 15 years.
+| 中文译名 = 月经初潮延迟
+| 中文定义 = 15岁后才开始第一个月经周期。
+}}
+
+
+==[[HP:0012743]]==
+{{Infobox HPO
+| hpoId = HP:0012743
+| 名称 = Abdominal obesity
+| 定义 = Excessive fat around the stomach and abdomen.
+| 中文译名 = 腹型肥胖
+| 中文定义 = 胃和腹部周围存在过多的脂肪。
+}}
+
+==[[HP:0012772]]==
+{{Infobox HPO
+| hpoId = HP:0012772
+| 名称 = Abnormal upper to lower segment ratio
+| 定义 = A deviation from normal of the relation between the upper and the lower segment of the body, where the lower segment is defined as the length between the top of pubic symphysis to floor, and the upper segment is defined as the top of head to top of pubic symphysis.
+| 中文译名 = 上下身比例异常
+| 中文定义 = 身体上半部与下半部比例偏离正常范围，其中下半身被定义为耻骨联合顶端到地板之间的长度，上半身被定义为头顶到顶耻骨联合的顶部。
+}}
+
+==[[HP:0012773]]==
+{{Infobox HPO
+| hpoId = HP:0012773
+| 名称 = Reduced upper to lower segment ratio
+| 定义 = Decreased ratio between the upper and the lower segment of the body, where the lower segment is defined as the length between the top of pubic symphysis to floor, and the upper segment is defined as the top of head to top of pubic symphysis.
+| 中文译名 = 上下身比例减小
+| 中文定义 = 身体上半部分与下半部分身长比值降低，其中下半身被定义为耻骨联合顶端到地板之间的长度，上半身被定义为头顶到顶耻骨联合的顶部。
+}}
+
+==[[HP:0012774]]==
+{{Infobox HPO
+| hpoId = HP:0012774
+| 名称 = Increased upper to lower segment ratio
+| 定义 = Elevated ratio between the upper and the lower segment of the body, where the lower segment is defined as the length between the top of pubic symphysis to floor, and the upper segment is defined as the top of head to top of pubic symphysis.
+| 中文译名 = 上下身比例增大
+| 中文定义 = 身体上半部分与下半部分身长比值增加，其中下半身被定义为耻骨联合顶端到地板之间的长度，上半身被定义为头顶到顶耻骨联合的顶部。
+}}
+
+==[[HP:0030853]]==
+{{Infobox HPO
+| hpoId = HP:0030853
+| 名称 = Heterotaxy
+| 定义 = An abnormality in which the internal thoraco-abdominal organs demonstrate abnormal arrangement across the left-right axis of the body.
+| 中文译名 = 内脏异位
+| 中文定义 = 胸腹部内脏器官的左右位置异常。
+}}
+
+==[[HP:0100553]]==
+{{Infobox HPO
+| hpoId = HP:0100553
+| 名称 = Hemihypertrophy of lower limb
+| 定义 = Overgrowth of only one leg.
+| 中文译名 = 下肢偏身肥大
+| 中文定义 = 只有一条腿过度生长。
+}}
+
+==[[HP:0100554]]==
+{{Infobox HPO
+| hpoId = HP:0100554
+| 名称 = Hemihypertrophy of upper limb
+| 定义 = Overgrowth of only one arm.
+| 中文译名 = 上肢偏身肥大
+| 中文定义 = 只有一只胳膊过度生长。
+}}
+
+==[[HP:0100555]]==
+{{Infobox HPO
+| hpoId = HP:0100555
+| 名称 = Asymmetric growth
+| 定义 = A growth pattern that displays an abnormal difference between the left and the right side.
+| 中文译名 = 不对称生长
+| 中文定义 = 身体左右两侧表现出异常差异的生长模式。
+}}
+
+==[[HP:0100556]]==
+{{Infobox HPO
+| hpoId = HP:0100556
+| 名称 = Hemiatrophy
+| 定义 = Undergrowth of the limbs that affects only one side.
+| 中文译名 = 偏侧萎缩
+| 中文定义 = 只有一侧肢体发育不全。
+}}
+
+==[[HP:0100557]]==
+{{Infobox HPO
+| hpoId = HP:0100557
+| 名称 = Hemiatrophy of lower limb
+| 定义 = Unilateral atrophy (reduction in size) of a leg.
+| 中文译名 = 下肢偏侧萎缩
+| 中文定义 = 单侧腿发生萎缩（体积减小）。
+}}
+
+==[[HP:0100558]]==
+{{Infobox HPO
+| hpoId = HP:0100558
+| 名称 = Hemiatrophy of upper limb
+| 定义 = Unilateral atrophy (reduction in size) of an arm.
+| 中文译名 = 上肢偏侧萎缩
+| 中文定义 = 单侧胳膊发生萎缩（体积减小）。
+}}
+
+==[[HP:0100559]]==
+{{Infobox HPO
+| hpoId = HP:0100559
+| 名称 = Lower limb asymmetry
+| 定义 = Difference in length or diameter between the left and right leg.
+| 中文译名 = 下肢不对称
+| 中文定义 = 左腿和右腿的长度或直径存在差异。
+}}
+
+==[[HP:0100560]]==
+{{Infobox HPO
+| hpoId = HP:0100560
+| 名称 = Upper limb asymmetry
+| 定义 = Difference in length or size between the right and left arm.
+| 中文译名 = 上肢不对称
+| 中文定义 = 左臂和右臂的长度或大小存在差异。
+}}
+
+==[[HP:0200053]]==
+{{Infobox HPO
+| hpoId = HP:0200053
+| 名称 = Hemihypotrophy of lower limb
+| 定义 = Shortening of a leg affecting only one side.
+| 中文译名 = 下肢偏侧发育不良
+| 中文定义 = 只累及一侧的腿发生短缩。
+}}

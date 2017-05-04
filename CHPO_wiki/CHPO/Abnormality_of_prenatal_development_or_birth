@@ -1,0 +1,1116 @@
+<accesscontrol>审核人:胎儿产前发育或出生异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=胎儿产前发育或出生异常(112条目)=
+
+
+==[[HP:0000474]]==
+{{Infobox HPO
+| hpoId = HP:0000474
+| 名称 = Thickened nuchal skin fold
+| 定义 = A thickening of the skin thickness in the posterior aspect of the fetal neck. A nuchal fold measurement is obtained in a transverse section of the fetal head at the level of the cavum septum pellucidum and thalami, angled posteriorly to include the cerebellum. The measurement is taken from the outer edge of the occiput bone to the outer skin limit directly in the midline. A measurement 6 mm or more is considered significant between 18 and 24 weeks and a measurement of 5 mm or more is considered significant at 16 to 18 weeks (pmid:16100637).
+| 中文译名 = 颈部皮肤皱褶冗赘
+| 中文定义 = 胎儿颈后皮肤厚度增厚。通过胎儿头部横断位位于透明隔腔和丘脑水平，倾斜向后包括小脑处测量皱褶。测量取自枕骨中部外侧缘至皮肤最外侧。在18至24周大于或等于6mm，或16至18周大于或等于5毫米可认为测量值显著。
+}}
+
+
+==[[HP:0001194]]==
+{{Infobox HPO
+| hpoId = HP:0001194
+| 名称 = Abnormalities of placenta and umbilical cord
+| 定义 = An abnormality of the placenta (the organ that connects the developing fetus to the uterine wall) or of the umbilical cord (the cord that connects the fetus to the placenta).
+| 中文译名 = 胎盘和脐带的异常
+| 中文定义 = 胎盘（发育中的胎儿子宫壁连接的器官）或脐带的（胎儿与胎盘的连接）中的异常。
+}}
+
+
+==[[HP:0001195]]==
+{{Infobox HPO
+| hpoId = HP:0001195
+| 名称 = Single umbilical artery
+| 定义 = Single umbilical artery (SUA) is the absence of one of the two umbilical arteries surrounding the fetal bladder and in the fetal umbilical cord.
+| 中文译名 = 单脐动脉
+| 中文定义 = 单脐动脉（SUA）是指在超声影像下缺乏脐带中两条脐动脉围绕胎儿膀胱的正常声像特征，而仅见其中一条。
+}}
+
+
+==[[HP:0001196]]==
+{{Infobox HPO
+| hpoId = HP:0001196
+| 名称 = Short umbilical cord
+| 定义 = Decreased length of the `umbilical cord` (FMA:85541).
+| 中文译名 = 脐带过短
+| 中文定义 = 脐带长度缩短。
+}}
+
+
+==[[HP:0001197]]==
+{{Infobox HPO
+| hpoId = HP:0001197
+| 名称 = Abnormality of prenatal development or birth
+| 定义 = An abnormality of the fetus or the birth of the fetus, excluding structural abnormalities.
+| 中文译名 = 胎儿产前发育或出生异常
+| 中文定义 = 胎儿的异常或胎儿出生异常，不含结构异常。
+}}
+
+
+==[[HP:0001557]]==
+{{Infobox HPO
+| hpoId = HP:0001557
+| 名称 = Prenatal movement abnormality
+| 定义 = An abnormality of fetal movement.
+| 中文译名 = 产前胎动异常
+| 中文定义 = 胎动异常。
+}}
+
+
+==[[HP:0001558]]==
+{{Infobox HPO
+| hpoId = HP:0001558
+| 名称 = Decreased fetal movement
+| 定义 = An abnormal reduction in quantity or strength of fetal movements.
+| 中文译名 = 胎动减少
+| 中文定义 = 胎动次数或强度异常减少。
+}}
+
+
+==[[HP:0001560]]==
+{{Infobox HPO
+| hpoId = HP:0001560
+| 名称 = Abnormality of the amniotic fluid
+| 定义 = Abnormality of the amniotic fluid, which is the fluid contained in the amniotic sac surrounding the developing fetus.
+| 中文译名 = 羊水异常
+| 中文定义 = 羊水（羊膜囊中围绕在发育中的胎儿周围的流体）的量异常。
+}}
+
+
+==[[HP:0001561]]==
+{{Infobox HPO
+| hpoId = HP:0001561
+| 名称 = Polyhydramnios
+| 定义 = The presence of excess amniotic fluid surrounding the fetus during pregnancy, the sonographic diagnosis of Polyhydramnios is usually based on an AFI &gt;25cm or on a single deepest pocket of amnionic fluid &gt;8cm,several groups have termed Polyhydramnios as mild if the AFI is 25 to 29.9cm, moderate if 30 to 34.9cm, and severe if 35 cm or more.
+| 中文译名 = 羊水过多
+| 中文定义 = 在妊娠期间围绕胎儿的羊水量过多， 超声诊断提示羊水指数大于25cm或羊水暗区大于8cm，其中轻度羊水过多羊水指数为25-29.9cm，中度羊水过多羊水指数为30-34.9cm，严重羊水过多羊水指数大于35cm。
+}}
+
+
+==[[HP:0001562]]==
+{{Infobox HPO
+| hpoId = HP:0001562
+| 名称 = Oligohydramnios
+| 定义 = The insufficient of amniotic fluid surrounding a fetus in pregnancy，the sonographic diagnosis of oligohydramnios is usually based on an AFI &lt;5cm or on a single deepest pocket of amnionic fluid &lt;2cm.
+| 中文译名 = 羊水过少
+| 中文定义 = 在妊娠期间围绕胎儿的羊水量不足。超声诊断指标是羊水指数小于5cm或羊水暗区小于2cm。
+}}
+
+
+==[[HP:0001563]]==
+{{Infobox HPO
+| hpoId = HP:0001563
+| 名称 = Fetal polyuria
+| 定义 = Abnormally increased production of urine by the fetus resulting in `polyhydramnios` (HP:0001561).
+| 中文译名 = 胎儿多尿
+| 中文定义 = 异常的胎儿造成`polyhydramnios`（:0001561 HP）产量增加​​的尿。
+}}
+
+
+==[[HP:0001622]]==
+{{Infobox HPO
+| hpoId = HP:0001622
+| 名称 = Premature birth
+| 定义 = The birth of a baby of less than 37 weeks of gestational age.
+| 中文译名 = 早产
+| 中文定义 = 是指妊娠满28周至不足37周间分娩者。
+}}
+
+
+==[[HP:0001623]]==
+{{Infobox HPO
+| hpoId = HP:0001623
+| 名称 = Breech presentation
+| 定义 = A position of the fetus at delivery in which the fetus enters the birth canal with the buttocks or feet first.
+| 中文译名 = 臀先露
+| 中文定义 = 胎儿进入产道中的先露部位为臀部或足。
+}}
+
+
+==[[HP:0001787]]==
+{{Infobox HPO
+| hpoId = HP:0001787
+| 名称 = Abnormal delivery
+| 定义 = An abnormality of the birth process.
+| 中文译名 = 分娩异常
+| 中文定义 = 产程中出现异常。
+}}
+
+
+==[[HP:0001788]]==
+{{Infobox HPO
+| hpoId = HP:0001788
+| 名称 = Premature rupture of membranes
+| 定义 = Premature rupture of membranes (PROM) is a condition which occurs in pregnancy when the amniotic sac ruptures more than an hour before the onset of labor.
+| 中文译名 = 胎膜早破
+| 中文定义 = 临产前超过1小时以上发生的胎膜破裂。
+}}
+
+
+==[[HP:0001789]]==
+{{Infobox HPO
+| hpoId = HP:0001789
+| 名称 = Hydrops fetalis
+| 定义 = The abnormal accumulation of fluid in two or more fetal compartments, including ascites, pleural effusion, pericardial effusion, and skin edema.
+| 中文译名 = 胎儿水肿
+| 中文定义 = 两个或以上的胎儿腔隙出现异常液体积聚，包括腹水，胸水，心包积液和皮肤水肿。
+}}
+
+
+==[[HP:0001790]]==
+{{Infobox HPO
+| hpoId = HP:0001790
+| 名称 = Nonimmune hydrops fetalis
+| 定义 = Nonimmune hydrops fetalis is a serious fetal condition in which abnormal fluid accumulates in at least two different compartments ,and in which ciruulating antibodies against red cell antigens are absent in the mother.
+| 中文译名 = 非免疫性胎儿水肿
+| 中文定义 = 非免疫性胎儿水肿是指胎儿出现两处或以上不同部位的体液异常聚积；但母血中没有抗胎儿红细胞抗体
+}}
+
+
+==[[HP:0001791]]==
+{{Infobox HPO
+| hpoId = HP:0001791
+| 名称 = Fetal ascites
+| 定义 = Accumulation of fluid in the peritoneal cavity during the fetal period.
+| 中文译名 = 胎儿腹水
+| 中文定义 = 流体在腹腔期间胎儿期积累。
+}}
+
+
+==[[HP:0001989]]==
+{{Infobox HPO
+| hpoId = HP:0001989
+| 名称 = Fetal akinesia sequence
+| 定义 = Decreases fetal activity associated with multiple joint contractures, facial anomalies and pulmonary hypoplasia. Ultrasound examination may reveal polyhydramnios, ankylosis, scalp edema, and decreased chest movements (reflecting pulmonary hypoplasia).
+| 中文译名 = 胎儿运动不能序列征
+| 中文定义 = 降低了与多发性关节挛缩，面部畸形和肺发育不良有关胎儿活动。超声检查可以揭示羊水过多，关节强直，头皮水肿，降低胸部运动（反映肺发育不良）。
+}}
+
+
+==[[HP:0002686]]==
+{{Infobox HPO
+| hpoId = HP:0002686
+| 名称 = Prenatal maternal abnormality
+| 定义 = #####
+| 中文译名 = 产前母体异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005099]]==
+{{Infobox HPO
+| hpoId = HP:0005099
+| 名称 = Severe hydrops fetalis
+| 定义 = #####
+| 中文译名 = 严重的胎儿水肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005100]]==
+{{Infobox HPO
+| hpoId = HP:0005100
+| 名称 = premature birth following premature rupture of fetal membranes
+| 定义 = #####
+| 中文译名 = 胎膜早破引起的胎儿早产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005267]]==
+{{Infobox HPO
+| hpoId = HP:0005267
+| 名称 = Premature delivery because of cervical insufficiency or membrane fragility
+| 定义 = #####
+| 中文译名 = 宫颈机能不全或胎膜脆性原因导致的早产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005268]]==
+{{Infobox HPO
+| hpoId = HP:0005268
+| 名称 = Spontaneous abortion
+| 定义 = A pregnancy that ends at a stage in which the fetus is incapable of surviving on its own, defined as the spontaneous loss of a fetus before the 20th week of pregnancy.
+| 中文译名 = 自然流产
+| 中文定义 = 妊娠终止时，在这一个阶段，胎儿不能依靠自身而存活，可定义为发生于妊娠20周之前的胎儿自然丢失。
+}}
+
+
+==[[HP:0006266]]==
+{{Infobox HPO
+| hpoId = HP:0006266
+| 名称 = Small placenta
+| 定义 = Reduced size of the `placenta` (FMA:63934).
+| 中文译名 = 小胎盘
+| 中文定义 = 胎盘大小与同孕周阶段相比减小。
+}}
+
+
+==[[HP:0006267]]==
+{{Infobox HPO
+| hpoId = HP:0006267
+| 名称 = Large placenta
+| 定义 = Increased size of the `placenta` (FMA:63934).
+| 中文译名 = 大胎盘
+| 中文定义 = 胎盘大小与同孕周阶段相比增大。
+}}
+
+==[[HP:0008071]]==
+{{Infobox HPO
+| hpoId = HP:0008071
+| 名称 = Maternal hypertension
+| 定义 = A group of diseases which includes:preeclampsia-eclampsia,gestational hypertension, chronic hypertension complicating pregnancy and chronichypertension with superimposed preeclampsia.
+| 中文译名 = 妊娠期高血压疾病
+| 中文定义 = 一组包括子痫前期-子痫、妊娠期高血压、妊娠合并慢性高血压和慢性高血压合并子痫前期的疾病。
+}}
+
+
+==[[HP:0008072]]==
+{{Infobox HPO
+| hpoId = HP:0008072
+| 名称 = Maternal virilization in pregnancy
+| 定义 = Virilization (deepening of  voice, facial hirsutism and scalp hair loss) with onset during pregnancy (usually towards the end of the first trimester) and regression several months post-partum.
+| 中文译名 = 孕期母体男性化
+| 中文定义 = 孕期母体男性化改变（表现为嗓音低沉，面部多毛以及脱发）在妊娠期出现（通常起始于孕12周前），直至产后数月才逐渐恢复。
+}}
+
+
+==[[HP:0008073]]==
+{{Infobox HPO
+| hpoId = HP:0008073
+| 名称 = Low maternal serum estriol
+| 定义 = Estriol is a metabolite of estradiol, measure maternal serum estriol , is to determine the function of the placenta, and which is a relatively credible  method to monitoring and forecasting fetal status.
+| 中文译名 = 孕妇血清雌三醇降低
+| 中文定义 = 雌三醇是雌二醇的代谢产物，测定孕妇血清雌三醇，是判断胎盘功能、预测胎儿状态及监护胎儿安全较可信的方法。
+}}
+
+
+==[[HP:0009775]]==
+{{Infobox HPO
+| hpoId = HP:0009775
+| 名称 = Amniotic constriction ring
+| 定义 = Annular constrictions around the digits, limbs, or trunk, occurring congenitally (sometimes causing intrauterine autoamputation) and also associated with a wide variety of disorders. Constrictive amniotic bands are the result of primary amniotic rupture, which can lead to entanglement of fetal tissue (especially limbs) in fibrous amniotic strands.
+| 中文译名 = 羊膜带狭窄环
+| 中文定义 = 缩窄的羊膜缠绕胎儿手指/脚趾、四肢或躯干，造成先天性缺陷（如宫内截肢）并与多种疾病相关。羊膜束带由部分羊膜脱落，纤维性羊膜带缠绕胎儿组织（尤其是四肢）造成。
+}}
+
+
+==[[HP:0009800]]==
+{{Infobox HPO
+| hpoId = HP:0009800
+| 名称 = Maternal diabetes
+| 定义 = Maternal diabetes can either be a gestational, mostly type 2 diabetes, or a type 1 diabetes. Essential is the resulting maternal hyperglycemia as a non-specific teratogen, imposing the same risk of congenital malformations to pregnant women with both type 1 and type2 diabetes.
+| 中文译名 = 母体糖尿病
+| 中文定义 = 母体糖尿病是妊娠期的1型或2型糖尿病，2型最常见。本质是母体高血糖症是一种非特异性的致畸因素，对于孕妇来说不管是1型还是2型糖尿病都产生同样的先天性畸形的风险。
+}}
+
+
+==[[HP:0010483]]==
+{{Infobox HPO
+| hpoId = HP:0010483
+| 名称 = Amniotic constriction rings of arms
+| 定义 = Amniotic constriction rings affecting the arms.
+| 中文译名 = 臂部的羊膜缩窄环
+| 中文定义 = 羊膜收缩环影响的怀抱。
+}}
+
+
+==[[HP:0010491]]==
+{{Infobox HPO
+| hpoId = HP:0010491
+| 名称 = Digital constriction ring
+| 定义 = A narrow segment of significantly reduced circumference of a digit.
+| 中文译名 = 指趾缩窄环
+| 中文定义 = 羊膜缠绕胎儿手指、足趾，由羊膜带引起的局部缩窄环。
+}}
+
+
+==[[HP:0010495]]==
+{{Infobox HPO
+| hpoId = HP:0010495
+| 名称 = Amniotic constriction rings of legs
+| 定义 = Amniotic constriction rings affecting the legs.
+| 中文译名 = 腿部的羊膜缩窄环
+| 中文定义 = 羊膜收缩环的影响腿部。
+}}
+
+
+==[[HP:0010519]]==
+{{Infobox HPO
+| hpoId = HP:0010519
+| 名称 = Increased fetal movement
+| 定义 = An abnormal increase in quantity or strength of fetal movements.
+| 中文译名 = 胎动增加
+| 中文定义 = 胎动次数或强度异常增加。
+}}
+
+
+==[[HP:0010570]]==
+{{Infobox HPO
+| hpoId = HP:0010570
+| 名称 = Low maternal serum alpha-fetoprotein
+| 定义 = An abnormally low concentration of serum alpha-fetoprotein as compared to normal values for gestational-age.
+| 中文译名 = 母体血清甲胎蛋白浓度降低
+| 中文定义 = 与相同胎龄的正常值相比，异常降低的母体血清甲胎蛋白浓度。
+}}
+
+
+==[[HP:0010859]]==
+{{Infobox HPO
+| hpoId = HP:0010859
+| 名称 = Frank breech presentation
+| 定义 = A kind of `breech presentation` (HP:0001623) in which the hips are flexed and the knees are extended.
+| 中文译名 = 单臀先露
+| 中文定义 = “臀先露”(HP:0001623)的一种，胎儿双髋关节屈曲,双膝关节直伸。
+}}
+
+==[[HP:0010860]]==
+{{Infobox HPO
+| hpoId = HP:0010860
+| 名称 = Complete breech presentation
+| 定义 = A kind of `breech presentation` (HP:0001623) in which the hips are flexed and the knees are flexed.
+| 中文译名 = 完全臀先露
+| 中文定义 = “臀先露”的一种（HP:0001623），胎儿髋关节及膝关节均屈曲。
+}}
+
+
+==[[HP:0010861]]==
+{{Infobox HPO
+| hpoId = HP:0010861
+| 名称 = Incomplete breech presentation
+| 定义 = A kind of `breech presentation` (HP:0001623) in which one or both hips are extended and one or both of the fetus&#39; feet are pointing down and entering the birth canal.
+| 中文译名 = 不完全臀先露
+| 中文定义 = “臀先露”(HP:0001623)的一种，胎儿单侧或双侧髋关节直伸，胎儿一足或双足向下先进入产道。
+}}
+
+
+==[[HP:0010878]]==
+{{Infobox HPO
+| hpoId = HP:0010878
+| 名称 = Fetal cystic hygroma
+| 定义 = The presence during the prenatal period of a cystic mass with multiple septa with multiple, asymmetric, thin-walled cysts near the posterior aspect of the neck. Fetal cystic hygroma can be defined as nuchal translucency with or without septations measuring greater than 3.0 mm.
+| 中文译名 = 胎儿囊状水瘤
+| 中文定义 = 产前期间出现，颈部后方附近的囊性包块，由多个隔片及多个不对称的薄壁包囊组成。胎囊状水瘤可以被定义为有或没有分隔的长度大于3毫米的颈部半透明物。
+}}
+
+
+==[[HP:0010880]]==
+{{Infobox HPO
+| hpoId = HP:0010880
+| 名称 = Increased nuchal translucency
+| 定义 = The presence of an abnormally large hypoechoic space in the posterior fetal neck (usually detected on prenatal ultrasound examination).
+| 中文译名 = 颈部透明层厚度增加
+| 中文定义 = 胎儿颈后皮下组织内的低回声层异常增厚（通常为产前超声检查项目）。
+}}
+
+==[[HP:0010881]]==
+{{Infobox HPO
+| hpoId = HP:0010881
+| 名称 = Abnormality of the umbilical cord
+| 定义 = An abnormality of the `umbilical cord` (FMA:85541), which is the cord connecting the developing embryo or fetus to the placenta.
+| 中文译名 = 脐带异常
+| 中文定义 = 胚胎或胎儿与胎盘间的纽带的异常。
+}}
+
+
+==[[HP:0010942]]==
+{{Infobox HPO
+| hpoId = HP:0010942
+| 名称 = Echogenic intracardiac focus
+| 定义 = A finding of a focus of increased echogenicity upon prenatal ultrasound examination of the fetus. The foci may be present in one or both ventricles. Echogenic intracardiac focus (EICF) is defined as a focus of echogenicity comparable to bone, in the region of the papillary muscle in either or both ventricles of the fetal heart.
+| 中文译名 = 心室强光点
+| 中文定义 = 心室强光点是因产前超声检查关注于胎儿超声回声增强而发现的。强光点可出现在一个或两个心室内。心室强光点是指胎儿心室内的、与邻近肋骨回声相似的超声现象，这种回声光点一般出现于一个或两个心室的乳突肌内。
+}}
+
+
+==[[HP:0010943]]==
+{{Infobox HPO
+| hpoId = HP:0010943
+| 名称 = Echogenic fetal bowel
+| 定义 = Echogenic bowel is defined as fetal bowel with homogenous areas of echogenicity that are equal to or greater than that of surrounding bone.
+| 中文译名 = 胎儿肠管回声增强
+| 中文定义 = 肠管回声增强是指胎儿肠管回声强度接近或高于其周围骨骼回声的强度。
+}}
+
+
+==[[HP:0010945]]==
+{{Infobox HPO
+| hpoId = HP:0010945
+| 名称 = Fetal pyelectasis
+| 定义 = Mild pyelectasis is defined as a hypoechoic spherical or elliptical space within the renal pelvis that measures at least 5mm and not more than 10 mm. The measurement is taken on a transverse section through the fetal renal pelvis using the maximum anterior-to-posterior measurement.
+| 中文译名 = 胎儿肾盂扩张
+| 中文定义 = 轻度肾盂扩张被定义为超声检查时低回声球形或椭圆形的肾盂扩大，起码是5毫米以上但不超过10毫米。测量时取横截面，通过胎儿肾盂，采集最大前后径。
+}}
+
+
+==[[HP:0010949]]==
+{{Infobox HPO
+| hpoId = HP:0010949
+| 名称 = Abnormality of umbilical vein blood flow
+| 定义 = An first-trimester prenatal ultrasound finding of abnormal blood flow in the umbilical vein.
+| 中文译名 = 脐静脉血流异常
+| 中文定义 = 孕早期产前超声发现的脐静脉血流异常。
+}}
+
+
+==[[HP:0010952]]==
+{{Infobox HPO
+| hpoId = HP:0010952
+| 名称 = Mild fetal ventriculomegaly
+| 定义 = A kind of `ventriculomegaly` (HP:0002119) occurring in the fetal period and usually diagnosed by prenatal ultrasound. Cerebral ventriculomegaly is defined by atrial measurements 10 mm or more. Mild ventriculomegaly (MVM) is defined as measurements between 10 and 15 mm. Measurements are obtained from an axial plane at the level of the thalamic nuclei just below the standard image to measure the BPD (pmid:16100637).
+| 中文译名 = 轻度胎儿脑室扩大
+| 中文定义 = 发生于胎儿期的脑室扩大（HP:0002119）的一种类型，通常利用产前超声诊断。脑室扩大定义为是体径10mm以上。轻度脑室扩大（MVM）定义为10至15毫米之间。从丘脑核团水平的轴位完成测量，刚好低于测量BPD（PMID:16100637）的标准图像。
+}}
+
+
+==[[HP:0010963]]==
+{{Infobox HPO
+| hpoId = HP:0010963
+| 名称 = Absence of stomach bubble on fetal sonography
+| 定义 = By the 14th week of gestation it is nearly always possible to visualized the fluid-filled fetal stomach bubble on prenatal sonography. This term refers to the absence of a normal fetal stomach bubble on fetal ultrasonography performed at around 16 to 20 weeks&#39; gestation.
+| 中文译名 = 胎儿超声下胃泡缺如
+| 中文定义 = 孕14周产前超声可见充盈的胎儿胃泡。这个术语指的是孕16~20周超声下胎儿胃泡未显示。
+}}
+
+
+==[[HP:0011129]]==
+{{Infobox HPO
+| hpoId = HP:0011129
+| 名称 = Bilateral fetal pyelectasis
+| 定义 = A `bilateral` (PATO:0000618) form of `fetal pyelectasis` (HP:0010945).
+| 中文译名 = 胎儿双侧肾盂扩张
+| 中文定义 = 胎儿双侧肾盂扩张。
+}}
+
+
+==[[HP:0011403]]==
+{{Infobox HPO
+| hpoId = HP:0011403
+| 名称 = Abnormal umbilical cord blood vessels
+| 定义 = #####
+| 中文译名 = 脐带血管异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011409]]==
+{{Infobox HPO
+| hpoId = HP:0011409
+| 名称 = Abnormality of placental membranes
+| 定义 = #####
+| 中文译名 = 胎盘胎膜异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011410]]==
+{{Infobox HPO
+| hpoId = HP:0011410
+| 名称 = Caesarian section
+| 定义 = #####
+| 中文译名 = 剖腹产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011411]]==
+{{Infobox HPO
+| hpoId = HP:0011411
+| 名称 = Forceps delivery
+| 定义 = #####
+| 中文译名 = 产钳助产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011412]]==
+{{Infobox HPO
+| hpoId = HP:0011412
+| 名称 = Ventouse delivery
+| 定义 = Delivery of newborn by means of a ventouse, a vacuum device used to assist the delivery of a baby when the second stage of labour has not progressed adequately.
+| 中文译名 = 胎吸分娩
+| 中文定义 = 当第二产程进展延长时，应用一个真空设备的吸引装置辅助胎儿分娩。
+}}
+
+
+==[[HP:0011413]]==
+{{Infobox HPO
+| hpoId = HP:0011413
+| 名称 = Shoulder dystocia
+| 定义 = Shoulder dystocia occurs when the fetal anterior shoulder impacts against the maternal symphysis following delivery of the vertex.
+| 中文译名 = 肩难产
+| 中文定义 = 胎头娩出后，胎儿前肩被嵌顿在耻骨联合上方，用常规助产方法不能娩出胎儿双肩。
+}}
+
+
+==[[HP:0011414]]==
+{{Infobox HPO
+| hpoId = HP:0011414
+| 名称 = Hydropic placenta
+| 定义 = An abnormality of the placenta in which there are numerous cystic spaces within the placenta as well as placental enlargement.
+| 中文译名 = 胎盘水肿
+| 中文定义 = 胎盘异常的一种，胎盘内有众多囊腔合并胎盘增大。
+}}
+
+
+==[[HP:0011415]]==
+{{Infobox HPO
+| hpoId = HP:0011415
+| 名称 = Calcified placenta
+| 定义 = Calcification placenta refers to the placenta with calcium deposits on .
+| 中文译名 = 胎盘钙化
+| 中文定义 = 胎盘钙化指胎盘上存在钙质沉积。
+}}
+
+
+==[[HP:0011416]]==
+{{Infobox HPO
+| hpoId = HP:0011416
+| 名称 = Placental infarction
+| 定义 = Placental infarcts are macroscopically-evident focal parenchymal lesions in which microscopy shows necrosis and approximation of villi. The pathogenesis are that the infarctions are to be attributed to spastic or organic obliteration of the spiral arteries. Placental infarctions are significantly associated with fetal mortality, dysmaturity, and fetal distress.
+| 中文译名 = 胎盘梗死
+| 中文定义 = 胎盘梗死是肉眼可见的局灶性损伤，显微镜下表现为绒毛膜坏死样病变，病因为绒毛膜螺旋动脉痉挛或物理性梗阻。胎盘梗死与死胎。胎儿窘迫和成熟障碍有明确关系。
+}}
+
+
+==[[HP:0011417]]==
+{{Infobox HPO
+| hpoId = HP:0011417
+| 名称 = Long umbilical cord
+| 定义 = Increased length of the `umbilical cord` (FMA:85541).
+| 中文译名 = 长脐带
+| 中文定义 = 脐带长度增加。
+}}
+
+
+==[[HP:0011418]]==
+{{Infobox HPO
+| hpoId = HP:0011418
+| 名称 = Abnormal insertion of umbilical cord
+| 定义 = #####
+| 中文译名 = 脐带插入点异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011419]]==
+{{Infobox HPO
+| hpoId = HP:0011419
+| 名称 = Placental abruption
+| 定义 = Placental abruption is a serious condition in which the separation of the placenta from its site of implatation after 20 weeks of gestain or during the delivery before birth
+| 中文译名 = 胎盘早剥
+| 中文定义 = 胎盘早剥是指妊娠20周后或分娩期，正常位置的胎盘在胎儿娩出前从子宫壁剥离，是一种妊娠期重症。
+}}
+
+
+==[[HP:0011425]]==
+{{Infobox HPO
+| hpoId = HP:0011425
+| 名称 = Fetal ultrasound soft marker
+| 定义 = An finding upon obstetric ultrasound examination performed at around 16 to 20 weeks of gestation that is abnormal but not clearly identifiable as a  fetal anatomic malformation or growth restriction. Such findings are known as soft markers since they are associated with increased risk for fetal aneuploidy or other disorders.
+| 中文译名 = 胎儿超声软指标
+| 中文定义 = 在大约16〜20周妊娠是不正常的，但不能清楚地标识为胎儿解剖畸形或发育迟缓的表现后，产科超声检查的发现。这些发现被称为软标记物，因为它们是与风险为胎儿非整倍或其他病症的增加有关。
+}}
+
+
+==[[HP:0011426]]==
+{{Infobox HPO
+| hpoId = HP:0011426
+| 名称 = Fetal choroid plexus cysts
+| 定义 = Fetal choroid plexus cysts (CPCs) are sonographically discrete, small cysts (3 mm or more) found in the choroid plexus within the lateral cerebral ventricles of the developing fetus at 14 to 24 weeks gestation. Imaging of the choroid plexus is performed in the transverse plane of the fetal head at the same level that the lateral cerebral ventricle is evaluated. The choroid plexus should be inspected bilaterally for the presence of cysts. The size of CPCs is not of clinical relevance (pmid:16100637).
+| 中文译名 = 胎儿脉络丛囊肿
+| 中文定义 = 胎脉络丛囊肿是发育中的胎儿的侧脑室的脉络丛中发现的内超声离散的小囊肿（3mm以上），一般出现于14至24周妊娠。胎儿脉络丛囊肿的成像需要在胎头的横向平面，在检测侧脑室相同的水平。应双边检查脉络丛是否有包囊的存在。胎儿脉络丛囊肿的大小与临床无关（PMID:16100637）。
+}}
+
+==[[HP:0011427]]==
+{{Infobox HPO
+| hpoId = HP:0011427
+| 名称 = Enlarged fetal cisterna magna
+| 定义 = The cisterna magna is measured on a transaxial view of the fetal head angled 15 degrees caudal to the canthomeatal line. The anterior/posterior diameter is taken between the inferior/posterior surface of the vemis of the cerebellum to the inner surface of the cranium. An enlarged cisternal magna is defined by an anterior/posterior diameter of 10 mm or more (pmid:16100637).
+| 中文译名 = 胎儿小脑延髓池扩大
+| 中文定义 = 小脑延髓池测量胎头角度15度尾椎canthomeatal线的横断视图。的前/后直径取小脑vemis的劣/后表面之间的颅骨的内表面上。的放大脑池蚤是由10mm以上（:16100637 PMID）前/后面直径限定。
+}}
+
+
+==[[HP:0011428]]==
+{{Infobox HPO
+| hpoId = HP:0011428
+| 名称 = Short fetal femur length
+| 定义 = A short femur length is defined as either a measurement below the 2.5th percentile for gestational age or a measurement that is less than 0.9 of that predicted by the measured biparietal diameter. The femur should be measured with the bone perpendicular to the ultrasound beam and with epiphyseal cartilages visible but not included in the measurement (pmid:16100637).
+| 中文译名 = 胎儿股骨短小
+| 中文定义 = 胎儿股骨短小定义为股骨长度测值小于同孕龄第2.5百分位、或小于以双顶径为标准计算孕龄的第10百分位以下。测量时股骨应与超声波束垂直，并可见骨骺软骨，但其不包含在测量范围内。
+}}
+
+
+==[[HP:0011429]]==
+{{Infobox HPO
+| hpoId = HP:0011429
+| 名称 = Short fetal humerus length
+| 定义 = A short humerus length is defined as a length below the 2.5th percentile for gestational age or as a measurement less than 0.9 of that predicted by the measured biparietal diameter. The humerus should be measured with the bone perpendicular to the ultrasound beam and with epiphyseal cartilages visible but not included in the measurement (pmid:16100637).
+| 中文译名 = 胎儿肱骨短小
+| 中文定义 = 胎儿肱骨短小定义为肱骨长度测值小于同孕龄第2.5百分位、或小于以双顶径为标准计算孕龄的第10百分位以下。测量时肱骨应与超声波束垂直，并可见骨骺软骨，但其不包含在测量范围内。
+}}
+
+
+==[[HP:0011430]]==
+{{Infobox HPO
+| hpoId = HP:0011430
+| 名称 = Hypoplasia of fetal nasal bone
+| 定义 = On prenatal ultrasound, the nasal bone is a thin echogenic line within the bridge of the fetal nose. The fetus is imaged facing the transducer with the fetal face strictly in the midline. The angle of insonation is 90 degrees, with the longitudinal axis of the nasal bone as the reference line. Calibres are placed at each end of the nasal bone. Absence of the nasal bone or measurements below 2.5th percentile are considered significant (pmid:16100637).
+| 中文译名 = 胎儿鼻骨发育不良
+| 中文定义 = 产前超声，鼻骨是胎儿鼻梁内的薄回声带。胎儿面部面对探头，成像面在颜面部正中矢状切面，超声声束与鼻骨长轴成90°，测量两端鼻骨边界的距离。鼻骨缺失，或其长度小于同孕周正常值的第2.5百分位数是有显著差异的。
+}}
+
+
+==[[HP:0011431]]==
+{{Infobox HPO
+| hpoId = HP:0011431
+| 名称 = Fetal fifth finger clinodactyly
+| 定义 = Fifth finger clinodactyly is defined by a hypoplastic or absent mid-phalanx of the fifth digit. Ultrasound identification of the fetal hand must first be undertaken and then appropriate magnification accomplished. The evaluation requires stretching of the 5 fingers. The diagnosis is established when the middle phalanx of the fifth finger is markedly smaller than normal or absent, which often causes the finger to be curved inward  (pmid:16100637).
+| 中文译名 = 胎儿第五指屈指畸形
+| 中文定义 = 第五手指五指由发育不全或不存在中间指骨的第五位的定义。超声波鉴定胎儿的手必须首先进行，然后适当的放大倍率来实现。这种评价需要伸缩5个手指的。 （:16100637 PMID）当第五手指的中间指骨明显高于正常或不存在，这往往使手指被向内弯曲越小诊断确立。
+}}
+
+
+==[[HP:0011432]]==
+{{Infobox HPO
+| hpoId = HP:0011432
+| 名称 = High maternal serum alpha-fetoprotein
+| 定义 = An abnormally high concentration of serum alpha-fetoprotein as compared to normal values for gestational-age.
+| 中文译名 = 母体血清甲胎蛋白浓度增高
+| 中文定义 = 与相同胎龄的正常值相比，异常升高的母体血清甲胎蛋白浓度。
+}}
+
+
+==[[HP:0011433]]==
+{{Infobox HPO
+| hpoId = HP:0011433
+| 名称 = High maternal serum chorionic gonadotropin
+| 定义 = An abnormally high concentration of maternal serum human chorionic gonadotropin as compared to normal values for gestational-age.
+| 中文译名 = 母体血清绒毛膜促性腺激素浓度增高
+| 中文定义 = 与相同胎龄的正常值相比，异常升高的母体血清人绒毛膜促性腺激素浓度。
+}}
+
+
+==[[HP:0011434]]==
+{{Infobox HPO
+| hpoId = HP:0011434
+| 名称 = Low maternal serum chorionic gonadotropin
+| 定义 = An abnormally low concentration of maternal serum human chorionic gonadotropin as compared to normal values for gestational-age.
+| 中文译名 = 母体血清绒毛膜促性腺激素浓度降低
+| 中文定义 = 与相同胎龄的正常值相比，异常降低的母体血清人绒毛膜促性腺激素浓度。
+}}
+
+
+==[[HP:0011435]]==
+{{Infobox HPO
+| hpoId = HP:0011435
+| 名称 = Low maternal serum PAPP-A
+| 定义 = An abnormally low concentration of serum PAPP-A (pregnancy associated plasma protein A), as compared to normal values for gestational-age.
+| 中文译名 = 母体血清PAPP-A浓度降低
+| 中文定义 = 与相同胎龄的正常值相比，异常降低的母体血清PAPP-A浓度（妊娠相关血浆蛋白A）。
+}}
+
+
+==[[HP:0011436]]==
+{{Infobox HPO
+| hpoId = HP:0011436
+| 名称 = Abnormal maternal serum screening
+| 定义 = An abnormally elevated or decreased level of a maternal serum marker analytes used in screening for aneuploidy.
+| 中文译名 = 母血清筛查异常
+| 中文定义 = 非整倍体筛查中，母体血清学标记物水平异常增高或降低。
+}}
+
+
+==[[HP:0011437]]==
+{{Infobox HPO
+| hpoId = HP:0011437
+| 名称 = Maternal autoimmune disease
+| 定义 = Maternal autoimmune diseases are associated with increased rates of fetal wastage.The most common maternal autoimmune diseases are systemic lupus erythematosus(SLE),rheumatoid arthritis,and a host of vasculitis syndromes and so on.
+| 中文译名 = 母体自身免疫性疾病
+| 中文定义 = 孕妇自身免疫性疾病与胎儿流产及胎死宫内相关。常见的病种包括系统性红斑狼疮，类风湿关节炎，以及血管炎综合征等。
+}}
+
+
+==[[HP:0011438]]==
+{{Infobox HPO
+| hpoId = HP:0011438
+| 名称 = Maternal teratogenic exposure
+| 定义 = Matenal has been exposured  to  teratogenic substance for example drugs、 chemicals、 source of infection and other physical factors,during pregnancy,which  may cause fetal morphological abnormalities、neurological abnormalities or death.
+| 中文译名 = 孕期致畸暴露
+| 中文定义 = 孕期母体接触过可能对胎儿发育有影响的药物、化学制剂、感染源、物理因子等,可能会导致胎儿形体和/或神经系统发育异常，甚至死亡。
+}}
+
+
+==[[HP:0012188]]==
+{{Infobox HPO
+| hpoId = HP:0012188
+| 名称 = Hyperemesis gravidarum
+| 定义 = Excessive vomiting in early pregnancy, leading to the loss of 5% or more of body weight.
+| 中文译名 = 妊娠剧吐
+| 中文定义 = 妊娠早期频繁恶心呕吐，体重较妊娠前减轻5%或以上。
+}}
+
+
+==[[HP:0012420]]==
+{{Infobox HPO
+| hpoId = HP:0012420
+| 名称 = Meconium stained amniotic fluid
+| 定义 = It’s an abnormal kind of amniotic fluid that contains fetal meconium, and that always associates with fetal distress or meconium aspiration syndrome
+| 中文译名 = 羊水污染、羊水混浊
+| 中文定义 = 羊水胎粪污染是一种异常羊水状态，羊水中混有胎儿粪便，常引发胎儿窘迫或新生儿胎粪吸入综合征
+}}
+
+
+==[[HP:0012498]]==
+{{Infobox HPO
+| hpoId = HP:0012498
+| 名称 = Nuchal cord
+| 定义 = Nuchal cord is a complication during pregnancy  in which the umbilical cord wraps around the fetal neck once or multiple times.it is the most common type of cord entanglement which can be detected by ultrasound scan in the second or third trimester.
+| 中文译名 = 脐带绕颈
+| 中文定义 = 脐带绕颈是孕期的一种并发症，是最常见的脐带缠绕类型，指脐带缠绕胎儿颈部一圈或多圈，可通过妊娠中期或晚期超声检查发现。
+}}
+
+
+==[[HP:0012536]]==
+{{Infobox HPO
+| hpoId = HP:0012536
+| 名称 = Maternal anticardiolipin antibody positive
+| 定义 = Anticardiolipin antibody positive is common find in SLE and other autoimmune diseases. The antibody closely related to thrombosis, thrombocytopenia, spontaneous abortion or intrauterine fetal death.
+| 中文译名 = 母体抗心磷脂抗体阳性
+| 中文定义 = 抗心磷脂抗体阳性常见于SLE及其他自身免疫性疾病。该抗体与血栓形成、血小板减少、自然流产或宫内死胎关系密切。
+}}
+
+
+==[[HP:0012541]]==
+{{Infobox HPO
+| hpoId = HP:0012541
+| 名称 = Cephalohematoma
+| 定义 = Hemorrhage between the skull and periosteum of a newborn resulting from rupture of blood vessels that cross the periosteum.
+| 中文译名 = 胎头血肿
+| 中文定义 = 新生儿骨膜下血管破裂出血，引起颅骨及骨膜下血肿而形成头颅血肿。
+}}
+
+
+==[[HP:0012546]]==
+{{Infobox HPO
+| hpoId = HP:0012546
+| 名称 = Skewed maternal X inactivation
+| 定义 = A deviation from equal (50%) inactivation of each parental X chromosome in maternal cells.
+| 中文译名 = 母亲X染色体偏向性失活
+| 中文定义 = 女性细胞中两条X染色体的其中之一失去活性的现象。
+}}
+
+
+==[[HP:0012767]]==
+{{Infobox HPO
+| hpoId = HP:0012767
+| 名称 = Abnormal placental size
+| 定义 = A deviation from normal size of the placenta.
+| 中文译名 = 胎盘大小异常
+| 中文定义 = 胎盘大小与正常尺寸的偏差。
+}}
+
+
+==[[HP:0030244]]==
+{{Infobox HPO
+| hpoId = HP:0030244
+| 名称 = Maternal fever in pregnancy
+| 定义 = The occurence of an elevated body temperature of the mother during pregnancy.
+| 中文译名 = 妊娠期间孕妇发热
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030245]]==
+{{Infobox HPO
+| hpoId = HP:0030245
+| 名称 = Intrapartum fever
+| 定义 = The occurence of maternal fever during labor.
+| 中文译名 = 产时发热
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030246]]==
+{{Infobox HPO
+| hpoId = HP:0030246
+| 名称 = Maternal first trimester fever
+| 定义 = The occurence of fever in a mother during the first trimester of pregnancy.
+| 中文译名 = 妊娠早期孕妇发烧
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030363]]==
+{{Infobox HPO
+| hpoId = HP:0030363
+| 名称 = Primary Caesarian section
+| 定义 = Delivery by Caesarian section representing the first time the mother has delivered by Caesarian section.
+| 中文译名 = 首次剖宫产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030364]]==
+{{Infobox HPO
+| hpoId = HP:0030364
+| 名称 = Secondary Caesarian section
+| 定义 = Delivery by Caesarian section representing where the mother has already had a previous Cesarean delivery, and this is a repeat Cesarean birth.
+| 中文译名 = 二次剖宫产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030365]]==
+{{Infobox HPO
+| hpoId = HP:0030365
+| 名称 = Vaginal birth after Caesarian
+| 定义 = Vaginal birth after Caesarian (VBAC) refers to the situation where the mother has had a previous Cesarean delivery but has now delivered vaginally.
+| 中文译名 = 剖宫产术后阴道生产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030366]]==
+{{Infobox HPO
+| hpoId = HP:0030366
+| 名称 = Delivery by Odon device
+| 定义 = The Odon device is an instrument for assisted vaginal deliveries that is applied on the head of the baby and used to apply traction to assist the birth process.
+| 中文译名 = Odon气囊助产
+| 中文定义 = #####
+}}
+
+==[[HP:0030369]]==
+{{Infobox HPO
+| hpoId = HP:0030369
+| 名称 = Induced vaginal delivery
+| 定义 = Vaginal delivery following induction of labor, a procedure used to stimulate uterine contractions during pregnancy before labor begins on its own.
+| 中文译名 = 催产阴道分娩
+| 中文定义 = #####
+}}
+
+==[[HP:0030449]]==
+{{Infobox HPO
+| hpoId = HP:0030449
+| 名称 = Therapeutic abortion
+| 定义 = Delivery by means of therapeutic termination of pregnancy. Therapeutic abortion may be done to end a pregnancy if the mother&#39;s life is in danger or if the baby has abnormalities involving the major organ systems and is not expected to survive after birth or by choice.
+| 中文译名 = 治疗性流产
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030654]]==
+{{Infobox HPO
+| hpoId = HP:0030654
+| 名称 = Umbilical cord cyst
+| 定义 = Any cystic lesion associated with the umbilical cord.
+| 中文译名 = 脐带囊肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030655]]==
+{{Infobox HPO
+| hpoId = HP:0030655
+| 名称 = Umbilical cord knot
+| 定义 = An entwining of a segment of umbilical cord, usually without obstructing fetal circulation and commonly result from fetal slippage through a loop of the cord.
+| 中文译名 = 脐带结
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030656]]==
+{{Infobox HPO
+| hpoId = HP:0030656
+| 名称 = Umbilical vein varix
+| 定义 = Focal dilation of the umbilical vein.
+| 中文译名 = 脐静脉静脉曲张
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030657]]==
+{{Infobox HPO
+| hpoId = HP:0030657
+| 名称 = Umbilical cord hematoma
+| 定义 = Bleeding from the vessels of the cord with extravasation of blood into the Wharton jelly surrounding the umbilical cord vessels.
+| 中文译名 = 脐带血肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030658]]==
+{{Infobox HPO
+| hpoId = HP:0030658
+| 名称 = Marginal umbilical cord insertion
+| 定义 = Insertion of the umbilical cord within 2 cm from the placental edge.
+| 中文译名 = 脐带边缘附着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030659]]==
+{{Infobox HPO
+| hpoId = HP:0030659
+| 名称 = Velamentous cord insertion
+| 定义 = Insertion of the umbilical cord into the chorio-amniotic membranes of the placenta.
+| 中文译名 = 脐带帆状附着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030660]]==
+{{Infobox HPO
+| hpoId = HP:0030660
+| 名称 = Furcate cord insertion
+| 定义 = Branching of the umbilical cord before its insertion into the placenta.
+| 中文译名 = 脐带分叉附着
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030714]]==
+{{Infobox HPO
+| hpoId = HP:0030714
+| 名称 = Subchorionic thrombohematoma
+| 定义 = A large maternal clot that separates the chorionic place from the villous chorion.
+| 中文译名 = 绒毛膜下血栓血肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030720]]==
+{{Infobox HPO
+| hpoId = HP:0030720
+| 名称 = Subchorionic septal cyst
+| 定义 = Cyst on the surface of the placenta consisting of amnion and chorion.
+| 中文译名 = 绒毛膜下间隔囊肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030753]]==
+{{Infobox HPO
+| hpoId = HP:0030753
+| 名称 = Intrauterine fetal demise of one twin after midgestation
+| 定义 = Loss of one twin occurring after midgestation (17 weeks gestation).
+| 中文译名 = 妊娠中期之后双胞胎之一宫内胎儿死亡
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030763]]==
+{{Infobox HPO
+| hpoId = HP:0030763
+| 名称 = Amniotic Sheet
+| 定义 = A sheet like projection that can result from uterine synechiae that has been encompassed by the expanding chorion and amnion.
+| 中文译名 = 羊膜片
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040222]]==
+{{Infobox HPO
+| hpoId = HP:0040222
+| 名称 = Maternal thrombophilia
+| 定义 = An increased tendency towards thrombosis in the mother during a pregnancy.
+| 中文译名 = 妊娠期高凝状态，妊娠期血栓形成倾向
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100601]]==
+{{Infobox HPO
+| hpoId = HP:0100601
+| 名称 = Eclampsia
+| 定义 = An acute and life-threatening complication of pregnancy, which is characterized by the appearance of tonic-clonic seizures, usually in a patient who had developed pre-eclampsia. Eclampsia includes seizures and coma that happen during pregnancy but are not due to preexisting or organic brain disorders.
+| 中文译名 = 子痫
+| 中文定义 = 一种急性的危及生命的妊娠并发症，通常发生在子痫前期的孕妇中，症状为抽搐、惊厥和昏迷，需排除已存或器质性的脑病。
+}}
+
+
+==[[HP:0100602]]==
+{{Infobox HPO
+| hpoId = HP:0100602
+| 名称 = Preeclampsia
+| 定义 = A disorder of pregnancy characterized by high blood pressure and  a large amount of protein in the urine or vital organs damages without proteinuria.
+| 中文译名 = 先兆子痫
+| 中文定义 = 一组以血压增高伴随大量蛋白尿或存在重要器官受损为特征的妊娠期疾病。
+}}
+
+
+==[[HP:0100603]]==
+{{Infobox HPO
+| hpoId = HP:0100603
+| 名称 = Toxemia of pregnancy
+| 定义 = Pregnancy-induced toxic reactions of the mother that can be as harmless as slight `Maternal hypertension` (HP:0008071) or as life threatening as `Ecplamsia` (HP:0100601).
+| 中文译名 = 妊娠毒血症
+| 中文定义 = 母亲妊娠中毒反应，症状轻微者，表现为轻度妊娠高血压而对母亲可不产生危害，症状严重者可表现为威胁母体生命的子痫。
+}}
+
+
+==[[HP:0100610]]==
+{{Infobox HPO
+| hpoId = HP:0100610
+| 名称 = Maternal hyperphenylalaninemia
+| 定义 = Leading to  hyperphenylalaninemia , maternal Of phenylketonuria  with inadequate control during pregnancy  ,  resulting in fetal microcephaly, mental retardation, congenital heart disease, intrauterine growth retardation haphenylketonuria  pregnancy.
+| 中文译名 = 母体高苯丙氨酸血症
+| 中文定义 = 苯丙酮尿症孕妇孕期饮食控制不佳导致高苯丙氨酸血症,从而导致胎儿小头畸形，精神发育迟缓，宫内发育迟缓等。
+}}
+
+
+==[[HP:0100622]]==
+{{Infobox HPO
+| hpoId = HP:0100622
+| 名称 = Maternal seizures
+| 定义 = Seizures during pregnancy reduce the oxygen supply to the fetal circulation, which could affect intrauterine development.
+| 中文译名 = 妊娠期癫痫发作
+| 中文定义 = 妊娠期癫痫发作会导致胎儿氧供减少，从而影响胎儿发育。
+}}
+
+
+==[[HP:0100767]]==
+{{Infobox HPO
+| hpoId = HP:0100767
+| 名称 = Abnormality of the placenta
+| 定义 = An abnormality of the placenta, the organ that connects the developing fetus to the uterine wall to enable nutrient uptake, waste elimination, and gas exchange.
+| 中文译名 = 胎盘异常
+| 中文定义 = 胎盘（将胎儿连接到子宫壁，吸收营养物质，清除代谢废物并完成气体交换的器官）的异常。
+}}
+
+
+==[[HP:0100768]]==
+{{Infobox HPO
+| hpoId = HP:0100768
+| 名称 = Choriocarcinoma
+| 定义 = A malignant, trophoblastic and aggressive cancer, usually of the placenta. It is characterized by early hematogenous spread to the lungs and belongs to the far end of the spectrum of gestational trophoblastic disease (GTD), a subset of germ cell tumors.
+| 中文译名 = 绒癌
+| 中文定义 = 源自胎盘细胞的恶性侵润性滋养细胞癌。它的特点是早期血行播散到肺，属于妊娠滋养细胞疾病谱（GTD）的一种罕见类型，GTS是生殖细胞肿瘤的一个子集。
+}}
+
+
+==[[HP:0100883]]==
+{{Infobox HPO
+| hpoId = HP:0100883
+| 名称 = Chorangioma
+| 定义 = Hamartoma-like growth in the placenta consisting of blood vessels.
+| 中文译名 = 绒膜血管瘤
+| 中文定义 = 在胎盘中呈错构瘤样生长，由血管组成。
+}}
+
+
+==[[HP:0200067]]==
+{{Infobox HPO
+| hpoId = HP:0200067
+| 名称 = Recurrent spontaneous abortion
+| 定义 = Repeated episodes of abortion (Expulsion of the product of fertilization before completing the term of gestation) without deliberate interference.
+| 中文译名 = 复发性自然流产
+| 中文定义 = 无人为干扰而重复发生的流产事件（在足月妊娠期之前妊娠物排出体外）。
+}}

@@ -1,0 +1,1827 @@
+<accesscontrol>审核人:结缔组织异常,审核人:所有成员(ro),编辑人:普通用户(ro),*(ro)</accesscontrol>
+=结缔组织异常(193条目)=
+
+
+==[[HP:0000023]]==
+{{Infobox HPO
+| hpoId = HP:0000023
+| 名称 = Inguinal hernia
+| 定义 = Protrusion of the contents of the abdominal cavity through the inguinal canal.
+| 中文译名 = 腹股沟疝
+| 中文定义 = 腹腔内容物经由腹股沟管凸出。
+}}
+
+==[[HP:0000139]]==
+{{Infobox HPO
+| hpoId = HP:0000139
+| 名称 = Uterine prolapse
+| 定义 = The presence of `prolapse` (MPATH:626) of the `uterus` (FMA:17558).
+| 中文译名 = 子宫脱垂
+| 中文定义 = 子宫(FMA:17558)发生脱垂(MPATH:626)。
+}}
+
+
+==[[HP:0000287]]==
+{{Infobox HPO
+| hpoId = HP:0000287
+| 名称 = Increased facial adipose tissue
+| 定义 = An increased amount of subcutaneous fat tissue in the face.
+| 中文译名 = 面部脂肪组织增多
+| 中文定义 = 面部皮下脂肪组织的量增加。
+}}
+
+==[[HP:0000291]]==
+{{Infobox HPO
+| hpoId = HP:0000291
+| 名称 = Abnormality of facial adipose tissue
+| 定义 = #####
+| 中文译名 = 面部脂肪组织异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000292]]==
+{{Infobox HPO
+| hpoId = HP:0000292
+| 名称 = Loss of facial adipose tissue
+| 定义 = Loss of normal subcutaneous fat tissue in the face.
+| 中文译名 = 面部脂肪组织丢失
+| 中文定义 = 面部正常的皮下脂肪组织失去。
+}}
+
+==[[HP:0000468]]==
+{{Infobox HPO
+| hpoId = HP:0000468
+| 名称 = Increased adipose tissue around the neck
+| 定义 = An increased amount of subcutaneous fat tissue around the neck.
+| 中文译名 = 颈周脂肪组织增多
+| 中文定义 = 围绕颈部的皮下脂肪组织增加。
+}}
+
+==[[HP:0000559]]==
+{{Infobox HPO
+| hpoId = HP:0000559
+| 名称 = Corneal scarring
+| 定义 = Corneal scarring
+| 中文译名 = 角膜瘢痕
+| 中文定义 = 角膜上出现的瘢痕
+}}
+
+
+==[[HP:0000682]]==
+{{Infobox HPO
+| hpoId = HP:0000682
+| 名称 = Abnormality of dental enamel
+| 定义 = An abnormality of the `dental enamel` (FMA:55629).
+| 中文译名 = 牙釉质异常
+| 中文定义 = 牙釉质(FMA:55629)的异常
+}}
+
+
+==[[HP:0000683]]==
+{{Infobox HPO
+| hpoId = HP:0000683
+| 名称 = Grayish enamel
+| 定义 = A `grey` (PATO:0000950) `discoloration` (PATO:0000331) of the `dental enamel` (FMA:55629).
+| 中文译名 = 灰白色牙釉质
+| 中文定义 = 牙釉质(FMA:55629)变色(PATO:0000331)成灰白色(PATO:0000950)。
+}}
+
+
+==[[HP:0000694]]==
+{{Infobox HPO
+| hpoId = HP:0000694
+| 名称 = Shell teeth
+| 定义 = A type of dental dysplasia occurring in dentinogenesis imperfecta in which the pulp chambers are enlarged and there is a reduced amount of coronal dentin.
+| 中文译名 = 壳状牙
+| 中文定义 = 一种累及牙本质的牙齿发育不全，表现为牙髓腔增大，牙本质减少。
+}}
+
+
+==[[HP:0000703]]==
+{{Infobox HPO
+| hpoId = HP:0000703
+| 名称 = Dentinogenesis imperfecta
+| 定义 = `Developmental dysplasia` of `dentin` (FMA:55628).
+| 中文译名 = 牙本质发育不全
+| 中文定义 = 牙本质(FMA:55628)的发育不良
+}}
+
+==[[HP:0000705]]==
+{{Infobox HPO
+| hpoId = HP:0000705
+| 名称 = Amelogenesis imperfecta
+| 定义 = A `developmental dysplasia` (MPATH:64) of the `dental enamel` (FMA:55629).
+| 中文译名 = 牙釉质发育不全
+| 中文定义 = 牙釉质(FMA:55629)发育不良(MPATH:64)
+}}
+
+==[[HP:0000776]]==
+{{Infobox HPO
+| hpoId = HP:0000776
+| 名称 = Congenital diaphragmatic hernia
+| 定义 = The presence of a `hernia` (MPATH:75) of the `diaphragm` (FMA:13295) present at birth.
+| 中文译名 = 先天性横膈疝
+| 中文定义 = 出生时即存在于横膈膜(FMA:13295)的疝(MPATH:75)。
+}}
+
+
+==[[HP:0000934]]==
+{{Infobox HPO
+| hpoId = HP:0000934
+| 名称 = Chondrocalcinosis
+| 定义 = Radiographic evidence of articular calcification that represent calcium pyrophosphate depositions in soft tissue surrounding joints and at the insertions of tendons near joints (Entheses/Sharpey fibers) .
+| 中文译名 = 软骨钙质沉着症
+| 中文定义 = 关节钙化的影像学证据，表明焦磷酸钙沉积在关节周围的软组织和肌腱的关节端（附着点/ Sharpey纤维结构）。
+}}
+
+
+==[[HP:0000987]]==
+{{Infobox HPO
+| hpoId = HP:0000987
+| 名称 = Atypical scarring of skin
+| 定义 = Atypically `scarred` (PATO:0001850) `skin` (FMA:7163) .
+| 中文译名 = 非典型皮肤瘢痕
+| 中文定义 = 非典型的疤痕(PATO:0001850)性皮肤(FMA:7163)。
+}}
+
+==[[HP:0001001]]==
+{{Infobox HPO
+| hpoId = HP:0001001
+| 名称 = Abnormality of subcutaneous fat tissue
+| 定义 = #####
+| 中文译名 = 皮下脂肪组织异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001012]]==
+{{Infobox HPO
+| hpoId = HP:0001012
+| 名称 = Multiple lipomas
+| 定义 = The presence of multiple lipomas (a type of benign tissue made of fatty tissue).
+| 中文译名 = 多发性脂肪瘤
+| 中文定义 = 存在多发性脂肪瘤（一种由脂肪组织构成的的良性组织）。
+}}
+
+
+==[[HP:0001031]]==
+{{Infobox HPO
+| hpoId = HP:0001031
+| 名称 = Subcutaneous lipoma
+| 定义 = The presence of subcutaneous `lipoma` (MPATH:417).
+| 中文译名 = 皮下脂肪瘤
+| 中文定义 = 存在于皮下的脂肪瘤(MPATH:417）。
+}}
+
+
+==[[HP:0001073]]==
+{{Infobox HPO
+| hpoId = HP:0001073
+| 名称 = Cigarette-paper scars
+| 定义 = #####
+| 中文译名 = 卷烟纸样瘢痕
+| 中文定义 = #####
+}}
+
+==[[HP:0001075]]==
+{{Infobox HPO
+| hpoId = HP:0001075
+| 名称 = Atrophic scars
+| 定义 = #####
+| 中文译名 = 萎缩性瘢痕
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001215]]==
+{{Infobox HPO
+| hpoId = HP:0001215
+| 名称 = Camptodactyly of 2nd-5th fingers
+| 定义 = The distal interphalangeal joint and/or the proximal interphalangeal joint of the second to fifth fingers cannot be extended to 180 degrees by either active or passive extension.
+| 中文译名 = 食指至小指曲指症
+| 中文定义 = 食指到小指的远端指间关节和/或近端指间关节不能主动也不能被动地伸直到180度。
+}}
+
+==[[HP:0001220]]==
+{{Infobox HPO
+| hpoId = HP:0001220
+| 名称 = Interphalangeal joint contracture of finger
+| 定义 = Chronic loss of joint motion in an interphalangeal joint of a finger due to structural changes in non-bony tissue.
+| 中文译名 = 指间关节挛缩
+| 中文定义 = 由于非骨性组织的结构改变，使得指间关节的活动能力慢性丧失。
+}}
+
+==[[HP:0001239]]==
+{{Infobox HPO
+| hpoId = HP:0001239
+| 名称 = Wrist flexion contracture
+| 定义 = A chronic loss of wrist joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevent normal movement of the joints of the wrist.
+| 中文译名 = 腕关节屈曲挛缩
+| 中文定义 = 由于肌肉、肌腱、韧带或皮肤的结构性变化，使腕关节活动度慢性丧失，妨碍了腕关节的正常运动。
+}}
+
+
+==[[HP:0001371]]==
+{{Infobox HPO
+| hpoId = HP:0001371
+| 名称 = Flexion contracture
+| 定义 = A flexion contracture is a bent (flexed) joint that cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement of joints.
+| 中文译名 = 屈曲挛缩
+| 中文定义 = 屈曲挛缩是弯曲（弯曲）的关节不能主动或被动伸直。由于肌肉、肌腱、韧带或皮肤的结构性改变，妨碍了关节的正常运动，造成关节运动的慢性丧失。
+}}
+
+
+==[[HP:0001537]]==
+{{Infobox HPO
+| hpoId = HP:0001537
+| 名称 = Umbilical hernia
+| 定义 = Protrusion of abdominal contents through a defect in the abdominal wall musculature around the umbilicus. Skin and subcutaneous tissue overlie the defect.
+| 中文译名 = 脐疝
+| 中文定义 = 由于脐周围腹壁肌肉的缺陷，使得腹腔内脏器经由脐部膨出。膨出部分只有皮肤和皮下组织覆盖。
+}}
+
+
+==[[HP:0001539]]==
+{{Infobox HPO
+| hpoId = HP:0001539
+| 名称 = Omphalocele
+| 定义 = A midline anterior `incomplete closure` (PATO:0000609) of the `abdominal wall` (FMA:259054) in which there is herniation of the abdominal viscera into the base of the abdominal cord.
+| 中文译名 = 脐膨出
+| 中文定义 = 腹壁(FMA:259054)前部中线闭合不完全(PATO:0000609)，腹部脏器进入腹索基部形成疝。
+}}
+
+
+==[[HP:0001771]]==
+{{Infobox HPO
+| hpoId = HP:0001771
+| 名称 = Achilles tendon contracture
+| 定义 = A contracture of the `Achilles tendon` (FMA:51061).
+| 中文译名 = 跟腱挛缩
+| 中文定义 = 发生在跟腱（FMA:51061）的挛缩。
+}}
+
+
+==[[HP:0001836]]==
+{{Infobox HPO
+| hpoId = HP:0001836
+| 名称 = Camptodactyly of toe
+| 定义 = Camptodactyly is a painless flexion contracture of the proximal interphalangeal (PIP) joint that is usually gradually progressive. This term refers to camptodactyly of one or more toes.
+| 中文译名 = 曲趾症
+| 中文定义 = 曲趾症是近端趾间关节的无痛性屈曲挛缩，它通常缓慢加重。这个术语是指一个或多个脚趾的曲趾症。
+}}
+
+==[[HP:0002036]]==
+{{Infobox HPO
+| hpoId = HP:0002036
+| 名称 = Hiatus hernia
+| 定义 = The presence of a `hernia` (MPATH:75) in which the upper part of the stomach, i.e., mainly the `gastric cardia` (FMA:14561) protrudes through the diaphragmatic `esophageal hiatus` (FMA:58289).
+| 中文译名 = 裂孔疝
+| 中文定义 = 这是一种疝(MPATH:75)，发生在胃的顶部，即，主要是贲门（FMA：14561）通过横膈的食管裂孔（FMA：58289）凸入胸腔。
+}}
+
+
+==[[HP:0002803]]==
+{{Infobox HPO
+| hpoId = HP:0002803
+| 名称 = Congenital contracture
+| 定义 = One or more flexion contractures (a bent joint that cannot be straightened actively or passively) that are present at birth.
+| 中文译名 = 先天性挛缩
+| 中文定义 = 在出生时就存在的一个或多个关节屈曲挛缩（关节弯曲，不能主动或被动伸直）。
+}}
+
+
+==[[HP:0002804]]==
+{{Infobox HPO
+| hpoId = HP:0002804
+| 名称 = Arthrogryposis multiplex congenital
+| 定义 = A non-progressive finding characterized by multiple joint contractures found throughout the body at birth.
+| 中文译名 = 先天性多关节挛缩症
+| 中文定义 = 一种非进展性体征，其特点是全身有多个关节发生挛缩，出生时就存在。
+}}
+
+==[[HP:0002828]]==
+{{Infobox HPO
+| hpoId = HP:0002828
+| 名称 = Multiple joint contractures
+| 定义 = #####
+| 中文译名 = 多关节挛缩
+| 中文定义 = #####
+}}
+
+==[[HP:0002933]]==
+{{Infobox HPO
+| hpoId = HP:0002933
+| 名称 = Ventral hernia
+| 定义 = Ventral hernia refers to a condition in which abdominal contents protrude through a weakened portion of the abnominal wall.
+| 中文译名 = 腹疝
+| 中文定义 = 腹疝是指腹内脏器通过腹壁的一个薄弱部分凸出。
+}}
+
+==[[HP:0002987]]==
+{{Infobox HPO
+| hpoId = HP:0002987
+| 名称 = Elbow flexion contracture
+| 定义 = A chronic loss of elbow joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevent normal movement of the joints of the elbow.
+| 中文译名 = 肘屈曲挛缩
+| 中文定义 = 由于肌肉、肌腱、韧带或皮肤结构性改变，妨碍肘关节的正常运动，使肘关节运动慢性丧失。
+}}
+
+
+==[[HP:0003044]]==
+{{Infobox HPO
+| hpoId = HP:0003044
+| 名称 = Shoulder flexion contracture
+| 定义 = Chronic reduction in active and passive mobility of the shoulder joint due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement.
+| 中文译名 = 肩关节屈曲挛缩
+| 中文定义 = 由于肌肉、肌腱、韧带或皮肤的结构性改变，妨碍了正常运动，使肩关节的主动和被动的活动度慢性减少。
+}}
+
+
+==[[HP:0003089]]==
+{{Infobox HPO
+| hpoId = HP:0003089
+| 名称 = Hamstring contractures
+| 定义 = #####
+| 中文译名 = 腘旁腱挛缩
+| 中文定义 = #####
+}}
+
+==[[HP:0003121]]==
+{{Infobox HPO
+| hpoId = HP:0003121
+| 名称 = Limb joint contracture
+| 定义 = A contracture (chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin) that prevent normal movement of one or more joints of the limbs.
+| 中文译名 = 四肢关节挛缩
+| 中文定义 = 由于肌肉、肌腱、韧带或皮肤的结构性改变，使得关节运动的慢性丧失，妨碍了四肢的一个或多个关节的正常运动。
+}}
+
+==[[HP:0003273]]==
+{{Infobox HPO
+| hpoId = HP:0003273
+| 名称 = Hip contracture
+| 定义 = Permanent fixation of the hip in primary positions, with limited passive or active motion at the hip joint.
+| 中文译名 = 髋关节挛缩
+| 中文定义 = 髋关节永久地固定于收位，使髋关节只能在有限范围内进行被动的或主动活动。
+}}
+
+
+==[[HP:0003549]]==
+{{Infobox HPO
+| hpoId = HP:0003549
+| 名称 = Abnormality of connective tissue
+| 定义 = Any abnormality of the soft tissues, including both connective tissue (tendons, ligaments, fascia, fibrous tissues, and fat).
+| 中文译名 = 结缔组织异常
+| 中文定义 = 软组织的任何异常，包括结缔组织（肌腱、韧带、筋膜、纤维组织）和脂肪。
+}}
+
+
+==[[HP:0003553]]==
+{{Infobox HPO
+| hpoId = HP:0003553
+| 名称 = Cellulitis due to immunodeficiency
+| 定义 = The presence of cellulitis (a diffuse inflammation of connective tissue) on the basis of an immunodeficiency.
+| 中文译名 = 免疫缺陷性蜂窝织炎
+| 中文定义 = 由于免疫缺陷所致的蜂窝织炎（一种弥漫性结缔组织炎症）。
+}}
+
+
+==[[HP:0003635]]==
+{{Infobox HPO
+| hpoId = HP:0003635
+| 名称 = Loss of subcutaneous adipose tissue in limbs
+| 定义 = #####
+| 中文译名 = 四肢皮下脂肪组织丢失
+| 中文定义 = #####
+}}
+
+==[[HP:0003717]]==
+{{Infobox HPO
+| hpoId = HP:0003717
+| 名称 = Minimal subcutaneous fat
+| 定义 = #####
+| 中文译名 = 最低限度的皮下脂肪
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003758]]==
+{{Infobox HPO
+| hpoId = HP:0003758
+| 名称 = Reduced subcutaneous adipose tissue
+| 定义 = The presence of an abnormally reduced amount of `subcutaneous adipose tissue` (FMA:74315).
+| 中文译名 = 皮下脂肪组织减少
+| 中文定义 = 皮下脂肪组织（FMA：74315）量的异常减少。
+}}
+
+
+==[[HP:0003809]]==
+{{Infobox HPO
+| hpoId = HP:0003809
+| 名称 = Nearly complete absence of metabolically active adipose tissue (subcutaneous, intraabdominal, intrathoracic)
+| 定义 = #####
+| 中文译名 = 有代谢活性的脂肪组织（皮下、腹腔内或胸腔内）几乎完全缺如
+| 中文定义 = #####
+}}
+
+==[[HP:0004299]]==
+{{Infobox HPO
+| hpoId = HP:0004299
+| 名称 = Hernia of the abdominal wall
+| 定义 = The presence of a hernia in the `abdominal wall` (FMA:259054).
+| 中文译名 = 腹壁疝
+| 中文定义 = 位于腹壁(FMA:259054)的疝。
+}}
+
+
+==[[HP:0004552]]==
+{{Infobox HPO
+| hpoId = HP:0004552
+| 名称 = Scarring alopecia of scalp
+| 定义 = ‘alopecia’ due to the formation of the scar tissue after destruction from the scalp.
+| 中文译名 = 头皮瘢痕性脱发
+| 中文定义 = 由于头皮组织破坏形成的瘢痕所导致的毛发脱落。
+}}
+
+==[[HP:0004631]]==
+{{Infobox HPO
+| hpoId = HP:0004631
+| 名称 = Decreased cervical spine flexion due to contractures of posterior cervical muscles
+| 定义 = #####
+| 中文译名 = 后颈肌群挛缩所致颈椎前屈活动度减少
+| 中文定义 = #####
+}}
+
+==[[HP:0004872]]==
+{{Infobox HPO
+| hpoId = HP:0004872
+| 名称 = Incisional hernia
+| 定义 = An abdominal hernia that occurs at a site of weakness in the abdominal wall resulting from an incompletely-healed surgical wound.
+| 中文译名 = 切口疝
+| 中文定义 = 手术伤口的不完全愈合所导致的腹疝，发生于腹壁薄弱处。
+}}
+
+
+==[[HP:0005017]]==
+{{Infobox HPO
+| hpoId = HP:0005017
+| 名称 = polyarticular chondrocalcinosis
+| 定义 = #####
+| 中文译名 = 多关节软骨钙质沉着症
+| 中文定义 = #####
+}}
+
+==[[HP:0005320]]==
+{{Infobox HPO
+| hpoId = HP:0005320
+| 名称 = Lack of facial subcutaneous fat
+| 定义 = #####
+| 中文译名 = 面部皮下脂肪缺乏
+| 中文定义 = #####
+}}
+
+==[[HP:0005612]]==
+{{Infobox HPO
+| hpoId = HP:0005612
+| 名称 = Arthrogryposis-like hand anomaly
+| 定义 = #####
+| 中文译名 = 关节挛缩样手异常
+| 中文定义 = #####
+}}
+
+==[[HP:0005617]]==
+{{Infobox HPO
+| hpoId = HP:0005617
+| 名称 = Bilateral camptodactyly
+| 定义 = #####
+| 中文译名 = 双侧曲指症
+| 中文定义 = #####
+}}
+
+==[[HP:0005679]]==
+{{Infobox HPO
+| hpoId = HP:0005679
+| 名称 = Dupuytren contracture
+| 定义 = An abnormality of the hand resulting from contracture of the palmar fascia with a fixed flexion deformity of the metacarpophalangeal (MCP) joints and the proximal interphalangeal (PIP) joints.
+| 中文译名 = 掌腱膜挛缩
+| 中文定义 = 掌筋膜挛缩导致手的异常，伴有掌指（MCP）关节和近端指节间（PIP）关节屈曲畸形的。
+}}
+
+
+==[[HP:0005684]]==
+{{Infobox HPO
+| hpoId = HP:0005684
+| 名称 = Distal arthrogryposis
+| 定义 = A form of arthrogryposis primarily affecting the hands and the feet.
+| 中文译名 = 远端关节挛缩
+| 中文定义 = 关节挛缩的一种形式，主要影响手和脚。
+}}
+
+==[[HP:0005745]]==
+{{Infobox HPO
+| hpoId = HP:0005745
+| 名称 = Congenital foot contractures
+| 定义 = #####
+| 中文译名 = 先天性足挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005750]]==
+{{Infobox HPO
+| hpoId = HP:0005750
+| 名称 = Contractures of the joints of the lower limbs
+| 定义 = #####
+| 中文译名 = 下肢关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005781]]==
+{{Infobox HPO
+| hpoId = HP:0005781
+| 名称 = Contractures of the large joints
+| 定义 = #####
+| 中文译名 = 大关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005830]]==
+{{Infobox HPO
+| hpoId = HP:0005830
+| 名称 = Flexion contracture of toe
+| 定义 = One or more bent (flexed) toe joints that cannot be straightened actively or passively.
+| 中文译名 = 脚趾屈曲挛缩
+| 中文定义 = 一个或多个趾关节弯曲（屈曲），不能主动或被动地伸直。
+}}
+
+==[[HP:0005853]]==
+{{Infobox HPO
+| hpoId = HP:0005853
+| 名称 = Congenital foot contraction deformities
+| 定义 = #####
+| 中文译名 = 先天性足挛缩变形
+| 中文定义 = #####
+}}
+
+==[[HP:0005876]]==
+{{Infobox HPO
+| hpoId = HP:0005876
+| 名称 = Progressive flexion contractures
+| 定义 = Progressively worsening joint contractures.
+| 中文译名 = 进行性屈曲挛缩
+| 中文定义 = 逐步加重的关节挛缩。
+}}
+
+
+==[[HP:0005879]]==
+{{Infobox HPO
+| hpoId = HP:0005879
+| 名称 = Congenital finger flexion contractures
+| 定义 = Multiple bent (flexed) finger joints that cannot be straightened actively or passively.
+| 中文译名 = 先天性手指屈曲挛缩
+| 中文定义 = 多个指关节弯曲（屈曲），不能主动或被动地伸直。
+}}
+
+==[[HP:0005995]]==
+{{Infobox HPO
+| hpoId = HP:0005995
+| 名称 = Decreased adipose tissue around neck
+| 定义 = Reduced amount of `adipose tissue` (FMA:20110) in the region of the neck.
+| 中文译名 = 颈部脂肪组织减少
+| 中文定义 = 颈部区域脂肪组织（FMA：20110）量减少
+}}
+
+
+==[[HP:0005997]]==
+{{Infobox HPO
+| hpoId = HP:0005997
+| 名称 = Restricted neck movement due to contractures
+| 定义 = A deformity of restricted neck movement due to permanent or spasmodic contraction of neck muscles.
+| 中文译名 = 挛缩所致颈部活动受限
+| 中文定义 = 一种由于颈部肌肉持续性或阵发性收缩导致的颈部活动受限的变形。
+}}
+
+==[[HP:0006282]]==
+{{Infobox HPO
+| hpoId = HP:0006282
+| 名称 = Generalized hypoplasia of dental enamel
+| 定义 = A `generalized` (PATO:0001513) form of developmental hypoplasia of the `dental enamel` (FMA:55629).
+| 中文译名 = 广泛性牙釉质发育不良
+| 中文定义 = 一种广泛性（PATO：0001513）的牙齿釉质（FMA：55629）发育不良
+}}
+
+
+==[[HP:0006285]]==
+{{Infobox HPO
+| hpoId = HP:0006285
+| 名称 = Hypomineralization of enamel
+| 定义 = A `decreased amount` (PATO:0001997) of `enamel mineralization` (GO:0070166).
+| 中文译名 = 牙釉质矿化不良
+| 中文定义 = 牙釉质矿化（GO：0070166）程度下降（PATO：0001997）。
+}}
+
+==[[HP:0006297]]==
+{{Infobox HPO
+| hpoId = HP:0006297
+| 名称 = Hypoplasia of dental enamel
+| 定义 = Developmental hypoplasia of the `dental enamel` (FMA:55629).
+| 中文译名 = 牙釉质发育不良
+| 中文定义 = 牙釉质发育不良（FMA：55629）。
+}}
+
+
+==[[HP:0006366]]==
+{{Infobox HPO
+| hpoId = HP:0006366
+| 名称 = Adductor longus contractures
+| 定义 = #####
+| 中文译名 = 內收长肌挛缩
+| 中文定义 = #####
+}}
+
+==[[HP:0006380]]==
+{{Infobox HPO
+| hpoId = HP:0006380
+| 名称 = Knee flexion contracture
+| 定义 = A bent (flexed) knee joint that cannot be straightened actively or passively.
+| 中文译名 = 膝关节屈曲挛缩
+| 中文定义 = 屈曲的（弯曲的）膝关节，不能主动或被动伸直。
+}}
+
+
+==[[HP:0006466]]==
+{{Infobox HPO
+| hpoId = HP:0006466
+| 名称 = Ankle contracture
+| 定义 = A chronic loss of ankle joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevent normal movement of the joints of the ankle.
+| 中文译名 = 踝关节挛缩
+| 中文定义 = 由于肌肉、肌腱、韧带或皮肤的结构改变，妨碍了踝关节的正常运动，使踝关节运动慢性丧失。
+}}
+
+
+==[[HP:0006773]]==
+{{Infobox HPO
+| hpoId = HP:0006773
+| 名称 = Cutaneous angiolipomas
+| 定义 = #####
+| 中文译名 = 皮肤血管脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006866]]==
+{{Infobox HPO
+| hpoId = HP:0006866
+| 名称 = Midline central nervous system lipomas
+| 定义 = #####
+| 中文译名 = 中线中枢神经系统脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006931]]==
+{{Infobox HPO
+| hpoId = HP:0006931
+| 名称 = Lipoma of corpus callosum
+| 定义 = #####
+| 中文译名 = 胼胝体脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007409]]==
+{{Infobox HPO
+| hpoId = HP:0007409
+| 名称 = Absence of subcutaneous fat over entire body except buttocks, hips, and thighs
+| 定义 = #####
+| 中文译名 = 全身皮下脂肪缺失，但不累及臀部、髋部和大腿
+| 中文定义 = #####
+}}
+
+==[[HP:0007485]]==
+{{Infobox HPO
+| hpoId = HP:0007485
+| 名称 = Absence of subcutaneous fat
+| 定义 = Lack of `subcutaneous adipose tissue` (FMA:74315).
+| 中文译名 = 皮下脂肪缺如
+| 中文定义 = 缺乏皮下脂肪组织（FMA:74315）。
+}}
+
+==[[HP:0007519]]==
+{{Infobox HPO
+| hpoId = HP:0007519
+| 名称 = Lack of subcutaneous fatty tissue
+| 定义 = #####
+| 中文译名 = 皮下脂肪组织缺乏
+| 中文定义 = #####
+}}
+
+==[[HP:0007525]]==
+{{Infobox HPO
+| hpoId = HP:0007525
+| 名称 = Yellow subcutaneous tissue covered by thin, scaly skin
+| 定义 = #####
+| 中文译名 = 由薄层鳞状皮肤覆盖的黄色皮下组织
+| 中文定义 = #####
+}}
+
+==[[HP:0007541]]==
+{{Infobox HPO
+| hpoId = HP:0007541
+| 名称 = Frontal cutaneous lipoma
+| 定义 = Presence of a cutaneous lipoma on the forehead.
+| 中文译名 = 前额皮肤脂肪瘤
+| 中文定义 = 位于前额部的皮肤脂肪瘤。
+}}
+
+
+==[[HP:0007552]]==
+{{Infobox HPO
+| hpoId = HP:0007552
+| 名称 = Abnormal subcutaneous fat tissue distribution
+| 定义 = #####
+| 中文译名 = 皮下脂肪组织分布异常
+| 中文定义 = #####
+}}
+
+==[[HP:0007596]]==
+{{Infobox HPO
+| hpoId = HP:0007596
+| 名称 = Painful subcutaneous lipomas
+| 定义 = The presence of multiple subcutaneous `lipoma` (MPATH:417) that cause pain.
+| 中文译名 = 痛性皮下脂肪瘤
+| 中文定义 = 多发性的皮下脂肪瘤（APATH:417），导致疼痛。
+}}
+
+==[[HP:0007777]]==
+{{Infobox HPO
+| hpoId = HP:0007777
+| 名称 = Chorioretinal scars
+| 定义 = Chorioretinal scars
+| 中文译名 = 脉络膜视网膜瘢痕
+| 中文定义 = 脉络膜视网膜疤痕形成
+}}
+
+==[[HP:0008112]]==
+{{Infobox HPO
+| hpoId = HP:0008112
+| 名称 = Plantar flexion contractures
+| 定义 = #####
+| 中文译名 = 跖屈曲挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008366]]==
+{{Infobox HPO
+| hpoId = HP:0008366
+| 名称 = Contractures involving the joints of the feet
+| 定义 = #####
+| 中文译名 = 足关节挛缩
+| 中文定义 = #####
+}}
+
+==[[HP:0008887]]==
+{{Infobox HPO
+| hpoId = HP:0008887
+| 名称 = Adipose tissue loss
+| 定义 = A loss of `adipose tissue` (FMA:20110).
+| 中文译名 = 脂肪组织丢失
+| 中文定义 = 脂肪组织（FMA：20110）丢失。
+}}
+
+
+==[[HP:0008985]]==
+{{Infobox HPO
+| hpoId = HP:0008985
+| 名称 = Increased intramuscular fat
+| 定义 = An abnormal increase in the amount of intramuscular fat tissue.
+| 中文译名 = 肌内脂肪增多
+| 中文定义 = 肌内脂肪组织的量异常增加。
+}}
+
+
+==[[HP:0008993]]==
+{{Infobox HPO
+| hpoId = HP:0008993
+| 名称 = Increased intraabdominal fat
+| 定义 = An abnormal increase in the amount of intraabdominal fat tissue.
+| 中文译名 = 腹内脂肪增多
+| 中文定义 = 腹腔内脂肪组织的量异常增加。
+}}
+
+
+==[[HP:0009002]]==
+{{Infobox HPO
+| hpoId = HP:0009002
+| 名称 = Loss of truncal subcutaneous adipose tissue
+| 定义 = Loss (reduction of previously present) of `subcutaneous adipose tissue` (FMA:74315) in the region of the `trunk` (FMA:7181).
+| 中文译名 = 躯干部皮下脂肪组织丢失
+| 中文定义 = 躯干部(FMA:7181)皮下脂肪组织(FMA:74315) 的丢失（原有量的减少）。
+}}
+
+==[[HP:0009003]]==
+{{Infobox HPO
+| hpoId = HP:0009003
+| 名称 = Increased subcutaneous truncal adipose tissue
+| 定义 = The presence of an abnormally increased amount of subcutaneous adipose tissue in the trunk of the body.
+| 中文译名 = 躯干部皮下脂肪组织增多
+| 中文定义 = 躯干部皮下脂肪组织的量发生异常增加。
+}}
+
+==[[HP:0009017]]==
+{{Infobox HPO
+| hpoId = HP:0009017
+| 名称 = Loss of gluteal subcutaneous adipose tissue
+| 定义 = Loss (reduction of previously present) of `subcutaneous adipose tissue` (FMA:74315) in the `gluteal region` (FMA:25245).
+| 中文译名 = 臀部皮下脂肪组织丢失
+| 中文定义 = 臀部皮下脂肪组织(FMA:74315)的丢失（原有脂肪量的减少）。
+}}
+
+==[[HP:0009019]]==
+{{Infobox HPO
+| hpoId = HP:0009019
+| 名称 = Progressive loss of facial adipose tissue
+| 定义 = #####
+| 中文译名 = 进行性面部脂肪组织丢失
+| 中文定义 = #####
+}}
+
+==[[HP:0009025]]==
+{{Infobox HPO
+| hpoId = HP:0009025
+| 名称 = Increased connective tissue
+| 定义 = The presence of an abnormally increased amount of connective tissue.
+| 中文译名 = 结缔组织增多
+| 中文定义 = 结缔组织的量发生异常增加。
+}}
+
+
+==[[HP:0009056]]==
+{{Infobox HPO
+| hpoId = HP:0009056
+| 名称 = Loss of subcutaneous adipose tissue from upper limbs
+| 定义 = #####
+| 中文译名 = 上肢皮下脂肪组织丢失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009059]]==
+{{Infobox HPO
+| hpoId = HP:0009059
+| 名称 = Congenital generalized lipodystrophy
+| 定义 = #####
+| 中文译名 = 先天性全身脂肪营养不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009064]]==
+{{Infobox HPO
+| hpoId = HP:0009064
+| 名称 = Generalized lipodystrophy
+| 定义 = Generalized degenerative changes of the fat tissue.
+| 中文译名 = 全身脂肪营养不良
+| 中文定义 = 全身性脂肪组织退行性改变
+}}
+
+
+==[[HP:0009124]]==
+{{Infobox HPO
+| hpoId = HP:0009124
+| 名称 = Abnormality of adipose tissue
+| 定义 = An abnormality of `adipose tissue` (FMA)20110), which is loose connective tissue composed of adipocytes.
+| 中文译名 = 脂肪组织异常
+| 中文定义 = 脂肪组织(FMA：20110)异常，脂肪组织是一种疏松的结缔组织，由脂肪细胞组成。
+}}
+
+
+==[[HP:0009125]]==
+{{Infobox HPO
+| hpoId = HP:0009125
+| 名称 = Lipodystrophy
+| 定义 = Degenerative changes of the fat tissue.
+| 中文译名 = 脂肪营养不良
+| 中文定义 = 脂肪组织的退行性改变。
+}}
+
+
+==[[HP:0009126]]==
+{{Infobox HPO
+| hpoId = HP:0009126
+| 名称 = Increased adipose tissue
+| 定义 = An increase in adipose tissue mass by hyperplastic growth (increase in the number of adipocytes) or by hypertrophic growth (increase in the size of adipocytes occurring primarily by lipid accumulation within the cell).
+| 中文译名 = 脂肪组织增多
+| 中文定义 = 由增生性生长（脂肪细胞的数目增加）或通过肥大性生长（主要由细胞内脂质蓄积导致脂肪细胞体积的增加）所致的脂肪组织量的增加。
+}}
+
+
+==[[HP:0009183]]==
+{{Infobox HPO
+| hpoId = HP:0009183
+| 名称 = Joint contracture of the 5th finger
+| 定义 = Chronic loss of joint motion in the 5th finger due to structural changes in non-bony tissue. The term camptodactyly of the 5th finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 小指关节挛缩
+| 中文定义 = 由于非骨性组织的结构变化导致的小指关节运动慢性丧失。如果小指的远端和/或近端指间关节受到影响，使用小指屈曲指这个术语。
+}}
+
+
+==[[HP:0009184]]==
+{{Infobox HPO
+| hpoId = HP:0009184
+| 名称 = Contracture of the distal interphalangeal joint of the 5th finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 5th finger due to structural changes in non-bony tissue.
+| 中文译名 = 小指远端指间关节挛缩
+| 中文定义 = 小指的远端指间关节的关节运动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009185]]==
+{{Infobox HPO
+| hpoId = HP:0009185
+| 名称 = Contracture of the proximal interphalangeal joint of the 5th finger
+| 定义 = Proximal interphalangeal (PIP) flexion deformity of the little finger. That is, the PIP joint of a little finger is bent (flexed) and cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement.
+| 中文译名 = 小手指近端指间关节挛缩
+| 中文定义 = 小指近端指间（PIP）屈曲畸形。即，小指的PIP关节弯曲（曲折），不能被主动或被动地伸直。因此，关节运动的慢性丧失是由于肌肉、肌腱、韧带或皮肤的结构变化，妨碍了正常运动。
+}}
+
+==[[HP:0009186]]==
+{{Infobox HPO
+| hpoId = HP:0009186
+| 名称 = Contracture of the metacarpophalangeal joint of the 5th finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 5th finger due to structural changes in non-bony tissue.
+| 中文译名 = 小手指掌指关节挛缩
+| 中文定义 = 小手指的掌指关节的关节运动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009274]]==
+{{Infobox HPO
+| hpoId = HP:0009274
+| 名称 = Joint contracture of the 4th finger
+| 定义 = Chronic loss of joint motion in the 4th finger due to structural changes in non-bony tissue. The term camptodactyly of the 4th finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 无名指关节挛缩
+| 中文定义 = 无名指关节活动的慢性丧失，是由于非骨性组织的结构变化所致。如果无名指的远端和/或近端指间关节受到影响，使用无名指屈曲指这个术语。
+}}
+
+==[[HP:0009275]]==
+{{Infobox HPO
+| hpoId = HP:0009275
+| 名称 = Contracture of the distal interphalangeal joint of the 4th finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 4th finger due to structural changes in non-bony tissue.
+| 中文译名 = 无名指远端指间关节挛缩
+| 中文定义 = 无名指的远端指间关节的关节活动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009276]]==
+{{Infobox HPO
+| hpoId = HP:0009276
+| 名称 = Contracture of the proximal interphalangeal joint of the 4th finger
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 4th finger due to structural changes in non-bony tissue. That is, the PIP joint of a fourth finger is bent (flexed) and cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement.
+| 中文译名 = 无名指近端指间关节挛缩
+| 中文定义 = 无名指的近端指间关节的关节运动的慢性丧失，是由于非性骨组织的结构变化所致。即，无名指的PIP关节是弯曲（挠曲）的，并且不能主动或被动地伸直。因此，这是由于肌肉、肌腱、韧带或皮肤的结构变化导致关节活动的慢性丧失，妨碍了正常活动。
+}}
+
+==[[HP:0009277]]==
+{{Infobox HPO
+| hpoId = HP:0009277
+| 名称 = Contracture of the metacarpophalangeal joint of the 4th finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 4th finger due to structural changes in non-bony tissue.
+| 中文译名 = 环指掌指关节挛缩
+| 中文定义 = 的第四手指的掌指关节的关节运动的慢性损失，由于在非骨组织结构变化。
+}}
+
+==[[HP:0009319]]==
+{{Infobox HPO
+| hpoId = HP:0009319
+| 名称 = Joint contracture of the 3rd finger
+| 定义 = Chronic loss of joint motion in the 3rd finger due to structural changes in non-bony tissue. The term camptodactyly of the 3rd finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 中指关节挛缩
+| 中文定义 = 中指的关节活动的慢性丧失，是由于非骨性组织的结构变化所致。如果中指远端和/或近端指间关节受到影响，使用中指屈曲指这个术语。
+}}
+
+
+==[[HP:0009469]]==
+{{Infobox HPO
+| hpoId = HP:0009469
+| 名称 = Contracture of the distal interphalangeal joint of the 3rd finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 3rd finger due to structural changes in non-bony tissue.
+| 中文译名 = 中指远端指间关节挛缩
+| 中文定义 = 中指的远端指间关节的关节运动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009470]]==
+{{Infobox HPO
+| hpoId = HP:0009470
+| 名称 = Contracture of the metacarpophalangeal joint of the 3rd finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 3rd finger due to structural changes in non-bony tissue.
+| 中文译名 = 中指掌指关节挛缩
+| 中文定义 = 中指的掌指关节的关节运动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009471]]==
+{{Infobox HPO
+| hpoId = HP:0009471
+| 名称 = Contracture of the proximal interphalangeal joint of the 3rd finger
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 3rd finger due to structural changes in non-bony tissue.
+| 中文译名 = 中指近端指间关节挛缩
+| 中文定义 = 中指的近端指间关节的关节运动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009473]]==
+{{Infobox HPO
+| hpoId = HP:0009473
+| 名称 = Joint contracture of the hand
+| 定义 = Contractures of one ore more joints of the hands meaning chronic loss of joint motion due to structural changes in non-bony tissue.
+| 中文译名 = 手指关节痉挛
+| 中文定义 = 手的一个或多个关节挛缩的，系指由于非骨性组织的结构改变导致的关节运动的慢性丧失。
+}}
+
+
+==[[HP:0009537]]==
+{{Infobox HPO
+| hpoId = HP:0009537
+| 名称 = Flexion contracture of the 2nd finger
+| 定义 = Chronic loss of joint motion in the 2nd finger due to structural changes in non-bony tissue. The term camptodactyly of the 2nd finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 食指屈曲挛缩
+| 中文定义 = 食指的关节运动的慢性丧失，由于非骨性组织的结构变化所致。如果食指远端和/或近端指间关节受到影响，用食指屈曲指这个术语。
+}}
+
+==[[HP:0009538]]==
+{{Infobox HPO
+| hpoId = HP:0009538
+| 名称 = Contracture of the distal interphalangeal joint of the 2nd finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 2nd finger due to structural changes in non-bony tissue.
+| 中文译名 = 食指远端指间关节挛缩
+| 中文定义 = 师指的远端指间关节的关节运动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009539]]==
+{{Infobox HPO
+| hpoId = HP:0009539
+| 名称 = Contracture of the metacarpophalangeal joint of the 2nd finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 2nd finger due to structural changes in non-bony tissue.
+| 中文译名 = 食指掌指关节挛缩
+| 中文定义 = 食指的掌指关节的关节运动的慢性丧失，是由于非骨性组织的结构变化所致。
+}}
+
+==[[HP:0009540]]==
+{{Infobox HPO
+| hpoId = HP:0009540
+| 名称 = Contracture of the proximal interphalangeal joint of the 2nd finger
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 2nd finger due to structural changes in non-bony tissue.
+| 中文译名 = 食指近端指间关节挛缩
+| 中文定义 = 食指的近端指间关节的关节运动慢性丧失，是由于非骨性组织的结构变化造成。
+}}
+
+==[[HP:0009600]]==
+{{Infobox HPO
+| hpoId = HP:0009600
+| 名称 = Flexion contracture of thumb
+| 定义 = Chronic loss of joint motion in the thumb due to structural changes in non-bony tissue. The term camptodactyly is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 拇指屈曲挛缩
+| 中文定义 = 拇指关节运动的慢性损失是由于非骨性组织结构变化。如果远端和/或近端指间关节受到影响，使用屈曲指这个术语。
+}}
+
+
+==[[HP:0009624]]==
+{{Infobox HPO
+| hpoId = HP:0009624
+| 名称 = Contractures of the carpometacarpal joint of the thumb
+| 定义 = Chronic loss of joint motion of the carpometacarpal joint of the thumb due to structural changes in non-bony tissue. This joint is formed by the first metacarpal and the trapezial bone and is also called Articulatio carpometacarpalis pollicis, carpometacarpal articulation of thumb, carpometacarpal joint of thumb or first carpometacarpal articulation. Seldom referred to as thumb saddle joint.
+| 中文译名 = 拇指腕掌关节挛缩
+| 中文定义 = 拇指腕掌关节的关节运动的慢性丧失是由于非骨性组织结构变化所致。此关节由第一掌骨和大多角骨形成，也被称为Articulatio拇指腕掌关节，拇指的腕掌关节，或第一腕掌关节。偶尔被称为拇指鞍状关节。
+}}
+
+
+==[[HP:0009625]]==
+{{Infobox HPO
+| hpoId = HP:0009625
+| 名称 = Contractures of the metacarpophalangeal joint of the thumb
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the thumb due to structural changes in non-bony tissue. This joint is also called Articulatio metacarpophalangealis pollicis.
+| 中文译名 = 拇指掌指关节挛缩
+| 中文定义 = 拇指掌指关节的关节运动的慢性损失是由于非骨组织结构变化。这这种关节也被称为Articulatio拇指掌指关节。
+}}
+
+
+==[[HP:0009626]]==
+{{Infobox HPO
+| hpoId = HP:0009626
+| 名称 = Contractures of the interphalangeal joint of the thumb
+| 定义 = Chronic loss of joint motion of the interphalangeal joint of the thumb due to structural changes in non-bony tissue. This joint is also called Articulatio interphalangealis pollicis.
+| 中文译名 = 拇指指间关节挛缩
+| 中文定义 = 拇指指间关节的关节运动的慢性损失是由于非骨性组织结构变化所致。这中关节也被称为Articulatio拇指指间关节。
+}}
+
+
+==[[HP:0009697]]==
+{{Infobox HPO
+| hpoId = HP:0009697
+| 名称 = Contracture of the distal interphalangeal joints of the fingers
+| 定义 = Chronic loss of joint motion in one or more distal interphalangeal joints of the fingers.
+| 中文译名 = 手指远端指间关节挛缩
+| 中文定义 = 手指的一个或多个远端指间关节运动慢性丧失。
+}}
+
+==[[HP:0009721]]==
+{{Infobox HPO
+| hpoId = HP:0009721
+| 名称 = Shagreen patch
+| 定义 = A plaque representing a connective-tissue nevus. Connective tissue naevi are uncommon skin lesions that occur when the deeper layers of the skin do not develop correctly or the components of these layers occur in the wrong proportion. Shagreen patches are oval-shaped and nevoid, skin-colored or occasionally pigmented, smooth or crinkled, The word shagreen refers to a type of roughened untanned leather.
+| 中文译名 = 鲨鱼皮样斑
+| 中文定义 = 结缔组织痣的特征性斑块。结缔组织痣是一种罕见皮损，由深层皮肤的不正常发育或者皮层构成错误比例所致。鲨鱼皮斑呈椭圆形痣样，可表现为正常肤色或偶见色素沉着，表面光滑或有皱纹，鲨鱼皮一词指一种粗糙未经加工的皮革。
+}}
+
+==[[HP:0009722]]==
+{{Infobox HPO
+| hpoId = HP:0009722
+| 名称 = Dental enamel pits
+| 定义 = The presence of small depressions in the dental enamel.
+| 中文译名 = 牙釉质凹陷
+| 中文定义 = 牙釉质内存在小的凹陷。
+}}
+
+
+==[[HP:0010212]]==
+{{Infobox HPO
+| hpoId = HP:0010212
+| 名称 = Flexion contracture of the hallux
+| 定义 = One or more bent (flexed) joints of the first (big) toe that cannot be straightened actively or passively.
+| 中文译名 = 拇趾屈曲挛缩
+| 中文定义 = 大脚趾的一个或多个弯曲（挠曲），不能主动或被动地伸直。
+}}
+
+==[[HP:0010213]]==
+{{Infobox HPO
+| hpoId = HP:0010213
+| 名称 = Contracture of the tarsometatarsal joint of the hallux
+| 定义 = Chronic loss of joint motion in the tarsometatarsal joint of the hallux due to structural changes in non-bony tissue. The tarsometatarsal joints of the feet are also called Lisfranc's joints.
+| 中文译名 = 拇趾跖跗关节挛缩
+| 中文定义 = 拇趾的跖跗关节的关节活动度慢性丧失，是由于非骨性组织结构变化。跗跖关节也叫Lisfranc关节。
+}}
+
+==[[HP:0010214]]==
+{{Infobox HPO
+| hpoId = HP:0010214
+| 名称 = Contracture of the interphalangeal joint of the hallux
+| 定义 = The interphalangeal joint of the big toe cannot be straightened actively or passively.
+| 中文译名 = 拇趾的趾间关节挛缩
+| 中文定义 = 大脚趾的趾间关节不能主动或被动伸直。
+}}
+
+==[[HP:0010215]]==
+{{Infobox HPO
+| hpoId = HP:0010215
+| 名称 = Contractures of the metatarsophalangeal joint of the hallux
+| 定义 = The joint between the first metatarsal and the proximal phalanx of the first (big) toe cannot be straightened actively or passively.
+| 中文译名 = 拇趾跖趾关节挛缩
+| 中文定义 = 大拇趾的第一跖骨和近端趾骨之间的关节不能主动或被动地伸直。
+}}
+
+==[[HP:0010327]]==
+{{Infobox HPO
+| hpoId = HP:0010327
+| 名称 = Flexion contracture of the 2nd toe
+| 定义 = One or more bent (flexed) joints of the second toe that cannot be straightened actively or passively.
+| 中文译名 = 第二趾屈曲挛缩
+| 中文定义 = 第二趾的一个或多个弯曲（弯曲），不能主动或被动伸直。
+}}
+
+==[[HP:0010333]]==
+{{Infobox HPO
+| hpoId = HP:0010333
+| 名称 = Flexion contracture of 3rd toe
+| 定义 = One or more bent (flexed) joints of the third toe that cannot be straightened actively or passively.
+| 中文译名 = 第三趾屈曲挛缩
+| 中文定义 = 第三趾的一个或多个弯曲（挠曲），不能主动或被动地伸直。
+}}
+
+==[[HP:0010339]]==
+{{Infobox HPO
+| hpoId = HP:0010339
+| 名称 = Flexion contracture of the 4th toe
+| 定义 = One or more bent (flexed) joints of the fourth toe that cannot be straightened actively or passively.
+| 中文译名 = 第四趾屈曲挛缩
+| 中文定义 = 第四趾的一个或多个弯曲（挠曲），不能主动或被动地伸直。
+}}
+
+==[[HP:0010345]]==
+{{Infobox HPO
+| hpoId = HP:0010345
+| 名称 = Flexion contracture of the 5th toe
+| 定义 = One or more bent (flexed) joints of the fifth toe that cannot be straightened actively or passively.
+| 中文译名 = 小趾屈曲挛缩
+| 中文定义 = 小脚趾的一个或多个弯曲（挠曲），不能主动或被动地伸直。
+}}
+
+==[[HP:0010562]]==
+{{Infobox HPO
+| hpoId = HP:0010562
+| 名称 = Keloids
+| 定义 = Presence of one or more keloids. A keloid is a sharply elevated, irregularly shaped, progressively enlarging scar resulting from formation of excessive amounts of collagen in the dermis during connective tissue repair.
+| 中文译名 = 瘢痕疙瘩
+| 中文定义 = 瘢痕疙瘩可单发或多发，具有高出皮面、形状不规则、持续增生等特点，是皮肤在结缔组织修复过程中，真皮层胶原蛋白过度合成所致。
+}}
+
+
+==[[HP:0011060]]==
+{{Infobox HPO
+| hpoId = HP:0011060
+| 名称 = Dentinogenesis imperfecta limited to primary teeth
+| 定义 = `Developmental dysplasia` of `dentin` (FMA:55628) affecting only the `primary dentition` (FMA:55655).
+| 中文译名 = 仅限乳牙的牙本质发育不全
+| 中文定义 = 仅影响乳牙（FMA：55655）的牙本质发育不良（FMA：55628）
+}}
+
+==[[HP:0011074]]==
+{{Infobox HPO
+| hpoId = HP:0011074
+| 名称 = Localized hypoplasia of dental enamel
+| 定义 = A `localized` (PATO:0000627) form of developmental hypoplasia of the `dental enamel` (FMA:55629).
+| 中文译名 = 局限性牙釉质发育不全
+| 中文定义 = 局部性的牙釉质发育不全（HP：55629）。
+}}
+
+==[[HP:0011084]]==
+{{Infobox HPO
+| hpoId = HP:0011084
+| 名称 = Hypocalcification of dental enamel
+| 定义 = A form of `hypomineralization of enamel` (HP:0006285) characterized by reduced calcification.
+| 中文译名 = 牙釉质钙化不全
+| 中文定义 = 一种牙釉质矿化不足（HP：0006285），其特点是钙化减少。
+}}
+
+==[[HP:0011085]]==
+{{Infobox HPO
+| hpoId = HP:0011085
+| 名称 = Hypomature dental enamel
+| 定义 = A form of `hypomineralization of enamel` (HP:0006285) characterized by a chalky appearance of the enamel with orange, brown, or white color.
+| 中文译名 = 牙釉质成熟不全
+| 中文定义 = 一种牙釉质矿化不足（HP：0006285），其特征是带有橙色、棕色或白色的白垩质的牙釉质。
+}}
+
+==[[HP:0011086]]==
+{{Infobox HPO
+| hpoId = HP:0011086
+| 名称 = Dentinogenesis imperfecta of primary and permanent teeth
+| 定义 = `Developmental dysplasia` of `dentin` (FMA:55628) or both the `primary dentition` (FMA:55655) and the `permanent dentition` (FMA:55654).
+| 中文译名 = 乳牙和恒牙牙本质发育不全
+| 中文定义 = 乳牙（FMA：55655）与恒牙（FMA：55654）的牙本质（FMA：55628）均发育不良
+}}
+
+==[[HP:0012031]]==
+{{Infobox HPO
+| hpoId = HP:0012031
+| 名称 = Lipomatous tumor
+| 定义 = A common group of mesenchymal lesions.
+| 中文译名 = 脂肪性肿瘤
+| 中文定义 = 一组常见的间充质病变
+}}
+
+==[[HP:0012032]]==
+{{Infobox HPO
+| hpoId = HP:0012032
+| 名称 = Lipoma
+| 定义 = Benign neoplasia derived from lipoblasts or lipocytes of white or brown fat. May be angiomatous or hibernomatous.
+| 中文译名 = 脂肪瘤
+| 中文定义 = 成脂肪细胞或白色或棕色脂肪细胞衍生而来的良性肿瘤。可能是血管瘤型或蛰伏脂肪瘤型。
+}}
+
+
+==[[HP:0012033]]==
+{{Infobox HPO
+| hpoId = HP:0012033
+| 名称 = Sacral lipoma
+| 定义 = Presence of a lipoma in the region of the sacrum.
+| 中文译名 = 骶脂肪瘤
+| 中文定义 = 位于骶骨区的脂肪瘤。
+}}
+
+
+==[[HP:0012034]]==
+{{Infobox HPO
+| hpoId = HP:0012034
+| 名称 = Liposarcoma
+| 定义 = Malignant neoplasms which probably originate in primitive mesenchymal stem cell populations differentiating down a lipomatous pathway.
+| 中文译名 = 脂肪肉瘤
+| 中文定义 = 一种恶性肿瘤，可能发生于于原始间充质干细胞群分化为脂肪瘤的过程中。
+}}
+
+
+==[[HP:0012268]]==
+{{Infobox HPO
+| hpoId = HP:0012268
+| 名称 = Myxoid liposarcoma
+| 定义 = A liposarcoma that contains myxomatous tissue.
+| 中文译名 = 粘液样脂肪肉瘤
+| 中文定义 = 含有粘液组织的脂肪肉瘤。
+}}
+
+
+==[[HP:0012385]]==
+{{Infobox HPO
+| hpoId = HP:0012385
+| 名称 = Camptodactyly
+| 定义 = The distal interphalangeal joint and/or the proximal interphalangeal joint of the fingers or toes cannot be extended to 180 degrees by either active or passive extension.
+| 中文译名 = 屈指症
+| 中文定义 = 远端指间关节和/或手指或脚趾的近端指间关节活动受限，无法主动或被动伸展到180度。
+}}
+
+==[[HP:0012453]]==
+{{Infobox HPO
+| hpoId = HP:0012453
+| 名称 = Bilateral wrist flexion contracture
+| 定义 = A chronic loss of wrist joint motion on the right and left sides.
+| 中文译名 = 双侧腕关节屈曲挛缩
+| 中文定义 = 左右双侧腕关节运动的慢性损失。
+}}
+
+==[[HP:0012454]]==
+{{Infobox HPO
+| hpoId = HP:0012454
+| 名称 = Unilateral wrist flexion contracture
+| 定义 = A chronic loss of wrist joint motion on one side only.
+| 中文译名 = 单侧腕关节屈曲挛缩
+| 中文定义 = 一侧腕关节活动慢性丧失。
+}}
+
+
+==[[HP:0012490]]==
+{{Infobox HPO
+| hpoId = HP:0012490
+| 名称 = Panniculitis
+| 定义 = Inflammation of `adipose tissue` (FMA:20110).
+| 中文译名 = 脂膜炎
+| 中文定义 = 脂肪组织炎症。
+}}
+
+==[[HP:0012785]]==
+{{Infobox HPO
+| hpoId = HP:0012785
+| 名称 = Flexion contracture of finger
+| 定义 = Chronic loss of joint motion in a finger due to structural changes in non-bony tissue.
+| 中文译名 = 手指屈曲挛缩
+| 中文定义 = 手指关节活动由于非骨性组织的结构变化导致慢性丧失。
+}}
+
+
+==[[HP:0030044]]==
+{{Infobox HPO
+| hpoId = HP:0030044
+| 名称 = Flexion contracture of digit
+| 定义 = A bent (flexed) finger or toe joint that cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement of joints.
+| 中文译名 = 指趾屈曲挛缩
+| 中文定义 = 指趾关节的弯曲，不能主动或被动地伸直。这是由于肌肉、肌腱、韧带或皮肤的机构性改变导致的一种慢性的关节活动的丧失，妨碍了关节的正常活动。
+}}
+
+==[[HP:0030233]]==
+{{Infobox HPO
+| hpoId = HP:0030233
+| 名称 = Bethlem sign
+| 定义 = Limitation of wrist and finger extension on asking patient to form a prayer sign. This is a result of progressive wrist and finger flexion contractures.
+| 中文译名 = 贝特莱姆征
+| 中文定义 = 让患者做祈祷样动作时，手腕及手指伸展受限。这是手腕及手指进行性屈曲挛缩的结果。
+}}
+
+
+==[[HP:0030675]]==
+{{Infobox HPO
+| hpoId = HP:0030675
+| 名称 = Contracture of proximal interphalangeal joints of 2nd-5th fingers
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 2nd, 3rd, 4th, and 5th fingers due to structural changes in non-bony tissue.
+| 中文译名 = 食指至小指近端指间关节挛缩
+| 中文定义 = 由于非骨性组织的结构改变，导致食指至小指的近端指间关节活动的慢性丧失。
+}}
+
+==[[HP:0030759]]==
+{{Infobox HPO
+| hpoId = HP:0030759
+| 名称 = Adipocyte hypertrophy
+| 定义 = An increase in mean adipocyte cell size. This feature can be measured by determining the average cell diameter of adipocytes microscopically using abdominal subcutaneous adipose tissue obtained by biopsy.
+| 中文译名 = 脂肪细胞肥大
+| 中文定义 = 脂肪细胞平均体积增大。这种特性可以通过活检脂肪组织在显微镜下测量脂肪细胞的平均直径确定。
+}}
+
+
+==[[HP:0030815]]==
+{{Infobox HPO
+| hpoId = HP:0030815
+| 名称 = Lipoma of the tongue
+| 定义 = A lipoma localized to the tongue. May present as a nontender, soft, spherical mass of the tongue.
+| 中文译名 = 舌脂肪瘤
+| 中文定义 = 位于舌体的脂肪瘤。可能是舌体上球形的无触痛的軟结节。
+}}
+
+==[[HP:0040063]]==
+{{Infobox HPO
+| hpoId = HP:0040063
+| 名称 = Decreased adipose tissue
+| 定义 = #####
+| 中文译名 = 脂肪组织减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040164]]==
+{{Infobox HPO
+| hpoId = HP:0040164
+| 名称 = Lipomas of upper eyelids
+| 定义 = #####
+| 中文译名 = 上眼睑脂肪瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0045029]]==
+{{Infobox HPO
+| hpoId = HP:0045029
+| 名称 = Eosinophilic fasciitis
+| 定义 = #####
+| 中文译名 = 嗜酸性筋膜炎
+| 中文定义 = #####
+}}
+
+==[[HP:0100251]]==
+{{Infobox HPO
+| hpoId = HP:0100251
+| 名称 = Lipomas of the central neryous system
+| 定义 = #####
+| 中文译名 = 中枢神经系统脂肪瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100348]]==
+{{Infobox HPO
+| hpoId = HP:0100348
+| 名称 = Contracture of the proximal interphalangeal joint of the 2nd toe
+| 定义 = The proximal interphalangeal joint of the 2nd toe cannot be straightened actively or passively.
+| 中文译名 = 第二趾近端趾间关节挛缩
+| 中文定义 = 第二趾的近端趾间关节，不能主动或被动地伸直。
+}}
+
+==[[HP:0100349]]==
+{{Infobox HPO
+| hpoId = HP:0100349
+| 名称 = Contracture of the proximal interphalangeal joint of the 3rd toe
+| 定义 = The proximal interphalangeal joint of the 3rd toe cannot be straightened actively or passively.
+| 中文译名 = 第三趾近端趾间关节挛缩
+| 中文定义 = 第三趾的近端趾间关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100350]]==
+{{Infobox HPO
+| hpoId = HP:0100350
+| 名称 = Contracture of the proximal interphalangeal joint of the 4th toe
+| 定义 = The proximal interphalangeal joint of the 4th toe cannot be straightened actively or passively.
+| 中文译名 = 第四趾近端趾间关节挛缩
+| 中文定义 = 第四脚趾的近端趾间关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100351]]==
+{{Infobox HPO
+| hpoId = HP:0100351
+| 名称 = Contractures of the proximal interphalangeal joint of the 5th toe
+| 定义 = The proximal interphalangeal joint of the fifth toe cannot be straightened actively or passively.
+| 中文译名 = 小趾近端趾间关节挛缩
+| 中文定义 = 第五脚趾的近端趾间关节不能主动或被动地真直。
+}}
+
+==[[HP:0100352]]==
+{{Infobox HPO
+| hpoId = HP:0100352
+| 名称 = Contracture of the distal interphalangeal joint of the 2nd toe
+| 定义 = The distal interphalangeal joint of the 2nd toe cannot be straightened actively or passively.
+| 中文译名 = 第二趾远端趾间关节挛缩
+| 中文定义 = 第二趾的远端趾间关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100353]]==
+{{Infobox HPO
+| hpoId = HP:0100353
+| 名称 = Contracture of the distal interphalangeal joint of the 3rd toe
+| 定义 = The distal interphalangeal joint of the 3rd toe cannot be straightened actively or passively.
+| 中文译名 = 第三趾远端趾间关节挛缩
+| 中文定义 = 第三趾的远端趾间关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100354]]==
+{{Infobox HPO
+| hpoId = HP:0100354
+| 名称 = Contracture of the distal interphalangeal joint of the 4th toe
+| 定义 = The distal interphalangeal joint of the 4th toe cannot be straightened actively or passively.
+| 中文译名 = 第四趾远端趾间关节挛缩
+| 中文定义 = 第四脚趾的远端趾间关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100355]]==
+{{Infobox HPO
+| hpoId = HP:0100355
+| 名称 = Contractures of the distal interphalangeal joint of the 5th toe
+| 定义 = The distal interphalangeal joint of the 5th toe cannot be straightened actively or passively.
+| 中文译名 = 小趾远端趾间关节挛缩
+| 中文定义 = 第五脚趾的远端趾间关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100356]]==
+{{Infobox HPO
+| hpoId = HP:0100356
+| 名称 = Contracture of the metatarsophalangeal joint of the 2nd toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 2nd toe cannot be straightened actively or passively.
+| 中文译名 = 第二趾跖趾关节挛缩
+| 中文定义 = 第二脚趾的第二趾骨与近端趾骨之间的关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100357]]==
+{{Infobox HPO
+| hpoId = HP:0100357
+| 名称 = Contracture of the metatarsophalangeal joint of the 3rd toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 3rd toe cannot be straightened actively or passively.
+| 中文译名 = 第三趾跖趾关节挛缩
+| 中文定义 = 第三趾的第二趾骨与近端趾骨之间的关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100358]]==
+{{Infobox HPO
+| hpoId = HP:0100358
+| 名称 = Contracture of the metatarsophalangeal joint of the 4th toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 4th toe cannot be straightened actively or passively.
+| 中文译名 = 第四趾跖趾关节挛缩
+| 中文定义 = 第四趾的第二趾骨与近端趾骨之间的关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100359]]==
+{{Infobox HPO
+| hpoId = HP:0100359
+| 名称 = Contracture of the metatarsophalangeal joint of the 5th toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 5th toe cannot be straightened actively or passively.
+| 中文译名 = 小趾跖趾关节挛缩
+| 中文定义 = 小脚趾的第二趾骨与近端趾骨之间的关节不能主动或被动地伸直。
+}}
+
+==[[HP:0100360]]==
+{{Infobox HPO
+| hpoId = HP:0100360
+| 名称 = Contractures of the joints of the upper limbs
+| 定义 = #####
+| 中文译名 = 上肢关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100490]]==
+{{Infobox HPO
+| hpoId = HP:0100490
+| 名称 = Camptodactyly of finger
+| 定义 = The distal interphalangeal joint and/or the proximal interphalangeal joint of the fingers cannot be extended to 180 degrees by either active or passive extension.
+| 中文译名 = 手指屈指症
+| 中文定义 = 手指远端指间关节和/或指的近端指间关节无法主动或被动伸展到180度。
+}}
+
+==[[HP:0100492]]==
+{{Infobox HPO
+| hpoId = HP:0100492
+| 名称 = Joint contractures involving the joints of the feet
+| 定义 = Contractures of one ore more joints of the feet meaning chronic loss of joint motion due to structural changes in non-bony tissue.
+| 中文译名 = 足趾关节挛缩
+| 中文定义 = 足的一个或多个关节挛缩系由非骨性组织结构改变导致的慢性关节活动丧失。
+}}
+
+==[[HP:0100494]]==
+{{Infobox HPO
+| hpoId = HP:0100494
+| 名称 = Abnormality of mast cells
+| 定义 = An abnormality of `mast cells` (CL:0000097).
+| 中文译名 = 肥大细胞异常
+| 中文定义 = 肥大细胞（CL:0000097）的异常。
+}}
+
+
+==[[HP:0100495]]==
+{{Infobox HPO
+| hpoId = HP:0100495
+| 名称 = Mastocytosis
+| 定义 = The presence of an increased number of `mast cells` (CL:0000097) and CD34+ mast cell precursors in the body.
+| 中文译名 = 肥大细胞增多症
+| 中文定义 = 肥大细胞（CL：0000097）和CD34 +肥大细胞前体细胞数量增加。
+}}
+
+
+==[[HP:0100536]]==
+{{Infobox HPO
+| hpoId = HP:0100536
+| 名称 = Abnormality of the fascia
+| 定义 = An abnormality of `fascia` (FMA:30318).
+| 中文译名 = 筋膜异常
+| 中文定义 = 筋膜的异常。
+}}
+
+
+==[[HP:0100537]]==
+{{Infobox HPO
+| hpoId = HP:0100537
+| 名称 = Fasciitis
+| 定义 = `Inflammation` (MPATH:212) of `fascia` (FMA:30318).
+| 中文译名 = 筋膜炎
+| 中文定义 = 筋膜炎症。
+}}
+
+
+==[[HP:0100541]]==
+{{Infobox HPO
+| hpoId = HP:0100541
+| 名称 = Femoral hernia
+| 定义 = A hernia which occurs just below the inguinal ligament, where abdominal contents pass through a naturally occurring weakness called the femoral canal.
+| 中文译名 = 股疝
+| 中文定义 = 发生于腹股沟韧带下方的疝，该处腹内脏器通过一个天然发生的减弱的管道下降，这个管道称为股管。
+}}
+
+
+==[[HP:0100578]]==
+{{Infobox HPO
+| hpoId = HP:0100578
+| 名称 = Lipoatrophy
+| 定义 = Localized loss of fat tissue.
+| 中文译名 = 脂肪萎缩
+| 中文定义 = 局部脂肪组织丢失。
+}}
+
+
+==[[HP:0100645]]==
+{{Infobox HPO
+| hpoId = HP:0100645
+| 名称 = Cystocele
+| 定义 = When the tough fibrous wall between a woman&#39;s bladder and her vagina (the pubocervical fascia) is torn, allowing the bladder to herniate into the vagina.
+| 中文译名 = 膀胱膨出
+| 中文定义 = 当女性的膀胱和阴道（耻骨宫颈筋膜）之间坚韧的纤维壁被撕裂，使膀胱疝入阴道。
+}}
+
+
+==[[HP:0100658]]==
+{{Infobox HPO
+| hpoId = HP:0100658
+| 名称 = Cellulitis
+| 定义 = #####
+| 中文译名 = 蜂窝织炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100672]]==
+{{Infobox HPO
+| hpoId = HP:0100672
+| 名称 = Vaginal hernia
+| 定义 = The presence of a `hernia` (MPATH:75) of the `vagina` (FMA:19949).
+| 中文译名 = 阴道疝
+| 中文定义 = 阴道形成疝。
+}}
+
+
+==[[HP:0100685]]==
+{{Infobox HPO
+| hpoId = HP:0100685
+| 名称 = Abnormality of Sharpey fibers
+| 定义 = An abnormality of Sharpey&#39;s fibers (bone fibers, or perforating fibers), which are a matrix of connective tissue consisting of bundles of strong collagenous fibres connecting periosteum to bone.
+| 中文译名 = 穿通纤维异常
+| 中文定义 = 穿通纤维的一种异常。穿通纤维（perforating fibers）又被称为贯通纤维、夏贝氏纤维（Sharpey's fibers）、沙比纤维、夏皮氏纤维、夏佩纤维、夏皮纤维或骨纤维（bone fibers），是一种结缔组织基质，由结实的胶原纤维束构成，并将骨外膜连接到骨质之上。
+}}
+
+==[[HP:0100686]]==
+{{Infobox HPO
+| hpoId = HP:0100686
+| 名称 = Enthesitis
+| 定义 = #####
+| 中文译名 = 附着点炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100695]]==
+{{Infobox HPO
+| hpoId = HP:0100695
+| 名称 = Lipedema
+| 定义 = Excess deposit and expansion of `adipose tissue` (FMA:20110) in an unusual pattern which cannot be lost through diet and exercise .
+| 中文译名 = 脂肪水肿
+| 中文定义 = 超额存款和扩张&#39;脂肪tissue`（FMA:20110）在一种不寻常的脂肪组织（FMA：20110）过度沉积和扩张状态，无法通过节食和锻炼丢失。
+}}
+
+==[[HP:0100699]]==
+{{Infobox HPO
+| hpoId = HP:0100699
+| 名称 = Scarring
+| 定义 = #####
+| 中文译名 = 瘢痕形成
+| 中文定义 = #####
+}}
+
+==[[HP:0100717]]==
+{{Infobox HPO
+| hpoId = HP:0100717
+| 名称 = Abnormality of the cementum
+| 定义 = #####
+| 中文译名 = 牙骨质异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100790]]==
+{{Infobox HPO
+| hpoId = HP:0100790
+| 名称 = Hernia
+| 定义 = #####
+| 中文译名 = 疝
+| 中文定义 = #####
+}}
+
+==[[HP:0100821]]==
+{{Infobox HPO
+| hpoId = HP:0100821
+| 名称 = Urethrocele
+| 定义 = The prolapse of the female urethra into the vagina.
+| 中文译名 = 尿道膨出
+| 中文定义 = 女性尿道脱垂进入阴道。
+}}
+
+
+==[[HP:0100822]]==
+{{Infobox HPO
+| hpoId = HP:0100822
+| 名称 = Rectocele
+| 定义 = A Rectocele results from a tear in the rectovaginal septum (which is normally a tough, fibrous, sheet-like divider between the rectum and vagina). Rectal tissue bulges through this tear and into the vagina as a hernia. There are two main causes of this tear: childbirth, and hysterectomy.
+| 中文译名 = 直肠膨出
+| 中文定义 = 直肠阴道隔膜撕裂（正常是一个坚韧的纤维状片状分隔结构，位于直肠和阴道之间）导致的直肠前突。直肠组织像疝气一样通过这个裂隙膨入阴道。有两个主要撕裂原因:分娩和子宫切除术。
+}}
+
+==[[HP:0100823]]==
+{{Infobox HPO
+| hpoId = HP:0100823
+| 名称 = Genital hernia
+| 定义 = #####
+| 中文译名 = 外阴疝
+| 中文定义 = #####
+}}
+
+==[[HP:0100837]]==
+{{Infobox HPO
+| hpoId = HP:0100837
+| 名称 = Atrophodermia vermiculata
+| 定义 = Symmetrical vermiform facial atrophy that affects mainly the forehead, the chin, the ear lobes and helices. Atrophodermia vermiculata is characterized by erythema and follicular plugs on the cheeks, developing into painless reticular impressions.
+| 中文译名 = 虫蚀状皮肤萎缩
+| 中文定义 = 对称的蠕虫状面部萎缩，主要影响额头、下巴、耳垂和耳轮。 虫蚀状皮肤萎缩的特点是在脸颊上的红斑和毛囊塞，发展成无痛网状的痕迹。
+}}
+
+
+==[[HP:0100881]]==
+{{Infobox HPO
+| hpoId = HP:0100881
+| 名称 = Congenital mesoblastic nephroma
+| 定义 = Congenital mesoblastic nephroma is a type of kidney tumor that is usually found before birth by ultrasound or within the first 3 months of life. It contains fibroblastic cells (connective tissue cells), and may spread to the other kidney or to nearby tissue.
+| 中文译名 = 先天性中胚叶肾瘤
+| 中文定义 = 先天性中胚层肾瘤是一种肾脏肿瘤亚型，通常在出生前或出生后三个月内通过超声发现。它包含成纤维细胞（结缔组织细胞），并可以扩散到另一侧肾脏或附近组织。
+}}
+
+==[[HP:0100898]]==
+{{Infobox HPO
+| hpoId = HP:0100898
+| 名称 = Connective tissue nevi
+| 定义 = Connective tissue nevi are hamartomas in which one or several components of the dermis is altered.
+| 中文译名 = 结缔组织痣
+| 中文定义 = 结缔组织痣是错构瘤的一种，是真皮中的一种或几种组成部分发生改变所导致。
+}}
+
+==[[HP:0200013]]==
+{{Infobox HPO
+| hpoId = HP:0200013
+| 名称 = Neoplasm of fatty tissue
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) of adipose tissue.
+| 中文译名 = 脂肪组织肿瘤
+| 中文定义 = 脂肪组织（肿瘤）:一种良性或恶性肿瘤（MPATH：218）。
+}}
+
+==[[HP:0200056]]==
+{{Infobox HPO
+| hpoId = HP:0200056
+| 名称 = Macular scarring
+| 定义 = Macular scarring
+| 中文译名 = 黄斑瘢痕
+| 中文定义 = 黄斑疤痕
+}}
+
+==[[HP:0200151]]==
+{{Infobox HPO
+| hpoId = HP:0200151
+| 名称 = Cutaneous mastocytosis
+| 定义 = #####
+| 中文译名 = 皮肤肥大细胞增多症
+| 中文定义 = #####
+}}
+
+
+==[[HP:3000050]]==
+{{Infobox HPO
+| hpoId = HP:3000050
+| 名称 = Abnormality of odontoid tissue
+| 定义 = An abnormality of an odontoid tissue.
+| 中文译名 = 牙样组织异常
+| 中文定义 = #####
+}}

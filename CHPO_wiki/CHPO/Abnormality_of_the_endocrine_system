@@ -1,0 +1,3162 @@
+<accesscontrol>审核人:内分泌系统异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=内分泌系统异常(337条目)=
+
+
+==[[HP:0000026]]==
+{{Infobox HPO
+| hpoId = HP:0000026
+| 名称 = Male hypogonadism
+| 定义 = "Decreased functionality" (PATO:0001624) of the male gonad, i.e., of the "testis" (FMA:7210).
+| 中文译名 = 男性性腺功能减退症
+| 中文定义 = 男性性腺即睾丸功能性减退。
+}}
+
+==[[HP:0000044]]==
+{{Infobox HPO
+| hpoId = HP:0000044
+| 名称 = Hypogonadotrophic hypogonadism
+| 定义 = Hypogonadotropic hypogonadism is characterized by reduced function of the gonads (testes in males or ovaries in females) and results from the absence of the gonadal stimulating pituitary hormones: follicle stimulating hormone (FSH) and luteinizing hormone (LH).
+| 中文译名 = 低促性腺激素性性腺功能减退症
+| 中文定义 = 低促性腺激素性性腺功能减退症以性腺（男性的睾丸，女性的卵巢）功能降低为特征，是因垂体促性腺激素缺乏所导致，如卵泡刺激素（FSH）和促黄体生成激素（LH）。
+}}
+
+==[[HP:0000132]]==
+{{Infobox HPO
+| hpoId = HP:0000132
+| 名称 = Menorrhagia
+| 定义 = Abnormally heavy and prolonged menstrual period.
+| 中文译名 = 月经过多
+| 中文定义 = 月经期出血量异常增多和经期延长。
+}}
+
+==[[HP:0000134]]==
+{{Infobox HPO
+| hpoId = HP:0000134
+| 名称 = Female hypogonadism
+| 定义 = "Decreased functionality" (PATO:0001624) of the female gonad, i.e., of the "ovary" (FMA:7209).
+| 中文译名 = 女性性腺功能减退症
+| 中文定义 = 女性的性腺即卵巢功能减退。
+}}
+
+==[[HP:0000135]]==
+{{Infobox HPO
+| hpoId = HP:0000135
+| 名称 = Hypogonadism
+| 定义 = A "decreased functionality" (PATO:0001624) of the "gonad" (FMA:18250).
+| 中文译名 = 性腺功能减退症
+| 中文定义 = 性腺的功能下降。
+}}
+
+==[[HP:0000140]]==
+{{Infobox HPO
+| hpoId = HP:0000140
+| 名称 = Abnormality of the menstrual cycle
+| 定义 = An abnormality of the "ovulation cycle" (GO:0042698).
+| 中文译名 = 月经周期异常
+| 中文定义 = 排卵周期的异常。
+}}
+
+==[[HP:0000141]]==
+{{Infobox HPO
+| hpoId = HP:0000141
+| 名称 = Amenorrhea
+| 定义 = #####
+| 中文译名 = 闭经
+| 中文定义 = #####
+}}
+
+==[[HP:0000777]]==
+{{Infobox HPO
+| hpoId = HP:0000777
+| 名称 = Abnormality of the thymus
+| 定义 = Abnormality of the "thymus" (FMA:9607), an organ located in the upper anterior portion of the chest cavity just behind the sternum and whose main function is to provide an environment for T lymphocyte maturation.
+| 中文译名 = 胸腺异常
+| 中文定义 = “胸腺”（FMA:9607）的异常，位于胸骨后胸腔内前纵隔内，其主要功能为T淋巴细胞成熟提供环境。
+}}
+
+==[[HP:0000778]]==
+{{Infobox HPO
+| hpoId = HP:0000778
+| 名称 = Hypoplasia of the thymus
+| 定义 = Underdevelopment of the "thymus" (FMA:9607).
+| 中文译名 = 胸腺发育不全
+| 中文定义 = “胸腺”发育不全（FMA:9607）。
+}}
+
+==[[HP:0000786]]==
+{{Infobox HPO
+| hpoId = HP:0000786
+| 名称 = Primary amenorrhea
+| 定义 = #####
+| 中文译名 = 原发性闭经
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000815]]==
+{{Infobox HPO
+| hpoId = HP:0000815
+| 名称 = Hypergonadotropic hypogonadism
+| 定义 = Reduced function of the gonads (testes in males or ovaries in females) associated with excess pituitary gonadotropin secretion and resulting in delayed sexual development and growth delay.
+| 中文译名 = 高促性腺激素性性腺功能减退症
+| 中文定义 = 性腺（男性的睾丸，女性的卵巢）的功能降低，伴随垂体促性腺激素的过量分泌，导致性发育延迟和生长发育迟缓。
+}}
+
+==[[HP:0000818]]==
+{{Infobox HPO
+| hpoId = HP:0000818
+| 名称 = Abnormality of the endocrine system
+| 定义 = An abnormality of the "endocrine system" (FMA:9668).
+| 中文译名 = 内分泌系统异常
+| 中文定义 = 内分泌系统的异常
+}}
+
+==[[HP:0000819]]==
+{{Infobox HPO
+| hpoId = HP:0000819
+| 名称 = Diabetes mellitus
+| 定义 = A group of abnormalities characterized by hyperglycemia and glucose intolerance.
+| 中文译名 = 糖尿病
+| 中文定义 = 一组以高血糖和葡萄糖不耐受为特征的病症。
+}}
+
+
+==[[HP:0000820]]==
+{{Infobox HPO
+| hpoId = HP:0000820
+| 名称 = Abnormality of the thyroid gland
+| 定义 = An abnormality of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺异常
+| 中文定义 = 甲状腺的异常
+}}
+
+==[[HP:0000821]]==
+{{Infobox HPO
+| hpoId = HP:0000821
+| 名称 = Hypothyroidism
+| 定义 = Deficiency of thyroid hormone.
+| 中文译名 = 甲状腺功能减退症
+| 中文定义 = 甲状腺激素缺乏。
+}}
+
+
+==[[HP:0000823]]==
+{{Infobox HPO
+| hpoId = HP:0000823
+| 名称 = Delayed puberty
+| 定义 = Passing the age when puberty normally occurs with no physical or hormonal signs of the onset of puberty.
+| 中文译名 = 青春期发育延迟
+| 中文定义 = 在青春期通常开始的年龄没有显示青春期启动的体征或激素变化。
+}}
+
+==[[HP:0000824]]==
+{{Infobox HPO
+| hpoId = HP:0000824
+| 名称 = Growth hormone deficiency
+| 定义 = Insufficient production of growth hormone, which is produced by the anterior pituitary gland. Growth hormone is a major participant in control of growth and metabolism.
+| 中文译名 = 生长激素缺乏症
+| 中文定义 = 垂体前叶产生的生长激素不足。生长激素是生长和代谢控制的一个主要参与者。
+}}
+
+
+==[[HP:0000825]]==
+{{Infobox HPO
+| hpoId = HP:0000825
+| 名称 = Hyperinsulinemic hypoglycemia
+| 定义 = An `increased concentration` (PATO:0001162) of `insulin` (PRO:000009054) combined with a `decreased concentration` (PATO:0001163) of `glucose` (CHEBI:17234) in the `blood` (FMA:9670).
+| 中文译名 = 高胰岛素血症性低血糖症
+| 中文定义 = 血中胰岛素浓度异常升高的同时伴有血葡萄糖浓度的减低。
+}}
+
+==[[HP:0000826]]==
+{{Infobox HPO
+| hpoId = HP:0000826
+| 名称 = Precocious puberty
+| 定义 = The onset of secondary sexual characteristics before a normal age. Although it is difficult to define normal age ranges because of the marked variation with which puberty begins in normal children, precocious puberty can be defined as the onset of puberty before the age of 8 years in girls or 9 years in boys.
+| 中文译名 = 性早熟
+| 中文定义 = 指第二性征在正常年龄之前开始。尽管正常儿童青春期开始的年龄差别很大而难以界定“正常年龄”，性早熟通常定义为男孩9岁或者女孩8岁之前青春期发育开始。
+}}
+
+
+==[[HP:0000828]]==
+{{Infobox HPO
+| hpoId = HP:0000828
+| 名称 = Abnormality of the parathyroid gland
+| 定义 = An abnormality of the "parathyroid gland" (FMA:13890).
+| 中文译名 = 甲状旁腺异常
+| 中文定义 = 甲状旁腺的异常
+}}
+
+==[[HP:0000829]]==
+{{Infobox HPO
+| hpoId = HP:0000829
+| 名称 = Hypoparathyroidism
+| 定义 = A condition caused by a deficiency of parathyroid hormone characterized by hypocalcemia and hyperphosphatemia.
+| 中文译名 = 甲状旁腺功能减退症
+| 中文定义 = 甲状旁腺激素分泌不足导致的一种病理状态，特点是低血钙和高血磷。
+}}
+
+==[[HP:0000830]]==
+{{Infobox HPO
+| hpoId = HP:0000830
+| 名称 = Anterior hypopituitarism
+| 定义 = A condition of reduced function of the pituitary gland characterized by decreased secretion of one or more of the pituitary hormones growth hormone, thyroid-stimulating hormone, adrenocorticotropic hormone, prolactin, luteinizing hormone, and follicle-stimulating hormone.
+| 中文译名 = 垂体前叶功能减退症
+| 中文定义 = 垂体前叶功能减退导致，表现为一种或多种垂体激素分泌减少，如生长激素、促甲状腺激素、促肾上腺皮质激素、催乳素、黄体生成素和卵泡刺激素。
+}}
+
+==[[HP:0000831]]==
+{{Infobox HPO
+| hpoId = HP:0000831
+| 名称 = Insulin-resistant diabetes mellitus
+| 定义 = A type of diabetes mellitus related not to lack of insulin but rather to lack of response to insulin on the part of the target tissues of insulin such as muscle, fat, and liver cells. This type of diabetes is typically associated with increases both in blood glucose concentrations as will as in fasting and postprandial serum insulin levels.
+| 中文译名 = 胰岛素抵抗型糖尿病
+| 中文定义 = 糖尿病的一种，其致病原因不是由于胰岛素缺乏，而是由于胰岛素的靶组织，如肌肉、脂肪和肝细胞等，丧失对胰岛素的反应。该类型糖尿病通常血中葡萄糖浓度以及空腹和餐后血清胰岛素水平都升高。
+}}
+
+==[[HP:0000832]]==
+{{Infobox HPO
+| hpoId = HP:0000832
+| 名称 = Primary hypothyroidism
+| 定义 = A type of "hypothyroidism" (HP:0000821) that results from a defect in the "thyroid gland" (FMA:9603).
+| 中文译名 = 原发性甲状腺功能减退症
+| 中文定义 = 一种由于甲状腺缺陷而导致的甲状腺功能低下(HP:0000821)。
+}}
+
+==[[HP:0000834]]==
+{{Infobox HPO
+| hpoId = HP:0000834
+| 名称 = Abnormality of the adrenal glands
+| 定义 = Abnormality of the "adrenal glands" (FMA:9604), i.e., of the endocrine glands located at the top of the kindneys.
+| 中文译名 = 肾上腺异常
+| 中文定义 = 肾上腺，即位于肾脏顶端的内分泌腺体的异常。
+}}
+
+==[[HP:0000835]]==
+{{Infobox HPO
+| hpoId = HP:0000835
+| 名称 = Adrenal hypoplasia
+| 定义 = Developmental hypoplasia of the "adrenal glands" (FMA:9604).
+| 中文译名 = 肾上腺发育不良
+| 中文定义 = 肾上腺发育不良。
+}}
+
+==[[HP:0000836]]==
+{{Infobox HPO
+| hpoId = HP:0000836
+| 名称 = Hyperthyroidism
+| 定义 = An abnormality of thyroid physiology (HP:0002926) characterized by refers to excessive secretion of the thyroid hormones "thyroxine" (CHEBI:30660) (i.e., T4) and/or "3,3&#39;,5-triiodo-L-thyronine zwitterion" (CHEBI:533015) (i.e., triiodothyronine or T3).
+| 中文译名 = 甲状腺功能亢进症
+| 中文定义 = 甲状腺生理(HP:0002926)的一种异常，表现为甲状腺激素分泌过多，如甲状腺素（T4）和／或三碘甲腺原氨酸（T3）。
+}}
+
+==[[HP:0000837]]==
+{{Infobox HPO
+| hpoId = HP:0000837
+| 名称 = Gonadotropin excess
+| 定义 = Overproduction of gonadotropins (FSH, LH) by the anterior pituitary gland.
+| 中文译名 = 促性腺激素增多
+| 中文定义 = 垂体前叶产生过多的促性腺激素（FSH、LH）。
+}}
+
+==[[HP:0000839]]==
+{{Infobox HPO
+| hpoId = HP:0000839
+| 名称 = Pituitary dwarfism
+| 定义 = A type of reduced stature with normal proportions related to dysfunction of the pituitary gland related to either an isolated defect in the secretion of growth hormone or to panhypopituitarism, i.e., a deficit of all the anterior pituitary hormones.
+| 中文译名 = 垂体性侏儒症
+| 中文定义 = 一种比例正常但矮小的身材，与垂体功能异常有关，这种异常或者只是生长激素的分泌不足，或者是全垂体机能减退，即所有垂体前叶激素分泌不足。
+}}
+
+==[[HP:0000840]]==
+{{Infobox HPO
+| hpoId = HP:0000840
+| 名称 = Adrenogenital syndrome
+| 定义 = Adrenogenital syndrome is also known as congenital adrenal hyperplasia, which results from disorders of steroid hormone production in the adrenal glands leading to a deficiency of cortisol. The pituitary gland reacts by increased secretion of corticotropin, which in turn causes the adrenal glands to overproduce certain intermediary hormones which have testosterone-like effects.
+| 中文译名 = 肾上腺性征异常综合征
+| 中文定义 = 肾上腺性征异常综合征也称为先天性肾上腺增生，由于肾上腺中类固醇激素生产失调导致皮质醇不足。引起垂体促肾上腺皮质激素分泌增多，从而导致肾上腺过量产生一些具有雄激素作用的中间产物。
+}}
+
+==[[HP:0000841]]==
+{{Infobox HPO
+| hpoId = HP:0000841
+| 名称 = Hyperactive renin-angiotensin system
+| 定义 = An abnormally increased activity of the renin-angiotensin system, causing hypertension by a combination of volume excess and vasoconstrictor mechanisms.
+| 中文译名 = 肾素-血管紧张素系统亢进
+| 中文定义 = 肾素-血管紧张素系统活性异常增加，通过增加血容量和收缩血管引起高血压。
+}}
+
+==[[HP:0000842]]==
+{{Infobox HPO
+| hpoId = HP:0000842
+| 名称 = Hyperinsulinemia
+| 定义 = An "increased concentration" (PATO:0001162) of "insulin" (PRO:000009054) in the "blood" (FMA:9670).
+| 中文译名 = 高胰岛素血症
+| 中文定义 = 血中胰岛素浓度异常升高。
+}}
+
+==[[HP:0000843]]==
+{{Infobox HPO
+| hpoId = HP:0000843
+| 名称 = Hyperparathyroidism
+| 定义 = Excessive production of parathyroid hormone (PTH) by the parathyroid glands.
+| 中文译名 = 甲状旁腺功能亢进症
+| 中文定义 = 甲状旁腺过量产生甲状旁腺激素（PTH）。
+}}
+
+
+==[[HP:0000845]]==
+{{Infobox HPO
+| hpoId = HP:0000845
+| 名称 = Growth hormone excess
+| 定义 = Acromegaly is a condition resulting from overproduction of growth hormone by the pituitary gland in persons with closed epiphyses, and consists chiefly in the enlargement of the distal parts of the body. The circumference of the skull increases, the nose becomes broad, the tongue becomes enlarged, the facial features become coarsened, the mandible grows excessively, and the teeth become separated. The fingers and toes grow chiefly in thickness.
+| 中文译名 = 生长激素增多
+| 中文定义 = 肢端肥大症是由于在骨骺已闭合的人中脑垂体产生过多生长激素引起的一种状态，主要引起肢体远端部分的增大。包括颅骨周长增加，鼻子变宽，舌头肿大，面部特征变得粗糙，下颌骨过度增长，而牙齿变得分开。手指和脚趾的厚度增加。
+}}
+
+
+==[[HP:0000846]]==
+{{Infobox HPO
+| hpoId = HP:0000846
+| 名称 = Adrenal insufficiency
+| 定义 = Insufficient production of steroid hormones (primarily cortisol) by the adrenal glands as a result of a primary defect in the glands themselves.
+| 中文译名 = 肾上腺功能不全
+| 中文定义 = 由于肾上腺腺体本身的缺陷，导致其产生的类固醇激素（主要是皮质醇）的不足。
+}}
+
+==[[HP:0000847]]==
+{{Infobox HPO
+| hpoId = HP:0000847
+| 名称 = Abnormality of renin-angiotensin system
+| 定义 = An abnormality of the "renin-angiotensin system" (FMA:74787).
+| 中文译名 = 肾素-血管紧张素系统异常
+| 中文定义 = 肾素-血管紧张素系统的异常
+}}
+
+==[[HP:0000848]]==
+{{Infobox HPO
+| hpoId = HP:0000848
+| 名称 = Increased circulating renin level
+| 定义 = An increased level of "renin" (PRO:000013883) in the "blood" (FMA:9670).
+| 中文译名 = 血肾素水平升高
+| 中文定义 = 血液循环中肾素水平升高。
+}}
+
+==[[HP:0000849]]==
+{{Infobox HPO
+| hpoId = HP:0000849
+| 名称 = Adrenocortical abnormality
+| 定义 = #####
+| 中文译名 = 肾上腺皮质异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000851]]==
+{{Infobox HPO
+| hpoId = HP:0000851
+| 名称 = Congenital hypothyroidism
+| 定义 = A type of "hypothyroidism" (HP:0000821) with "congenital onset" (HP:0003577).
+| 中文译名 = 先天性甲状腺功能减退症
+| 中文定义 = 一种先天性发病(HP:0003577)的甲状腺功能减退症(HP:0000821)。
+}}
+
+==[[HP:0000852]]==
+{{Infobox HPO
+| hpoId = HP:0000852
+| 名称 = Pseudohypoparathyroidism
+| 定义 = A condition characterized by resistance to the action of parathyroid hormone, in which there is hypocalcemia, hyperphosphatemia, and (appropriately) high levels of parathyroid hormone.
+| 中文译名 = 假性甲状旁腺功能减退症
+| 中文定义 = 此症特点是对甲状旁腺激素的作用失敏，低血钙，高血磷，和相对高浓度的甲状旁腺激素。
+}}
+
+
+==[[HP:0000853]]==
+{{Infobox HPO
+| hpoId = HP:0000853
+| 名称 = Goiter
+| 定义 = An enlargement of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺肿
+| 中文定义 = 甲状腺腺体的增大。
+}}
+
+==[[HP:0000854]]==
+{{Infobox HPO
+| hpoId = HP:0000854
+| 名称 = Thyroid adenoma
+| 定义 = The presence of a "adenoma" (MPATH:270) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺腺瘤
+| 中文定义 = 甲状腺出现腺瘤。
+}}
+
+==[[HP:0000857]]==
+{{Infobox HPO
+| hpoId = HP:0000857
+| 名称 = Neonatal insulin-dependent diabetes mellitus
+| 定义 = #####
+| 中文译名 = 新生儿胰岛素依赖型糖尿病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000858]]==
+{{Infobox HPO
+| hpoId = HP:0000858
+| 名称 = Menstrual irregularities
+| 定义 = #####
+| 中文译名 = 月经不调症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000859]]==
+{{Infobox HPO
+| hpoId = HP:0000859
+| 名称 = Hyperaldosteronism
+| 定义 = Overproduction of the mineralocorticoid aldosterone by the adrenal cortex.
+| 中文译名 = 醛固酮增多症
+| 中文定义 = 肾上腺皮质生产的盐皮质激素醛固酮过多。
+}}
+
+
+==[[HP:0000860]]==
+{{Infobox HPO
+| hpoId = HP:0000860
+| 名称 = Parathyroid hypoplasia
+| 定义 = Developmental hypoplasia of the `parathyroid gland` (FMA:13890).
+| 中文译名 = 甲状旁腺发育不全
+| 中文定义 = 甲状旁腺发育不全
+}}
+
+
+==[[HP:0000863]]==
+{{Infobox HPO
+| hpoId = HP:0000863
+| 名称 = Central diabetes insipidus
+| 定义 = A form of diabetes insipidus related to a failure of vasopressin (AVP) release from the hypothalamus.
+| 中文译名 = 中枢性尿崩症
+| 中文定义 = 由于下丘脑分泌血管加压素（AVP）缺陷引起的尿崩症。
+}}
+
+
+==[[HP:0000864]]==
+{{Infobox HPO
+| hpoId = HP:0000864
+| 名称 = Abnormality of the hypothalamus-pituitary axis
+| 定义 = Abnormality of the pituitary gland (also known as hypophysis), which is an endocrine gland that protrudes from the bottom of the hypothalamus at the base of the brain. The pituitary gland secretes the hormones ACTH, TSH, PRL, GH, endorphins, FSH, LH, oxytocin, and antidiuretic hormone. The secretion of hormones from the anterior pituitary is under the strict control of hypothalamic hormones, and the posterior pituitary is essentially an extension of the hypothalamus, so that  hypothalamus and pituitary gland may be regarded as a functional unit.
+| 中文译名 = 下丘脑-垂体轴异常
+| 中文定义 = 垂体（也称为脑下垂体），是在脑的底部从下丘脑的底端突出的一个内分泌腺。垂体分泌的激素有促肾上腺皮质激素、促甲状腺激素、催乳素、生长激素、内啡肽、卵泡刺激素、黄体生成素、催产素、抗利尿激素。垂体前叶的激素分泌受下丘脑激素的严格控制，而垂体后叶基本上是下丘脑的延伸，所以下丘脑和垂体可被认为是一个功能单元。
+}}
+
+==[[HP:0000866]]==
+{{Infobox HPO
+| hpoId = HP:0000866
+| 名称 = Euthyroid multinodular goiter
+| 定义 = #####
+| 中文译名 = 甲状腺功能正常结节性甲状腺肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000867]]==
+{{Infobox HPO
+| hpoId = HP:0000867
+| 名称 = Secondary hyperparathyroidism
+| 定义 = Secondary hyperparathyroidism refers to the production of higher than normal levels of parathyroid hormone in the presence of hypocalcemia.
+| 中文译名 = 继发性甲状旁腺功能亢进症
+| 中文定义 = 继发性甲状旁腺亢进症指在甲状旁腺激素过量产生的同时伴有低血钙症。
+}}
+
+==[[HP:0000869]]==
+{{Infobox HPO
+| hpoId = HP:0000869
+| 名称 = Secondary amenorrhea
+| 定义 = #####
+| 中文译名 = 继发性闭经
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000870]]==
+{{Infobox HPO
+| hpoId = HP:0000870
+| 名称 = Prolactin excess
+| 定义 = The presence of abnormally increased levels of prolactin in the blood. Prolactin is a peptide hormone produced by the anterior pituitary gland that plays a role in breast development and lactation during pregnancy.
+| 中文译名 = 催乳素过多
+| 中文定义 = 指血中催乳素水平异常升高。催乳素是一种由垂体前叶分泌的蛋白质激素，影响乳腺发育及怀孕期的泌乳。
+}}
+
+==[[HP:0000871]]==
+{{Infobox HPO
+| hpoId = HP:0000871
+| 名称 = Panhypopituitarism
+| 定义 = A pituitary functional deficit affecting all the anterior pituitary hormones (growth hormone, thyroid-stimulating hormone, follicle-stimulating hormone, luteinizing hormone, adrenocorticotropic hormone, and prolactin).
+| 中文译名 = 全垂体功能减退症
+| 中文定义 = 垂体功能缺损影响所有垂体前叶激素（生长激素、促甲状腺激素、卵泡刺激素、黄体生成素、促肾上腺皮质激素和催乳素）。
+}}
+
+==[[HP:0000872]]==
+{{Infobox HPO
+| hpoId = HP:0000872
+| 名称 = Hashimoto thyroiditis
+| 定义 = A chronic, autoimmune type of "thyroiditis" (HP:0100646) associated with "hypothyroidism" (HP:0000821).
+| 中文译名 = 桥本甲状腺炎
+| 中文定义 = 一种慢性的与甲状腺功能减退(HP:0000821)相关的自身免疫性甲状腺炎HP:0100646。
+}}
+
+==[[HP:0000873]]==
+{{Infobox HPO
+| hpoId = HP:0000873
+| 名称 = Diabetes insipidus
+| 定义 = A state of excessive water intake and hypotonic (dilute) polyuria. Diabetes insipidus may be due to failure of vasopressin (AVP) release (central or neurogenic diabetes insipidus) or to a failure of the kidney to respond to AVP (nephrogenic diabetes insipidus).
+| 中文译名 = 尿崩症
+| 中文定义 = 一种过量饮水伴多尿，低渗尿（稀释性）的状态。尿崩症可能是由于血管加压素（AVP）分泌缺陷（中枢或神经性尿崩症）或肾脏对AVP的反应缺陷（肾性尿崩症）。
+}}
+
+
+==[[HP:0000876]]==
+{{Infobox HPO
+| hpoId = HP:0000876
+| 名称 = Oligomenorrhea
+| 定义 = Infrequent periods (less than 6 per year).
+| 中文译名 = 月经稀发
+| 中文定义 = 月经期频率减少（每年少于6次）。
+}}
+
+==[[HP:0000877]]==
+{{Infobox HPO
+| hpoId = HP:0000877
+| 名称 = Insulin-resistant diabetes mellitus at puberty
+| 定义 = #####
+| 中文译名 = 青春期胰岛素抵抗性糖尿病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001578]]==
+{{Infobox HPO
+| hpoId = HP:0001578
+| 名称 = Hypercortisolism
+| 定义 = Overproduction of the hormone of "cortisol" (CHEBI:17650) by the adrenal cortex, resulting in a characteristic combination of clinical symptoms termed Cushing syndrome, with truncal obesity, a round, full face, striae atrophicae and acne, muscle weakness, and other features.
+| 中文译名 = 皮质醇增多症
+| 中文定义 = 由肾上腺皮质产生过多的皮质醇，导致一组特征性临床症状，被称为库欣综合征，表现为躯干肥胖，满月脸，皮肤紫纹和痤疮，肌肉乏力和其他特征。
+}}
+
+==[[HP:0001579]]==
+{{Infobox HPO
+| hpoId = HP:0001579
+| 名称 = Primary hypercorticolism
+| 定义 = Hypercortisolemia associated with a primary defect of the adrenal gland leading to overproduction of cortisol.
+| 中文译名 = 原发性皮质醇增多症
+| 中文定义 = 由于原发性的肾上腺缺陷而导致的皮质醇过度生产。
+}}
+
+
+==[[HP:0001580]]==
+{{Infobox HPO
+| hpoId = HP:0001580
+| 名称 = Pigmented micronodular adrenocortical disease
+| 定义 = #####
+| 中文译名 = 色素性小结节状肾上腺皮质疾病
+| 中文定义 = #####
+}}
+
+==[[HP:0001953]]==
+{{Infobox HPO
+| hpoId = HP:0001953
+| 名称 = Diabetic ketoacidosis
+| 定义 = A type of diabetic metabolic abnormality with an accumulation of ketone bodies.
+| 中文译名 = 糖尿病酮症酸中毒
+| 中文定义 = 一种伴有酮体累积的糖尿病代谢异常。
+}}
+
+
+==[[HP:0002666]]==
+{{Infobox HPO
+| hpoId = HP:0002666
+| 名称 = Pheochromocytoma
+| 定义 = Pheochromocytomas (also known as chromaffin tumors) produce, store, and secrete catecholamines. Pheochromocytomas usually originate from the adrenal medulla but may also develop from chromaffin cells in or about sympathetic ganglia. A common symptom of pheochromocytoma is hypertension owing to release of catecholamines.
+| 中文译名 = 嗜铬细胞瘤
+| 中文定义 = 嗜铬细胞瘤（也称为嗜铬肿瘤）生产、储存并分泌儿茶酚胺。嗜铬细胞瘤，通常从肾上腺髓质发起的，但也可以从在或约交感神经节铬细胞发展。嗜铬细胞瘤的常见症状是高血压，由于儿茶酚胺的释放。
+}}
+
+==[[HP:0002668]]==
+{{Infobox HPO
+| hpoId = HP:0002668
+| 名称 = Paraganglioma
+| 定义 = A carotid body tumor (also called paraganglionoma or chemodectoma) is a tumor found in the upper neck at the branching of the carotid artery. They arise from the chemoreceptor organ (paraganglion) located in the adventitia of the carotid artery bifurcation.
+| 中文译名 = 副神经节瘤
+| 中文定义 = 颈动脉体瘤（也称为神经节细胞瘤或化学感受器瘤）是一种位于上颈部颈动脉分叉处的肿瘤。它们自位于颈动脉分叉的外膜的化学感受器器官（副神经节）产生。
+}}
+
+==[[HP:0002717]]==
+{{Infobox HPO
+| hpoId = HP:0002717
+| 名称 = Adrenal overactivity
+| 定义 = #####
+| 中文译名 = 肾上腺过度活跃
+| 中文定义 = #####
+}}
+
+==[[HP:0002864]]==
+{{Infobox HPO
+| hpoId = HP:0002864
+| 名称 = Paraganglioma of head and neck
+| 定义 = #####
+| 中文译名 = 头部和颈部的副神经节瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002865]]==
+{{Infobox HPO
+| hpoId = HP:0002865
+| 名称 = Medullary thyroid carcinoma
+| 定义 = The presence of a "medullary carcinoma" (MPATH:291) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺髓样癌
+| 中文定义 = 甲状腺中存在髓样癌。
+}}
+
+==[[HP:0002886]]==
+{{Infobox HPO
+| hpoId = HP:0002886
+| 名称 = Vagal paraganglioma
+| 定义 = #####
+| 中文译名 = 迷走神经副神经节瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002890]]==
+{{Infobox HPO
+| hpoId = HP:0002890
+| 名称 = Thyroid carcinoma
+| 定义 = The presence of a "carcinoma" (MPATH:549) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺癌
+| 中文定义 = 甲状腺的癌症。
+}}
+
+==[[HP:0002893]]==
+{{Infobox HPO
+| hpoId = HP:0002893
+| 名称 = Pituitary adenoma
+| 定义 = A benign epithelial tumor derived from intrinsic cells of the adenohypophysis.
+| 中文译名 = 垂体腺瘤
+| 中文定义 = 源自腺垂体内细胞的良性上皮性肿瘤。
+}}
+
+
+==[[HP:0002895]]==
+{{Infobox HPO
+| hpoId = HP:0002895
+| 名称 = Papillary thyroid carcinoma
+| 定义 = The presence of a "papillary adenocarcinoma" (MPATH:295) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺乳头状癌
+| 中文定义 = 甲状腺内出现乳头状腺癌。
+}}
+
+==[[HP:0002897]]==
+{{Infobox HPO
+| hpoId = HP:0002897
+| 名称 = Parathyroid adenoma
+| 定义 = A benign tumor of the parathyroid gland that can cause hyperparathyroidism.
+| 中文译名 = 甲状旁腺腺瘤
+| 中文定义 = 甲状旁腺的良性肿瘤，可引起甲状旁腺功能亢进。
+}}
+
+
+==[[HP:0002920]]==
+{{Infobox HPO
+| hpoId = HP:0002920
+| 名称 = Decreased circulating ACTH level
+| 定义 = An "abnormal" (PATO:0000460) reduction in the "concentration" (PATO:0000033) of "corticotropin" (CHEBI:3892), also known as adrenocorticotropic hormone (ACTH), in the "blood" (FMA:9670).
+| 中文译名 = 血促肾上腺皮质激素水平降低
+| 中文定义 = 血液循环中促肾上腺皮质激素浓度的异常降低。
+}}
+
+==[[HP:0002924]]==
+{{Infobox HPO
+| hpoId = HP:0002924
+| 名称 = Decreased circulating aldosterone level
+| 定义 = A decreased level of "aldosterone" (CHEBI:27584) in the "blood" (FMA:9670).
+| 中文译名 = 血醛固酮水平降低
+| 中文定义 = 血液循环中醛固酮水平异常降低。
+}}
+
+==[[HP:0002925]]==
+{{Infobox HPO
+| hpoId = HP:0002925
+| 名称 = Thyroid-stimulating hormone excess
+| 定义 = Overproduction of thyroid-stimulating hormone  (TSH) by the anterior pituitary gland.
+| 中文译名 = 促甲状腺激素产生过多
+| 中文定义 = 垂体前叶产生过多促甲状腺激素（TSH）。
+}}
+
+
+==[[HP:0002926]]==
+{{Infobox HPO
+| hpoId = HP:0002926
+| 名称 = Abnormality of thyroid physiology
+| 定义 = An abnormal `functionality` (PATO:0001509) of the `thyroid gland` (FMA:9603).
+| 中文译名 = 甲状腺生理异常
+| 中文定义 = 甲状腺的功能异常
+}}
+
+
+==[[HP:0002929]]==
+{{Infobox HPO
+| hpoId = HP:0002929
+| 名称 = Leydig cell insensitivity to gonadotropin
+| 定义 = #####
+| 中文译名 = 睾丸间质细胞(莱氏细胞）对促性腺激素不敏感
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002930]]==
+{{Infobox HPO
+| hpoId = HP:0002930
+| 名称 = Thyroid hormone receptor defect
+| 定义 = Thyroid hormone resistance because of a defect in the thyroid hormone receptor.
+| 中文译名 = 甲状腺激素受体缺陷
+| 中文定义 = 由于甲状腺激素受体缺陷而引起的甲状腺激素抵抗。
+}}
+
+==[[HP:0003001]]==
+{{Infobox HPO
+| hpoId = HP:0003001
+| 名称 = Glomus jugular tumor
+| 定义 = #####
+| 中文译名 = 颈静脉球体瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0003117]]==
+{{Infobox HPO
+| hpoId = HP:0003117
+| 名称 = Abnormality of circulating hormone level
+| 定义 = An "abnormal" (PATO:0000460) "concentration" (PATO:0000033) of a "hormone" (CHEBI:24621) in the "blood" (FMA:9670).
+| 中文译名 = 血激素水平异常
+| 中文定义 = 血液循环中激素浓度异常。
+}}
+
+==[[HP:0003118]]==
+{{Infobox HPO
+| hpoId = HP:0003118
+| 名称 = Increased circulating cortisol level
+| 定义 = Abnormally increased concentration of `cortisol` (CHEBI:17650) in the blood.
+| 中文译名 = 血皮质醇水平增加
+| 中文定义 = 血液循环中​​皮质醇浓度异常增加
+}}
+
+
+==[[HP:0003144]]==
+{{Infobox HPO
+| hpoId = HP:0003144
+| 名称 = Increased serum serotonin
+| 定义 = A "increased concentration" (PATO:0001162) of "serotonin" (CHEBI:28790) in the "blood" (FMA:9670).
+| 中文译名 = 血清5-羟色胺（血清素）水平升高
+| 中文定义 = 血中5-羟色胺（血清素）浓度升高。
+}}
+
+==[[HP:0003152]]==
+{{Infobox HPO
+| hpoId = HP:0003152
+| 名称 = Increased serum 1,25-dihydroxyvitamin D3
+| 定义 = #####
+| 中文译名 = 血清1,25二羟基维生素D3升高
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003154]]==
+{{Infobox HPO
+| hpoId = HP:0003154
+| 名称 = Increased circulating ACTH level
+| 定义 = An "abnormal" (PATO:0000460) increased in the "concentration" (PATO:0000033) of "corticotropin" (CHEBI:3892), also known as adrenocorticotropic hormone (ACTH), in the "blood" (FMA:9670).
+| 中文译名 = 血促肾上腺皮质激素（ACTH）水平增加
+| 中文定义 = 血液循环​中​促肾上腺皮质激素（ACTH）浓度异常增加。
+}}
+
+==[[HP:0003162]]==
+{{Infobox HPO
+| hpoId = HP:0003162
+| 名称 = Fasting hypoglycemia
+| 定义 = #####
+| 中文译名 = 空腹低血糖
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003164]]==
+{{Infobox HPO
+| hpoId = HP:0003164
+| 名称 = Hypothalamic gonadotropin-releasing hormone (GNRH) deficiency
+| 定义 = #####
+| 中文译名 = 下丘脑促性腺激素释放激素（GnRH）缺乏
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003165]]==
+{{Infobox HPO
+| hpoId = HP:0003165
+| 名称 = Elevated circulating parathyroid hormone (PTH) level
+| 定义 = An abnormal increased concentration of parathyroid hormone.
+| 中文译名 = 血甲状旁腺激素（PTH）水平升高
+| 中文定义 = 血循环中甲状旁腺激素的浓度异常增加。
+}}
+
+
+==[[HP:0003292]]==
+{{Infobox HPO
+| hpoId = HP:0003292
+| 名称 = Decreased serum leptin
+| 定义 = A "decreased concentration" (PATO:0001163) of "leptin" (PRO:000009758) in the "blood" (FMA:9670).
+| 中文译名 = 血清瘦素水平降低
+| 中文定义 = 血清瘦素水平降低。
+}}
+
+==[[HP:0003295]]==
+{{Infobox HPO
+| hpoId = HP:0003295
+| 名称 = Impaired FSH and LH secretion
+| 定义 = #####
+| 中文译名 = FSH和LH分泌障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003334]]==
+{{Infobox HPO
+| hpoId = HP:0003334
+| 名称 = Elevated circulating catecholamine level
+| 定义 = An abnormal increase in "catecholamine" (CHEBI:33567) concentration in the blood.
+| 中文译名 = 血儿茶酚胺水平升高
+| 中文定义 = 儿茶酚胺在血液中的浓度异常升高。
+}}
+
+==[[HP:0003335]]==
+{{Infobox HPO
+| hpoId = HP:0003335
+| 名称 = Low gonadotropins (secondary hypogonadism)
+| 定义 = #####
+| 中文译名 = 低促性腺激素水平（继发性性腺功能低下）
+| 中文定义 = #####
+}}
+
+==[[HP:0003351]]==
+{{Infobox HPO
+| hpoId = HP:0003351
+| 名称 = Decreased circulating renin level
+| 定义 = An decreased level of renin (PRO:000013883) in the "blood" (FMA:9670).
+| 中文译名 = 血肾素水平降低
+| 中文定义 = 血液循环中肾素水平异常降低。
+}}
+
+==[[HP:0003357]]==
+{{Infobox HPO
+| hpoId = HP:0003357
+| 名称 = Thymic hormone decreased
+| 定义 = #####
+| 中文译名 = 胸腺激素减少
+| 中文定义 = #####
+}}
+
+==[[HP:0003466]]==
+{{Infobox HPO
+| hpoId = HP:0003466
+| 名称 = Paradoxical increased cortisol secretion on dexamethasone suppression test
+| 定义 = #####
+| 中文译名 = 地塞米松抑制试验皮质醇分泌反常增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003492]]==
+{{Infobox HPO
+| hpoId = HP:0003492
+| 名称 = High urinary gonadotropins (primary hypogonadism)
+| 定义 = #####
+| 中文译名 = 高尿促性腺激素（原发性性腺功能低下）
+| 中文定义 = #####
+}}
+
+==[[HP:0004319]]==
+{{Infobox HPO
+| hpoId = HP:0004319
+| 名称 = Hypoaldosteronism
+| 定义 = Abnormally reduced levels of `aldosterone` (CHEBI:27584).
+| 中文译名 = 醛固酮减少症
+| 中文定义 = 醛固酮水平异常减少。
+}}
+
+
+==[[HP:0004361]]==
+{{Infobox HPO
+| hpoId = HP:0004361
+| 名称 = Abnormality of circulating leptin level
+| 定义 = An "abnormal" (PATO:0000460) "concentration" (PATO:0000033) of "leptin" (PRO:000009758) in the "blood" (FMA:9670).
+| 中文译名 = 血瘦素水平异常
+| 中文定义 = 血液循环中瘦素浓度异常。
+}}
+
+==[[HP:0004510]]==
+{{Infobox HPO
+| hpoId = HP:0004510
+| 名称 = Pancreatic islet-cell hyperplasia
+| 定义 = Hyperplasia of the islets of Langerhans, i.e., of the regions of the pancreas that contain its endocrine cells.
+| 中文译名 = 胰岛细胞增生
+| 中文定义 = 朗格汉斯岛（胰岛），即胰腺含有内分泌细胞的区域的增生。
+}}
+
+==[[HP:0004904]]==
+{{Infobox HPO
+| hpoId = HP:0004904
+| 名称 = Maturity-onset diabetes of the young
+| 定义 = The term Maturity-onset diabetes of the young (MODY) was initially used for patients diagnosed with fasting hyperglycemia that could be treated without insulin for more than two years, where the initial diagnosis was made at a young age (under 25 years). Thus, MODY combines characteristics of type 1 diabetes (young age at diagnosis) and type 2 diabetes (less insulin dependence than type 1 diabetes). The term MODY is now most often used to refer to a group of monogenic diseases with these characteristics. Here, the term is used to describe hyperglycemia diagnosed at a young age with no or minor insulin dependency, no evidence of insulin resistence, and lack of evidence of autoimmune destruction of the beta cells.
+| 中文译名 = 青少年起病的成人型糖尿病
+| 中文定义 = 青少年起病的成人型糖尿病（MODY）最初是用于描述具有空腹高血糖，首次诊断年龄低于25岁，且起病两年以上仍不需要胰岛素治疗的病人。因此，MODY兼具1型糖尿病（年轻时诊断）和2型糖尿病（与1型糖尿病相比，对胰岛素的依赖程度较低）的特点。术语MODY现在经常用来指一组具有如下特点的单基因疾病，即在年轻时确诊的高血糖症，没有胰岛素依赖或有轻微胰岛素依赖，没有胰岛素抵抗，并且缺乏β细胞自身免疫损伤的证据。
+}}
+
+==[[HP:0005359]]==
+{{Infobox HPO
+| hpoId = HP:0005359
+| 名称 = aplasia of the thymus
+| 定义 = Absence of the "thymus" (FMA:9607).
+| 中文译名 = 胸腺发育不全
+| 中文定义 = 胸腺缺乏（FMA:9607）。
+}}
+
+==[[HP:0005978]]==
+{{Infobox HPO
+| hpoId = HP:0005978
+| 名称 = Type II diabetes mellitus
+| 定义 = A type of diabetes mellitus initially characterized by insulin resistance and hyperinsulinemia and subsequently by glucose interolerance and hyperglycemia.
+| 中文译名 = 2型糖尿病
+| 中文定义 = 2型糖尿病的特征是最开始胰岛素抵抗和高胰岛素血症，随后葡萄糖不耐受和高血糖症。
+}}
+
+
+==[[HP:0005987]]==
+{{Infobox HPO
+| hpoId = HP:0005987
+| 名称 = Multinodular goiter
+| 定义 = Enlargement of the thyroid gland related to multiple nodules in the thyroid gland.
+| 中文译名 = 多结节性甲状腺肿
+| 中文定义 = 甲状腺肿大伴有甲状腺多发结节。
+}}
+
+==[[HP:0005990]]==
+{{Infobox HPO
+| hpoId = HP:0005990
+| 名称 = Thyroid hypoplasia
+| 定义 = Developmental hypoplasia of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺发育不良
+| 中文定义 = 甲状腺发育不良。
+}}
+
+==[[HP:0005994]]==
+{{Infobox HPO
+| hpoId = HP:0005994
+| 名称 = Nodular goiter
+| 定义 = Enlargement of the thyroid gland related to one or more nodules in the thyroid gland.
+| 中文译名 = 结节性甲状腺肿
+| 中文定义 = 甲状腺中有一个或多个结节导致的甲状腺肿大。
+}}
+
+
+==[[HP:0006274]]==
+{{Infobox HPO
+| hpoId = HP:0006274
+| 名称 = Reduced pancreatic beta cells
+| 定义 = Reduced number of beta cells in the pancreatic islets of Langerhans.
+| 中文译名 = 胰腺β细胞减少
+| 中文定义 = 胰岛β细胞数目减少。
+}}
+
+
+==[[HP:0006279]]==
+{{Infobox HPO
+| hpoId = HP:0006279
+| 名称 = Beta-cell dysfunction
+| 定义 = #####
+| 中文译名 = β细胞功能障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006476]]==
+{{Infobox HPO
+| hpoId = HP:0006476
+| 名称 = Abnormality of the pancreatic islet cells
+| 定义 = An abnormality of the islet of Langerhans, i.e., of the regions of the pancreas that contain its endocrine cells. These are the alpha cells, which produce glucagon, the beta cells, which produce insulin and amylin, the delta cells, which produce somatostatin, the PP cells, which produce pancreatic polypeptide, and the epsilon cells, which produce ghrelin.
+| 中文译名 = 胰岛细胞异常
+| 中文定义 = 胰岛异常，即包含内分泌细胞的胰腺部分异常。这些细胞为产生胰高血糖素的α细胞、产生胰岛素和胰淀素的β细胞、产生生长抑素的δ细胞、产生胰多肽的PP细胞以及产生饥饿素的ε细胞。
+}}
+
+==[[HP:0006715]]==
+{{Infobox HPO
+| hpoId = HP:0006715
+| 名称 = Glomus tympanicum paraganglioma
+| 定义 = #####
+| 中文译名 = 鼓室副神经节瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0006722]]==
+{{Infobox HPO
+| hpoId = HP:0006722
+| 名称 = Small intestine carcinoid
+| 定义 = #####
+| 中文译名 = 小肠类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006723]]==
+{{Infobox HPO
+| hpoId = HP:0006723
+| 名称 = Intestinal carcinoid
+| 定义 = #####
+| 中文译名 = 肠道类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006731]]==
+{{Infobox HPO
+| hpoId = HP:0006731
+| 名称 = Follicular thyroid carcinoma
+| 定义 = The presence of an "follicular adenocarcinoma" (MPATH:278) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 滤泡性甲状腺癌
+| 中文定义 = 甲状腺内存在滤泡状腺癌。
+}}
+
+==[[HP:0006737]]==
+{{Infobox HPO
+| hpoId = HP:0006737
+| 名称 = Extraadrenal pheochromocytoma
+| 定义 = Pheochromocytoma not originating from the adrenal medulla but from another source such as from chromaffin cells in or about sympathetic ganglia.
+| 中文译名 = 肾上腺外嗜铬细胞瘤
+| 中文定义 = 不位于肾上腺髓质，而是来源于其他组织的嗜铬细胞瘤，如位于交感神经节内或周围。
+}}
+
+==[[HP:0006744]]==
+{{Infobox HPO
+| hpoId = HP:0006744
+| 名称 = Adrenocortical carcinoma
+| 定义 = A malignant neoplasm of the adrenal cortex that may produce hormones such as cortisol, aldosterone, estrogen, or testosterone.
+| 中文译名 = 肾上腺皮质癌
+| 中文定义 = 肾上腺皮质的恶性肿瘤, 可产生激素如皮质醇、醛固酮、雌激素、睾酮。
+}}
+
+==[[HP:0006748]]==
+{{Infobox HPO
+| hpoId = HP:0006748
+| 名称 = Adrenal pheochromocytoma
+| 定义 = Pheochromocytoma originating from the adrenal medulla.
+| 中文译名 = 肾上腺嗜铬细胞瘤
+| 中文定义 = 由肾上腺髓质起源的嗜铬细胞瘤。
+}}
+
+
+==[[HP:0006767]]==
+{{Infobox HPO
+| hpoId = HP:0006767
+| 名称 = Pituitary prolactin cell adenoma
+| 定义 = A type of pituitary adenoma originating in prolactin secreting cells. This kind of adenoma is characterized by overproduction of prolactin, and may cause loss of menstrual periods and breast milk production in women.
+| 中文译名 = 垂体催乳素细胞腺瘤
+| 中文定义 = 一种源自于催乳素分泌细胞的垂体腺瘤。这种腺瘤的特征是催乳素生产过剩，并可能导致女性月经周期消失和溢乳。
+}}
+
+==[[HP:0006780]]==
+{{Infobox HPO
+| hpoId = HP:0006780
+| 名称 = Parathyroid carcinoma
+| 定义 = A malignancy of the parathyroid glands. Parathyroid carcinoma usually secretes parathyroid hormone, leading to hyperparathyroidism.
+| 中文译名 = 甲状旁腺癌
+| 中文定义 = 甲状旁腺恶性肿瘤。通常分泌甲状旁腺激素，导致甲状旁腺功能亢进。
+}}
+
+
+==[[HP:0006781]]==
+{{Infobox HPO
+| hpoId = HP:0006781
+| 名称 = Hurthle cell thyroid adenoma
+| 定义 = A kind of `thyroid adenoma` (HP:0000854) characterized by the presence of `oxyphil cells` (CL:0002200).
+| 中文译名 = 甲状腺嗜酸细胞腺瘤
+| 中文定义 = 甲状腺腺瘤的一种，特征为存在嗜酸细胞。
+}}
+
+==[[HP:0008163]]==
+{{Infobox HPO
+| hpoId = HP:0008163
+| 名称 = Decreased circulating cortisol level
+| 定义 = Abnormally reduced concentration of "cortisol" (CHEBI:17650) in the blood.
+| 中文译名 = 血皮质醇水平降低
+| 中文定义 = 血液循环中皮质醇浓度异常降低。
+}}
+
+==[[HP:0008182]]==
+{{Infobox HPO
+| hpoId = HP:0008182
+| 名称 = Adrenocortical hypoplasia
+| 定义 = #####
+| 中文译名 = 肾上腺皮质发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008185]]==
+{{Infobox HPO
+| hpoId = HP:0008185
+| 名称 = Precocious puberty in males
+| 定义 = The onset of puberty before the age of 9 years in boys.
+| 中文译名 = 男性性早熟
+| 中文定义 = 男孩9岁之前开始青春期。
+}}
+
+
+==[[HP:0008186]]==
+{{Infobox HPO
+| hpoId = HP:0008186
+| 名称 = Adrenocortical cytomegaly
+| 定义 = The presence of large polyhedral cells with eosinophilic granular cytoplasm and enlarged nuclei in the adrenal cortex.
+| 中文译名 = 肾上腺皮质巨细胞症
+| 中文定义 = 在肾上腺皮质中存在具有嗜酸性颗粒细胞质和增大的细胞核的大的多面体细胞。
+}}
+
+
+==[[HP:0008187]]==
+{{Infobox HPO
+| hpoId = HP:0008187
+| 名称 = Absence of secondary sex characteristics
+| 定义 = No secondary sexual characteristics are present at puberty.
+| 中文译名 = 第二性征缺乏
+| 中文定义 = 在青春期无第二性征的出现。
+}}
+
+
+==[[HP:0008188]]==
+{{Infobox HPO
+| hpoId = HP:0008188
+| 名称 = Thyroid dysgenesis
+| 定义 = #####
+| 中文译名 = 甲状腺发育异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008191]]==
+{{Infobox HPO
+| hpoId = HP:0008191
+| 名称 = Thyroid agenesis
+| 定义 = The congenital absence of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺发育缺失
+| 中文定义 = 先天性甲状腺缺失。
+}}
+
+==[[HP:0008193]]==
+{{Infobox HPO
+| hpoId = HP:0008193
+| 名称 = Primary gonadal insufficiency
+| 定义 = #####
+| 中文译名 = 原发性性腺功能不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008194]]==
+{{Infobox HPO
+| hpoId = HP:0008194
+| 名称 = Multiple pancreatic beta-cell adenomas
+| 定义 = The presence of "multiple" (PATO:0002118) "pancreatic islet cell adenomas" (HP:0008261).
+| 中文译名 = 多发胰腺β细胞腺瘤
+| 中文定义 = 胰腺中存在多发的胰腺胰岛细胞腺瘤(HP:0008261)。
+}}
+
+==[[HP:0008197]]==
+{{Infobox HPO
+| hpoId = HP:0008197
+| 名称 = Absence of pubertal development
+| 定义 = #####
+| 中文译名 = 青春期发育缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008198]]==
+{{Infobox HPO
+| hpoId = HP:0008198
+| 名称 = Congenital hypoparathyroidism
+| 定义 = Deficiency of parathyroid hormone with congenital onset.
+| 中文译名 = 先天性甲状旁腺功能减退症
+| 中文定义 = 先天性发病的甲状旁腺激素缺乏。
+}}
+
+==[[HP:0008200]]==
+{{Infobox HPO
+| hpoId = HP:0008200
+| 名称 = Primary hyperparathyroidism
+| 定义 = A type of hyperparathyroidism caused by a primary abnormality of the parathyroid glands (e.g., adenoma, carcinoma, hyperplasia). Primary hyperparathyroidism is associated with hyercalcemia.
+| 中文译名 = 原发性甲状旁腺功能亢进症
+| 中文定义 = 一种由于原发性的甲状旁腺异常（例如，腺瘤，癌，增生）而导致的甲状旁腺功能亢进，通常伴随高血钙。
+}}
+
+
+==[[HP:0008202]]==
+{{Infobox HPO
+| hpoId = HP:0008202
+| 名称 = Prolactin deficiency
+| 定义 = A reduced ability to secrete prolactin, a protein hormone that is secreted by lactotrophs in the anterior pituitary and that stimulates mammary gland development and milk production.
+| 中文译名 = 催乳素缺乏
+| 中文定义 = 指分泌催乳素的能力低下。催乳素是垂体前叶催乳素细胞分泌的一种刺激乳腺发育和泌乳的蛋白质激素。
+}}
+
+==[[HP:0008204]]==
+{{Infobox HPO
+| hpoId = HP:0008204
+| 名称 = Precocious puberty with Sertoli cell tumor
+| 定义 = #####
+| 中文译名 = 性早熟伴支持细胞瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008205]]==
+{{Infobox HPO
+| hpoId = HP:0008205
+| 名称 = Insulin-dependent but ketosis-resistant diabetes
+| 定义 = Ketosis-resistant diabetes is a synonym for type II diabetes. This term thus refers to a form of type II diabetes in which patients are dependent on insulin.
+| 中文译名 = 胰岛素依赖但非酮症性糖尿病
+| 中文定义 = 非酮症性糖尿病是2型糖尿病的同义词。因此，该术语是指2型糖尿病的一种形式，其患者依赖胰岛素治疗​​。
+}}
+
+
+==[[HP:0008207]]==
+{{Infobox HPO
+| hpoId = HP:0008207
+| 名称 = Primary adrenal insufficiency
+| 定义 = Insufficient production of steroid hormones (primarily cortisol) by the adrenal glands as a result of a primary defect in the glands themselves.
+| 中文译名 = 原发性肾上腺功能不全
+| 中文定义 = 由于肾上腺自身的原发性缺陷而导致的类固醇激素产生不够（主要是皮质醇）。
+}}
+
+
+==[[HP:0008208]]==
+{{Infobox HPO
+| hpoId = HP:0008208
+| 名称 = Parathyroid hyperplasia
+| 定义 = "Hyperplasia" (MPATH:134) of the "parathyroid gland" (FMA:13890).
+| 中文译名 = 甲状旁腺增生
+| 中文定义 = 甲状旁腺增生。
+}}
+
+==[[HP:0008211]]==
+{{Infobox HPO
+| hpoId = HP:0008211
+| 名称 = Parathyroid agenesis
+| 定义 = "Aplasia" (MPATH:58) of the "parathyroid gland" (FMA:13890).
+| 中文译名 = 甲状旁腺发育缺失
+| 中文定义 = 甲状旁腺发育缺失。
+}}
+
+==[[HP:0008213]]==
+{{Infobox HPO
+| hpoId = HP:0008213
+| 名称 = Gonadotropin deficiency
+| 定义 = A reduced ability to secrete gonadotropins, which are re protein hormones secreted by gonadotrope cells of the anterior pituitary gland, including the hormones follitropin (FSH) and luteinizing hormone (LH).
+| 中文译名 = 促性腺激素缺乏症
+| 中文定义 = 分泌促性腺激素的能力降低，促性腺激素是由垂体前叶的促性腺激素细胞分泌的蛋白激素，包括卵泡刺激素（FSH）和黄体生成素（LH）。
+}}
+
+==[[HP:0008214]]==
+{{Infobox HPO
+| hpoId = HP:0008214
+| 名称 = Decreased serum estradiol
+| 定义 = #####
+| 中文译名 = 血清雌二醇水平降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008216]]==
+{{Infobox HPO
+| hpoId = HP:0008216
+| 名称 = Adrenal gland dysgenesis
+| 定义 = Abnormal development of the adrenal gland.
+| 中文译名 = 肾上腺发育不全
+| 中文定义 = 肾上腺发育不全。
+}}
+
+==[[HP:0008220]]==
+{{Infobox HPO
+| hpoId = HP:0008220
+| 名称 = Hypocortisolemia
+| 定义 = A reduced concentration of "cortisol" (CHEBI:17650) in the blood.
+| 中文译名 = 低皮质醇血症
+| 中文定义 = 血中皮质醇浓度异常减少。
+}}
+
+==[[HP:0008221]]==
+{{Infobox HPO
+| hpoId = HP:0008221
+| 名称 = Adrenal hyperplasia
+| 定义 = Enlargement of the adrenal gland.
+| 中文译名 = 肾上腺增生
+| 中文定义 = 肾上腺增大。
+}}
+
+==[[HP:0008223]]==
+{{Infobox HPO
+| hpoId = HP:0008223
+| 名称 = Compensated hypothyroidism
+| 定义 = #####
+| 中文译名 = 代偿性甲状腺功能减退症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008225]]==
+{{Infobox HPO
+| hpoId = HP:0008225
+| 名称 = Thyroid follicular hyperplasia
+| 定义 = #####
+| 中文译名 = 甲状腺滤泡增生
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008226]]==
+{{Infobox HPO
+| hpoId = HP:0008226
+| 名称 = Androgen insufficiency
+| 定义 = Insufficient amount of androgenic activity.
+| 中文译名 = 雄激素不足
+| 中文定义 = 雄激素活性不足。
+}}
+
+==[[HP:0008227]]==
+{{Infobox HPO
+| hpoId = HP:0008227
+| 名称 = Pituitary resistance to thyroid hormone
+| 定义 = A condition in which the pituitary gland is partially resistant to thyroid hormone, so that it continues to secrete thyroid-stimulating hormone (TSH) until the blood level of thyroid hormone rises higher than normal.
+| 中文译名 = 垂体甲状腺激素不敏感
+| 中文定义 = 指垂体对甲状腺激素部分性不敏感，因此持续分泌促甲状腺激素（TSH），直到甲状腺激素的血浓度高于正常。
+}}
+
+==[[HP:0008229]]==
+{{Infobox HPO
+| hpoId = HP:0008229
+| 名称 = Thyroid lymphangiectasia
+| 定义 = The presence of "lymphangiectasis" (MPATH:98) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺淋巴管扩张症
+| 中文定义 = 甲状腺存在淋巴管扩张。
+}}
+
+==[[HP:0008230]]==
+{{Infobox HPO
+| hpoId = HP:0008230
+| 名称 = Decreased testosterone in males
+| 定义 = #####
+| 中文译名 = 男性睾酮水平降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008231]]==
+{{Infobox HPO
+| hpoId = HP:0008231
+| 名称 = Macronodular adrenal hyperplasia
+| 定义 = #####
+| 中文译名 = 大结节性肾上腺皮质增生症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008232]]==
+{{Infobox HPO
+| hpoId = HP:0008232
+| 名称 = Elevated follicle stimulating hormone
+| 定义 = An elevated concentration of follicle-stimulating hormone in the blood.
+| 中文译名 = 卵泡刺激素水平升高
+| 中文定义 = 血液中卵泡刺激素浓度升高。
+}}
+
+
+==[[HP:0008233]]==
+{{Infobox HPO
+| hpoId = HP:0008233
+| 名称 = Decreased serum progesterone
+| 定义 = #####
+| 中文译名 = 血清孕酮水平降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008236]]==
+{{Infobox HPO
+| hpoId = HP:0008236
+| 名称 = Isosexual precocious puberty
+| 定义 = #####
+| 中文译名 = 同性性早熟
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008237]]==
+{{Infobox HPO
+| hpoId = HP:0008237
+| 名称 = Hypothalamic hypothyroidism
+| 定义 = A type of "hypothyroidism" (HP:0000821) that results from a defect in "thyrotropin-releasing hormone activity" (GO:0008437).
+| 中文译名 = 下丘脑性甲状腺功能减退症
+| 中文定义 = 促甲状腺激素释放激素（GO:0008437）缺乏导致甲状腺机能减退（HP:0000821）。
+}}
+
+==[[HP:0008239]]==
+{{Infobox HPO
+| hpoId = HP:0008239
+| 名称 = Adrenal medullary hypoplasia
+| 定义 = Developmental hypoplasia of the "adrenal medulla" (FMA:15633).
+| 中文译名 = 肾上腺髓质发育不全
+| 中文定义 = 肾上腺髓质发育不全。
+}}
+
+==[[HP:0008240]]==
+{{Infobox HPO
+| hpoId = HP:0008240
+| 名称 = Secondary growth hormone deficiency
+| 定义 = #####
+| 中文译名 = 继发性生长激素缺乏症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008242]]==
+{{Infobox HPO
+| hpoId = HP:0008242
+| 名称 = Pseudohypoaldosteronism
+| 定义 = A state of renal tubular unresponsiveness or resistance to the action of aldosterone.
+| 中文译名 = 假性醛固酮减少症
+| 中文定义 = 此症表现为肾小管对醛固酮的作用无反应或失敏。
+}}
+
+==[[HP:0008244]]==
+{{Infobox HPO
+| hpoId = HP:0008244
+| 名称 = Congenital adrenal hypoplasia
+| 定义 = A type of "adrenal hypoplasia" (HP:0000835) with "congenital onset" (HP:0003577).
+| 中文译名 = 先天性肾上腺发育不全
+| 中文定义 = 一种先天性发病的肾上腺发育不全。
+}}
+
+==[[HP:0008245]]==
+{{Infobox HPO
+| hpoId = HP:0008245
+| 名称 = Pituitary hypothyroidism
+| 定义 = A type of "hypothyroidism" (HP:0000821) that results from a defect in "thyroid-stimulating hormone secretion" (GO:0070460).
+| 中文译名 = 垂体性甲状腺功能减退症
+| 中文定义 = 一种因为“促甲状腺激素分泌”缺陷而导致的甲状腺功能低下（HP:0000821）。
+}}
+
+==[[HP:0008247]]==
+{{Infobox HPO
+| hpoId = HP:0008247
+| 名称 = Euthyroid hyperthyroxinemia
+| 定义 = An "abnormality of thyroid physiology" (HP:0002926) characterized by increased levels of "thyroxine" (CHEBI:30660) without evidence of clinical thyroid disease.
+| 中文译名 = 甲状腺功能正常的高甲状腺素血症
+| 中文定义 = 甲状腺生理异常的一种，特征为甲状腺素水平升高，而无临床甲状腺疾病的表现。
+}}
+
+==[[HP:0008249]]==
+{{Infobox HPO
+| hpoId = HP:0008249
+| 名称 = Thyroid hyperplasia
+| 定义 = "Hyperplasia" (MPATH:134) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺增生
+| 中文定义 = 甲状腺的增生。
+}}
+
+==[[HP:0008251]]==
+{{Infobox HPO
+| hpoId = HP:0008251
+| 名称 = Congenital goiter
+| 定义 = An enlargement of the "thyroid gland" (FMA:9603) with "congenital onset" (HP:0003577).
+| 中文译名 = 先天性甲状腺肿
+| 中文定义 = 一种先天性发病的甲状腺肿大。
+}}
+
+==[[HP:0008255]]==
+{{Infobox HPO
+| hpoId = HP:0008255
+| 名称 = Transient neonatal diabetes mellitus
+| 定义 = #####
+| 中文译名 = 新生儿暂时性糖尿病
+| 中文定义 = #####
+}}
+
+==[[HP:0008256]]==
+{{Infobox HPO
+| hpoId = HP:0008256
+| 名称 = Adrenocortical adenoma
+| 定义 = Adrenocortical adenomas are benign tumors of the adrenal cortex.
+| 中文译名 = 肾上腺皮质腺瘤
+| 中文定义 = 肾上腺皮质腺瘤是肾上腺皮质的良性肿瘤。
+}}
+
+
+==[[HP:0008258]]==
+{{Infobox HPO
+| hpoId = HP:0008258
+| 名称 = Congenital adrenal hyperplasia
+| 定义 = A type of "adrenal hyperplasia" (HP:0008221) with "congenital onset" (HP:0003577).
+| 中文译名 = 先天性肾上腺增生症
+| 中文定义 = 一种先天性发病的肾上腺增生(HP:0008221)。
+}}
+
+==[[HP:0008259]]==
+{{Infobox HPO
+| hpoId = HP:0008259
+| 名称 = Adrenocorticotropin (ACTH) receptor (ACTHR) defect
+| 定义 = Adrenal insufficiency secondary to a defect in the ACTH receptor.
+| 中文译名 = 促肾上腺皮质激素（ACTH）受体（ACTHR）缺陷
+| 中文定义 = 促肾上腺皮质激素受体缺陷导致的肾上腺功能不全。
+}}
+
+==[[HP:0008261]]==
+{{Infobox HPO
+| hpoId = HP:0008261
+| 名称 = Pancreatic islet cell adenoma
+| 定义 = The presence of an "adenoma" (MPATH:270) of the "pancreas" (FMA:7198) with origin in a "pancreatic B cell" (CL:0000169).
+| 中文译名 = 胰腺胰岛细胞腺瘤
+| 中文定义 = 胰腺内的一种腺瘤，来源于胰岛β细胞。
+}}
+
+==[[HP:0008263]]==
+{{Infobox HPO
+| hpoId = HP:0008263
+| 名称 = Thyroid defect in oxidation and organification of iodide
+| 定义 = #####
+| 中文译名 = 甲状腺碘氧化和有机化缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008283]]==
+{{Infobox HPO
+| hpoId = HP:0008283
+| 名称 = Fasting hyperinsulinemia
+| 定义 = An "increased concentration" (PATO:0001162) of "insulin" (PRO:000009054) in the "blood" (FMA:9670) in the fasting state, i.e., not as the response to food intake.
+| 中文译名 = 空腹高胰岛素血症
+| 中文定义 = 空腹状态下胰岛素水平升高，即不是由于机体进食后的反应升高。
+}}
+
+==[[HP:0008291]]==
+{{Infobox HPO
+| hpoId = HP:0008291
+| 名称 = Pituitary corticotropic cell adenoma
+| 定义 = A type of pituitary adenoma that produces adrenocorticotropic hormone (ACTH).
+| 中文译名 = 垂体促肾上腺皮质激素腺瘤
+| 中文定义 = 一种生成促肾上腺皮质激素（ACTH）的垂体腺瘤。
+}}
+
+
+==[[HP:0008373]]==
+{{Infobox HPO
+| hpoId = HP:0008373
+| 名称 = Puberty and gonadal disorders
+| 定义 = #####
+| 中文译名 = 青春期及性腺疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008647]]==
+{{Infobox HPO
+| hpoId = HP:0008647
+| 名称 = Pubertal developmental failure in females
+| 定义 = #####
+| 中文译名 = 女性青春期性发育障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009798]]==
+{{Infobox HPO
+| hpoId = HP:0009798
+| 名称 = Euthyroid goiter
+| 定义 = A "goiter" (HP:0000853) that is not associated with functional thyroid abnormalities.
+| 中文译名 = 甲状腺功能正常的甲状腺肿
+| 中文定义 = 不伴甲状腺功能异常的甲状腺肿大(HP:0000853)。
+}}
+
+==[[HP:0009800]]==
+{{Infobox HPO
+| hpoId = HP:0009800
+| 名称 = Maternal diabetes
+| 定义 = Maternal diabetes can either be a gestational, mostly type 2 diabetes, or a type 1 diabetes. Essential is the resulting maternal hyperglycemia as a non-specific teratogen, imposing the same risk of congenital malformations to pregnant women with both type 1 and type2 diabetes.
+| 中文译名 = 母体糖尿病
+| 中文定义 = 母体糖尿病是妊娠期的1型或2型糖尿病，2型最常见。本质是母体高血糖症是一种非特异性的致畸因素，对于孕妇来说不管是1型还是2型糖尿病都产生同样的先天性畸形的风险。
+}}
+
+
+==[[HP:0009806]]==
+{{Infobox HPO
+| hpoId = HP:0009806
+| 名称 = Nephrogenic diabetes insipidus
+| 定义 = A form of diabetes insipidus caused by failure of the kidneys to respond to vasopressin (AVP).
+| 中文译名 = 肾性尿崩症
+| 中文定义 = 尿崩症的一种形式，由于肾脏无法对血管加压素（AVP）作出回应导致。
+}}
+
+
+==[[HP:0010314]]==
+{{Infobox HPO
+| hpoId = HP:0010314
+| 名称 = Premature thelarche
+| 定义 = Premature development of the breasts.
+| 中文译名 = 乳房早熟
+| 中文定义 = 乳房过早发育。
+}}
+
+
+==[[HP:0010465]]==
+{{Infobox HPO
+| hpoId = HP:0010465
+| 名称 = Precocious puberty in females
+| 定义 = The onset of puberty before the age of 8 years in girls.
+| 中文译名 = 女性性早熟
+| 中文定义 = 女孩8岁之前开始青春期发育。
+}}
+
+
+==[[HP:0010512]]==
+{{Infobox HPO
+| hpoId = HP:0010512
+| 名称 = Adrenal calcification
+| 定义 = Calcification within the "adrenal glands" (FMA:9604).
+| 中文译名 = 肾上腺钙化
+| 中文定义 = 肾上腺内的钙化。
+}}
+
+==[[HP:0010513]]==
+{{Infobox HPO
+| hpoId = HP:0010513
+| 名称 = Pituitary calcification
+| 定义 = Deposition of calcium salts in the pituitary gland.
+| 中文译名 = 垂体钙化
+| 中文定义 = 脑垂体的钙盐沉积。
+}}
+
+
+==[[HP:0010514]]==
+{{Infobox HPO
+| hpoId = HP:0010514
+| 名称 = Hyperpituitarism
+| 定义 = Hypersecretion of one or more pituitary hormones. This can occur in conditions in which deficiency in the target organ leads to decreased hormonal feedback, or as a primary condition most usually in connection with a pituitary adenoma.
+| 中文译名 = 垂体功能亢进症
+| 中文定义 = 一种或多种垂体激素分泌过多。这可能由于靶器官缺陷导致激素反馈减少，或者是由垂体腺瘤引起的垂体原发性病症。
+}}
+
+
+==[[HP:0010515]]==
+{{Infobox HPO
+| hpoId = HP:0010515
+| 名称 = Aplasia/hypoplasia of the thymus
+| 定义 = Absence or underdevelopment of the "thymus" (FMA:9607).
+| 中文译名 = 胸腺发育缺陷/不全
+| 中文定义 = 胸腺不发育、发育缺陷或不全（FMA:9607）。
+}}
+
+==[[HP:0010516]]==
+{{Infobox HPO
+| hpoId = HP:0010516
+| 名称 = Thymus hyperplasia
+| 定义 = Enlargement of the "thymus" (FMA:9607).
+| 中文译名 = 胸腺增生
+| 中文定义 = 胸腺的增生肿大（FMA:9607）。
+}}
+
+==[[HP:0010517]]==
+{{Infobox HPO
+| hpoId = HP:0010517
+| 名称 = Ectopic thymus tissue
+| 定义 = The presence of ectopic "thymus" (FMA:9607) tissue. Normally, cells of the ventral bud of the third pharyngeal pouch detach and migrate in the eighth gestational week caudally and medially towards the location of the mature thyroid. They migrate further retrosternally into the superior mediastinum. There are two main ways ectopic thymus tissue can develop. Either cells detach along the descensus path and proliferate, thereby forming accessory thymus tissue, or the entire gland fails to descend.
+| 中文译名 = 异位胸腺组织
+| 中文定义 = 异位胸腺组织（FMA:9607）。正常情况下，在第八孕周末第三咽囊的腹侧胚芽细胞分离并朝向成熟甲状腺位置向尾部、中部迁移。他们进一步从胸骨后迁移到上纵隔。主要有两种途径形成异位胸腺组织。细胞沿下行路径分离和增殖，从而形成副胸腺组织，或整个腺体无法下降。
+}}
+
+==[[HP:0010518]]==
+{{Infobox HPO
+| hpoId = HP:0010518
+| 名称 = Thyroglossal cyst
+| 定义 = An "abnormality of the thyroid gland" (HP:0000820) owing to the presence of a fibrous "cyst" (MPATH:62) resulting from the persistence of the "thyroglossal duct" (FMA:77274).
+| 中文译名 = 甲状舌管囊肿
+| 中文定义 = 一种甲状腺（HP:0000820）的异常，是由于甲状舌管不闭合所导致的囊肿引起的。
+}}
+
+==[[HP:0010625]]==
+{{Infobox HPO
+| hpoId = HP:0010625
+| 名称 = Anterior pituitary dysgenesis
+| 定义 = Absence or underdevelopment of the anterior pituitary gland, also known as the "adenohypophysis" (FMA:74627).
+| 中文译名 = 垂体前叶发育异常
+| 中文定义 = 垂体前叶，又称腺垂体的发育缺失或发育不全。
+}}
+
+==[[HP:0010626]]==
+{{Infobox HPO
+| hpoId = HP:0010626
+| 名称 = Anterior pituitary agenesis
+| 定义 = Absence of the pituitary gland resulting from a developmental defect.
+| 中文译名 = 垂体前叶发育缺失
+| 中文定义 = 发育缺陷造成脑垂体缺失。
+}}
+
+==[[HP:0010627]]==
+{{Infobox HPO
+| hpoId = HP:0010627
+| 名称 = Anterior pituitary hypoplasia
+| 定义 = Underdevelopment of the anterior pituitary gland.
+| 中文译名 = 垂体前叶发育不全
+| 中文定义 = 垂体前叶发育不全。
+}}
+
+==[[HP:0011043]]==
+{{Infobox HPO
+| hpoId = HP:0011043
+| 名称 = Abnormality of circulating adrenocorticotropin level
+| 定义 = An "abnormal" (PATO:0000460) "concentration" (PATO:0000033) of "corticotropin" (CHEBI:3892) in the "blood" (FMA:9670).
+| 中文译名 = 血促肾上腺皮质激素水平异常
+| 中文定义 = 血液中促肾上腺皮质激素的浓度异常。
+}}
+
+==[[HP:0011731]]==
+{{Infobox HPO
+| hpoId = HP:0011731
+| 名称 = Abnormality of circulating cortisol level
+| 定义 = An abnormality of the concentration of "cortisol" (CHEBI:17650) in the blood.
+| 中文译名 = 血皮质醇水平异常
+| 中文定义 = 血液循环中皮质醇浓度异常。
+}}
+
+==[[HP:0011732]]==
+{{Infobox HPO
+| hpoId = HP:0011732
+| 名称 = Abnormality of adrenal morphology
+| 定义 = Any structural anomaly of the "adrenal glands" (FMA:9604).
+| 中文译名 = 肾上腺形态异常
+| 中文定义 = 肾上腺的任何结构异常。
+}}
+
+==[[HP:0011733]]==
+{{Infobox HPO
+| hpoId = HP:0011733
+| 名称 = Abnormality of adrenal physiology
+| 定义 = A functional abnormality of the "adrenal glands" (FMA:9604).
+| 中文译名 = 肾上腺生理异常
+| 中文定义 = 肾上腺的功能异常（FMA:9604）。
+}}
+
+==[[HP:0011734]]==
+{{Infobox HPO
+| hpoId = HP:0011734
+| 名称 = Central adrenal insufficiency
+| 定义 = A form of adrenal insufficiency related to a lack of ACTH, which leads to a decrease in the production of cortisol by the adrenal glands. Aldosterone production is not usually affected.
+| 中文译名 = 中枢性肾上腺功能不全
+| 中文定义 = 由于促肾上腺皮质激素缺乏, 导致皮质醇产生减少引起的肾上腺功能不全。醛固酮的产生通常不受影响。
+}}
+
+
+==[[HP:0011735]]==
+{{Infobox HPO
+| hpoId = HP:0011735
+| 名称 = Adrenocorticotropin (ACTH) deficient adrenal insufficiency
+| 定义 = Adrenal insufficiency secondary to a defect in ACTH production.
+| 中文译名 = 促肾上腺皮质激素（ACTH）缺乏性肾上腺功能不全
+| 中文定义 = 促肾上腺皮质激素的生产缺陷导致的肾上腺功能不全。
+}}
+
+
+==[[HP:0011736]]==
+{{Infobox HPO
+| hpoId = HP:0011736
+| 名称 = Primary hyperaldosteronism
+| 定义 = A form of hyperaldosteronism caused by a defect within the adrenal gland.
+| 中文译名 = 原发性醛固酮增多症
+| 中文定义 = 由于肾上腺缺陷而引起的醛固酮过多症。
+}}
+
+
+==[[HP:0011737]]==
+{{Infobox HPO
+| hpoId = HP:0011737
+| 名称 = Corticotropin-releasing hormone (CRH) deficient adrenal insufficiency
+| 定义 = Adrenal insufficiency secondary to a defect in corticotropin-releasing hormone production.
+| 中文译名 = 促肾上腺皮质激素释放激素（CRH）缺陷引起的肾上腺功能不全
+| 中文定义 = 促肾上腺皮质激素释放激素产生缺陷引起的继发性肾上腺功能不全。
+}}
+
+
+==[[HP:0011738]]==
+{{Infobox HPO
+| hpoId = HP:0011738
+| 名称 = Corticotropin-releasing hormone receptor (CRHR) defect
+| 定义 = Adrenal insufficiency secondary to a defect in the corticotropin-releasing hormone receptor.
+| 中文译名 = 促肾上腺皮质激素释放激素受体（CRHR）缺陷
+| 中文定义 = 促肾上腺皮质激素释放激素受体缺陷引起的继发性肾上腺功能不全。
+}}
+
+
+==[[HP:0011739]]==
+{{Infobox HPO
+| hpoId = HP:0011739
+| 名称 = Dexamethasone-suppresible primary hyperaldosteronism
+| 定义 = A form of primary hyperaldosteronism in which the overproduction of aldosterone can be suppressed by the administration of dexamethasone.
+| 中文译名 = 地塞米松可抑制性原发性醛固酮增多症
+| 中文定义 = 原发性醛固酮增多症的一种形式，该病通过使用地塞米松来可以抑制过多的醛固酮产生。
+}}
+
+==[[HP:0011740]]==
+{{Infobox HPO
+| hpoId = HP:0011740
+| 名称 = Glucocorticoid-insensitive primary hyperaldosteronism
+| 定义 = A form of primary hyperaldosteronism in which the overproduction of aldosterone cannot be suppressed by the administration of dexamethasone or similar glucocorticoids.
+| 中文译名 = 糖皮质激素不敏感的原发性醛固酮增多症
+| 中文定义 = 原发性醛固酮增多症的一种形式，其醛固酮的过量产生无法用地塞米松或类似的糖皮质激素抑制。
+}}
+
+
+==[[HP:0011741]]==
+{{Infobox HPO
+| hpoId = HP:0011741
+| 名称 = Secondary hyperaldosteronism
+| 定义 = A form of hyperaldosteronism caused by abnormally increased renin levels.
+| 中文译名 = 继发性醛固酮增多症
+| 中文定义 = 一种由于肾素异常增加而导致的醛固酮增多症。
+}}
+
+
+==[[HP:0011742]]==
+{{Infobox HPO
+| hpoId = HP:0011742
+| 名称 = Ectopic adrenal gland
+| 定义 = Abnormal anatomical location of the adrenal gland.
+| 中文译名 = 异位肾上腺
+| 中文定义 = 肾上腺的解剖位置异常。
+}}
+
+
+==[[HP:0011743]]==
+{{Infobox HPO
+| hpoId = HP:0011743
+| 名称 = Adrenal gland agenesis
+| 定义 = Absent development of the adrenal gland.
+| 中文译名 = 肾上腺发育缺失
+| 中文定义 = 肾上腺未发育。
+}}
+
+==[[HP:0011744]]==
+{{Infobox HPO
+| hpoId = HP:0011744
+| 名称 = Secondary hypercorticolism
+| 定义 = Hypercortisolemia associated with a overproduction of ACTH (often from a tumor), leading secondarily to overproduction of cortisol.
+| 中文译名 = 继发性皮质醇增多症
+| 中文定义 = 由于促肾上腺皮质激素过量产生（往往来自肿瘤）而导致的继发性皮质醇的过度生产。
+}}
+
+==[[HP:0011745]]==
+{{Infobox HPO
+| hpoId = HP:0011745
+| 名称 = Non-secretory adrenocortical adenoma
+| 定义 = An hormonally inactive adrenocortical adenoma, that is, an adenoma that does not secrete excessive amounts of adrenal hormones.
+| 中文译名 = 非分泌性肾上腺皮质腺瘤
+| 中文定义 = 一个激素不活跃的肾上腺皮质腺瘤，也就是说，不过量分泌肾上腺激素的腺瘤。
+}}
+
+
+==[[HP:0011746]]==
+{{Infobox HPO
+| hpoId = HP:0011746
+| 名称 = Secretory adrenocortical adenoma
+| 定义 = An hormonally active adrenocortical adenoma, that is, an adenoma that secretes excessive amounts of adrenal hormones.
+| 中文译名 = 分泌性肾上腺皮质腺瘤
+| 中文定义 = 一种仍具激素分泌活性的肾上腺皮质腺瘤，这种腺瘤分泌过量的肾上腺皮质激素。
+}}
+
+==[[HP:0011747]]==
+{{Infobox HPO
+| hpoId = HP:0011747
+| 名称 = Abnormality of the anterior pituitary
+| 定义 = An abnormality of the "adenohypophysis" (FMA:74627), which is also known as the anterior lobe of the pituitary gland.
+| 中文译名 = 垂体前叶异常
+| 中文定义 = 腺垂体,又被称为垂体前叶的异常。
+}}
+
+==[[HP:0011748]]==
+{{Infobox HPO
+| hpoId = HP:0011748
+| 名称 = Adrenocorticotropic hormone deficiency
+| 定义 = A reduced ability to secrete adrenocorticotropic hormone (ACTH), a hormone that stimulates the adrenal cortex to secrete of glucocorticoids such as cortisol.
+| 中文译名 = 促肾上腺皮质激素不足
+| 中文定义 = 分泌促肾上腺皮质激素(ACTH)的能力下降，ACTH是刺激肾上腺皮质分泌糖皮质激素（如皮质醇）的一种激素。
+}}
+
+==[[HP:0011749]]==
+{{Infobox HPO
+| hpoId = HP:0011749
+| 名称 = Adrenocorticotropic hormone excess
+| 定义 = Overproduction of adrenocorticotropic hormone (ACTH), which generally leads secondarily to overproduction of cortisol by the adrenal cortex.
+| 中文译名 = 促肾上腺皮质激素过多
+| 中文定义 = 促肾上腺皮质激素（ACTH）产生过多，通常导致继发的肾上腺皮质皮质醇产生过多。
+}}
+
+==[[HP:0011750]]==
+{{Infobox HPO
+| hpoId = HP:0011750
+| 名称 = Neoplasm of the anterior pituitary
+| 定义 = The presence of a "neoplasm" (MPATH:218) (tumour) in the "adenohypophysis" (FMA:74627), which is also known as the anterior lobe of the pituitary gland.
+| 中文译名 = 垂体前叶肿瘤
+| 中文定义 = 腺垂体的肿瘤，也被称为脑垂体前叶的肿瘤。
+}}
+
+==[[HP:0011751]]==
+{{Infobox HPO
+| hpoId = HP:0011751
+| 名称 = Abnormality of the posterior pituitary
+| 定义 = An abnormality of the "neurohypophysis" (FMA:74628), which is also known as the posterior lobe of the hypophysis.
+| 中文译名 = 垂体后叶异常
+| 中文定义 = 神经垂体的异常，神经垂体又被称为垂体后叶。
+}}
+
+==[[HP:0011752]]==
+{{Infobox HPO
+| hpoId = HP:0011752
+| 名称 = Neoplasm of the posterior pituitary
+| 定义 = The presence of a "neoplasm" (MPATH:218) (tumour) in the "neurohypophysis" (FMA:74628), which is also known as the posterior lobe of the hypophysis.
+| 中文译名 = 垂体后叶肿瘤
+| 中文定义 = 神经垂体，也被称为垂体后叶的肿瘤。
+}}
+
+==[[HP:0011753]]==
+{{Infobox HPO
+| hpoId = HP:0011753
+| 名称 = Posterior pituitary dysgenesis
+| 定义 = Abnormal development of the "neurohypophysis" (FMA:74628) during embryonic growth and development.
+| 中文译名 = 垂体后叶发育异常
+| 中文定义 = 胚胎期时垂体后叶的异常发育。
+}}
+
+==[[HP:0011754]]==
+{{Infobox HPO
+| hpoId = HP:0011754
+| 名称 = Pituicytoma
+| 定义 = A solid, low grade, spindle cell, glial neoplasm of adults that originates in the neurohypophysis or infundibulum. Clinical signs and symptoms include visual disturbance, headache and features of hypopituitarism. Pituicytomas are well-circumscribed, solid masses that can measure up to several centimeters. Histologically, they show a compact architecture consisting of elongate, bipolar spindle cells arranged in interlacing fascicles or assuming a storiform pattern.
+| 中文译名 = 垂体细胞瘤
+| 中文定义 = 成人的一种实体性的，低分级的，梭形细胞神经胶质肿瘤，起源于神经垂体或垂体漏斗部。临床症状包括视力障碍，头痛和垂体功能低下的特点。 垂体细胞瘤是边界清楚的实体性肿块，直径可达数厘米。组织学上表现为拉长的双极梭形细胞以交错束状或席纹状图案排列的紧凑结构。
+}}
+
+
+==[[HP:0011755]]==
+{{Infobox HPO
+| hpoId = HP:0011755
+| 名称 = Ectopic posterior pituitary
+| 定义 = An abnormal anatomical location of the posterior lobe of the hypophysis, also known as the "neurohypophysis" (FMA:74628). The posterior pituitary is normally present in the dorsal portion of the sella turcica, but when ectopic is usually near the median eminence. This defect is likely to be due to abnormal migration during embryogenesis.
+| 中文译名 = 异位垂体后叶
+| 中文定义 = 垂体后叶，即神经垂体的解剖位置异常。垂体后叶通常位于蝶鞍背部，但是发生异位时通常接近正中隆起。这种缺陷可能是由于胚胎发育过程中的异常迁移。
+}}
+
+==[[HP:0011756]]==
+{{Infobox HPO
+| hpoId = HP:0011756
+| 名称 = Posterior pituitary agenesis
+| 定义 = Absence of the "neurohypophysis" (FMA:74628) owing to a developmental defect.
+| 中文译名 = 垂体后叶缺失
+| 中文定义 = 由于发育缺陷而导致的缺少垂体后叶。
+}}
+
+==[[HP:0011757]]==
+{{Infobox HPO
+| hpoId = HP:0011757
+| 名称 = Posterior pituitary hypoplasia
+| 定义 = Underdevelopment of the "neurohypophysis" (FMA:74628).
+| 中文译名 = 垂体后叶发育不全
+| 中文定义 = 垂体后叶发育不全。
+}}
+
+==[[HP:0011758]]==
+{{Infobox HPO
+| hpoId = HP:0011758
+| 名称 = Pituitary acidophilic stem cell adenoma
+| 定义 = #####
+| 中文译名 = 垂体嗜酸性干细胞腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011759]]==
+{{Infobox HPO
+| hpoId = HP:0011759
+| 名称 = Pituitary gonadotropic cell adenoma
+| 定义 = A type of pituitary adenoma that produces gonadotropins.
+| 中文译名 = 垂体促性腺激素细胞腺瘤
+| 中文定义 = 一种能产生促性腺激素的垂体腺瘤。
+}}
+
+==[[HP:0011760]]==
+{{Infobox HPO
+| hpoId = HP:0011760
+| 名称 = Pituitary growth hormone cell adenoma
+| 定义 = A type of pituitary adenoma that produces growth hormone.
+| 中文译名 = 垂体生长激素腺瘤
+| 中文定义 = 一种产生生长激素的垂体腺瘤。
+}}
+
+
+==[[HP:0011761]]==
+{{Infobox HPO
+| hpoId = HP:0011761
+| 名称 = Pituitary null cell adenoma
+| 定义 = A type of pituitary adenoma that is of unknown cellular origin and that lacks immunocytochemical or fine structural markers.  Null cell adenomas are not associated with hormone excess.
+| 中文译名 = 垂体无特征细胞腺瘤
+| 中文定义 = 一种未知细胞来源和缺乏免疫细胞化学或精细结构标记的垂体腺瘤。这种垂体腺瘤不伴随激素的过多分泌。
+}}
+
+
+==[[HP:0011762]]==
+{{Infobox HPO
+| hpoId = HP:0011762
+| 名称 = Pituitary thyrotropic cell adenoma
+| 定义 = A type of pituitary adenoma that produces thyroid stimulating hormone (TSH).
+| 中文译名 = 垂体促甲状腺激素细胞腺瘤
+| 中文定义 = 一种分泌促甲状腺激素（TSH）的垂体腺瘤。
+}}
+
+==[[HP:0011763]]==
+{{Infobox HPO
+| hpoId = HP:0011763
+| 名称 = Pituitary carcinoma
+| 定义 = A pituitary tumor with subarachnoid, brain, or systemic metastasis. The diagnosis of a pituitary carcinoma requires evidence of metastatic disease, either outside the central nervous system (CNS) or as separate noncontiguous foci within the CNS.
+| 中文译名 = 垂体癌
+| 中文定义 = 一种伴蛛网膜下腔，脑或全身转移的垂体肿瘤。垂体腺癌的诊断需要肿瘤转移的证据，或者是转移到中枢神经系统（CNS）之外，或者是中枢神经系统内的单独的非连续的癌症。
+}}
+
+==[[HP:0011764]]==
+{{Infobox HPO
+| hpoId = HP:0011764
+| 名称 = Pituitary spindle cell oncocytoma
+| 定义 = A spindled-to-epithelioid, oncocytic, nonendocrine neoplasm of the anterior hypophysis that manifests in adults and follows a benign clinical course. Pituitary spindle cell oncocytomas are firm, fibrous, and adherent to surrounding structures and are highly vascular.
+| 中文译名 = 垂体梭形细胞嗜酸细胞瘤
+| 中文定义 = 垂体前叶的一种梭形至上皮样的嗜酸性非内分泌肿瘤，发生于成人，临床表现良性。 垂体梭形细胞嗜酸细胞瘤质地致密，纤维化，并附着到周围的结构且血管富集。
+}}
+
+
+==[[HP:0011766]]==
+{{Infobox HPO
+| hpoId = HP:0011766
+| 名称 = Abnormality of the parathyroid morphology
+| 定义 = A structural abnormality of the "parathyroid gland" (FMA:13890).
+| 中文译名 = 甲状旁腺形态异常
+| 中文定义 = 甲状旁腺结构异常。
+}}
+
+==[[HP:0011767]]==
+{{Infobox HPO
+| hpoId = HP:0011767
+| 名称 = Abnormality of the parathyroid physiology
+| 定义 = A functional abnormality of the "parathyroid gland" (FMA:13890).
+| 中文译名 = 甲状旁腺生理异常
+| 中文定义 = 甲状旁腺功能异常。
+}}
+
+==[[HP:0011768]]==
+{{Infobox HPO
+| hpoId = HP:0011768
+| 名称 = Parathyroid dysgenesis
+| 定义 = Abnormal embryonic development of the "parathyroid gland" (FMA:13890).
+| 中文译名 = 甲状旁腺发育异常
+| 中文定义 = 甲状旁腺胚胎发育异常。
+}}
+
+==[[HP:0011769]]==
+{{Infobox HPO
+| hpoId = HP:0011769
+| 名称 = Ectopic parathyroid
+| 定义 = An abnormal anatomical location of the "parathyroid gland" (FMA:13890).
+| 中文译名 = 异位甲状旁腺
+| 中文定义 = 甲状旁腺的解剖位置异常。
+}}
+
+==[[HP:0011770]]==
+{{Infobox HPO
+| hpoId = HP:0011770
+| 名称 = Tertiary hyperparathyroidism
+| 定义 = A type of hyperparathyroidism that occurs following kidney transplantation, which is a treatment for secondary hyperparathyroidism. Although kidney transplantation leads to a normalization of serum calcium and parathyroid hormone in most patients. The state of persistent hypercalcemia and hyperparathyroidism is referred to as tertiary hyperparathyroidism.
+| 中文译名 = 三发性甲状旁腺功能亢进症
+| 中文定义 = 一种肾脏移植手术后出现的甲状旁腺功能亢进症。肾移植可以缓解继发性甲状旁腺功能亢进，大多数病人的血钙和甲状旁腺激素会趋向正常化，如果仍持续存在高血钙和甲状旁腺功能亢进则称为三发性甲状旁腺功能亢进。
+}}
+
+
+==[[HP:0011771]]==
+{{Infobox HPO
+| hpoId = HP:0011771
+| 名称 = Autoimmune hypoparathyroidism
+| 定义 = A type of hypoparathyroidism with circulating antiparathyroid or anti-calcium sensing receptor antibodies indicative of autoimmunity.
+| 中文译名 = 自身免疫性甲状旁腺功能减退症
+| 中文定义 = 甲状旁腺功能低下的一种,血液循环中有抗甲状旁腺抗体或抗钙敏感受体抗体，提示自身免疫参与其中。
+}}
+
+
+==[[HP:0011772]]==
+{{Infobox HPO
+| hpoId = HP:0011772
+| 名称 = Abnormality of thyroid morphology
+| 定义 = A structural abnormality of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺形态异常
+| 中文定义 = 甲状腺的结构异常。
+}}
+
+==[[HP:0011773]]==
+{{Infobox HPO
+| hpoId = HP:0011773
+| 名称 = Uninodular goiter
+| 定义 = Enlargement of the thyroid gland related to a singular nodule in the thyroid gland.
+| 中文译名 = 单结节性甲状腺肿
+| 中文定义 = 只有一个结节的甲状腺肿大。
+}}
+
+
+==[[HP:0011774]]==
+{{Infobox HPO
+| hpoId = HP:0011774
+| 名称 = Thyroid follicular adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺滤泡性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011775]]==
+{{Infobox HPO
+| hpoId = HP:0011775
+| 名称 = Thyroid macrofollicular adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺大滤泡性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011776]]==
+{{Infobox HPO
+| hpoId = HP:0011776
+| 名称 = Thyroid microfollicular adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺小滤泡性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011777]]==
+{{Infobox HPO
+| hpoId = HP:0011777
+| 名称 = Thyroid papillary adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺乳头状腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011778]]==
+{{Infobox HPO
+| hpoId = HP:0011778
+| 名称 = Thyroid atypical adenoma
+| 定义 = #####
+| 中文译名 = 甲状腺非典型性腺瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011779]]==
+{{Infobox HPO
+| hpoId = HP:0011779
+| 名称 = Anaplastic thyroid carcinoma
+| 定义 = #####
+| 中文译名 = 甲状腺未分化癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011780]]==
+{{Infobox HPO
+| hpoId = HP:0011780
+| 名称 = Thyroid hemiagenesis
+| 定义 = Absence of a  lobe of the thyroid gland related to a failure of its embryologic development.
+| 中文译名 = 甲状腺偏侧缺如症
+| 中文定义 = 甲状腺一侧叶缺如，与腺体胚胎期发育异常有关
+}}
+
+
+==[[HP:0011781]]==
+{{Infobox HPO
+| hpoId = HP:0011781
+| 名称 = Thyroid C cell hyperplasia
+| 定义 = An abnormal growth of parafollicular (C-cells) cells.
+| 中文译名 = 甲状腺C细胞增生
+| 中文定义 = 甲状腺滤泡旁C细胞的异常生长。
+}}
+
+==[[HP:0011782]]==
+{{Infobox HPO
+| hpoId = HP:0011782
+| 名称 = Thyroid crisis
+| 定义 = #####
+| 中文译名 = 甲状腺危象
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011783]]==
+{{Infobox HPO
+| hpoId = HP:0011783
+| 名称 = Thyrotoxicosis from ectopic thyroid tissue
+| 定义 = #####
+| 中文译名 = 异位甲状腺组织的甲状腺毒症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011784]]==
+{{Infobox HPO
+| hpoId = HP:0011784
+| 名称 = Thyrotoxicosis with diffuse goiter
+| 定义 = #####
+| 中文译名 = 甲状腺毒症伴弥漫性甲状腺肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011785]]==
+{{Infobox HPO
+| hpoId = HP:0011785
+| 名称 = Thyrotoxicosis with toxic multinodular goitre
+| 定义 = #####
+| 中文译名 = 多结节性甲状腺毒症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011786]]==
+{{Infobox HPO
+| hpoId = HP:0011786
+| 名称 = Thyrotoxicosis with toxic single thyroid nodule
+| 定义 = #####
+| 中文译名 = 单结节性甲状腺毒症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011787]]==
+{{Infobox HPO
+| hpoId = HP:0011787
+| 名称 = Central hypothyroidism
+| 定义 = A type of hypothyroidism due to an insufficient stimulation of an otherwise normal thyroid gland. Central hypothyroidism is caused by either pituitary (secondary hypothyroidism) or hypothalamic (tertiary hypothyroidism) defects.
+| 中文译名 = 中枢性甲状腺功能减退症
+| 中文定义 = 甲状腺原本正常，但由于中枢的​​刺激不足引起的甲状腺功能减退。中枢性甲减由垂体（继发性甲减）或下丘脑（三发性甲减）的缺陷引起。
+}}
+
+
+==[[HP:0011788]]==
+{{Infobox HPO
+| hpoId = HP:0011788
+| 名称 = Increased serum free triiodothyronine (fT3)
+| 定义 = An elevated concentration of "3,3&#39;,5-triiodo-L-thyronine" (CHEBI:18258) in the blood.
+| 中文译名 = 血清游离三碘甲状腺原氨酸（fT3）升高
+| 中文定义 = 血液中3,3&#39;，5-三碘左旋甲状腺原氨酸浓度升高。
+}}
+
+==[[HP:0011789]]==
+{{Infobox HPO
+| hpoId = HP:0011789
+| 名称 = Thyroid-stimulating hormone receptor (TSHR) defect
+| 定义 = #####
+| 中文译名 = 促甲状腺激素受体（TSHR）缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011790]]==
+{{Infobox HPO
+| hpoId = HP:0011790
+| 名称 = Activating thyroid-stimulating hormone receptor (TSHR) defect
+| 定义 = Gain-of-function thyroid-stimulating hormone receptor (TSHR) defect.
+| 中文译名 = 促甲状腺激素受体（TSHR）激活性缺陷
+| 中文定义 = 功能获得性的促甲状腺激素受体（TSHR）缺陷。
+}}
+
+==[[HP:0011791]]==
+{{Infobox HPO
+| hpoId = HP:0011791
+| 名称 = Inactivating thyroid-stimulating hormone receptor (TSHR) defect
+| 定义 = Loss-of-function thyroid-stimulating hormone receptor (TSHR) defect.
+| 中文译名 = 促甲状腺激素受体（TSHR）失活性缺陷
+| 中文定义 = 促甲状腺激素受体（TSHR）功能丧失性缺陷。
+}}
+
+==[[HP:0011969]]==
+{{Infobox HPO
+| hpoId = HP:0011969
+| 名称 = Elevated luteinizing hormone
+| 定义 = An elevated concentration of luteinizing hormone in the blood.
+| 中文译名 = 黄体生成素水平升高
+| 中文定义 = 血液中黄体生成素浓度升高。
+}}
+
+==[[HP:0012029]]==
+{{Infobox HPO
+| hpoId = HP:0012029
+| 名称 = Abnormality of urine hormone level
+| 定义 = An "abnormal" (PATO:0000460) "concentration" (PATO:0000033) of a "hormone" (CHEBI:24621) in the urine.
+| 中文译名 = 尿激素水平异常
+| 中文定义 = 尿中激素浓度的异常。
+}}
+
+==[[HP:0012030]]==
+{{Infobox HPO
+| hpoId = HP:0012030
+| 名称 = Increased urinary cortisol level
+| 定义 = Abnormally increased concentration of "cortisol" (CHEBI:17650) in the urine.
+| 中文译名 = 尿皮质醇水平增加
+| 中文定义 = 尿液中皮质醇浓度异常增加。
+}}
+
+==[[HP:0012093]]==
+{{Infobox HPO
+| hpoId = HP:0012093
+| 名称 = Abnormality of endocrine pancreas physiology
+| 定义 = A function abnormality of the endocrine pancreas.
+| 中文译名 = 胰腺内分泌生理功能异常
+| 中文定义 = 内分泌胰腺的功能异常。
+}}
+
+
+==[[HP:0012099]]==
+{{Infobox HPO
+| hpoId = HP:0012099
+| 名称 = Abnormality of circulating catecholamine level
+| 定义 = An abnormal "catecholamine" (CHEBI:33567) concentration in the blood.
+| 中文译名 = 血儿茶酚胺水平异常
+| 中文定义 = 血液循环中儿茶酚胺浓度异常。
+}}
+
+==[[HP:0012111]]==
+{{Infobox HPO
+| hpoId = HP:0012111
+| 名称 = Abnormality of circulating glucocorticoid level
+| 定义 = An abnormality of the concentration of a "glucocorticoid" (CHEBI:24261) in the blood.
+| 中文译名 = 血糖皮质激素水平异常
+| 中文定义 = 血液循环中糖皮质激素浓度异常。
+}}
+
+==[[HP:0012112]]==
+{{Infobox HPO
+| hpoId = HP:0012112
+| 名称 = Abnormality of circulating corticosterone level
+| 定义 = An abnormality of the concentration of "corticosterone" (CHEBI:16827) in the blood.
+| 中文译名 = 血皮质酮水平异常
+| 中文定义 = 血液循环中皮质酮浓度异常。
+}}
+
+==[[HP:0012197]]==
+{{Infobox HPO
+| hpoId = HP:0012197
+| 名称 = Insulinoma
+| 定义 = A type of tumor of the pancreatic beta cells that secretes excess insulin and can result in hypoglycemia.
+| 中文译名 = 胰岛素瘤
+| 中文定义 = 一种胰腺β细胞肿瘤，分泌过多的胰岛素，可导致低血糖症。
+}}
+
+
+==[[HP:0012285]]==
+{{Infobox HPO
+| hpoId = HP:0012285
+| 名称 = Abnormal hypothalamus physiology
+| 定义 = An abnormal "functionality" (PATO:0001509) of the "hypothalamus" (FMA:62008).
+| 中文译名 = 下丘脑生理异常
+| 中文定义 = 下丘脑（FMA:62008）的功能性（PATO:0001509）异常。
+}}
+
+==[[HP:0012287]]==
+{{Infobox HPO
+| hpoId = HP:0012287
+| 名称 = Hypothalamic luteinizing hormone-releasing hormone deficiency
+| 定义 = Decreased secretion of luteinizing hormone-releasing hormone by the hypothalamus.
+| 中文译名 = 下丘脑促黄体生成素释放激素缺乏
+| 中文定义 = 下丘脑促黄体生产素释放激素的分泌减少。
+}}
+
+
+==[[HP:0012341]]==
+{{Infobox HPO
+| hpoId = HP:0012341
+| 名称 = Microprolactinoma
+| 定义 = A pituitary prolactin cell adenoma of less than 10 mm diameter.
+| 中文译名 = 垂体催乳素微腺瘤
+| 中文定义 = 直径小于10毫米的垂体催乳素细胞腺瘤。
+}}
+
+==[[HP:0012342]]==
+{{Infobox HPO
+| hpoId = HP:0012342
+| 名称 = Macroprolactinoma
+| 定义 = A pituitary prolactin cell adenoma of more than 10 mm diameter.
+| 中文译名 = 垂体催乳素大腺瘤
+| 中文定义 = 直径超过10毫米的垂体催乳素细胞腺瘤。
+}}
+
+==[[HP:0012411]]==
+{{Infobox HPO
+| hpoId = HP:0012411
+| 名称 = Premature pubarche
+| 定义 = The onset of growth of pubic hair at an earlier age than normal.
+| 中文译名 = 阴毛早现
+| 中文定义 = 阴毛较正常年龄之前开始生长。
+}}
+
+==[[HP:0012412]]==
+{{Infobox HPO
+| hpoId = HP:0012412
+| 名称 = Premature adrenarche
+| 定义 = Onset of adrenarche at an earlier age than usual.
+| 中文译名 = 肾上腺功能早现
+| 中文定义 = 肾上腺功能比通常年龄提前出现。
+}}
+
+
+==[[HP:0012503]]==
+{{Infobox HPO
+| hpoId = HP:0012503
+| 名称 = Abnormality of the pituitary gland
+| 定义 = An anomaly of the "pituitary gland" (FMA:13889).
+| 中文译名 = 垂体异常
+| 中文定义 = 垂体的异常。
+}}
+
+==[[HP:0012504]]==
+{{Infobox HPO
+| hpoId = HP:0012504
+| 名称 = Abnormal size of pituitary gland
+| 定义 = A deviation from the normal size of the "pituitary gland" (FMA:13889).
+| 中文译名 = 垂体大小异常
+| 中文定义 = 脑垂体偏离正常大小。
+}}
+
+==[[HP:0012505]]==
+{{Infobox HPO
+| hpoId = HP:0012505
+| 名称 = Enlarged pituitary gland
+| 定义 = An abnormally increased size of the "pituitary gland" (FMA:13889).
+| 中文译名 = 垂体增大
+| 中文定义 = 脑垂体体积异常增大。
+}}
+
+==[[HP:0012506]]==
+{{Infobox HPO
+| hpoId = HP:0012506
+| 名称 = Small pituitary gland
+| 定义 = An abnormally decreased size of the "pituitary gland" (FMA:13889).
+| 中文译名 = 垂体小
+| 中文定义 = 垂体体积异常减小。
+}}
+
+==[[HP:0012558]]==
+{{Infobox HPO
+| hpoId = HP:0012558
+| 名称 = Abnormal T3/T4 ratio
+| 定义 = A ratio of serum triiodothyronine (T3) to thyroxine (T4) in the blood that deviates from normal.
+| 中文译名 = T3/T4比值异常
+| 中文定义 = 血清三碘甲状腺原氨酸（T3）和甲状腺素（T4）的比值偏离正常值。
+}}
+
+
+==[[HP:0012559]]==
+{{Infobox HPO
+| hpoId = HP:0012559
+| 名称 = Increased T3/T4 ratio
+| 定义 = A ratio of serum triiodothyronine (T3) to thyroxine (T4) in the blood that is higher than normal.
+| 中文译名 = T3/T4比值升高
+| 中文定义 = 血清三碘甲状腺原氨酸（T3）和甲状腺素（T4）的比值在血液中高于正常值。
+}}
+
+==[[HP:0012560]]==
+{{Infobox HPO
+| hpoId = HP:0012560
+| 名称 = Decreased T3/T4 ratio
+| 定义 = A ratio of serum triiodothyronine (T3) to thyroxine (T4) in the blood that is lower than normal.
+| 中文译名 = T3/T4比值降低
+| 中文定义 = 血清三碘甲状腺原氨酸（T3）和甲状腺素(T4)的比值​偏低。
+}}
+
+==[[HP:0012569]]==
+{{Infobox HPO
+| hpoId = HP:0012569
+| 名称 = Delayed menarche
+| 定义 = First period after the age of 15 years.
+| 中文译名 = 月经初潮延迟
+| 中文定义 = 15岁后才开始第一个月经周期。
+}}
+
+
+==[[HP:0012680]]==
+{{Infobox HPO
+| hpoId = HP:0012680
+| 名称 = Abnormality of the pineal gland
+| 定义 = An anomaly of the "pineal gland" (FMA:62033),a small endocrine gland in the brain that produces melatonin.
+| 中文译名 = 松果体异常
+| 中文定义 = 松果体异常, 松果体是大脑中产生褪黑素的一个小的内分泌腺。
+}}
+
+==[[HP:0012681]]==
+{{Infobox HPO
+| hpoId = HP:0012681
+| 名称 = Abnormality of pineal morphology
+| 定义 = A structural abnormality of the "pineal gland" (FMA:62033).
+| 中文译名 = 松果体形态异常
+| 中文定义 = 松果体结构异常。
+}}
+
+==[[HP:0012682]]==
+{{Infobox HPO
+| hpoId = HP:0012682
+| 名称 = Pineal gland calcification
+| 定义 = Accumulation of calcium salts in the "pineal gland" (FMA:62033).
+| 中文译名 = 松果体钙化
+| 中文定义 = 松果体中钙盐积累。
+}}
+
+==[[HP:0012683]]==
+{{Infobox HPO
+| hpoId = HP:0012683
+| 名称 = Pineal cyst
+| 定义 = A glial uniloculated or multiloculated fluid-filled sac that either reside within or completely replace the pineal gland.
+| 中文译名 = 松果体囊肿
+| 中文定义 = 胶质的单一隔室或多个隔室的充满液体的囊肿，位于松果体内，或完全替换了松果体。
+}}
+
+
+==[[HP:0012684]]==
+{{Infobox HPO
+| hpoId = HP:0012684
+| 名称 = Abnormal pineal volume
+| 定义 = An abnormal increase or decrease in the quantity of three-dimensional space taken up by the pineal gland.
+| 中文译名 = 松果体体积异常
+| 中文定义 = 松果体占据的三维空间的异常增加或减少。
+}}
+
+
+==[[HP:0012685]]==
+{{Infobox HPO
+| hpoId = HP:0012685
+| 名称 = Decreased pineal volume
+| 定义 = An abnormal reduction in the quantity of three-dimensional space taken up by the pineal gland.
+| 中文译名 = 松果体体积减小
+| 中文定义 = 松果体占用的三维空间异常减少。
+}}
+
+==[[HP:0012686]]==
+{{Infobox HPO
+| hpoId = HP:0012686
+| 名称 = Increased pineal volume
+| 定义 = An abnormal elevation in the quantity of three-dimensional space taken up by the pineal gland.
+| 中文译名 = 松果体体积增加
+| 中文定义 = 松果体所占据的三维空间出现异常增加。
+}}
+
+==[[HP:0012687]]==
+{{Infobox HPO
+| hpoId = HP:0012687
+| 名称 = Agenesis of pineal gland
+| 定义 = Failure to develop of the pineal gland, defined clinically as the absence of the pineal gland with no indication of the pineal gland even having been present.
+| 中文译名 = 松果体发育缺失
+| 中文定义 = 松果体发育缺失，临床上定义为没有松果体，没有迹象显示曾经有过松果体。
+}}
+
+==[[HP:0012688]]==
+{{Infobox HPO
+| hpoId = HP:0012688
+| 名称 = Abnormality of pineal physiology
+| 定义 = A functional abnormality of the "pineal gland" (FMA:62033).
+| 中文译名 = 松果体生理异常
+| 中文定义 = 松果体功能异常。
+}}
+
+==[[HP:0012689]]==
+{{Infobox HPO
+| hpoId = HP:0012689
+| 名称 = Abnormal pineal melatonin secretion
+| 定义 = An anomaly in the amount or timing of melatonin secretion by the pineal gland. Note that melatonin is also synthesized by multiple tissues outside of the pineal gland.
+| 中文译名 = 松果体褪黑素分泌异常
+| 中文定义 = 松果体分泌的褪黑素的数量或时机的异常。注意，褪黑素也由除松果体外的多个组织合成。
+}}
+
+
+==[[HP:0012731]]==
+{{Infobox HPO
+| hpoId = HP:0012731
+| 名称 = Ectopic anterior pituitary gland
+| 定义 = Abnormal anatomic location of the anterior pituitary gland.
+| 中文译名 = 异位垂体前叶
+| 中文定义 = 垂体前叶腺的解剖位置异常。
+}}
+
+==[[HP:0030074]]==
+{{Infobox HPO
+| hpoId = HP:0030074
+| 名称 = Chemodectoma
+| 定义 = A usually benign neoplasm originating in the chemoreceptor tissue of the carotid body, glomus jugulare, glomus tympanicum, aortic bodies, or the female genital tract.
+| 中文译名 = 化学感受器瘤
+| 中文定义 = 一种通常为良性的起源自颈动脉体、颈静脉球、鼓室球、主动脉体或女性生殖道的化学感受器组织的肿瘤。
+}}
+
+==[[HP:0030087]]==
+{{Infobox HPO
+| hpoId = HP:0030087
+| 名称 = Abnormal serum testosterone level
+| 定义 = An anomalous concentration of testosterone in the blood.
+| 中文译名 = 血清睾酮水平异常
+| 中文定义 = 血清睾酮水平异常。
+}}
+
+==[[HP:0030088]]==
+{{Infobox HPO
+| hpoId = HP:0030088
+| 名称 = Increased serum testosterone level
+| 定义 = An elevated circulating testosterone level in the blood.
+| 中文译名 = 血清睾酮水平增加
+| 中文定义 = 血清睾酮水平增加。
+}}
+
+==[[HP:0030269]]==
+{{Infobox HPO
+| hpoId = HP:0030269
+| 名称 = ARRAY(0x50ef8d8)
+| 定义 = An elevated level of insulin-like growth factor 1 (IGF1) in the blood circulation.
+| 中文译名 = 血循环胰岛素样生长因子-1（IGF1）水平增加
+| 中文定义 = 血循环胰岛素样生长因子-1（IGF1）水平增加。
+}}
+
+==[[HP:0030338]]==
+{{Infobox HPO
+| hpoId = HP:0030338
+| 名称 = Abnormal circulating gonadotropin level
+| 定义 = An anomaly of the circulating level of a gonadotropin, that is, of a protein hormone secreted by gonadotrope cells of the anterior pituitary of vertebrates. The primary gonadotropins are luteinizing hormone (LH) and follicle-stimulating hormone (FSH).
+| 中文译名 = 循环系统促性腺激素水平异常
+| 中文定义 = 循环系统促性腺激素水平异常，即，由脊椎动物垂体前叶分泌促性腺激素细胞分泌的蛋白激素的水平异常。促性腺激素包括促黄体生成素(LH)与卵泡刺激素(FSH)。
+}}
+
+==[[HP:0030339]]==
+{{Infobox HPO
+| hpoId = HP:0030339
+| 名称 = Decreased circulating gonadotropin level
+| 定义 = An reduction of the circulating level of a gonadotropin, that is, of a protein hormone secreted by gonadotrope cells of the anterior pituitary of vertebrates. The primary gonadotropins are luteinizing hormone (LH) and follicle-stimulating hormone (FSH).
+| 中文译名 = 循环系统促性腺激素水平低下
+| 中文定义 = 循环系统促性腺激素水平低下，即，由脊椎动物垂体前叶分泌促性腺激素细胞分泌的蛋白激素的水平降低。促性腺激素包括促黄体生成素(LH)与卵泡刺激素(FSH)。
+}}
+
+==[[HP:0030341]]==
+{{Infobox HPO
+| hpoId = HP:0030341
+| 名称 = Decreased circulating follicle stimulating hormone level
+| 定义 = An reduction of the circulating level of follicle-stimulating hormone (FSH).
+| 中文译名 = 循环系统卵泡刺激素水平低下
+| 中文定义 = 循环系统卵泡刺激素水平降低。
+}}
+
+==[[HP:0030344]]==
+{{Infobox HPO
+| hpoId = HP:0030344
+| 名称 = Decreased circulating luteinizing hormone level
+| 定义 = A reduction in the circulating level of luteinizing hormone (LH).
+| 中文译名 = 循环黄体生成素水平降低
+| 中文定义 = 循环黄体生成素水平降低。
+}}
+
+==[[HP:0030345]]==
+{{Infobox HPO
+| hpoId = HP:0030345
+| 名称 = Abnormal circulating luteinizing hormone level
+| 定义 = An anomaly of the circulating level of luteinizing hormone (LH).
+| 中文译名 = 循环黄体生成素水平异常
+| 中文定义 = 循环黄体生成素水平异常。
+}}
+
+==[[HP:0030346]]==
+{{Infobox HPO
+| hpoId = HP:0030346
+| 名称 = Abnormal circulating follicle-stimulating hormone level
+| 定义 = An anomaly of the circulating level of follicle-stimulating hormone (FSH).
+| 中文译名 = 循环卵泡刺激素水平异常
+| 中文定义 = 循环卵泡刺激素水平异常。
+}}
+
+==[[HP:0030347]]==
+{{Infobox HPO
+| hpoId = HP:0030347
+| 名称 = Abnormal circulating androgen level
+| 定义 = An anomaly in the blood concentration of an androgen, that is, of a steroid hormone that controls development and maintenance of masculine characteristics. The androgens include testosterone and Dehydroepiandrosterone.
+| 中文译名 = 循环雄激素水平异常
+| 中文定义 = 循环雄激素水平异常，即，一种控制男性特征发育与维持的甾醇类激素。雄激素包括睾酮与脱氢表雄酮。
+}}
+
+==[[HP:0030348]]==
+{{Infobox HPO
+| hpoId = HP:0030348
+| 名称 = Increased circulating androgen level
+| 定义 = An elevation of the blood concentration of an androgen, that is, of a steroid hormone that controls development and maintenance of masculine characteristics. The androgens include testosterone and Dehydroepiandrosterone.
+| 中文译名 = 循环雄激素水平增加
+| 中文定义 = 循环雄激素水平增加，即，一种控制男性特征发育与维持的甾醇类激素。雄激素包括睾酮与脱氢表雄酮。
+}}
+
+==[[HP:0030349]]==
+{{Infobox HPO
+| hpoId = HP:0030349
+| 名称 = Decreased circulating androgen level
+| 定义 = A reduction in the blood concentration of an androgen, that is, of a steroid hormone that controls development and maintenance of masculine characteristics. The androgens include testosterone and Dehydroepiandrosterone.
+| 中文译名 = 循环雄激素水平降低
+| 中文定义 = 循环雄激素水平降低，即，一种控制男性特征发育与维持的甾醇类激素。雄激素包括睾酮与脱氢表雄酮。
+}}
+
+==[[HP:0030352]]==
+{{Infobox HPO
+| hpoId = HP:0030352
+| 名称 = Abnormal serum insulin-like growth factor 1 level
+| 定义 = An anomalous level of insulin-like growth factor 1 (IGF1) in the blood circulation.
+| 中文译名 = 血清胰岛素样生长因子-1（IGF1）水平异常
+| 中文定义 = 血清胰岛素样生长因子-1（IGF1）水平异常。
+}}
+
+==[[HP:0030353]]==
+{{Infobox HPO
+| hpoId = HP:0030353
+| 名称 = Decreased serum insulin-like growth factor 1
+| 定义 = A reduced level of insulin-like growth factor 1 (IGF1) in the blood circulation.
+| 中文译名 = 血清胰岛素样生长因子-1（IGF1）水平降低
+| 中文定义 = 血清胰岛素样生长因子-1（IGF1）水平降低。
+}}
+
+==[[HP:0030404]]==
+{{Infobox HPO
+| hpoId = HP:0030404
+| 名称 = Glucagonoma
+| 定义 = An endocrine tumor of the pancreas that secretes excessive amounts of glucagon.
+| 中文译名 = 胰高血糖素瘤
+| 中文定义 = 胰腺的一种分泌过多胰高血糖素的内分泌肿瘤。
+}}
+
+==[[HP:0030405]]==
+{{Infobox HPO
+| hpoId = HP:0030405
+| 名称 = Pancreatic endocrine tumor
+| 定义 = A neuroendocrine tumor originating in a hormone-producing cell (islet cell) of the pancreas.
+| 中文译名 = 胰腺内分泌肿瘤
+| 中文定义 = 一种起源于胰腺产激素细胞（胰岛细胞）的神经内分泌肿瘤。
+}}
+
+==[[HP:0030445]]==
+{{Infobox HPO
+| hpoId = HP:0030445
+| 名称 = Pulmonary carcinoid tumor
+| 定义 = A malignant neuroendocrine tumor of the lung. According to histopathologic criteria (WHO 2004), carcinoids are divided into four groups i.e. typical and atypical carcinoids, large cell neuroendocrine carcinoma and small cell lung carcinoma.
+| 中文译名 = 肺类癌
+| 中文定义 = 一种肺的恶性神经内分泌肿瘤。根据组织病理学标准（WHO2004），类癌被分为4类，如典型与非典型类癌，大细胞神经内分泌癌与小细胞肺癌。
+}}
+
+==[[HP:0030446]]==
+{{Infobox HPO
+| hpoId = HP:0030446
+| 名称 = Atypical pulmonary carcinoid tumor
+| 定义 = #####
+| 中文译名 = 非典型肺类癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030447]]==
+{{Infobox HPO
+| hpoId = HP:0030447
+| 名称 = Merkel cell skin cancer
+| 定义 = A malignant cutaneous tumor of the elderly that is characterized by an aggressive course with regional nodal involvement, distant metastases and a high rate of recurrence. Most patients present with rapidly growing, painless, firm, non-tender, dome-shaped red, occasionally ulcerated skin nodules, which have a red or bluish color, measuring up to several centimeters, on predominantly sun-exposed areas of the body. The overlying skin is smooth and shiny, sometimes exhibiting ulcerative, acneiform or telangiectatic features.
+| 中文译名 = 默克尔细胞皮肤癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030684]]==
+{{Infobox HPO
+| hpoId = HP:0030684
+| 名称 = Abnormal adiponectin level
+| 定义 = A deviation from the normal circulating concentration of adiponectin, a 30-kDa complement C1-related protein that is the most abundant secreted protein expressed in adipose tissue, and that plays a crucial role in the regulation of insulin sensitivity and glucose metabolism.
+| 中文译名 = 脂联素水平异常
+| 中文定义 = 脂联素水平异常，脂联素是一种大小为30kDa的主要由脂肪组织表达的分泌性补体C1相关蛋白，在调节胰岛素敏感性与糖代谢中发挥关键作用。
+}}
+
+==[[HP:0030685]]==
+{{Infobox HPO
+| hpoId = HP:0030685
+| 名称 = Decreased adiponectin level
+| 定义 = A reduced circulating concentration of adiponectin, a 30-kDa complement C1-related protein that is the most abundant secreted protein expressed in adipose tissue.
+| 中文译名 = 脂联素水平降低
+| 中文定义 = 脂联素水平降低，脂联素是一种大小为30kDa的主要由脂肪组织表达的分泌性补体C1相关蛋白，在调节胰岛素敏感性与糖代谢中发挥关键作用。
+}}
+
+==[[HP:0030686]]==
+{{Infobox HPO
+| hpoId = HP:0030686
+| 名称 = Increased adiponectin level
+| 定义 = An elevated circulating concentration of adiponectin, a 30-kDa complement C1-related protein that is the most abundant secreted protein expressed in adipose tissue.
+| 中文译名 = 脂联素水平增加
+| 中文定义 = 脂联素水平增加，脂联素是一种大小为30kDa的主要由脂肪组织表达的分泌性补体C1相关蛋白，在调节胰岛素敏感性与糖代谢中发挥关键作用。
+}}
+
+==[[HP:0030687]]==
+{{Infobox HPO
+| hpoId = HP:0030687
+| 名称 = Abnormal glucagon level
+| 定义 = A deviation from the normal concentration of glucagon in the blood circulation.
+| 中文译名 = 胰高血糖素水平异常
+| 中文定义 = 胰高血糖素水平异常。
+}}
+
+==[[HP:0030688]]==
+{{Infobox HPO
+| hpoId = HP:0030688
+| 名称 = Increased glucagon level
+| 定义 = An elevated concentration of glucagon in the blood circulation.
+| 中文译名 = 胰高血糖素水平增加
+| 中文定义 = 胰高血糖素水平增加。
+}}
+
+==[[HP:0030689]]==
+{{Infobox HPO
+| hpoId = HP:0030689
+| 名称 = Decreased glucagon level
+| 定义 = A reduced concentration of glucagon in the blood circulation.
+| 中文译名 = 胰高血糖素水平降低
+| 中文定义 = 胰高血糖素水平降低。
+}}
+
+==[[HP:0040075]]==
+{{Infobox HPO
+| hpoId = HP:0040075
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 垂体功能减退症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040084]]==
+{{Infobox HPO
+| hpoId = HP:0040084
+| 名称 = Abnormal circulating renin
+| 定义 = #####
+| 中文译名 = 循环肾素水平异常
+| 中文定义 = #####
+}}
+
+==[[HP:0040085]]==
+{{Infobox HPO
+| hpoId = HP:0040085
+| 名称 = Abnormal circulating aldosterone
+| 定义 = #####
+| 中文译名 = 循环醛固酮水平异常
+| 中文定义 = #####
+}}
+
+==[[HP:0040086]]==
+{{Infobox HPO
+| hpoId = HP:0040086
+| 名称 = Abnormal prolactin level
+| 定义 = #####
+| 中文译名 = 催乳素水平异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040171]]==
+{{Infobox HPO
+| hpoId = HP:0040171
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 血清睾酮水平降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040192]]==
+{{Infobox HPO
+| hpoId = HP:0040192
+| 名称 = APUdoma
+| 定义 = An endocrine tumor arising from an APUD cell.
+| 中文译名 = APUD瘤
+| 中文定义 = 来源于APUD细胞的内分泌瘤。
+}}
+
+==[[HP:0040198]]==
+{{Infobox HPO
+| hpoId = HP:0040198
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 甲状腺非髓样癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040214]]==
+{{Infobox HPO
+| hpoId = HP:0040214
+| 名称 = Abnormal insulin level
+| 定义 = An abnormal concentration of insulin in the body.
+| 中文译名 = 胰岛素水平异常
+| 中文定义 = 胰岛素水平异常。
+}}
+
+==[[HP:0040215]]==
+{{Infobox HPO
+| hpoId = HP:0040215
+| 名称 = Abnormal circulating insulin level
+| 定义 = An abnormal concentration of insulin in the blood.
+| 中文译名 = 循环胰岛素水平异常
+| 中文定义 = 循环胰岛素水平异常。
+}}
+
+==[[HP:0040216]]==
+{{Infobox HPO
+| hpoId = HP:0040216
+| 名称 = Hypoinsulinemia
+| 定义 = A decreased concentration of insulin in the blood.
+| 中文译名 = 低胰岛素血症
+| 中文定义 = 血中胰岛素水平降低。
+}}
+
+==[[HP:0100000]]==
+{{Infobox HPO
+| hpoId = HP:0100000
+| 名称 = Early onset of sexual maturation
+| 定义 = An early onset of puberty, in this case early does not refer to precocious.
+| 中文译名 = 早发性成熟
+| 中文定义 = 青春期开始得早，在这种情况下，早发不是指早熟。
+}}
+
+
+==[[HP:0100028]]==
+{{Infobox HPO
+| hpoId = HP:0100028
+| 名称 = Ectopic thyroid
+| 定义 = "Mislocalised" (PATO:0000628) "thyroid gland" (FMA:9603).
+| 中文译名 = 异位甲状腺
+| 中文定义 = 甲状腺位置异常。
+}}
+
+==[[HP:0100029]]==
+{{Infobox HPO
+| hpoId = HP:0100029
+| 名称 = Lingual thyroid
+| 定义 = An aberrant thyroid gland or "Ectopic thyroid" (HP:0100028) located at the base of the tongue (FMA:54645), just posterior to the foramen cecum as a result of a failure of the thyroid to descend.
+| 中文译名 = 舌部甲状腺
+| 中文定义 = 异位的甲状腺(HP:0100028)，位于舌根，舌盲孔的后面，由于甲状腺未能下降导致。
+}}
+
+==[[HP:0100030]]==
+{{Infobox HPO
+| hpoId = HP:0100030
+| 名称 = Accessory ectopic thyroid tissue
+| 定义 = Accessory ectopic thyroid tissue arising from remnants of the thyroglossal duct anywhere along the path of the thyroglossal duct tract.
+| 中文译名 = 异位的副甲状腺组织
+| 中文定义 = 异位的副甲状腺组织可来自于沿甲状舌管路径的任何地方的甲状舌管残余。
+}}
+
+==[[HP:0100031]]==
+{{Infobox HPO
+| hpoId = HP:0100031
+| 名称 = Neoplasm of the thyroid gland
+| 定义 = The presence of a "neoplasm" (MPATH:218) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺肿瘤
+| 中文定义 = 甲状腺肿瘤。
+}}
+
+==[[HP:0100521]]==
+{{Infobox HPO
+| hpoId = HP:0100521
+| 名称 = Neoplasm of the thymus
+| 定义 = A benign or malignant "neoplasm" (MPATH:218) (tumour) originating in the "thymus" (FMA:9607).
+| 中文译名 = 胸腺瘤
+| 中文定义 = 起源于胸腺的良或恶性肿瘤（FMA:9607）。
+}}
+
+==[[HP:0100522]]==
+{{Infobox HPO
+| hpoId = HP:0100522
+| 名称 = Thymoma
+| 定义 = A tumor originating from the epithelial cells of the "thymus" (FMA:9607).
+| 中文译名 = 胸腺瘤
+| 中文定义 = 胸腺上皮细胞起源的肿瘤（FMA:9607）。
+}}
+
+==[[HP:0100568]]==
+{{Infobox HPO
+| hpoId = HP:0100568
+| 名称 = Neoplasm of the endocrine system
+| 定义 = The presence of a "neoplasm" (MPATH:218) (tumour) in the "endocrine system" (FMA:9668).
+| 中文译名 = 内分泌系统的肿瘤
+| 中文定义 = 内分泌系统的肿瘤。
+}}
+
+==[[HP:0100570]]==
+{{Infobox HPO
+| hpoId = HP:0100570
+| 名称 = Carcinoid
+| 定义 = A tumor formed from the endocrine (argentaffin) cells of the mucosal lining of a variety of organs including the stomach and intestine. These cells are from neuroectodermal origin.
+| 中文译名 = 类癌
+| 中文定义 = 由各种器官如胃和肠的粘膜内层的内分泌（嗜银）细胞形成的肿瘤。这些细胞来源于神经外胚层。
+}}
+
+==[[HP:0100607]]==
+{{Infobox HPO
+| hpoId = HP:0100607
+| 名称 = Dysmenorrhea
+| 定义 = #####
+| 中文译名 = 痛经
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100608]]==
+{{Infobox HPO
+| hpoId = HP:0100608
+| 名称 = Metrorrhagia
+| 定义 = #####
+| 中文译名 = 子宫出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100631]]==
+{{Infobox HPO
+| hpoId = HP:0100631
+| 名称 = Neoplasm of the adrenal gland
+| 定义 = The presence of a "neoplasm" (MPATH:218) of the "adrenal gland" (FMA:9604).
+| 中文译名 = 肾上腺肿瘤
+| 中文定义 = 肾上腺肿瘤。
+}}
+
+==[[HP:0100634]]==
+{{Infobox HPO
+| hpoId = HP:0100634
+| 名称 = Neuroendocrine neoplasm
+| 定义 = #####
+| 中文译名 = 神经内分泌肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100635]]==
+{{Infobox HPO
+| hpoId = HP:0100635
+| 名称 = Carotid paraganglioma
+| 定义 = A paraganglioma (a  neuroendocrine neoplasm) originating in a carotid artery.
+| 中文译名 = 颈动脉副神经节瘤
+| 中文定义 = 起源于颈动脉的副神经节瘤（神经内分泌肿瘤）。
+}}
+
+
+==[[HP:0100636]]==
+{{Infobox HPO
+| hpoId = HP:0100636
+| 名称 = Pulmonary paraglioma
+| 定义 = #####
+| 中文译名 = 肺副神经节瘤
+| 中文定义 = #####
+}}
+
+==[[HP:0100641]]==
+{{Infobox HPO
+| hpoId = HP:0100641
+| 名称 = Neoplasm of the adrenal cortex
+| 定义 = The presence of a "neoplasm" (MPATH:218) of the "adrenal cortex" (FMA:15632).
+| 中文译名 = 肾上腺皮质肿瘤
+| 中文定义 = 肾上腺皮质肿瘤。
+}}
+
+==[[HP:0100642]]==
+{{Infobox HPO
+| hpoId = HP:0100642
+| 名称 = Neoplasm of the adrenal medulla
+| 定义 = The presence of a "neoplasm" (MPATH:218) of the "adrenal medulla" (FMA:15633).
+| 中文译名 = 肾上腺髓质肿瘤
+| 中文定义 = 肾上腺髓质肿瘤。
+}}
+
+==[[HP:0100646]]==
+{{Infobox HPO
+| hpoId = HP:0100646
+| 名称 = Thyroiditis
+| 定义 = "Inflammation" (MPATH:212) of the "thyroid gland" (FMA:9603).
+| 中文译名 = 甲状腺炎
+| 中文定义 = 甲状腺的炎症。
+}}
+
+==[[HP:0100647]]==
+{{Infobox HPO
+| hpoId = HP:0100647
+| 名称 = Graves disease
+| 定义 = An autoimmune disease where the thyroid is overactive, producing an excessive amount of thyroid hormones (a serious metabolic imbalance known as hyperthyroidism and thyrotoxicosis). This is caused by autoantibodies to the TSH-receptor (TSHR-Ab) that activate that TSH-receptor (TSHR), thereby stimulating thyroid hormone synthesis and secretion, and thyroid growth (causing a diffusely enlarged goiter). The resulting state of hyperthyroidism can cause a dramatic constellation of neuropsychological and physical signs and symptoms, which can severely compromise the patients.
+| 中文译名 = Graves病
+| 中文定义 = 一种自身免疫性疾病，其中甲状腺过度活跃，产生过量的甲状腺激素（导致严重代谢失衡称为甲状腺功能亢进和甲状腺毒症）。这是由于抗TSH受体的自身抗体（TSHR-Ab）激活TSH受体（TSHR），从而刺激甲状腺激素合成和分泌，以及甲状腺生长（导致弥漫性甲状腺肿）引起的。甲状腺功能亢进症可引起神经心理和生理症状和体征，会严重影响患者健康。
+}}
+
+==[[HP:0100651]]==
+{{Infobox HPO
+| hpoId = HP:0100651
+| 名称 = Type I diabetes mellitus
+| 定义 = A chronic condition in which the pancreas produces little or no insulin. Type I diabetes mellitus is manifested by the sudden onset of severe hyperglycemia with rapid progression to diabetic ketoacidosis unless treated with insulin.
+| 中文译名 = 1型糖尿病
+| 中文定义 = 一种胰腺不产生或产生很少胰岛素的慢性病症。1型糖尿病发病突然，特点是严重的高血糖，若不使用胰岛素治疗，即迅速发展为糖尿病酮症酸中毒。
+}}
+
+==[[HP:0100733]]==
+{{Infobox HPO
+| hpoId = HP:0100733
+| 名称 = Neoplasm of the parathyroid gland
+| 定义 = The presence of a "neoplasm" (MPATH:218) (tumour) in the "parathyroid gland" (FMA:13890).
+| 中文译名 = 甲状旁腺肿瘤
+| 中文定义 = 甲状旁腺肿瘤。
+}}
+
+==[[HP:0100805]]==
+{{Infobox HPO
+| hpoId = HP:0100805
+| 名称 = Precocious menopause
+| 定义 = #####
+| 中文译名 = 过早闭经
+| 中文定义 = #####
+}}
+
+
+==[[HP:0400007]]==
+{{Infobox HPO
+| hpoId = HP:0400007
+| 名称 = Polymenorrhea
+| 定义 = Frequent menses; menstrual cycles lasting less than 21 days.
+| 中文译名 = 月经过频
+| 中文定义 = 月经频繁；月经周期少于21天。
+}}
+
+==[[HP:0400008]]==
+{{Infobox HPO
+| hpoId = HP:0400008
+| 名称 = Menometrorrhagia
+| 定义 = Prolonged/excessive menses and bleeding at irregular intervals.
+| 中文译名 = 月经过多
+| 中文定义 = 持续的/过多的月经与不规则周期性出血。
+}}

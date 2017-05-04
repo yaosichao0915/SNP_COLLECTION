@@ -1,0 +1,32 @@
+<accesscontrol>审核人:胸腔异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=胸腔异常(3条目)=
+
+
+==[[HP:0045026]]==
+{{Infobox HPO
+| hpoId = HP:0045026
+| 名称 = Abnormality of the mediastinum
+| 定义 = #####
+| 中文译名 = 纵膈异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045027]]==
+{{Infobox HPO
+| hpoId = HP:0045027
+| 名称 = Abnormality of the thoracic cavity
+| 定义 = #####
+| 中文译名 = 胸廓异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100721]]==
+{{Infobox HPO
+| hpoId = HP:0100721
+| 名称 = Mediastinal lymphadenopathy
+| 定义 = Swelling of lymph nodes within the mediastinum, the central compartment of the thoracic cavities that contains the heart and the great vessels, the esophagus, and trachea and other structures including lymph nodes.
+| 中文译名 = 纵膈淋巴结病
+| 中文定义 = 纵膈中淋巴结肿胀。纵膈为胸腔中央分隔，包含心脏和大血管、食道、气管及其他结构，包括淋巴结。
+}}

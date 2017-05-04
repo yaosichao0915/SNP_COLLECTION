@@ -1,0 +1,282 @@
+<accesscontrol>审核人:乳房异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=乳房异常(28条目)=
+
+
+==[[HP:0000769]]==
+{{Infobox HPO
+| hpoId = HP:0000769
+| 名称 = Abnormality of the breast
+| 定义 = An abnormality of the `breast` (FMA:9601).
+| 中文译名 = 乳房异常
+| 中文定义 = 乳房（FMA:9601）的异常。
+}}
+
+
+==[[HP:0000771]]==
+{{Infobox HPO
+| hpoId = HP:0000771
+| 名称 = Gynecomastia
+| 定义 = Abnormal development of large mammary glands in males resulting in breast enlargement.
+| 中文译名 = 男子女性乳房发育
+| 中文定义 = 因性发育异常所致的男性乳腺异常增大。
+}}
+
+
+==[[HP:0002557]]==
+{{Infobox HPO
+| hpoId = HP:0002557
+| 名称 = Hypoplastic nipples
+| 定义 = Underdevelopment of the `nipple` (FMA:67771).
+| 中文译名 = 乳头发育不良
+| 中文定义 = 乳头（FMA:67771）不发育。
+}}
+
+
+==[[HP:0002558]]==
+{{Infobox HPO
+| hpoId = HP:0002558
+| 名称 = Supernumerary nipples
+| 定义 = Presence of more than two nipples.
+| 中文译名 = 多乳头
+| 中文定义 = 存在两个以上的乳头。
+}}
+
+
+==[[HP:0002561]]==
+{{Infobox HPO
+| hpoId = HP:0002561
+| 名称 = Absent nipples
+| 定义 = #####
+| 中文译名 = 乳头缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002562]]==
+{{Infobox HPO
+| hpoId = HP:0002562
+| 名称 = Low-set nipples
+| 定义 = Placement of the nipples at a lower than normal location.
+| 中文译名 = 乳头低位
+| 中文定义 = 乳头位置比正常位置低。
+}}
+
+
+==[[HP:0003002]]==
+{{Infobox HPO
+| hpoId = HP:0003002
+| 名称 = Breast carcinoma
+| 定义 = The presence of a `carcinoma` (MPATH:549) of the `breast` (FMA:9601).
+| 中文译名 = 乳腺癌
+| 中文定义 = 发在乳房（FMA:9601）的一种癌症（549的mpath）。
+}}
+
+
+==[[HP:0003186]]==
+{{Infobox HPO
+| hpoId = HP:0003186
+| 名称 = Inverted nipples
+| 定义 = The presence of nipples that instead of pointing outward are retracted inwards.
+| 中文译名 = 乳头内陷
+| 中文定义 = 乳头不是凸向外而是内陷。
+}}
+
+
+==[[HP:0003187]]==
+{{Infobox HPO
+| hpoId = HP:0003187
+| 名称 = Breast hypoplasia
+| 定义 = Underdevelopment of the `breast` (FMA:9601).
+| 中文译名 = 乳房发育不良
+| 中文定义 = 乳房（FMA:9601）不发达。
+}}
+
+
+==[[HP:0004404]]==
+{{Infobox HPO
+| hpoId = HP:0004404
+| 名称 = Abnormality of the nipple
+| 定义 = An abnormality of the `nipple` (FMA:67771).
+| 中文译名 = 乳头异常
+| 中文定义 = 发生在乳头（FMA:67771）的异常。
+}}
+
+
+==[[HP:0004405]]==
+{{Infobox HPO
+| hpoId = HP:0004405
+| 名称 = Prominent nipples
+| 定义 = #####
+| 中文译名 = 乳头凸出
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006610]]==
+{{Infobox HPO
+| hpoId = HP:0006610
+| 名称 = Wide intermamillary distance
+| 定义 = A larger than usual distance between the left and right nipple.
+| 中文译名 = 乳头间距宽
+| 中文定义 = 左右乳头之间距离比通常远。
+}}
+
+
+==[[HP:0006625]]==
+{{Infobox HPO
+| hpoId = HP:0006625
+| 名称 = Multifocal breast carcinoma
+| 定义 = Breast carcinoma that is bilateral or otherwise multifocal.
+| 中文译名 = 多灶性乳腺癌
+| 中文定义 = 乳腺癌是双侧或多发性。
+}}
+
+
+==[[HP:0006709]]==
+{{Infobox HPO
+| hpoId = HP:0006709
+| 名称 = aplasia/Hypoplasia of the nipples
+| 定义 = #####
+| 中文译名 = 乳头发育不全/不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010311]]==
+{{Infobox HPO
+| hpoId = HP:0010311
+| 名称 = aplasia/Hypoplasia of the breasts
+| 定义 = Absence or underdevelopment of the breasts.
+| 中文译名 = 乳房发育不全/不良
+| 中文定义 = 无乳房或乳房欠发达。
+}}
+
+
+==[[HP:0010312]]==
+{{Infobox HPO
+| hpoId = HP:0010312
+| 名称 = Asymmetry of the breasts
+| 定义 = The presence of `asymmetrical` (PATO:0000616) `breasts` (FMA:9601).
+| 中文译名 = 乳房不对称
+| 中文定义 = 乳房（FMA:9601）不对称（PATO:0000616）。
+}}
+
+
+==[[HP:0010313]]==
+{{Infobox HPO
+| hpoId = HP:0010313
+| 名称 = Breast hypertrophy
+| 定义 = The presence of `hypertrophy` (MPATH:159) of the `breast` (FMA:9601).
+| 中文译名 = 乳房肥大
+| 中文定义 = 乳房（FMA:9601）肥大（MPATH：159）。
+}}
+
+
+==[[HP:0010619]]==
+{{Infobox HPO
+| hpoId = HP:0010619
+| 名称 = Fibroma of the breast
+| 定义 = The presence of a `fibroma` (MPATH:407) of the `breast` (FMA:9601).
+| 中文译名 = 乳腺纤维瘤
+| 中文定义 = 发生在乳房（FMA:9601）的纤维瘤（MPATH：407）。
+}}
+
+
+==[[HP:0012813]]==
+{{Infobox HPO
+| hpoId = HP:0012813
+| 名称 = Unilateral breast hypoplasia
+| 定义 = Underdevelopment of the `breast` (FMA:9601) on one side only.
+| 中文译名 = 单侧乳房发育不良
+| 中文定义 = 只有一侧的乳房（FMA:9601）欠发达。
+}}
+
+
+==[[HP:0012814]]==
+{{Infobox HPO
+| hpoId = HP:0012814
+| 名称 = Bilateral breast hypoplasia
+| 定义 = Underdevelopment of the `breast` (FMA:9601) on both sides.
+| 中文译名 = 双侧乳房发育不良
+| 中文定义 = 两侧的乳房（FMA:9601）都欠发达。
+}}
+
+
+==[[HP:0030075]]==
+{{Infobox HPO
+| hpoId = HP:0030075
+| 名称 = Ductal carcinoma in situ
+| 定义 = Presence of abnormal cells inside a milk duct, that is, non-invasive breast cancer. Ductal carcinoma in situ is considered to be a precursor lesion to invasive breast cancer.
+| 中文译名 = 导管原位癌
+| 中文定义 = 在乳腺管里存在异常细胞，即非侵袭性乳腺癌。导管原位癌被认为是侵袭性乳腺癌的前驱性损伤。
+}}
+
+
+==[[HP:0030076]]==
+{{Infobox HPO
+| hpoId = HP:0030076
+| 名称 = Lobular carcinoma in situ
+| 定义 = #####
+| 中文译名 = 小叶原位癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040157]]==
+{{Infobox HPO
+| hpoId = HP:0040157
+| 名称 = Abnormal intermamillary distance
+| 定义 = #####
+| 中文译名 = 乳头间距异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040158]]==
+{{Infobox HPO
+| hpoId = HP:0040158
+| 名称 = Short intermamillary distance
+| 定义 = #####
+| 中文译名 = 乳头间距短
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100013]]==
+{{Infobox HPO
+| hpoId = HP:0100013
+| 名称 = Neoplasm of the breast
+| 定义 = A `neoplasm` (MPATH:218) of the `breast` (FMA:9601).
+| 中文译名 = 乳腺肿瘤
+| 中文定义 = 在乳房（FMA:9601）发生的肿瘤（MPATH：218）。
+}}
+
+
+==[[HP:0100783]]==
+{{Infobox HPO
+| hpoId = HP:0100783
+| 名称 = Breast aplasia
+| 定义 = #####
+| 中文译名 = 乳房发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100829]]==
+{{Infobox HPO
+| hpoId = HP:0100829
+| 名称 = Galactorrhea
+| 定义 = Spontaneous flow of milk from the breast, unassociated with childbirth or nursing.
+| 中文译名 = 溢乳
+| 中文定义 = 乳汁从乳房自发流出，与分娩或哺乳无关联。
+}}
+
+
+==[[HP:0100853]]==
+{{Infobox HPO
+| hpoId = HP:0100853
+| 名称 = Hypoplastic areola
+| 定义 = Underdevelopment of the `areola` (FMA:67796), the circular area of pigmented skin surrounding the nipple.
+| 中文译名 = 乳晕发育不良
+| 中文定义 = 乳晕（FMA:67796）欠发达，乳晕是围绕乳头的色素性皮肤圆形区域。
+}}

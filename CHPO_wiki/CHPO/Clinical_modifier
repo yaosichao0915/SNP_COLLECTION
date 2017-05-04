@@ -1,0 +1,529 @@
+<accesscontrol>审核人:临床调节因素,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=临床调节因素(54条目)=
+
+
+==[[HP:0003577]]==
+{{Infobox HPO
+| hpoId = HP:0003577
+| 名称 = Congenital onset
+| 定义 = A phenotypic abnormality that is present at birth.
+| 中文译名 = 出生时发病
+| 中文定义 = #####
+}}
+
+==[[HP:0003581]]==
+{{Infobox HPO
+| hpoId = HP:0003581
+| 名称 = Adult onset
+| 定义 = Onset of disease manifestations in adulthood, defined here as at the age of 16 years or later.
+| 中文译名 = 成年发病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003584]]==
+{{Infobox HPO
+| hpoId = HP:0003584
+| 名称 = Late onset
+| 定义 = A type of adult onset with onset of symptoms after the age of 60 years.
+| 中文译名 = 老年时发病
+| 中文定义 = #####
+}}
+
+==[[HP:0003587]]==
+{{Infobox HPO
+| hpoId = HP:0003587
+| 名称 = Insidious onset
+| 定义 = Gradual, very slow onset of disease manifestations.
+| 中文译名 = 起病隐袭
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003593]]==
+{{Infobox HPO
+| hpoId = HP:0003593
+| 名称 = Infantile onset
+| 定义 = Onset of signs or symptoms of disease between 28 days to one year of life.
+| 中文译名 = 婴儿期发病
+| 中文定义 = #####
+}}
+
+==[[HP:0003596]]==
+{{Infobox HPO
+| hpoId = HP:0003596
+| 名称 = Middle age onset
+| 定义 = A type of adult onset with onset of symptoms at the age of 40 to 60 years.
+| 中文译名 = 中年发病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003621]]==
+{{Infobox HPO
+| hpoId = HP:0003621
+| 名称 = Juvenile onset
+| 定义 = Onset of signs or symptoms of disease between the age of 5 and 15 years.
+| 中文译名 = 青少年期发病
+| 中文定义 = #####
+}}
+
+==[[HP:0003623]]==
+{{Infobox HPO
+| hpoId = HP:0003623
+| 名称 = Neonatal onset
+| 定义 = Onset of signs or symptoms of disease within the first 28 days of life.
+| 中文译名 = 新生儿期发病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003674]]==
+{{Infobox HPO
+| hpoId = HP:0003674
+| 名称 = Onset
+| 定义 = The age group in which disease manifestations appear.
+| 中文译名 = 发病期
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003676]]==
+{{Infobox HPO
+| hpoId = HP:0003676
+| 名称 = Progressive
+| 定义 = #####
+| 中文译名 = 进行性/渐进性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003677]]==
+{{Infobox HPO
+| hpoId = HP:0003677
+| 名称 = Slow progression
+| 定义 = #####
+| 中文译名 = 进程缓慢
+| 中文定义 = #####
+}}
+
+==[[HP:0003678]]==
+{{Infobox HPO
+| hpoId = HP:0003678
+| 名称 = Rapidly progressive
+| 定义 = #####
+| 中文译名 = 进程迅速
+| 中文定义 = #####
+}}
+
+==[[HP:0003679]]==
+{{Infobox HPO
+| hpoId = HP:0003679
+| 名称 = Pace of progression
+| 定义 = #####
+| 中文译名 = 进展速度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003680]]==
+{{Infobox HPO
+| hpoId = HP:0003680
+| 名称 = Nonprogressive
+| 定义 = #####
+| 中文译名 = 非进行性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003682]]==
+{{Infobox HPO
+| hpoId = HP:0003682
+| 名称 = Variable progression rate
+| 定义 = #####
+| 中文译名 = 进程不规律
+| 中文定义 = #####
+}}
+
+==[[HP:0003812]]==
+{{Infobox HPO
+| hpoId = HP:0003812
+| 名称 = Phenotypic variability
+| 定义 = A variability of phenotypic features.
+| 中文译名 = 表型多样性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003828]]==
+{{Infobox HPO
+| hpoId = HP:0003828
+| 名称 = Variable expressivity
+| 定义 = A variable severity of phenotypic features.
+| 中文译名 = 表现度差异
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003829]]==
+{{Infobox HPO
+| hpoId = HP:0003829
+| 名称 = Incomplete penetrance
+| 定义 = A situation in which mutation carriers do not show clinically evident phenotypic abnormalities.
+| 中文译名 = 外显不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003831]]==
+{{Infobox HPO
+| hpoId = HP:0003831
+| 名称 = Age-dependent penetrance
+| 定义 = A situation in which phenotypic abnormalities become evident with age.
+| 中文译名 = 年龄相关性的外显率
+| 中文定义 = #####
+}}
+
+==[[HP:0011008]]==
+{{Infobox HPO
+| hpoId = HP:0011008
+| 名称 = Temporal pattern
+| 定义 = The speed at which disease manifestations appear and develop.
+| 中文译名 = 疾病进展的时限性
+| 中文定义 = #####
+}}
+
+==[[HP:0011009]]==
+{{Infobox HPO
+| hpoId = HP:0011009
+| 名称 = Acute
+| 定义 = Sudden appearance of disease manifestations over a short period of time.
+| 中文译名 = 急性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011010]]==
+{{Infobox HPO
+| hpoId = HP:0011010
+| 名称 = Chronic
+| 定义 = Slow, creeping onset, slow progress and long continuance of disease manifestations.
+| 中文译名 = 慢性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011011]]==
+{{Infobox HPO
+| hpoId = HP:0011011
+| 名称 = Subacute
+| 定义 = Somewhat rapid onset and change of disease manifestations.
+| 中文译名 = 亚急性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011460]]==
+{{Infobox HPO
+| hpoId = HP:0011460
+| 名称 = Embryonal onset
+| 定义 = Onset of disease at up to 8 weeks of gestation.
+| 中文译名 = 胚胎发病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011461]]==
+{{Infobox HPO
+| hpoId = HP:0011461
+| 名称 = Fetal onset
+| 定义 = Onset prior to birth but after 8 weeks of gestation.
+| 中文译名 = 胎儿发病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011462]]==
+{{Infobox HPO
+| hpoId = HP:0011462
+| 名称 = Young adult onset
+| 定义 = Onset of disease at the age of between 16 and 40 years.
+| 中文译名 = 青年发病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011463]]==
+{{Infobox HPO
+| hpoId = HP:0011463
+| 名称 = Childhood onset
+| 定义 = Onset of disease at the age of between 1 and 5 years.
+| 中文译名 = 儿童期发病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012823]]==
+{{Infobox HPO
+| hpoId = HP:0012823
+| 名称 = Clinical modifier
+| 定义 = This subontology is designed to provide terms to characterize and specify the phenotypic abnormalities defined in the Phenotypic abnormality subontology, with respect to severity, laterality, age of onset, and other aspects.
+| 中文译名 = 临床调节因素
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012824]]==
+{{Infobox HPO
+| hpoId = HP:0012824
+| 名称 = Severity
+| 定义 = The intensity or degree of a manifestation.
+| 中文译名 = 严重程度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012825]]==
+{{Infobox HPO
+| hpoId = HP:0012825
+| 名称 = Mild
+| 定义 = Having a relatively minor degree of severity. For quantitative traits, a deviation of between two and three standard deviations from the appropriate population mean.
+| 中文译名 = 轻度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012826]]==
+{{Infobox HPO
+| hpoId = HP:0012826
+| 名称 = Moderate
+| 定义 = Having a medium degree of severity. For quantitative traits, a deviation of between three and four standard deviations from the appropriate population mean.
+| 中文译名 = 中度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012827]]==
+{{Infobox HPO
+| hpoId = HP:0012827
+| 名称 = Borderline
+| 定义 = Having a minor degree of severity that is considered to be on the boundary between the normal and the abnormal ranges. For quantitative traits, a deviation of that is less than two standard deviations from the appropriate population mean.
+| 中文译名 = 正常范围分界限
+| 中文定义 = #####
+}}
+
+==[[HP:0012828]]==
+{{Infobox HPO
+| hpoId = HP:0012828
+| 名称 = Severe
+| 定义 = Having a high degree of severity. For quantitative traits, a deviation of between four and five standard deviations from the appropriate population mean.
+| 中文译名 = 重度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012829]]==
+{{Infobox HPO
+| hpoId = HP:0012829
+| 名称 = Profound
+| 定义 = Having an extremely high degree of severity. For quantitative traits, a deviation of more than five standard deviations from the appropriate population mean.
+| 中文译名 = 非常严重
+| 中文定义 = #####
+}}
+
+==[[HP:0012830]]==
+{{Infobox HPO
+| hpoId = HP:0012830
+| 名称 = Position
+| 定义 = The anatomical localization of the specified phenotypic abnormality.
+| 中文译名 = 位置
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012831]]==
+{{Infobox HPO
+| hpoId = HP:0012831
+| 名称 = Laterality
+| 定义 = The localization with respect to the side of the body of the specified phenotypic abnormality.
+| 中文译名 = 偏侧性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012832]]==
+{{Infobox HPO
+| hpoId = HP:0012832
+| 名称 = Bilateral
+| 定义 = Being present on both sides of the body.
+| 中文译名 = 双侧
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012833]]==
+{{Infobox HPO
+| hpoId = HP:0012833
+| 名称 = Unilateral
+| 定义 = Being present on only the left or only the right side of the body.
+| 中文译名 = 单侧
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012834]]==
+{{Infobox HPO
+| hpoId = HP:0012834
+| 名称 = Right
+| 定义 = Being located on the right side of the body.
+| 中文译名 = 右侧
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012835]]==
+{{Infobox HPO
+| hpoId = HP:0012835
+| 名称 = Left
+| 定义 = Being located on the left side of the body.
+| 中文译名 = 左侧
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012836]]==
+{{Infobox HPO
+| hpoId = HP:0012836
+| 名称 = Spatial pattern
+| 定义 = The pattern by which a phenotype affects one or more regions of the body.
+| 中文译名 = 疾病表现的肢体分部
+| 中文定义 = #####
+}}
+
+==[[HP:0012837]]==
+{{Infobox HPO
+| hpoId = HP:0012837
+| 名称 = Generalized
+| 定义 = Affecting all regions without specificity of distribution.
+| 中文译名 = 全身性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012838]]==
+{{Infobox HPO
+| hpoId = HP:0012838
+| 名称 = Localized
+| 定义 = Being confined or restricted to a particular location.
+| 中文译名 = 局部性
+| 中文定义 = #####
+}}
+
+==[[HP:0012839]]==
+{{Infobox HPO
+| hpoId = HP:0012839
+| 名称 = Distal
+| 定义 = Localized away from the central point of the body.
+| 中文译名 = 远端
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012840]]==
+{{Infobox HPO
+| hpoId = HP:0012840
+| 名称 = Proximal
+| 定义 = Localized close to the central point of the body.
+| 中文译名 = 近端
+| 中文定义 = #####
+}}
+
+
+==[[HP:0020034]]==
+{{Infobox HPO
+| hpoId = HP:0020034
+| 名称 = Diffuse
+| 定义 = A spatial pattern that is spread out, i.e., not localized.
+| 中文译名 = 弥漫性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030645]]==
+{{Infobox HPO
+| hpoId = HP:0030645
+| 名称 = Central
+| 定义 = #####
+| 中文译名 = 中心
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030646]]==
+{{Infobox HPO
+| hpoId = HP:0030646
+| 名称 = Peripheral
+| 定义 = #####
+| 中文译名 = 周边
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030647]]==
+{{Infobox HPO
+| hpoId = HP:0030647
+| 名称 = Paracentral
+| 定义 = #####
+| 中文译名 = 近中心
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030648]]==
+{{Infobox HPO
+| hpoId = HP:0030648
+| 名称 = Midperipheral
+| 定义 = #####
+| 中文译名 = 周边中部
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030649]]==
+{{Infobox HPO
+| hpoId = HP:0030649
+| 名称 = Pericentral
+| 定义 = #####
+| 中文译名 = 中心周边
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030650]]==
+{{Infobox HPO
+| hpoId = HP:0030650
+| 名称 = Focal
+| 定义 = #####
+| 中文译名 = 局灶性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030651]]==
+{{Infobox HPO
+| hpoId = HP:0030651
+| 名称 = Multifocal
+| 定义 = #####
+| 中文译名 = 多灶性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030674]]==
+{{Infobox HPO
+| hpoId = HP:0030674
+| 名称 = Antenatal onset
+| 定义 = Onset prior to birth.
+| 中文译名 = 出生前发病
+| 中文定义 = #####
+}}

@@ -1,0 +1,1 @@
+http://wiki.chinahpo.org/api.php?action=query&titles=HP:0000023

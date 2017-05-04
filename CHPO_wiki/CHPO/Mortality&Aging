@@ -1,0 +1,90 @@
+<accesscontrol>审核人:死亡/衰老,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=死亡/衰老(9条目)=
+
+
+==[[HP:0001522]]==
+{{Infobox HPO
+| hpoId = HP:0001522
+| 名称 = Death in infancy
+| 定义 = Death within the first 24 months of life.
+| 中文译名 = 婴儿期夭折
+| 中文定义 = #####
+}}
+
+==[[HP:0001699]]==
+{{Infobox HPO
+| hpoId = HP:0001699
+| 名称 = Sudden death
+| 定义 = Rapid and unexpected death.
+| 中文译名 = 猝死
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003811]]==
+{{Infobox HPO
+| hpoId = HP:0003811
+| 名称 = Neonatal death
+| 定义 = Death within the first 28 days of life.
+| 中文译名 = 新生儿期夭折
+| 中文定义 = #####
+}}
+
+==[[HP:0003819]]==
+{{Infobox HPO
+| hpoId = HP:0003819
+| 名称 = Death in childhood
+| 定义 = Death in during childhood, defined here as between the ages of 2 and 10 years.
+| 中文译名 = 儿童期死亡
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003826]]==
+{{Infobox HPO
+| hpoId = HP:0003826
+| 名称 = Stillbirth
+| 定义 = Death of the fetus in utero after at least 20 weeks of gestation.
+| 中文译名 = 死胎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011420]]==
+{{Infobox HPO
+| hpoId = HP:0011420
+| 名称 = Age of death
+| 定义 = The age group when the cessation of life happens.
+| 中文译名 = 死亡年龄
+| 中文定义 = #####
+}}
+
+
+==[[HP:0011421]]==
+{{Infobox HPO
+| hpoId = HP:0011421
+| 名称 = Death in adolescence
+| 定义 = Death during adolescence, the period between childhood and adulthood (roughly between the ages of 10 and 19 years).
+| 中文译名 = 青春期死亡
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040006]]==
+{{Infobox HPO
+| hpoId = HP:0040006
+| 名称 = Mortality/Aging
+| 定义 = #####
+| 中文译名 = 死亡/衰老
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100613]]==
+{{Infobox HPO
+| hpoId = HP:0100613
+| 名称 = Death in early adulthood
+| 定义 = Death between the age of 16 and 40 years.
+| 中文译名 = 成年早期死亡
+| 中文定义 = #####
+}}

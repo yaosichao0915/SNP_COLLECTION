@@ -1,0 +1,5358 @@
+<accesscontrol>审核人:肌肉组织异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=肌肉组织异常(564条目)=
+
+
+==[[HP:0000158]]==
+{{Infobox HPO
+| hpoId = HP:0000158
+| 名称 = Macroglossia
+| 定义 = Increased length and width of the tongue.
+| 中文译名 = 巨舌症
+| 中文定义 = 舌头的长度和宽度增加。
+}}
+
+==[[HP:0000297]]==
+{{Infobox HPO
+| hpoId = HP:0000297
+| 名称 = Facial hypotonia
+| 定义 = Reduced muscle tone of a muscle that is innervated by the facial nerve (the seventh cranial nerve).
+| 中文译名 = 面部肌张力低下
+| 中文定义 = 由面神经（第七脑神经）支配的肌肉张力下降。
+}}
+
+==[[HP:0000301]]==
+{{Infobox HPO
+| hpoId = HP:0000301
+| 名称 = Abnormality of facial musculature
+| 定义 = An anomaly of a muscle that is innervated by the facial nerve (the seventh cranial nerve).
+| 中文译名 = 面部肌肉异常
+| 中文定义 = 由面神经（第七脑神经）支配的肌肉异常。
+}}
+
+==[[HP:0000317]]==
+{{Infobox HPO
+| hpoId = HP:0000317
+| 名称 = Facial myokymia
+| 定义 = Facial myokymia is a fine fibrillary activity of the facial muscles.
+| 中文译名 = 面肌颤搐
+| 中文定义 = 面肌纤维颤搐是面部肌肉的细微纤丝活动。
+}}
+
+
+==[[HP:0000338]]==
+{{Infobox HPO
+| hpoId = HP:0000338
+| 名称 = Hypomimic face
+| 定义 = A reduced degree of motion of the muscles beneath the skin of the face, often associated with reduced facial crease formation.
+| 中文译名 = 面具面容
+| 中文定义 = 面部皮下肌肉的运动幅度降低，通常与面部皱纹形成减少有关。
+}}
+
+==[[HP:0000467]]==
+{{Infobox HPO
+| hpoId = HP:0000467
+| 名称 = Neck muscle weakness
+| 定义 = `Decreased strength` (PATO:0001779) of the `neck musculature` (FMA:71290).
+| 中文译名 = 颈肌无力
+| 中文定义 = 颈部肌肉组织力量减少
+}}
+
+
+==[[HP:0000473]]==
+{{Infobox HPO
+| hpoId = HP:0000473
+| 名称 = Torticollis
+| 定义 = Involuntary contractions of the `neck musculature` (FMA:71290) resulting in an abnormal posture of or abnormal movements of the head.
+| 中文译名 = 斜颈
+| 中文定义 = 颈部肌肉不自主收缩导致头部运动异常或位置异常。
+}}
+
+
+==[[HP:0000775]]==
+{{Infobox HPO
+| hpoId = HP:0000775
+| 名称 = Abnormality of the diaphragm
+| 定义 = Any abnormality of the `diaphragm` (FMA:13295).
+| 中文译名 = 膈肌异常
+| 中文定义 = 膈膜的任何异常。
+}}
+
+
+==[[HP:0000776]]==
+{{Infobox HPO
+| hpoId = HP:0000776
+| 名称 = Congenital diaphragmatic hernia
+| 定义 = The presence of a `hernia` (MPATH:75) of the `diaphragm` (FMA:13295) present at birth.
+| 中文译名 = 先天性膈疝
+| 中文定义 = 出生时即存在于“膈膜”的“疝”。
+}}
+
+
+==[[HP:0001215]]==
+{{Infobox HPO
+| hpoId = HP:0001215
+| 名称 = Camptodactyly of 2nd-5th fingers
+| 定义 = The distal interphalangeal joint and/or the proximal interphalangeal joint of the second to fifth fingers cannot be extended to 180 degrees by either active or passive extension.
+| 中文译名 = 食指至小指指弯曲
+| 中文定义 = 第二到第五手指的远端指间关节和/或近端指间关节，但无法通过主动或被动的扩展被扩展到180度。
+}}
+
+==[[HP:0001220]]==
+{{Infobox HPO
+| hpoId = HP:0001220
+| 名称 = Interphalangeal joint contracture of finger
+| 定义 = Chronic loss of joint motion in an interphalangeal joint of a finger due to structural changes in non-bony tissue.
+| 中文译名 = 指间关节挛缩
+| 中文定义 = 关节运动的手指的指间关节慢性损失，由于在非骨组织结构变化。
+}}
+
+
+==[[HP:0001227]]==
+{{Infobox HPO
+| hpoId = HP:0001227
+| 名称 = Abnormality of the thenar eminence
+| 定义 = An abnormality of the thenar eminence, i.e., of the muscle on the palm of the human hand just beneath the thumb.
+| 中文译名 = 大鱼际异常
+| 中文定义 = 大鱼际异常，大鱼际是拇指下方的手掌肌肉。
+}}
+
+
+==[[HP:0001239]]==
+{{Infobox HPO
+| hpoId = HP:0001239
+| 名称 = Wrist flexion contracture
+| 定义 = A chronic loss of wrist joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevent normal movement of the joints of the wrist.
+| 中文译名 = 腕关节屈曲挛缩
+| 中文定义 = 由于肌肉、肌腱、韧带或皮肤的结构性变化，使腕关节活动度面型丧失，妨碍了手腕关节的正常运动。
+}}
+
+
+==[[HP:0001245]]==
+{{Infobox HPO
+| hpoId = HP:0001245
+| 名称 = Small thenar eminence
+| 定义 = Underdevelopment of the thenar eminence with reduced palmar soft tissue mass surrounding the base of the thumb.
+| 中文译名 = 鱼际肌小
+| 中文定义 = 小鱼际发育不好，拇指根部手掌软组织减少。
+}}
+
+
+==[[HP:0001252]]==
+{{Infobox HPO
+| hpoId = HP:0001252
+| 名称 = Muscular hypotonia
+| 定义 = Muscular hypotonia is an abnormally low muscle tone (the amount of tension or resistance to movement in a muscle), often involving reduced muscle strength. Hypotonia is characterized by a diminished resistance to passive stretching.
+| 中文译名 = 肌张力减退
+| 中文定义 = 肌张力减退是指肌张力异常低下（张力运动或拮抗运动肌肉量），常累及肌力减退。张力减退的特征在于拮抗运动减少，以被动伸展为主。
+}}
+
+==[[HP:0001257]]==
+{{Infobox HPO
+| hpoId = HP:0001257
+| 名称 = Spasticity
+| 定义 = A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes.
+| 中文译名 = 痉挛
+| 中文定义 = 一种运动系统疾病，特征是速度依赖性牵张反射伴与肌张力增高，腱反射亢进（过度兴奋）。
+}}
+
+==[[HP:0001258]]==
+{{Infobox HPO
+| hpoId = HP:0001258
+| 名称 = Spastic paraplegia
+| 定义 = Spasticity and weakness of the leg and hip muscles.
+| 中文译名 = 痉挛性截瘫
+| 中文定义 = 痉挛状态和小腿和臀部的肌肉无力。
+}}
+
+
+==[[HP:0001264]]==
+{{Infobox HPO
+| hpoId = HP:0001264
+| 名称 = Spastic diplegia
+| 定义 = Spasticity (neuromuscular hypertonia) primarily in the muscles of the legs, hips, and pelvis.
+| 中文译名 = 痉挛性双侧瘫痪
+| 中文定义 = 痉挛（神经肌肉张力增高）主要集中在腿部，臀部和骨盆的肌肉。
+}}
+
+
+==[[HP:0001276]]==
+{{Infobox HPO
+| hpoId = HP:0001276
+| 名称 = Hypertonia
+| 定义 = A condition in which there is increased muscle tone so that arms or legs, for example, are stiff and difficult to move.
+| 中文译名 = 肌张力增高
+| 中文定义 = 一种肌张力增高的状态，以至于手臂和腿部僵硬无法运动。
+}}
+
+==[[HP:0001281]]==
+{{Infobox HPO
+| hpoId = HP:0001281
+| 名称 = Tetany
+| 定义 = A disorder characterized by muscle twitches, cramps, and carpopedal spasm, and when severe, laryngospasm and seizures. This condition is associated with unstable depolarization of axonal membranes, primarily in the peripheral nervous system.
+| 中文译名 = 手足抽搐
+| 中文定义 = 一个疾病的特点是肌肉抽搐，痉挛，及手足痉挛，严重时，出现喉痉挛和癫痫发作。这种病症与轴突膜不稳定去极化相关联，主要在周围神经系统。
+}}
+
+
+==[[HP:0001283]]==
+{{Infobox HPO
+| hpoId = HP:0001283
+| 名称 = Bulbar palsy
+| 定义 = Bulbar weakness (or bulbar palsy) refers to bilateral impairment of function of the lower cranial nerves IX, X, XI and XII, which occurs due to lower motor neuron lesion either at nuclear or fascicular level in the medulla or from bilateral lesions of the lower cranial nerves outside the brain-stem. Bulbar weakness is often associated with difficulty in chewing, weakness of the facial muscles, dysarthria, palatal weakness and regurgitation of fluids, dysphagia, and dysphonia.
+| 中文译名 = 球麻痹
+| 中文定义 = 球麻痹（或延髓麻痹）是指后组颅神经（九、十、十一和十二）双侧功能损害。延髓核或束水平的下运动神经元病变或者发自脑干的后组颅神经双侧病变时出现球麻痹。球麻痹往往与咀嚼困难，面部肌肉无力，构音障碍，软腭无力和呛咳，吞咽困难，发音困难相关。
+}}
+
+
+==[[HP:0001285]]==
+{{Infobox HPO
+| hpoId = HP:0001285
+| 名称 = Spastic tetraparesis
+| 定义 = Spastic weakness affecting all four limbs.
+| 中文译名 = 痉挛性四肢瘫
+| 中文定义 = 痉挛性无力影响到四肢。
+}}
+
+
+==[[HP:0001290]]==
+{{Infobox HPO
+| hpoId = HP:0001290
+| 名称 = Generalized hypotonia
+| 定义 = Generalized muscular hypotonia (abnormally low muscle tone).
+| 中文译名 = 全身性肌张力减低
+| 中文定义 = 广泛的肌张力减退（异常低肌张力）。
+}}
+
+
+==[[HP:0001319]]==
+{{Infobox HPO
+| hpoId = HP:0001319
+| 名称 = Neonatal hypotonia
+| 定义 = Muscular hypotonia (abnormally low muscle tone) manifesting in the neonatal period.
+| 中文译名 = 新生儿肌张力减退
+| 中文定义 = 发生在新生儿期的肌张力减退（异常低肌张力）。
+}}
+
+==[[HP:0001324]]==
+{{Infobox HPO
+| hpoId = HP:0001324
+| 名称 = Muscle weakness
+| 定义 = Reduced strength of muscles.
+| 中文译名 = 肌无力
+| 中文定义 = 肌肉强度降低。
+}}
+
+
+==[[HP:0001349]]==
+{{Infobox HPO
+| hpoId = HP:0001349
+| 名称 = Facial diplegia
+| 定义 = Facial diplegia refers to bilateral facial palsy (bilateral facial palsy is much rarer than unilateral facial palsy).
+| 中文译名 = 双侧面瘫
+| 中文定义 = 双侧面瘫指双侧面部神经麻痹（双侧面部麻痹比单侧面部麻痹更罕见许多）。
+}}
+
+
+==[[HP:0001371]]==
+{{Infobox HPO
+| hpoId = HP:0001371
+| 名称 = Flexion contracture
+| 定义 = A flexion contracture is a bent (flexed) joint that cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement of joints.
+| 中文译名 = 屈曲挛缩
+| 中文定义 = 屈曲挛缩是弯曲（弯曲）的联合，不能主动或被动拉直。它因此是关节运动的慢性损失，由于肌肉的结构变化，肌腱，韧带，或皮肤，防止关节的正常运动。
+}}
+
+
+==[[HP:0001421]]==
+{{Infobox HPO
+| hpoId = HP:0001421
+| 名称 = Abnormality of the musculature of the hand
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 手部肌肉异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001430]]==
+{{Infobox HPO
+| hpoId = HP:0001430
+| 名称 = Abnormality of the calf musculature
+| 定义 = Currently we do not have textual definition for this class.
+| 中文译名 = 小腿肌肉异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001435]]==
+{{Infobox HPO
+| hpoId = HP:0001435
+| 名称 = Abnormality of the shoulder girdle musculature
+| 定义 = Currently we do not have textual definition for this class.
+| 中文译名 = 肩胛带肌肉异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001436]]==
+{{Infobox HPO
+| hpoId = HP:0001436
+| 名称 = Abnormality of the foot musculature
+| 定义 = An anomaly of the `musculature of foot` (FMA:50214).
+| 中文译名 = 足部肌肉异常
+| 中文定义 = 足部肌肉的异常。
+}}
+
+
+==[[HP:0001437]]==
+{{Infobox HPO
+| hpoId = HP:0001437
+| 名称 = Abnormality of the musculature of the lower limbs
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 下肢肌肉异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001441]]==
+{{Infobox HPO
+| hpoId = HP:0001441
+| 名称 = Abnormality of the musculature of the thigh
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 大腿肌肉异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001443]]==
+{{Infobox HPO
+| hpoId = HP:0001443
+| 名称 = Abnormality of the gluteal musculature
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 臀肌异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001445]]==
+{{Infobox HPO
+| hpoId = HP:0001445
+| 名称 = Abnormality of the hip-girdle musculature
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 骨盆带肌异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001446]]==
+{{Infobox HPO
+| hpoId = HP:0001446
+| 名称 = Abnormality of the musculature of the upper limbs
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 上肢肌肉异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001457]]==
+{{Infobox HPO
+| hpoId = HP:0001457
+| 名称 = Abnormality of the musculature of the upper arm
+| 定义 = Currently we do not have textual definition for this class.
+| 中文译名 = 上臂肌肉异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001460]]==
+{{Infobox HPO
+| hpoId = HP:0001460
+| 名称 = aplasia/Hypoplasia involving the musculature
+| 定义 = Absence or underdevelopment of the musculature.
+| 中文译名 = 肌肉发育不全
+| 中文定义 = 肌肉组织缺失或发育不良。
+}}
+
+
+==[[HP:0001464]]==
+{{Infobox HPO
+| hpoId = HP:0001464
+| 名称 = aplasia/Hypoplasia involving the shoulder musculature
+| 定义 = Absence or underdevelopment of the muscles of the shoulder.
+| 中文译名 = 肩部肌肉发育不全
+| 中文定义 = 肩部肌肉发育低下或不发育。
+}}
+
+==[[HP:0001465]]==
+{{Infobox HPO
+| hpoId = HP:0001465
+| 名称 = Amyotrophy involving the shoulder musculature
+| 定义 = Currently we do not have textual definition for this class.
+| 中文译名 = 肩部肌肉萎缩
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001467]]==
+{{Infobox HPO
+| hpoId = HP:0001467
+| 名称 = aplasia/Hypoplasia involving the musculature of the upper limbs
+| 定义 = Absence or underdevelopment of the musculature of the upper limbs.
+| 中文译名 = 上肢肌肉发育不全
+| 中文定义 = 上肢肌肉缺失或发育低下。
+}}
+
+==[[HP:0001468]]==
+{{Infobox HPO
+| hpoId = HP:0001468
+| 名称 = aplasia/Hypoplasia involving the musculature of the upper arm
+| 定义 = Absence or underdevelopment of the muscles of the upper arm.
+| 中文译名 = 上臂肌肉发育不全
+| 中文定义 = 上臂肌肉缺失或发育低下。
+}}
+
+==[[HP:0001469]]==
+{{Infobox HPO
+| hpoId = HP:0001469
+| 名称 = Abnormality of the musculature of the pelvis
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 骨盆肌异常
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001471]]==
+{{Infobox HPO
+| hpoId = HP:0001471
+| 名称 = aplasia/Hypoplasia of the musculature of the pelvis
+| 定义 = Currently we do not have textual definition for this class. 
+| 中文译名 = 骨盆肌肉发育不全
+| 中文定义 = 目前我们没有这一类词汇的文本定义。
+}}
+
+==[[HP:0001491]]==
+{{Infobox HPO
+| hpoId = HP:0001491
+| 名称 = Congenital fibrosis of extraocular muscles
+| 定义 = Congenital non-progressive ophthalmoplegia with multiple extraocular muscle restrictions. Typically, there is ptosis and variable degrees of restriction of horizontal and vertical eye movements.
+| 中文译名 = 先天性眼外肌纤维化
+| 中文定义 = 先天性非进行性多条眼外肌麻痹。通常情况下，有下垂和不同程度的水平和垂直眼球运动的限制。
+}}
+
+
+==[[HP:0001540]]==
+{{Infobox HPO
+| hpoId = HP:0001540
+| 名称 = Diastasis recti
+| 定义 = A separation of the rectus abdominis muscle into right and left halves (which are normally joined at the midline at the linea alba).
+| 中文译名 = 腹直肌分离
+| 中文定义 = 腹直肌分离为左右两部分（它们通常在腹白线中线处连接）。
+}}
+
+
+==[[HP:0001771]]==
+{{Infobox HPO
+| hpoId = HP:0001771
+| 名称 = Achilles tendon contracture
+| 定义 = A contracture of the `Achilles tendon` (FMA:51061).
+| 中文译名 = 跟腱挛缩
+| 中文定义 = 发生在跟腱的挛缩（FMA:51061）。
+}}
+
+==[[HP:0001836]]==
+{{Infobox HPO
+| hpoId = HP:0001836
+| 名称 = Camptodactyly of toe
+| 定义 = Camptodactyly is a painless flexion contracture of the proximal interphalangeal (PIP) joint that is usually gradually progressive. This term refers to camptodactyly of one or more toes.
+| 中文译名 = 脚趾弯曲
+| 中文定义 = 屈曲是发生在近端指间关节的无痛性挛缩，往往进展缓慢。这个术语是指一个或多个脚趾的屈曲。
+}}
+
+==[[HP:0002061]]==
+{{Infobox HPO
+| hpoId = HP:0002061
+| 名称 = Lower limb spasticity
+| 定义 = A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes in the lower limbs.
+| 中文译名 = 下肢痉挛
+| 中文定义 = 特点是随着肌张力增高速度依赖的下肢牵张反射增加、腱反射亢进（高兴奋性）的运动障碍，。
+}}
+
+
+==[[HP:0002064]]==
+{{Infobox HPO
+| hpoId = HP:0002064
+| 名称 = Spastic gait
+| 定义 = #####
+| 中文译名 = 痉挛步态
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002179]]==
+{{Infobox HPO
+| hpoId = HP:0002179
+| 名称 = Opisthotonus
+| 定义 = #####
+| 中文译名 = 角弓反张
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002191]]==
+{{Infobox HPO
+| hpoId = HP:0002191
+| 名称 = Progressive spasticity
+| 定义 = Spasticity that increases in degree with time.
+| 中文译名 = 进行性痉挛
+| 中文定义 = 随着时间进行性加重的痉挛
+}}
+
+
+==[[HP:0002203]]==
+{{Infobox HPO
+| hpoId = HP:0002203
+| 名称 = Respiratory paralysis
+| 定义 = Inability to move the muscles of respiration.
+| 中文译名 = 呼吸肌麻痹
+| 中文定义 = 呼吸肌肉无法运动。
+}}
+
+
+==[[HP:0002313]]==
+{{Infobox HPO
+| hpoId = HP:0002313
+| 名称 = Spastic paraparesis
+| 定义 = #####
+| 中文译名 = 痉挛性双下肢瘫
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002355]]==
+{{Infobox HPO
+| hpoId = HP:0002355
+| 名称 = Difficulty walking
+| 定义 = Reduced ability to walk (ambulate).
+| 中文译名 = 行走困难
+| 中文定义 = 行走（走动）能力下降。
+}}
+
+
+==[[HP:0002359]]==
+{{Infobox HPO
+| hpoId = HP:0002359
+| 名称 = Frequent falls
+| 定义 = #####
+| 中文译名 = 频繁跌倒
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002421]]==
+{{Infobox HPO
+| hpoId = HP:0002421
+| 名称 = Poor head control
+| 定义 = Difficulty to maintain correct position of the head while standing or sitting.
+| 中文译名 = 头部控制能力弱
+| 中文定义 = 站或坐时很难保持头的正确位置。
+}}
+
+
+==[[HP:0002460]]==
+{{Infobox HPO
+| hpoId = HP:0002460
+| 名称 = Distal muscle weakness
+| 定义 = Reduced strength of the musculature of the distal extremities.
+| 中文译名 = 远端肌无力
+| 中文定义 = 四肢远端的肌肉强度降低。
+}}
+
+
+==[[HP:0002464]]==
+{{Infobox HPO
+| hpoId = HP:0002464
+| 名称 = Spastic dysarthria
+| 定义 = A type of dysarthria related to bilateral damage of the upper motor neuron tracts of the pyramidal and extra- pyramidal tracts. Speech of affected individuals is slow, effortful, and has a harsh vocal quality.
+| 中文译名 = 痉挛性构音障碍
+| 中文定义 = 一种与双侧上运动神经元的锥体束和锥体外束损伤相关的构音障碍。受累的个体的语言缓慢、费力而且音质刺耳。
+}}
+
+==[[HP:0002478]]==
+{{Infobox HPO
+| hpoId = HP:0002478
+| 名称 = Progressive spastic quadriplegia
+| 定义 = #####
+| 中文译名 = 进行性痉挛性四肢瘫
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002486]]==
+{{Infobox HPO
+| hpoId = HP:0002486
+| 名称 = Myotonia
+| 定义 = An involuntary and painless delay in the relaxation of skeletal muscle following contraction or electrical stimulation.
+| 中文译名 = 肌强直
+| 中文定义 = 在收缩或电刺激后发生的一种不自主的、疼痛延迟的骨骼肌松弛状态。
+}}
+
+==[[HP:0002491]]==
+{{Infobox HPO
+| hpoId = HP:0002491
+| 名称 = Spasticity of facial muscles
+| 定义 = Involuntary twitching of the facial muscles.
+| 中文译名 = 面肌痉挛
+| 中文定义 = 面部肌肉的不自主收缩。
+}}
+
+
+==[[HP:0002501]]==
+{{Infobox HPO
+| hpoId = HP:0002501
+| 名称 = Spasticity of pharyngeal muscles
+| 定义 = #####
+| 中文译名 = 喉头痉挛
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002509]]==
+{{Infobox HPO
+| hpoId = HP:0002509
+| 名称 = Limb hypertonia
+| 定义 = #####
+| 中文译名 = 肢体张力增高
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002510]]==
+{{Infobox HPO
+| hpoId = HP:0002510
+| 名称 = Spastic tetraplegia
+| 定义 = Spastic paralysis affecting all four limbs.
+| 中文译名 = 痉挛性四肢瘫
+| 中文定义 = 痉挛性瘫痪影响到四肢。
+}}
+
+
+==[[HP:0002544]]==
+{{Infobox HPO
+| hpoId = HP:0002544
+| 名称 = Retrocollis
+| 定义 = A form of `torticollis` (HP:0000473) in which the head is drawn back, either due to a permanent contractures of neck extensor muscles, or to a spasmodic contracture.
+| 中文译名 = 颈后倾
+| 中文定义 = 由于颈部伸肌持续性性或阵发性挛缩导致头部向后倾斜。
+}}
+
+
+==[[HP:0002578]]==
+{{Infobox HPO
+| hpoId = HP:0002578
+| 名称 = Gastroparesis
+| 定义 = `Decreased strength` (PATO:0001779) of the `Muscle layer of stomach` (FMA:14909), which leads to a decreased ability to empty the contents of the stomach despite the absence of obstruction.
+| 中文译名 = 胃轻瘫
+| 中文定义 = 胃部肌肉层张力降低，尽管不存在阻塞也将导致胃排空能力降低。
+}}
+
+
+==[[HP:0002601]]==
+{{Infobox HPO
+| hpoId = HP:0002601
+| 名称 = Paresis of extensor muscles of the big toe
+| 定义 = #####
+| 中文译名 = 拇趾伸肌麻痹
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002747]]==
+{{Infobox HPO
+| hpoId = HP:0002747
+| 名称 = Respiratory insufficiency due to muscle weakness
+| 定义 = #####
+| 中文译名 = 肌肉无力导致的呼吸功能不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002803]]==
+{{Infobox HPO
+| hpoId = HP:0002803
+| 名称 = Congenital contracture
+| 定义 = One or more flexion contractures (a bent joint that cannot be straightened actively or passively) that are present at birth.
+| 中文译名 = 先天性挛缩
+| 中文定义 = 出生时就表现出的一种或多种屈曲挛缩（一个弯曲的关节，不能主动或被动拉直）。
+}}
+
+==[[HP:0002804]]==
+{{Infobox HPO
+| hpoId = HP:0002804
+| 名称 = Arthrogryposis multiplex congenita
+| 定义 = A non-progressive finding characterized by multiple joint contractures found throughout the body at birth.
+| 中文译名 = 先天性多发性关节挛缩
+| 中文定义 = 一种非进行性的、以出生时全身多发关节挛缩为表现的症状。
+}}
+
+==[[HP:0002828]]==
+{{Infobox HPO
+| hpoId = HP:0002828
+| 名称 = Multiple joint contractures
+| 定义 = #####
+| 中文译名 = 多发性关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002859]]==
+{{Infobox HPO
+| hpoId = HP:0002859
+| 名称 = Rhabdomyosarcoma
+| 定义 = An aggressive and highly malignant form of cancer that develops from skeletal muscle cells that have failed to fully differentiate. It is generally considered to be a disease of childhood。
+| 中文译名 = 横纹肌肉瘤
+| 中文定义 = 一种由于骨骼肌细胞分化不全而发展成的具有侵袭性的高度恶性肿瘤，多发生于儿童期。
+}}
+
+==[[HP:0002987]]==
+{{Infobox HPO
+| hpoId = HP:0002987
+| 名称 = Elbow flexion contracture
+| 定义 = A chronic loss of elbow joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevent normal movement of the joints of the elbow.
+| 中文译名 = 肘屈曲挛缩
+| 中文定义 = 一种由于肌肉、肌腱、韧带或皮肤的结构变化导致肘关节正常运动受限而引起的肘部运动功能的慢性损失。
+}}
+
+==[[HP:0003011]]==
+{{Infobox HPO
+| hpoId = HP:0003011
+| 名称 = Abnormality of the musculature
+| 定义 = Abnormality originating in one or more muscles, i.e., of the `set of muscles of body` (FMA:72954).
+| 中文译名 = 肌肉组织异常
+| 中文定义 = 一处或多处肌肉的异常，即，“一组肌肉”。
+}}
+
+
+==[[HP:0003044]]==
+{{Infobox HPO
+| hpoId = HP:0003044
+| 名称 = Shoulder flexion contracture
+| 定义 = Chronic reduction in active and passive mobility of the shoulder joint due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement.
+| 中文译名 = 肩关节屈曲挛缩
+| 中文定义 = 由于肌肉、肌腱、韧带或皮肤的结构变化导致肩节正常运动受限而引起的慢性肩部运动（主动和被动）功能降低。
+}}
+
+==[[HP:0003089]]==
+{{Infobox HPO
+| hpoId = HP:0003089
+| 名称 = Hamstring contractures
+| 定义 = #####
+| 中文译名 = 腿筋挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003121]]==
+{{Infobox HPO
+| hpoId = HP:0003121
+| 名称 = Limb joint contracture
+| 定义 = A contracture (chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin) that prevent normal movement of one or more joints of the limbs.
+| 中文译名 = 肢体关节挛缩
+| 中文定义 = 一种阻碍一个或多个肢体关节正常运动的挛缩。（由于肌肉、肌腱、韧带或皮肤的结构变化所致的慢性关节运动功能丧失。）
+}}
+
+==[[HP:0003198]]==
+{{Infobox HPO
+| hpoId = HP:0003198
+| 名称 = Myopathy
+| 定义 = A disorder of muscle unrelated to impairment of innervation or neuromuscular junction.
+| 中文译名 = 肌病
+| 中文定义 = 一种与神经支配或神经肌肉接头处损伤无关的肌肉疾病。
+}}
+
+==[[HP:0003199]]==
+{{Infobox HPO
+| hpoId = HP:0003199
+| 名称 = Decreased muscle mass
+| 定义 = #####
+| 中文译名 = 肌肉容积减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003200]]==
+{{Infobox HPO
+| hpoId = HP:0003200
+| 名称 = Ragged-red muscle fibers
+| 定义 = An abnormal appearance of muscle fibers observed on muscle biopsy. Ragged red fibers can be visualized with Gomori trichrome staining as irregular and intensely red subsarcolemmal zones, whereas the normal myofibrils are green. The margins of affect fibers appear red and ragged. The ragged-red  is due to the accumulation of abnormal mitochondria below the plasma membrane of the muscle fiber, leading to the appearance of a red rim and speckled sarcoplasm.
+| 中文译名 = 破碎红纤维
+| 中文定义 = 肌肉活检可见肌纤维异常。粗糙的红肌纤维可与莫里三色染色不规则和强烈的红色肌膜区域进行可视化，而正常的肌原纤维是绿色的。影响纤维的边缘出现红色粗糙的形态，异常形态的原因是由于肌肉纤维的质膜以下异常线粒体的积累，导致了红色边缘和肌浆斑点的外观。
+}}
+
+
+==[[HP:0003201]]==
+{{Infobox HPO
+| hpoId = HP:0003201
+| 名称 = Rhabdomyolysis
+| 定义 = Breakdown of muscle fibers that leads to the release of muscle fiber contents (myoglobin) into the bloodstream.
+| 中文译名 = 横纹肌溶解症
+| 中文定义 = 肌肉纤维的分解，导致肌纤维内容物（肌红蛋白）释放到血液中。
+}}
+
+
+==[[HP:0003202]]==
+{{Infobox HPO
+| hpoId = HP:0003202
+| 名称 = Amyotrophy
+| 定义 = The presence of skeletal muscular atrophy (which is also known as amyotrophy).
+| 中文译名 = 肌萎缩
+| 中文定义 = 骨骼肌肉萎缩（也称肌萎缩）。
+}}
+
+
+==[[HP:0003273]]==
+{{Infobox HPO
+| hpoId = HP:0003273
+| 名称 = Hip contracture
+| 定义 = Permanent fixation of the hip in primary positions, with limited passive or active motion at the hip joint.
+| 中文译名 = 髋关节挛缩
+| 中文定义 = 持续将髋部固定在初始位置，同时限制髋关节的主动或被动性的运动。
+}}
+
+==[[HP:0003323]]==
+{{Infobox HPO
+| hpoId = HP:0003323
+| 名称 = Progressive muscle weakness
+| 定义 = #####
+| 中文译名 = 进行性肌无力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003324]]==
+{{Infobox HPO
+| hpoId = HP:0003324
+| 名称 = Generalized muscle weakness
+| 定义 = Generalized weakness or decreased strength of the muscles, affecting both distal and proximal musculature.
+| 中文译名 = 泛发性肌无力
+| 中文定义 = 全身乏力或肌力降低，影响到远端和近端肌肉。
+}}
+
+==[[HP:0003325]]==
+{{Infobox HPO
+| hpoId = HP:0003325
+| 名称 = Limb-girdle muscle weakness
+| 定义 = Weakness of the limb-girdle muscles (also known as the pelvic and shoulder girdles), that is, lack of strength of the muscles around the shoulders and the pelvis.
+| 中文译名 = 肢带肌无力
+| 中文定义 = 肢带肌（又称盆腔及肩部肢带）的无力，即肩膀和骨盆的肌力减弱。
+}}
+
+==[[HP:0003326]]==
+{{Infobox HPO
+| hpoId = HP:0003326
+| 名称 = Myalgia
+| 定义 = A tendency to experience muscle pain.
+| 中文译名 = 肌痛
+| 中文定义 = 表现为肌肉疼痛。
+}}
+
+
+==[[HP:0003327]]==
+{{Infobox HPO
+| hpoId = HP:0003327
+| 名称 = Axial muscle weakness
+| 定义 = Reduced strength of the axial musculature (i.e., of the muscles of the head and neck, spine, and ribs).
+| 中文译名 = 中轴肌无力
+| 中文定义 = 中轴肌肉强度降低（例如:头部，颈部，脊柱和肋的肌肉）。
+}}
+
+
+==[[HP:0003388]]==
+{{Infobox HPO
+| hpoId = HP:0003388
+| 名称 = Easy fatigability
+| 定义 = Increased susceptibility to fatigue.
+| 中文译名 = 易疲劳性
+| 中文定义 = 容易疲劳。
+}}
+
+
+==[[HP:0003391]]==
+{{Infobox HPO
+| hpoId = HP:0003391
+| 名称 = Gowers sign
+| 定义 = A phenomenon whereby patients are not able to stand up without the use of the hands owing to weakness of the proximal muscles of the lower limbs.
+| 中文译名 = 高尔斯征
+| 中文定义 = 一种由于下肢近端肌肉无力导致患者如不用手部承托就不能站立的现象。
+}}
+
+==[[HP:0003392]]==
+{{Infobox HPO
+| hpoId = HP:0003392
+| 名称 = First dorsal interossei muscle weakness
+| 定义 = #####
+| 中文译名 = 第一骨间肌无力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003393]]==
+{{Infobox HPO
+| hpoId = HP:0003393
+| 名称 = Thenar muscle atrophy
+| 定义 = #####
+| 中文译名 = 鱼际肌肉萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003394]]==
+{{Infobox HPO
+| hpoId = HP:0003394
+| 名称 = Muscle cramps
+| 定义 = Sudden and involuntary contractions of one or more muscles.
+| 中文译名 = 肌肉痉挛
+| 中文定义 = 一个或多个肌肉突然不自主收缩。
+}}
+
+
+==[[HP:0003397]]==
+{{Infobox HPO
+| hpoId = HP:0003397
+| 名称 = Generalized hypotonia due to defect at the neuromuscular junction
+| 定义 = #####
+| 中文译名 = 由于神经肌肉接头缺陷导致的广泛性肌张力减低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003403]]==
+{{Infobox HPO
+| hpoId = HP:0003403
+| 名称 = EMG: decremental response of compound muscle action potential (CMAP) to repetitive nerve stimulation
+| 定义 = A compound muscle action potential (CMAP) is a type of electromyography (EMG). CMAP refers to a group of almost simultaneous action potentials from several muscle fibers in the same area evoked by stimulation of the supplying motor nerve and are recorded as one multipeaked summated action potential. This abnormality refers to a greater than normal decrease in the amplitude during the course of the investigation.
+| 中文译名 = 肌电图:复合肌肉动作电位对神经重复刺激的递减反应
+| 中文定义 = 复合肌肉动作电位（CMAP）是肌电图（EMG）的一种类型。 CMAP是指由供给运动神经刺激引起同一部位的若干个肌肉纤维几乎同时的动作电位，被记录为一个多峰累加动作电位。这种异常在检查过程中呈现大于正常的减少幅度。
+}}
+
+
+==[[HP:0003426]]==
+{{Infobox HPO
+| hpoId = HP:0003426
+| 名称 = First dorsal interossei muscle atrophy
+| 定义 = #####
+| 中文译名 = 第一骨间肌萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003427]]==
+{{Infobox HPO
+| hpoId = HP:0003427
+| 名称 = Thenar muscle weakness
+| 定义 = #####
+| 中文译名 = 鱼际肌肉无力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003435]]==
+{{Infobox HPO
+| hpoId = HP:0003435
+| 名称 = Cold-induced hand cramps
+| 定义 = #####
+| 中文译名 = 寒冷诱发的手肌强直
+| 中文定义 = #####
+}}
+
+==[[HP:0003444]]==
+{{Infobox HPO
+| hpoId = HP:0003444
+| 名称 = EMG: chronic denervation signs
+| 定义 = Evidence of chronic denervation on electromyography.
+| 中文译名 = 肌电图:慢性失神经支配的征象
+| 中文定义 = 慢性失神经支配的肌电图证据。
+}}
+
+
+==[[HP:0003445]]==
+{{Infobox HPO
+| hpoId = HP:0003445
+| 名称 = EMG: neuropathic changes
+| 定义 = The presence of characteristic findings of denervation on electromyography (fibrillations, positive sharp waves, and giant motor unit potentials).
+| 中文译名 = 肌电图神经源性变化
+| 中文定义 = 去神经对肌电图特征性表现（纤颤，正锐波，和巨大的运动单位电位）。
+}}
+
+
+==[[HP:0003449]]==
+{{Infobox HPO
+| hpoId = HP:0003449
+| 名称 = Cold-induced muscle cramps
+| 定义 = Sudden and involuntary contractions of one or more muscles brought on by exposure to cold temperatures.
+| 中文译名 = 冷刺激引起的肌肉痉挛
+| 中文定义 = 在低温环境下导致的一个或多个肌肉突然不自主收缩。
+}}
+
+
+==[[HP:0003457]]==
+{{Infobox HPO
+| hpoId = HP:0003457
+| 名称 = EMG abnormality
+| 定义 = Abnormal results of investigations using electromyography (EMG).
+| 中文译名 = 肌电图异常
+| 中文定义 = 肌电图（EMG）检查结果异常。
+}}
+
+
+==[[HP:0003458]]==
+{{Infobox HPO
+| hpoId = HP:0003458
+| 名称 = EMG: myopathic abnormalities
+| 定义 = The presence of abnormal electromyographic patterns indicative of myopathy, such as small-short polyphasic motor unit potentials.
+| 中文译名 = EMG:肌病样异常
+| 中文定义 = 肌病肌电图异常指示，如小短多相运动单元电位。
+}}
+
+==[[HP:0003473]]==
+{{Infobox HPO
+| hpoId = HP:0003473
+| 名称 = Fatigable weakness
+| 定义 = A type of weakness that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 疲劳性无力
+| 中文定义 = 肌肉运动后出现的无力感，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+
+==[[HP:0003482]]==
+{{Infobox HPO
+| hpoId = HP:0003482
+| 名称 = EMG: axonal abnormality
+| 定义 = Electromyographic (EMG) findings characteristic of axonal neuropathy, with normal or slightly decreased nerve conduction velocities, normal or slightly prolonged distal latencies, but significantly reduced motor potentials and sensory amplitudes. There may be spontaneous activity upon needle EMG studies, such as increased insertional activity, positive sharp waves and fibrillation potentials.
+| 中文译名 = 肌电图:轴索异常
+| 中文定义 = 肌电图（EMG）发现轴突性神经病变，神经传导速度正常或略有下降，远端潜伏期正常或稍长时间，但动作电位和感觉电位幅度显著降低。有可能是在肌电图中的自发活动，如增加插入性活动，正锐波和纤颤电位。
+}}
+
+
+==[[HP:0003484]]==
+{{Infobox HPO
+| hpoId = HP:0003484
+| 名称 = Upper limb muscle weakness
+| 定义 = Weakness of the muscles of the arms.
+| 中文译名 = 上肢肌无力
+| 中文定义 = 手臂肌肉无力。
+}}
+
+
+==[[HP:0003546]]==
+{{Infobox HPO
+| hpoId = HP:0003546
+| 名称 = Exercise intolerance
+| 定义 = #####
+| 中文译名 = 运动不耐受
+| 中文定义 = #####
+}}
+
+==[[HP:0003547]]==
+{{Infobox HPO
+| hpoId = HP:0003547
+| 名称 = Shoulder girdle muscle weakness
+| 定义 = The shoulder, or pectoral, girdle  is composed of the clavicles and the scapulae. Shoulder-girdle weakness refers to lack of strength of the muscles attaching to these bones, that is, lack of strength of the muscles around the shoulders.
+| 中文译名 = 肩胛带肌肉无力
+| 中文定义 = 锁骨和肩胛骨由肩骨、胸突和肢带构成。肩胛带无力是指附着在这些骨上的肌肉缺乏力量，即肩部周围肌肉的力量缺乏。
+}}
+
+==[[HP:0003548]]==
+{{Infobox HPO
+| hpoId = HP:0003548
+| 名称 = Subsarcolemmal accumulations of abnormally shaped mitochondria
+| 定义 = An abnormally increased number of mitochondria in the cytoplasma adjacent to the sarcolemma (muscle cell membrane), whereby the mitochondria also possess an abnormal morphology.
+| 中文译名 = 形状异常线粒体肌膜下沉积
+| 中文定义 = 细胞质中邻近肌纤维膜（肌细胞膜）的线粒体数量异常增加，线粒体形态也异常。
+}}
+
+
+==[[HP:0003551]]==
+{{Infobox HPO
+| hpoId = HP:0003551
+| 名称 = Difficulty climbing stairs
+| 定义 = Reduced ability to climb stairs.
+| 中文译名 = 爬楼梯困难
+| 中文定义 = 爬楼梯能力下降
+}}
+
+
+==[[HP:0003552]]==
+{{Infobox HPO
+| hpoId = HP:0003552
+| 名称 = Muscle stiffness
+| 定义 = A condition in which muscles cannot be moved quickly without accompanying pain or spasm.
+| 中文译名 = 肌肉僵硬
+| 中文定义 = 一种肌肉不能迅速移动的状态，不伴随疼痛或痉挛。
+}}
+
+
+==[[HP:0003554]]==
+{{Infobox HPO
+| hpoId = HP:0003554
+| 名称 = Type 2 muscle fiber atrophy
+| 定义 = Atrophy (wasting) affecting primary type 2 muscle fibers. This feature in general can only be observed on muscle biopsy.
+| 中文译名 = 2型肌纤维萎缩
+| 中文定义 = 萎缩（消瘦）主要影响2型肌肉纤维。一般该特征只能在肌肉活检中观察到。
+}}
+
+
+==[[HP:0003555]]==
+{{Infobox HPO
+| hpoId = HP:0003555
+| 名称 = Muscle fiber splitting
+| 定义 = Fiber splitting or branching is a common finding in human and rat skeletal muscle pathology. Fiber splitting refers to longitudinal halving of the complete fiber, while branching originates from a regenerating end of a necrotic fiber as invaginations of the sarcolemma. In fiber branching, one end of the fiber remains intact as a single entity, while the other end has several branches.
+| 中文译名 = 肌纤维分裂
+| 中文定义 = 纤维分裂或分叉是一种表现在人类和大鼠骨骼肌病理的常见现象。纤维分裂表现为完整纤维的纵向对分，而纤维分叉则是起源于坏死纤维再生末端由于肌纤维膜内陷所致。在纤维分叉中，纤维一端保持为单个整体，而另一端则有多个分叉。
+}}
+
+
+==[[HP:0003557]]==
+{{Infobox HPO
+| hpoId = HP:0003557
+| 名称 = Increased variability in muscle fiber diameter
+| 定义 = An abnormally high degree of muscle fiber size variation. This phenotypic feature can be observed upon muscle biopsy.
+| 中文译名 = 肌纤维直径变异性增大
+| 中文定义 = 异常高的程度的肌纤维大小的变化。此表型特征可根据肌肉活检观察。
+}}
+
+
+==[[HP:0003558]]==
+{{Infobox HPO
+| hpoId = HP:0003558
+| 名称 = Viral infection-induced rhabdomyolysis
+| 定义 = `Rhabdomyolysis` (HP:0003201) induced by a viral infection.
+| 中文译名 = 病毒感染诱导的横纹肌瘤
+| 中文定义 = 病毒感染诱导横纹肌瘤。
+}}
+
+
+==[[HP:0003559]]==
+{{Infobox HPO
+| hpoId = HP:0003559
+| 名称 = Muscle hyperirritability
+| 定义 = #####
+| 中文译名 = 腱反射亢进
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003560]]==
+{{Infobox HPO
+| hpoId = HP:0003560
+| 名称 = Muscular dystrophy
+| 定义 = The term dystrophy means abnormal growth. However, muscular dystrophy is used to describe primary myopathies with a genetic basis and a progressive course characterized by progressive skeletal muscle weakness, defects in muscle proteins, and the apoptosis of muscle cells.
+| 中文译名 = 肌营养不良
+| 中文定义 = 术语营养不良是指生长异常。然而，肌营养不良是用来描述原发性肌肉疾病具有遗传基础及渐进的过程，其特征为进行性骨骼肌无力，肌蛋白的缺陷，以及肌细胞的凋亡。
+}}
+
+
+==[[HP:0003634]]==
+{{Infobox HPO
+| hpoId = HP:0003634
+| 名称 = Generalized amyoplasia
+| 定义 = Generalized congenital lack of development of the muscles, which are then replaced by a mixture of dense fat and fibrous tissue.
+| 中文译名 = 广泛肌肉发育不良
+| 中文定义 = 广泛的先天性肌肉发育缺乏，由致密脂肪和纤维组织的混合物代替。
+}}
+
+
+==[[HP:0003665]]==
+{{Infobox HPO
+| hpoId = HP:0003665
+| 名称 = Amyotrophy of the musculature of the pelvis
+| 定义 = Muscular atrophy affecting the muscles of the pelvis.
+| 中文译名 = 骨盆肌萎缩
+| 中文定义 = 肌肉萎缩涉及骨盆肌肉。
+}}
+
+==[[HP:0003687]]==
+{{Infobox HPO
+| hpoId = HP:0003687
+| 名称 = Centrally nucleated skeletal muscle fibers
+| 定义 = An abnormality in which the nuclei of sarcomeres take on an abnormally central localization (or in which this feature is found in an increased proportion of muscle cells).
+| 中文译名 = 中央成核的骨骼肌纤维
+| 中文定义 = 肌节的细胞核出现异常中央定位的一种现象（或出现肌肉细胞的比例增加）。
+}}
+
+
+==[[HP:0003688]]==
+{{Infobox HPO
+| hpoId = HP:0003688
+| 名称 = Decreased activity of cytochrome C oxidase in muscle tissue
+| 定义 = An abnormally reduced activity of the enzyme cytochrome C oxidase in muscle tissue.
+| 中文译名 = 细胞色素C氧化酶在肌肉组织中活性降低
+| 中文定义 = 肌肉组织中的细胞色素C氧化酶的异常活性降低。
+}}
+
+
+==[[HP:0003689]]==
+{{Infobox HPO
+| hpoId = HP:0003689
+| 名称 = Multiple mitochondrial DNA deletions
+| 定义 = The presence of multiple deletions of mitochondrial DNA (mtDNA).
+| 中文译名 = 多个线粒体DNA缺失
+| 中文定义 = 存在多个线粒体DNA（mtDNA的）的缺失。
+}}
+
+
+==[[HP:0003690]]==
+{{Infobox HPO
+| hpoId = HP:0003690
+| 名称 = Limb muscle weakness
+| 定义 = Reduced strength and weakness of the muscles of the arms and legs.
+| 中文译名 = 四肢肌肉无力
+| 中文定义 = 手臂和腿的肌肉强度降低和无力。
+}}
+
+==[[HP:0003691]]==
+{{Infobox HPO
+| hpoId = HP:0003691
+| 名称 = Scapular winging
+| 定义 = Abnormal protrusion of the scapula away from the surface of the back.
+| 中文译名 = 翼状肩胛
+| 中文定义 = 肩胛骨异常突起远离背面的表面上。
+}}
+
+
+==[[HP:0003693]]==
+{{Infobox HPO
+| hpoId = HP:0003693
+| 名称 = Distal amyotrophy
+| 定义 = Muscular atrophy affecting muscles in the distal portions of the extremities.
+| 中文译名 = 远端肌肉萎缩
+| 中文定义 = 四肢远端部分的肌肉萎缩。
+}}
+
+
+==[[HP:0003694]]==
+{{Infobox HPO
+| hpoId = HP:0003694
+| 名称 = Late-onset proximal muscle weakness
+| 定义 = Lack of strength of the proximal musculature occuring late in the clinical course.
+| 中文译名 = 晚发性近端肌无力
+| 中文定义 = 发生在临床晚期过程中的近端肌强度降低。
+}}
+
+==[[HP:0003697]]==
+{{Infobox HPO
+| hpoId = HP:0003697
+| 名称 = Scapuloperoneal amyotrophy
+| 定义 = Muscular atrophy in the distribution of shoulder girdle and peroneal muscles.
+| 中文译名 = 肩腓肌萎缩
+| 中文定义 = 分布于肩胛带和腓骨肌的萎缩。
+}}
+
+==[[HP:0003698]]==
+{{Infobox HPO
+| hpoId = HP:0003698
+| 名称 = Difficulty standing
+| 定义 = #####
+| 中文译名 = 站立困难
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003700]]==
+{{Infobox HPO
+| hpoId = HP:0003700
+| 名称 = Generalized amyotrophy
+| 定义 = Generalized (diffuse, unlocalized) amyotrophy (muscle atrophy) affecting multiple muscles.
+| 中文译名 = 泛发性肌萎缩
+| 中文定义 = 广泛的（弥漫性，未本地化）肌萎缩，影响多处肌肉。
+}}
+
+==[[HP:0003701]]==
+{{Infobox HPO
+| hpoId = HP:0003701
+| 名称 = Proximal muscle weakness
+| 定义 = A lack of strength of the proximal muscles.
+| 中文译名 = 近端肌肉无力
+| 中文定义 = 近端肌肉缺乏力量。
+}}
+
+
+==[[HP:0003704]]==
+{{Infobox HPO
+| hpoId = HP:0003704
+| 名称 = Scapuloperoneal weakness
+| 定义 = #####
+| 中文译名 = 肩腓肌无力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003707]]==
+{{Infobox HPO
+| hpoId = HP:0003707
+| 名称 = Calf muscle pseudohypertrophy
+| 定义 = Enlargement of the muscles of the calf due to their replacement by connective tissue or fat.
+| 中文译名 = 小腿假性肌肉肥大
+| 中文定义 = 由于肌肉组织被结缔组织和脂肪代替所致小腿肌肉肥大。
+}}
+
+==[[HP:0003710]]==
+{{Infobox HPO
+| hpoId = HP:0003710
+| 名称 = Exercise-induced muscle cramps
+| 定义 = Sudden and involuntary contractions of one or more muscles brought on by physical exertion.
+| 中文译名 = 运动引起的肌肉痉挛
+| 中文定义 = 一个或多个肌肉突然不自主的收缩导致体力消耗。
+}}
+
+
+==[[HP:0003712]]==
+{{Infobox HPO
+| hpoId = HP:0003712
+| 名称 = Muscle hypertrophy
+| 定义 = Hypertrophy (increase in size) of muscle cells (as opposed to hyperplasia, which refers to an increase in the number of muscle cells).
+| 中文译名 = 肌肥大
+| 中文定义 = 肌细胞肥大即肌细胞体积增大，不同于增生（即肌细胞数目增多）。
+}}
+
+
+==[[HP:0003713]]==
+{{Infobox HPO
+| hpoId = HP:0003713
+| 名称 = Muscle fiber necrosis
+| 定义 = Abnormal cell death involving muscle fibers usually associated with break in, or absence of, muscle surface fiber membrane and resulting in irreversible damage to muscle fibers.
+| 中文译名 = 肌纤维坏死
+| 中文定义 = 肌纤维细胞的异常凋亡通常表现为肌纤维细胞溶解或肌肉组织表面纤维膜的缺失，最终导致肌纤维不可逆性损害。
+}}
+
+
+==[[HP:0003715]]==
+{{Infobox HPO
+| hpoId = HP:0003715
+| 名称 = Myofibrillar myopathy
+| 定义 = Myofibrillar structural changes characterized by abnormal intracellular accumulation of the intermediate filament desmin and other proteins.
+| 中文译名 = 肌原纤维肌病
+| 中文定义 = 表现为肌原纤维结构的改变，以中间纤维结蛋白和其他蛋白细胞内异常聚集为特征。
+}}
+
+
+==[[HP:0003716]]==
+{{Infobox HPO
+| hpoId = HP:0003716
+| 名称 = Generalized muscular appearance from birth
+| 定义 = #####
+| 中文译名 = 出生时广泛肌肉型外观
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003719]]==
+{{Infobox HPO
+| hpoId = HP:0003719
+| 名称 = Muscle mounding
+| 定义 = #####
+| 中文译名 = 肌球
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003720]]==
+{{Infobox HPO
+| hpoId = HP:0003720
+| 名称 = Generalized muscle hypertrophy
+| 定义 = Hypertrophy (increase in size) of muscle cells in a generalized (not localized) distribution.
+| 中文译名 = 广泛肌肉肥大
+| 中文定义 = 广泛（未本地化）分布的肌细胞肥大（体积增大）。
+}}
+
+==[[HP:0003722]]==
+{{Infobox HPO
+| hpoId = HP:0003722
+| 名称 = Neck flexor weakness
+| 定义 = Weakness of the muscles involved in neck flexion (sternocleidomastoid, longus capitus, longus colli, and scalenus anterior).
+| 中文译名 = 颈屈肌无力
+| 中文定义 = 颈屈肌无力（包括胸锁乳突肌，头长肌，颈长肌，和前斜角肌的肌肉）。
+}}
+
+
+==[[HP:0003724]]==
+{{Infobox HPO
+| hpoId = HP:0003724
+| 名称 = Shoulder girdle muscle atrophy
+| 定义 = Amyotrophy affecting the muscles of the shoulder girdle.
+| 中文译名 = 肩胛带肌肉萎缩
+| 中文定义 = 肌肉萎缩影响肩胛带的肌肉。
+}}
+
+
+==[[HP:0003725]]==
+{{Infobox HPO
+| hpoId = HP:0003725
+| 名称 = Firm muscles
+| 定义 = #####
+| 中文译名 = 肌肉坚硬
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003730]]==
+{{Infobox HPO
+| hpoId = HP:0003730
+| 名称 = EMG: myotonic runs
+| 定义 = Spontaneous, repetitive electrical activity demonstrated by electromyography (EMG).
+| 中文译名 = EMG:强直性表现
+| 中文定义 = 通过肌电图（EMG）表现出自发性的，重复的电活动。
+}}
+
+
+==[[HP:0003731]]==
+{{Infobox HPO
+| hpoId = HP:0003731
+| 名称 = Quadriceps muscle weakness
+| 定义 = Weakness of the quadriceps muscle (that is, of the muscle fasciculus of quadriceps femoris).
+| 中文译名 = 股四头肌无力
+| 中文定义 = 股四头肌的无力（即股四头肌的肌肉纤维束）。
+}}
+
+
+==[[HP:0003733]]==
+{{Infobox HPO
+| hpoId = HP:0003733
+| 名称 = Thigh hypertrophy
+| 定义 = Muscle hypertrophy affecting the thighs.
+| 中文译名 = 大腿肥大
+| 中文定义 = 大腿的肌肉肥大。
+}}
+
+
+==[[HP:0003736]]==
+{{Infobox HPO
+| hpoId = HP:0003736
+| 名称 = Autophagic vacuoles
+| 定义 = The lysosomal-vacuolar pathway has a role in the controlled intracellular digestion of macromolecules such as protein complexes and organelles. This feature refers to the presence of an abnormally increased number of autophagic vacuoles in muscle tissue.
+| 中文译名 = 自噬空泡
+| 中文定义 = 溶酶体液泡通道具有控制细胞内消化大分子的作用，例如蛋白质复合物和细胞器。特征是肌肉组织中自噬小体数量增加。
+}}
+
+
+==[[HP:0003737]]==
+{{Infobox HPO
+| hpoId = HP:0003737
+| 名称 = Mitochondrial myopathy
+| 定义 = A type of myopathy associated with mitochondrial disease and characterized by findings on biopsy such as ragged red muscle fibers.
+| 中文译名 = 线粒体肌病
+| 中文定义 = 一类与线粒体疾病有关的肌病，肌活检可见粗糙的红色肌纤维
+}}
+
+
+==[[HP:0003738]]==
+{{Infobox HPO
+| hpoId = HP:0003738
+| 名称 = Exercise-induced myalgia
+| 定义 = The occurrence of an unusually high amount of muscle pain following exercise.
+| 中文译名 = 运动诱发的肌肉痛
+| 中文定义 = 运动后发生的剧烈肌肉疼痛。
+}}
+
+
+==[[HP:0003740]]==
+{{Infobox HPO
+| hpoId = HP:0003740
+| 名称 = Myotonia with warm-up phenomenon
+| 定义 = Myotonia that occurs after a period of rest and decreases with continuing exercise.
+| 中文译名 = 伴热身现象的肌强直
+| 中文定义 = 经过一段时间休息和持续运动停止后出现的肌强直。
+}}
+
+==[[HP:0003741]]==
+{{Infobox HPO
+| hpoId = HP:0003741
+| 名称 = Congenital muscular dystrophy
+| 定义 = #####
+| 中文译名 = 先天性肌营养不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003749]]==
+{{Infobox HPO
+| hpoId = HP:0003749
+| 名称 = Pelvic girdle muscle weakness
+| 定义 = Weakness of the muscles of the pelvic girdle (also known as the hip girdle), that is, lack of strength of the muscles around the pelvis.
+| 中文译名 = 骨盆带肌无力
+| 中文定义 = 骨盆带（也称为臀腰带）肌肉无力，即骨盆周围肌肉缺乏肌力。
+}}
+
+
+==[[HP:0003750]]==
+{{Infobox HPO
+| hpoId = HP:0003750
+| 名称 = Increased muscle fatiguability
+| 定义 = An abnormal, increased fatiguability of the musculature.
+| 中文译名 = 增多的肌肉易疲劳
+| 中文定义 = 肌肉组织的异常，增加疲惫状况。
+}}
+
+
+==[[HP:0003752]]==
+{{Infobox HPO
+| hpoId = HP:0003752
+| 名称 = Episodic flaccid weakness
+| 定义 = Recurrent episodes of muscle flaccidity, a type of paralysis in which a muscle becomes soft and yields to passive stretching.
+| 中文译名 = 发作性弛缓无力
+| 中文定义 = 反复发作的肌无力，一种肌肉变软并产生被动拉伸的瘫痪。
+}}
+
+==[[HP:0003755]]==
+{{Infobox HPO
+| hpoId = HP:0003755
+| 名称 = Type 1 fibers relatively smaller than type 2 fibers
+| 定义 = The presence of abnormal muscle fiber size such that type 1 fibers are smaller than type 2 fibers.
+| 中文译名 = 1型纤维相对于2型纤维小
+| 中文定义 = 1型纤维比2型的纤维更小的肌纤维大小异常。
+}}
+
+
+==[[HP:0003756]]==
+{{Infobox HPO
+| hpoId = HP:0003756
+| 名称 = Skeletal myopathy
+| 定义 = #####
+| 中文译名 = 骨骼肌病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003760]]==
+{{Infobox HPO
+| hpoId = HP:0003760
+| 名称 = Percussion-induced rapid rolling muscle contractions (PIRC)
+| 定义 = #####
+| 中文译名 = 扣击引起的快速滚动的肌肉收缩（PIRC）
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003761]]==
+{{Infobox HPO
+| hpoId = HP:0003761
+| 名称 = Calcinosis
+| 定义 = Formation of calcium deposits in any soft tissue.
+| 中文译名 = 钙质沉着
+| 中文定义 = 由于钙沉积在软组织沉积。
+}}
+
+
+==[[HP:0003787]]==
+{{Infobox HPO
+| hpoId = HP:0003787
+| 名称 = Type 1 and type 2 muscle fiber minicore regions
+| 定义 = Multiple small zones of sarcomeric disorganization and lack of oxidative activity (known as minicores) in type 1 and type 2 muscle fibers.
+| 中文译名 = 1型和2型肌纤维的微小轴空
+| 中文定义 = 1型和2型肌纤维多个小区域的肌节混乱和缺乏氧化活性（即微核）。
+}}
+
+
+==[[HP:0003789]]==
+{{Infobox HPO
+| hpoId = HP:0003789
+| 名称 = Minicore (multicore) myopathy
+| 定义 = Multiple small zones of sarcomeric disorganization and lack of oxidative activity (known as minicores) in muscle fibers.
+| 中文译名 = 小轴空（多轴空）肌病
+| 中文定义 = 肌纤维出现多个小区域（微核）肌节解体并缺乏氧化活性
+}}
+
+
+==[[HP:0003791]]==
+{{Infobox HPO
+| hpoId = HP:0003791
+| 名称 = Deposits immunoreactive to beta-amyloid protein
+| 定义 = #####
+| 中文译名 = β-淀粉样蛋白免疫反应性沉积
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003797]]==
+{{Infobox HPO
+| hpoId = HP:0003797
+| 名称 = Limb-girdle muscle atrophy
+| 定义 = Muscular atrophy affecting the muscles of the limb girdle.
+| 中文译名 = 肢带肌萎缩
+| 中文定义 = 肌萎缩影响肢带的肌肉。
+}}
+
+
+==[[HP:0003798]]==
+{{Infobox HPO
+| hpoId = HP:0003798
+| 名称 = Nemaline bodies
+| 定义 = Nemaline rods are abnormal bodies that can occur in skeletal muscle fibers. The rods can be observed on histological analysis of muscle biopsy tissue or upon electron microscopy, where they appear either as extensions of sarcomeric Z-lines, in random array without obvious attachment to Z-lines (often in areas devoid of sarcomeres) or in large clusters localized at the sarcolemma or intermyofibrillar spaces.
+| 中文译名 = 杆状体
+| 中文定义 = 杆棒状线样体是一种异常小体，常发生于骨骼肌纤维。这种杆棒状结构可通过肌组织活检后病理光镜下或电镜下观察，表现为肌原纤维“Z”形或无规则形（常为肌小节缺乏区域），或发生于肌纤维膜或肌纤维内的大片成簇结构。
+}}
+
+
+==[[HP:0003800]]==
+{{Infobox HPO
+| hpoId = HP:0003800
+| 名称 = Muscle abnormality related to mitochondrial dysfunction
+| 定义 = #####
+| 中文译名 = 线粒体功能障碍引起的肌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003803]]==
+{{Infobox HPO
+| hpoId = HP:0003803
+| 名称 = Type 1 muscle fiber predominance
+| 定义 = An abnormal predominance of type I muscle fibers (in general, this feature can only be observed on muscle biopsy).
+| 中文译名 = 1型肌纤维优势
+| 中文定义 = I型肌肉纤维的异常优势（在一般情况下，该功能只能在肌肉活组织检查观察到的）。
+}}
+
+
+==[[HP:0003805]]==
+{{Infobox HPO
+| hpoId = HP:0003805
+| 名称 = Rimmed vacuoles
+| 定义 = Presence of abnormal vacuoles (membrane-bound organelles) in the sarcolemma. On histological staining with hematoxylin and eosin, rimmed vacuoles are popcorn-like clear vacuoles with a densely blue rim. The vacuoles are often associated with cytoplasmic and occasionally intranuclear eosinophilic inclusions.
+| 中文译名 = 镶边空泡
+| 中文定义 = 肌纤维膜存在异常细胞液泡（膜旁细胞器）。在组织染色与HE染色，镶边空泡是爆米花样有密集蓝色边缘的清亮空泡。液泡形成与细胞质和核内偶尔出现的嗜酸性夹杂物有关。
+}}
+
+
+==[[HP:0003808]]==
+{{Infobox HPO
+| hpoId = HP:0003808
+| 名称 = Abnormal muscle tone
+| 定义 = The abnormal state of balanced tension in the tissues of the body, especially the muscles.
+| 中文译名 = 肌张力异常
+| 中文定义 = 人体组织尤其是肌肉平衡张力的异常状态。
+}}
+
+
+==[[HP:0003810]]==
+{{Infobox HPO
+| hpoId = HP:0003810
+| 名称 = Late-onset distal muscle weakness
+| 定义 = #####
+| 中文译名 = 晚发远端肌无力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004302]]==
+{{Infobox HPO
+| hpoId = HP:0004302
+| 名称 = Functional motor problems.
+| 定义 = #####
+| 中文译名 = 运动功能障碍
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004303]]==
+{{Infobox HPO
+| hpoId = HP:0004303
+| 名称 = Abnormality of muscle fibers
+| 定义 = Any abnormality of the `skeletal muscle cell` (FMA:9727). Muscle fibers are subdivided into two types. Type I fibers are fatigue-resistant and rich in oxidative enzymes (they stain light with the myosin ATPase reaction), and type II fibers are fast-contracting, fatigue-prone, and rich in glycolytic enzymes (these fibers stain darkly). Normal muscle tissue has a random distribution of type I and type II fibers.
+| 中文译名 = 肌纤维异常
+| 中文定义 = “骨骼肌细胞”异常（FMA:9727）。肌纤维被细分为两种类型:I型纤维抗疲劳并富含氧化酶（与肌球蛋白ATP酶反应染色浅），II型纤维收缩快速，易疲劳，并富含糖解酶（染色深）。正常肌肉组织随机分布I型和II型纤维。
+}}
+
+
+==[[HP:0004347]]==
+{{Infobox HPO
+| hpoId = HP:0004347
+| 名称 = Weakness of muscles of respiration
+| 定义 = Reduced function of the muscles required to generate subatmospheric pressure in the thoracic cavity during breathing: the diaphragm, the external intercostal and the interchondral part of the internal intercostal muscles.
+| 中文译名 = 呼吸肌无力
+| 中文定义 = 呼吸运动中呼吸肌力减弱导致胸腔产生的负压不足:隔肌、肋间外肌和肋间内肌。
+}}
+
+
+==[[HP:0004631]]==
+{{Infobox HPO
+| hpoId = HP:0004631
+| 名称 = Decreased cervical spine flexion due to contractures of posterior cervical muscles
+| 定义 = #####
+| 中文译名 = 颈椎前屈活动度减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004660]]==
+{{Infobox HPO
+| hpoId = HP:0004660
+| 名称 = Hypoplasia of facial musculature
+| 定义 = #####
+| 中文译名 = 面部肌肉发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004661]]==
+{{Infobox HPO
+| hpoId = HP:0004661
+| 名称 = Frontalis muscle weakness
+| 定义 = Reduced strength of the frontalis muscle (which is located on the forehead).
+| 中文译名 = 额肌乏力
+| 中文定义 = 额肌（位于前额）力量减小。
+}}
+
+
+==[[HP:0004878]]==
+{{Infobox HPO
+| hpoId = HP:0004878
+| 名称 = Intercostal muscle weakness
+| 定义 = Lack of strength of the intercostal muscles, i.e., of the muscle groups running along the ribs that create and move the chest wall.
+| 中文译名 = 肋间肌无力
+| 中文定义 = 肋间肌即肋骨周围构成和运动胸壁的肌肉群乏力。
+}}
+
+
+==[[HP:0004889]]==
+{{Infobox HPO
+| hpoId = HP:0004889
+| 名称 = Intermittent episodes of respiratory insufficiency due to muscle weakness
+| 定义 = #####
+| 中文译名 = 肌无力所致的间歇性呼吸功能不全发作
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005199]]==
+{{Infobox HPO
+| hpoId = HP:0005199
+| 名称 = aplasia of the abdominal wall musculature
+| 定义 = Absence of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌肉发育不全
+| 中文定义 = 腹壁肌群缺失。
+}}
+
+
+==[[HP:0005243]]==
+{{Infobox HPO
+| hpoId = HP:0005243
+| 名称 = Partial abdominal muscle agenesis
+| 定义 = Failure to form of portions  of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 局部腹肌发育不全
+| 中文定义 = 一部分腹部肌肉未能形成。
+}}
+
+
+==[[HP:0005247]]==
+{{Infobox HPO
+| hpoId = HP:0005247
+| 名称 = Hypoplasia of the abdominal wall musculature
+| 定义 = Underdevelopment of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌肉发育不良
+| 中文定义 = 腹壁肌肉的发育不良。
+}}
+
+
+==[[HP:0005255]]==
+{{Infobox HPO
+| hpoId = HP:0005255
+| 名称 = Absence of pectoralis minor muscle
+| 定义 = Aplasia (congenital absence) of the `pectoralis minor` (FMA:13109).
+| 中文译名 = 胸小肌缺失
+| 中文定义 = “胸小肌”先天性缺失。
+}}
+
+
+==[[HP:0005256]]==
+{{Infobox HPO
+| hpoId = HP:0005256
+| 名称 = Unilateral absence of pectoralis major muscle
+| 定义 = Aplasia (congenital absence) of the `pectoralis major` (FMA:13109) on only one side of the chest.
+| 中文译名 = 单边无胸大肌
+| 中文定义 = 只有一侧无胸大肌。
+}}
+
+
+==[[HP:0005258]]==
+{{Infobox HPO
+| hpoId = HP:0005258
+| 名称 = Pectoral muscle hypoplasia/aplasia
+| 定义 = #####
+| 中文译名 = 胸肌发育缺陷/不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005612]]==
+{{Infobox HPO
+| hpoId = HP:0005612
+| 名称 = Arthrogryposis-like hand anomaly
+| 定义 = #####
+| 中文译名 = 手关节挛缩状异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005617]]==
+{{Infobox HPO
+| hpoId = HP:0005617
+| 名称 = Bilateral camptodactyly
+| 定义 = #####
+| 中文译名 = 双侧指弯曲性僵直
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005679]]==
+{{Infobox HPO
+| hpoId = HP:0005679
+| 名称 = Dupuytren contracture
+| 定义 = An abnormality of the hand resulting from contracture of the palmar fascia with a fixed flexion deformity of the metacarpophalangeal (MCP) joints and the proximal interphalangeal (PIP) joints.
+| 中文译名 = 掌腱膜挛缩
+| 中文定义 = 手从掌筋膜与掌指（MCP）关节和近端指间关节固定屈曲畸形挛缩导致的异常。
+}}
+
+
+==[[HP:0005684]]==
+{{Infobox HPO
+| hpoId = HP:0005684
+| 名称 = Distal arthrogryposis
+| 定义 = A form of arthrogryposis primarily affecting the hands and the feet.
+| 中文译名 = 远端关节挛缩
+| 中文定义 = 关节挛缩的一种形式，主要影响手和脚。
+}}
+
+
+==[[HP:0005745]]==
+{{Infobox HPO
+| hpoId = HP:0005745
+| 名称 = Congenital foot contractures
+| 定义 = #####
+| 中文译名 = 先天性足挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005750]]==
+{{Infobox HPO
+| hpoId = HP:0005750
+| 名称 = Contractures of the joints of the lower limbs
+| 定义 = #####
+| 中文译名 = 下肢关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005781]]==
+{{Infobox HPO
+| hpoId = HP:0005781
+| 名称 = Contractures of the large joints
+| 定义 = #####
+| 中文译名 = 大关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005830]]==
+{{Infobox HPO
+| hpoId = HP:0005830
+| 名称 = Flexion contracture of toe
+| 定义 = One or more bent (flexed) toe joints that cannot be straightened actively or passively.
+| 中文译名 = 脚趾屈曲挛缩
+| 中文定义 = 一个或多个弯曲（挠曲）趾关节不能被主动或被动地拉直。
+}}
+
+
+==[[HP:0005853]]==
+{{Infobox HPO
+| hpoId = HP:0005853
+| 名称 = Congenital foot contraction deformities
+| 定义 = #####
+| 中文译名 = 先天足部变形收缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005876]]==
+{{Infobox HPO
+| hpoId = HP:0005876
+| 名称 = Progressive flexion contractures
+| 定义 = Progressively worsening joint contractures.
+| 中文译名 = 进行性屈曲挛缩
+| 中文定义 = 逐步加重关节挛缩。
+}}
+
+
+==[[HP:0005879]]==
+{{Infobox HPO
+| hpoId = HP:0005879
+| 名称 = Congenital finger flexion contractures
+| 定义 = Multiple bent (flexed) finger joints that cannot be straightened actively or passively.
+| 中文译名 = 先天性手指屈曲挛缩
+| 中文定义 = 多个弯曲（挠曲）手指关节，不能主动或被动地拉直。
+}}
+
+
+==[[HP:0005988]]==
+{{Infobox HPO
+| hpoId = HP:0005988
+| 名称 = Congenital muscular torticollis
+| 定义 = A congenital form of torticollis resulting from shortening of the sternocleidomastoid muscle and leading to a limited range of motion in both rotation and lateral bending.
+| 中文译名 = 先天性斜颈
+| 中文定义 = 由于胸锁乳突肌缩短导致旋转和侧弯两种运动范围均受限而造成的先天性斜颈
+}}
+
+
+==[[HP:0005997]]==
+{{Infobox HPO
+| hpoId = HP:0005997
+| 名称 = Restricted neck movement due to contractures
+| 定义 = A deformity of restricted neck movement due to permanent or spasmodic contraction of neck muscles.
+| 中文译名 = 挛缩引起的颈部运动受限
+| 中文定义 = 一种由于颈部肌肉持续性或阵发性挛缩导致的颈部活动受限的畸形。
+}}
+
+==[[HP:0006006]]==
+{{Infobox HPO
+| hpoId = HP:0006006
+| 名称 = Hypotrophy of the small hand muscles
+| 定义 = #####
+| 中文译名 = 手部小肌肉发育低下
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006366]]==
+{{Infobox HPO
+| hpoId = HP:0006366
+| 名称 = Adductor longus contractures
+| 定义 = #####
+| 中文译名 = 长收肌挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006380]]==
+{{Infobox HPO
+| hpoId = HP:0006380
+| 名称 = Knee flexion contracture
+| 定义 = A bent (flexed) knee joint that cannot be straightened actively or passively.
+| 中文译名 = 膝关节屈曲挛缩
+| 中文定义 = 一个弯曲的（曲屈的）膝关节不能主动或被动拉直。
+}}
+
+==[[HP:0006466]]==
+{{Infobox HPO
+| hpoId = HP:0006466
+| 名称 = Ankle contracture
+| 定义 = A chronic loss of ankle joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevent normal movement of the joints of the ankle.
+| 中文译名 = 踝关节挛缩
+| 中文定义 = 踝关节运动的慢性损失，由于肌肉的结构变化，肌腱，韧带，或皮肤，以防止踝关节的正常运动。
+}}
+
+
+==[[HP:0006597]]==
+{{Infobox HPO
+| hpoId = HP:0006597
+| 名称 = Diaphragmatic paralysis
+| 定义 = The presence of a `paralyzed` (PATO:0000763) `diaphragm` (FMA:13295).
+| 中文译名 = 膈肌麻痹
+| 中文定义 = 膈肌存在麻痹现象。
+}}
+
+
+==[[HP:0006743]]==
+{{Infobox HPO
+| hpoId = HP:0006743
+| 名称 = Embryonal rhabdomyosarcoma
+| 定义 = A rare histological form of cancer of connective tissue wherein the mesenchymally-derived malignant cells resemble the primitive developing skeletal muscle of the embryo.
+| 中文译名 = 胚胎横纹肌肉瘤
+| 中文定义 = 一种间叶细胞来源的结缔组织恶性肿瘤，类似于胚胎原始发育期骨骼肌的组织学类型。
+}}
+
+
+==[[HP:0006779]]==
+{{Infobox HPO
+| hpoId = HP:0006779
+| 名称 = Alveolar rhabdomyosarcoma
+| 定义 = Ａtype of rhabdomyosarcoma characterized by its appearance, which is similar to the alveoli of the lungs.
+| 中文译名 = 肺泡状横纹肌肉瘤
+| 中文定义 = 一种横纹肌肉瘤，外观特征类似于肺泡组织。
+}}
+
+
+==[[HP:0006785]]==
+{{Infobox HPO
+| hpoId = HP:0006785
+| 名称 = Limb-girdle muscular dystrophy
+| 定义 = Muscular dystrophy affecting the muscles of the limb girdle (the hips and shoulders).
+| 中文译名 = 肢带型肌营养不良症
+| 中文定义 = 肌营养不良症影响肢带型（臀部和肩膀）的肌肉。
+}}
+
+
+==[[HP:0006829]]==
+{{Infobox HPO
+| hpoId = HP:0006829
+| 名称 = Severe muscular hypotonia
+| 定义 = A severe degree of muscular hypotonia characterized by markedly reduced muscle tone.
+| 中文译名 = 严重的肌张力减退
+| 中文定义 = 肌张力减退特点是显着的重度肌张力减低。
+}}
+
+
+==[[HP:0006830]]==
+{{Infobox HPO
+| hpoId = HP:0006830
+| 名称 = Severe neonatal hypotonia in males
+| 定义 = #####
+| 中文译名 = 男性新生儿重度低肌张力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006852]]==
+{{Infobox HPO
+| hpoId = HP:0006852
+| 名称 = Episodic generalized hypotonia
+| 定义 = The occurrence of repeated episodes of generalized muscular hypotonia.
+| 中文译名 = 阵发性全身肌无力
+| 中文定义 = 反复发作的全身肌张力减退。
+}}
+
+
+==[[HP:0006895]]==
+{{Infobox HPO
+| hpoId = HP:0006895
+| 名称 = Lower limb hypertonia
+| 定义 = #####
+| 中文译名 = 下肢肌张力增高
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006921]]==
+{{Infobox HPO
+| hpoId = HP:0006921
+| 名称 = Axial muscle stiffness
+| 定义 = Stiffness (a condition in which muscles cannot be moved quickly without accompanying pain or spasm) of the axial musculature.
+| 中文译名 = 中轴肌强直
+| 中文定义 = 轴向肌肉组织的僵硬（肌肉不能迅速移动而不伴随疼痛或痉挛的状态）。
+}}
+
+
+==[[HP:0006959]]==
+{{Infobox HPO
+| hpoId = HP:0006959
+| 名称 = Proximal spinal muscular atrophy
+| 定义 = Proximal spinal muscular atrophy, i.e., muscular weakness and atrophy related to loss of the motor neurons of the spinal cord and brainstem.
+| 中文译名 = 近端脊肌萎缩
+| 中文定义 = 近侧脊肌萎缩症即与脊髓和脑干的运动神经元缺失有关的肌肉无力和萎缩。
+}}
+
+==[[HP:0006983]]==
+{{Infobox HPO
+| hpoId = HP:0006983
+| 名称 = Slowly progressive spastic quadriparesis
+| 定义 = #####
+| 中文译名 = 缓慢进展性痉挛性四肢轻瘫
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006986]]==
+{{Infobox HPO
+| hpoId = HP:0006986
+| 名称 = Upper limb spasticity
+| 定义 = #####
+| 中文译名 = 上肢痉挛
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007020]]==
+{{Infobox HPO
+| hpoId = HP:0007020
+| 名称 = Progressive spastic paraplegia
+| 定义 = #####
+| 中文译名 = 进行性痉挛性截瘫
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007066]]==
+{{Infobox HPO
+| hpoId = HP:0007066
+| 名称 = Proximal limb muscle stiffness
+| 定义 = #####
+| 中文译名 = 近端肢体肌肉僵硬
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007081]]==
+{{Infobox HPO
+| hpoId = HP:0007081
+| 名称 = Late-onset muscular dystrophy
+| 定义 = #####
+| 中文译名 = 迟发性肌肉萎缩症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007126]]==
+{{Infobox HPO
+| hpoId = HP:0007126
+| 名称 = Proximal amyotrophy
+| 定义 = Amyotrophy (muscular atrophy) affecting the proximal musculature.
+| 中文译名 = 近端肌萎缩
+| 中文定义 = 肌萎缩（肌萎缩）影响近端肌肉。
+}}
+
+
+==[[HP:0007149]]==
+{{Infobox HPO
+| hpoId = HP:0007149
+| 名称 = Distal upper limb amyotrophy
+| 定义 = Muscular atrophy of distal arm muscles.
+| 中文译名 = 上肢远端肌萎缩
+| 中文定义 = 远端手臂肌肉肌萎缩。
+}}
+
+
+==[[HP:0007156]]==
+{{Infobox HPO
+| hpoId = HP:0007156
+| 名称 = Asymmetric limb muscle stiffness
+| 定义 = Stiffness of the limbs (acondition in which muscles cannot be moved quickly without accompanying pain or spasm) occurring in an asymmetric pattern.
+| 中文译名 = 不对称的肢体肌肉僵硬
+| 中文定义 = 肢体呈非对称方式僵硬（肌肉不能迅速移动但不伴随疼痛或痉挛的状态）。
+}}
+
+
+==[[HP:0007181]]==
+{{Infobox HPO
+| hpoId = HP:0007181
+| 名称 = Interosseus muscle atrophy
+| 定义 = Atrophy of the interosseus muscles (including the palmar interossei that lie on the anterior aspect of the metacarpals, the dorsal interosseus muscles of the hand, which lie between the intercarpals, the plantar interosseus muscles, which lie underneath the metatarsal bones, and the dorsal interossei, which are located between the metatarsal bones.
+| 中文译名 = 骨间肌萎缩
+| 中文定义 = 骨间肌肉萎缩（包括位于掌骨前部的掌骨间肌，位于腕骨间的手背部肌束，位于跖骨下方的足底肌间束，和位于跖骨之间的骨间背侧肌。）
+
+}}
+
+==[[HP:0007188]]==
+{{Infobox HPO
+| hpoId = HP:0007188
+| 名称 = Congenital facial diplegia
+| 定义 = Facial diplegia (that is, bilateral facial palsy) with congenital onset).
+| 中文译名 = 先天性双侧面瘫
+| 中文定义 = 先天性双侧面瘫（即双侧面神经麻痹）
+}}
+
+
+==[[HP:0007199]]==
+{{Infobox HPO
+| hpoId = HP:0007199
+| 名称 = Progressive spastic paraparesis
+| 定义 = #####
+| 中文译名 = 进行性痉挛性轻瘫
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007209]]==
+{{Infobox HPO
+| hpoId = HP:0007209
+| 名称 = Facial paralysis
+| 定义 = Complete loss of ability to move facial muscles innervated by the facial nerve (i.e., the seventh cranial nerve).
+| 中文译名 = 面瘫
+| 中文定义 = 由面部神经（即第七颅神经）支配的面部肌肉的活动能力完全丧失。
+}}
+
+
+==[[HP:0007210]]==
+{{Infobox HPO
+| hpoId = HP:0007210
+| 名称 = Lower limb amyotrophy
+| 定义 = Muscular atrophy affecting the lower limb.
+| 中文译名 = 下肢肌萎缩
+| 中文定义 = 肌萎缩影响下肢。
+}}
+
+
+==[[HP:0007269]]==
+{{Infobox HPO
+| hpoId = HP:0007269
+| 名称 = Spinal muscular atrophy
+| 定义 = Muscular weakness and atrophy related to loss of the motor neurons of the spinal cord and brainstem.
+| 中文译名 = 脊肌萎缩
+| 中文定义 = 肌肉萎缩无力与脊髓和脑干的运动神经元的缺失相关。
+}}
+
+
+==[[HP:0007280]]==
+{{Infobox HPO
+| hpoId = HP:0007280
+| 名称 = Acute infantile spinal muscular atrophy
+| 定义 = #####
+| 中文译名 = 小儿急性脊髓性肌萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007340]]==
+{{Infobox HPO
+| hpoId = HP:0007340
+| 名称 = Lower limb muscle weakness
+| 定义 = Weakness of the muscles of the legs.
+| 中文译名 = 下肢肌肉无力
+| 中文定义 = 腿部肌肉无力
+}}
+
+
+==[[HP:0007647]]==
+{{Infobox HPO
+| hpoId = HP:0007647
+| 名称 = Congenital extraocular muscle anomaly
+| 定义 = Congenital abnormality of the `extraocular muscles` (FMA:49033).
+| 中文译名 = 先天性眼外肌异常
+| 中文定义 = `眼外肌`的先天性异常（FMA:49033）。
+}}
+
+==[[HP:0007886]]==
+{{Infobox HPO
+| hpoId = HP:0007886
+| 名称 = Absent extraocular muscles
+| 定义 = Congenital absence of the `extraocular muscles` (FMA:49033).
+| 中文译名 = 眼外肌缺失
+| 中文定义 = 先天性无眼外肌（FMA:49033）。
+}}
+
+
+==[[HP:0008049]]==
+{{Infobox HPO
+| hpoId = HP:0008049
+| 名称 = Abnormality of the extraocular muscles
+| 定义 = An abnormality of an `extraocular muscle` (FMA:49033).
+| 中文译名 = 眼外肌异常
+| 中文定义 = 眼外肌的异常（FMA:49033）。
+}}
+
+
+==[[HP:0008112]]==
+{{Infobox HPO
+| hpoId = HP:0008112
+| 名称 = Plantar flexion contractures
+| 定义 = #####
+| 中文译名 = 跖屈挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008116]]==
+{{Infobox HPO
+| hpoId = HP:0008116
+| 名称 = Flexion limitation of toes
+| 定义 = Limitation of the ability to bend the toes.
+| 中文译名 = 脚趾屈曲限制
+| 中文定义 = 脚趾弯曲的功能受限。
+}}
+
+==[[HP:0008316]]==
+{{Infobox HPO
+| hpoId = HP:0008316
+| 名称 = Abnormal mitochondria in muscle tissue
+| 定义 = An abnormality of the mitochondria in muscle tissue.
+| 中文译名 = 肌肉组织中的线粒体异常
+| 中文定义 = 肌肉组织中的线粒体的一种异常。
+}}
+
+
+==[[HP:0008366]]==
+{{Infobox HPO
+| hpoId = HP:0008366
+| 名称 = Contractures involving the joints of the feet
+| 定义 = #####
+| 中文译名 = 脚关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008935]]==
+{{Infobox HPO
+| hpoId = HP:0008935
+| 名称 = Generalized neonatal hypotonia
+| 定义 = Muscular hypotonia (abnormally low muscle tone) manifesting in the neonatal period and affecting the entire musculature.
+| 中文译名 = 泛发性新生儿肌张力低下
+| 中文定义 = 肌张力减退（异常低肌张力）表现在新生儿期和影响整个肌肉组织。
+}}
+
+==[[HP:0008936]]==
+{{Infobox HPO
+| hpoId = HP:0008936
+| 名称 = Muscular hypotonia of the trunk
+| 定义 = Muscular hypotonia (abnormally low muscle tone) affecting the musculature of the trunk.
+| 中文译名 = 躯干肌张力减退
+| 中文定义 = 肌张力减退（异常低肌张力）影响躯干的肌肉。
+}}
+
+
+==[[HP:0008942]]==
+{{Infobox HPO
+| hpoId = HP:0008942
+| 名称 = Acute rhabdomyolysis
+| 定义 = An acute form of `rhabdomyolysis` (HP:0003201).
+| 中文译名 = 急性横纹肌溶解症
+| 中文定义 = 急性型“横纹肌溶解”（HP:0003201）。
+}}
+
+
+==[[HP:0008944]]==
+{{Infobox HPO
+| hpoId = HP:0008944
+| 名称 = Distal lower limb amyotrophy
+| 定义 = Muscular atrophy of distal leg muscles.
+| 中文译名 = 下肢远端肌肉肌萎缩
+| 中文定义 = 下肢远端肌肉萎缩。
+}}
+
+
+==[[HP:0008946]]==
+{{Infobox HPO
+| hpoId = HP:0008946
+| 名称 = Pelvic girdle amyotrophy
+| 定义 = Atrophy of the muscles of the pelvic girdle (also known as hip girdle), i.e., the gluteal muscles, the lateral rotators, the adductors, the psoas major and the iliacus muscle.
+| 中文译名 = 骨盆带肌萎缩
+| 中文定义 = 骨盆带（也称为臀腰带）肌萎缩，即，臀肌，横向回旋肌，内转肌，腰大和髂肌的肌肉。
+}}
+
+
+==[[HP:0008947]]==
+{{Infobox HPO
+| hpoId = HP:0008947
+| 名称 = Infantile muscular hypotonia
+| 定义 = Muscular hypotonia (abnormally low muscle tone) manifesting in infancy.
+| 中文译名 = 小儿肌张力减退
+| 中文定义 = 肌张力减退（异常低肌张力）表现在婴儿期。
+}}
+
+
+==[[HP:0008948]]==
+{{Infobox HPO
+| hpoId = HP:0008948
+| 名称 = Proximal upper limb amyotrophy
+| 定义 = Muscular atrophy affecting proximally located muscles of the arms.
+| 中文译名 = 上肢近端肌萎缩
+| 中文定义 = 肌萎缩影响了上肢近端肌肉。
+}}
+
+
+==[[HP:0008952]]==
+{{Infobox HPO
+| hpoId = HP:0008952
+| 名称 = Shoulder muscle hypoplasia
+| 定义 = Underdevelopment of muscles of the shoulder.
+| 中文译名 = 肩部肌肉发育不全
+| 中文定义 = 肩部肌肉的发育不良。
+}}
+
+==[[HP:0008953]]==
+{{Infobox HPO
+| hpoId = HP:0008953
+| 名称 = Pectoralis major hypoplasia
+| 定义 = Underdevelopment of the `pectoralis major` (FMA:9627).
+| 中文译名 = 胸大肌发育不良
+| 中文定义 = 胸大肌发育低下（FMA:9627）。
+}}
+
+==[[HP:0008954]]==
+{{Infobox HPO
+| hpoId = HP:0008954
+| 名称 = Intrinsic hand muscle atrophy
+| 定义 = Atrophy of the intrinsic muscle groups of the hand, comprising the thenar and hypothenar muscles; the interossei muscles; and the lumbrical muscles.
+| 中文译名 = 骨间肌萎缩
+| 中文定义 = 手内在肌群（包括鱼际和小鱼际肌、骨间肌和蚓状肌）萎缩。
+}}
+
+
+==[[HP:0008955]]==
+{{Infobox HPO
+| hpoId = HP:0008955
+| 名称 = Progressive distal muscular atrophy
+| 定义 = Progressive muscular atrophy affecting muscles in the distal portions of the extremities.
+| 中文译名 = 进行性远端肌萎缩
+| 中文定义 = 进行性肌萎缩的影响的四肢远端部分的肌肉。
+}}
+
+
+==[[HP:0008956]]==
+{{Infobox HPO
+| hpoId = HP:0008956
+| 名称 = Proximal lower limb amyotrophy
+| 定义 = Muscular atrophy affecting proximally located muscles of the legs, i.e., of the thigh.
+| 中文译名 = 下肢近端肌肉萎缩
+| 中文定义 = 肌肉萎缩影响位于腿部近侧（即大腿）的肌肉。
+}}
+
+==[[HP:0008959]]==
+{{Infobox HPO
+| hpoId = HP:0008959
+| 名称 = Distal upper limb muscle weakness
+| 定义 = Reduced strength of the distal musculature of the arms.
+| 中文译名 = 上肢远端肌无力
+| 中文定义 = 臂的远端肌肉强度降低。
+}}
+
+
+==[[HP:0008962]]==
+{{Infobox HPO
+| hpoId = HP:0008962
+| 名称 = Calf muscle hypoplasia
+| 定义 = Underdevelopment of the muscuklature of the calf.
+| 中文译名 = 腓肠肌发育不全
+| 中文定义 = 腓肠肌发育低下。
+}}
+
+==[[HP:0008963]]==
+{{Infobox HPO
+| hpoId = HP:0008963
+| 名称 = Tibialis muscle weakness
+| 定义 = Muscle weakness affecting the tibialis anterior muscle.
+| 中文译名 = 胫肌肉无力
+| 中文定义 = 胫骨前肌肌肉无力。
+}}
+
+
+==[[HP:0008964]]==
+{{Infobox HPO
+| hpoId = HP:0008964
+| 名称 = Nonprogressive muscular atrophy
+| 定义 = Muscular atrophy that does not display a progression in severity with time.
+| 中文译名 = 非进行性肌萎缩
+| 中文定义 = 肌萎缩不随时间进行性加重。
+}}
+
+
+==[[HP:0008967]]==
+{{Infobox HPO
+| hpoId = HP:0008967
+| 名称 = Exercise-induced muscle stiffness
+| 定义 = A type of muscle stiffness that occurs following physical exertion.
+| 中文译名 = 运动诱发的肌肉僵硬
+| 中文定义 = 强体力活动下发生的肌肉僵硬。
+}}
+
+
+==[[HP:0008968]]==
+{{Infobox HPO
+| hpoId = HP:0008968
+| 名称 = Muscle hypertrophy of the lower extremities
+| 定义 = Muscle hypertrophy primarily affecting the legs.
+| 中文译名 = 下肢肌肥大
+| 中文定义 = 肌肥大主要影响大腿。
+}}
+
+
+==[[HP:0008969]]==
+{{Infobox HPO
+| hpoId = HP:0008969
+| 名称 = Leg muscle stiffness
+| 定义 = #####
+| 中文译名 = 腿部肌肉僵硬
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008970]]==
+{{Infobox HPO
+| hpoId = HP:0008970
+| 名称 = Scapulohumeral muscular dystrophy
+| 定义 = #####
+| 中文译名 = 肩肱肌营养不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008978]]==
+{{Infobox HPO
+| hpoId = HP:0008978
+| 名称 = Necrotizing myopathy
+| 定义 = #####
+| 中文译名 = 坏死性肌病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008981]]==
+{{Infobox HPO
+| hpoId = HP:0008981
+| 名称 = Calf muscle hypertrophy
+| 定义 = Muscle hypertrophy affecting the calf muscles.
+| 中文译名 = 小腿肌肉肥大
+| 中文定义 = 肌肉肥大影响小腿肌肉。
+}}
+
+
+==[[HP:0008984]]==
+{{Infobox HPO
+| hpoId = HP:0008984
+| 名称 = Neck muscle hypoplasia
+| 定义 = Underdevelopment of muscles of the neck.
+| 中文译名 = 颈部肌肉发育不良
+| 中文定义 = 颈部肌肉发育低下。
+}}
+
+==[[HP:0008985]]==
+{{Infobox HPO
+| hpoId = HP:0008985
+| 名称 = Increased intramuscular fat
+| 定义 = An abnormal increase in the amount of intramuscular fat tissue.
+| 中文译名 = 肌内脂肪增多
+| 中文定义 = 肌内脂肪组织的量异常增加。
+}}
+
+
+==[[HP:0008986]]==
+{{Infobox HPO
+| hpoId = HP:0008986
+| 名称 = Agenesis of the diaphragm
+| 定义 = Congenital lack, i.e., `aplasia` (MPATH:58) of the `diaphragm` (FMA:13295).
+| 中文译名 = 横膈发育不全
+| 中文定义 = 膈膜的先天缺失，即“不发育”。
+}}
+
+==[[HP:0008988]]==
+{{Infobox HPO
+| hpoId = HP:0008988
+| 名称 = Pelvic girdle muscle atrophy
+| 定义 = Muscular atrophy affecting the muscles that attach to the pelvic girdle (the gluteal muscles, the lateral rotators, adductor magnus, adductor brevis, adductor longus, pectineus, and gracilis muscles).
+| 中文译名 = 骨盆带肌肉萎缩
+| 中文定义 = 肌萎缩影响到所粘附的骨盆带肌肉群（臀肌，横向回旋肌，大收肌，短收肌，长收肌，耻骨肌，股薄肌）。
+}}
+
+
+==[[HP:0008991]]==
+{{Infobox HPO
+| hpoId = HP:0008991
+| 名称 = Exercise-induced leg cramps
+| 定义 = Sudden and involuntary contractions of one or more muscles of the leg brought on by physical exertion.
+| 中文译名 = 运动诱发腿抽筋
+| 中文定义 = 腿的一个或多个肌肉突然不自主的收缩导致体力消耗。
+}}
+
+
+==[[HP:0008994]]==
+{{Infobox HPO
+| hpoId = HP:0008994
+| 名称 = Proximal muscle weakness in lower limbs
+| 定义 = A lack of strength of the proximal muscles of the legs.
+| 中文译名 = 下肢近端肌无力
+| 中文定义 = 腿的近端肌肉的缺乏力量。
+}}
+
+
+==[[HP:0008997]]==
+{{Infobox HPO
+| hpoId = HP:0008997
+| 名称 = Proximal muscle weakness in upper limbs
+| 定义 = A lack of strength of the proximal muscles of the arms.
+| 中文译名 = 上肢近端肌肉无力
+| 中文定义 = 上肢近端肌肉缺乏力量。
+}}
+
+
+==[[HP:0008998]]==
+{{Infobox HPO
+| hpoId = HP:0008998
+| 名称 = Pectoralis hypoplasia
+| 定义 = Underdevelopment of the pectoral muscle.
+| 中文译名 = 胸大肌发育不良
+| 中文定义 = 胸肌发育低下。
+}}
+
+==[[HP:0009004]]==
+{{Infobox HPO
+| hpoId = HP:0009004
+| 名称 = Hypoplasia of the musculature
+| 定义 = Underdevelopment of the musculature.
+| 中文译名 = 肌肉组织发育不全
+| 中文定义 = 肌肉组织发育低下。
+}}
+
+==[[HP:0009005]]==
+{{Infobox HPO
+| hpoId = HP:0009005
+| 名称 = Weakness of the intrinsic hand muscles
+| 定义 = #####
+| 中文译名 = 伸指长肌无力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009007]]==
+{{Infobox HPO
+| hpoId = HP:0009007
+| 名称 = Hypoplastic biceps
+| 定义 = Underdevelopment of the biceps muscle.
+| 中文译名 = 肱二头肌发育不全
+| 中文定义 = 肱二头肌发育低下。
+}}
+
+==[[HP:0009011]]==
+{{Infobox HPO
+| hpoId = HP:0009011
+| 名称 = Hypoplasia of serratus anterior muscle
+| 定义 = Underdevelopment of the serratus anterior muscle, which is involved in abduction, upward Rotation, and elevation of the scapula.
+| 中文译名 = 前锯肌发育不全
+| 中文定义 = 不发达前锯肌，这些肌肉与肩胛骨伸展、上旋和抬高有关。
+}}
+
+==[[HP:0009013]]==
+{{Infobox HPO
+| hpoId = HP:0009013
+| 名称 = Congenital absence of gluteal muscles
+| 定义 = #####
+| 中文译名 = 臀肌先天性缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009016]]==
+{{Infobox HPO
+| hpoId = HP:0009016
+| 名称 = Upper limb muscle hypoplasia
+| 定义 = Underdevelopment of muscles of the arm.
+| 中文译名 = 上肢肌肉发育不良
+| 中文定义 = 欠发达的手臂肌肉。
+}}
+
+
+==[[HP:0009020]]==
+{{Infobox HPO
+| hpoId = HP:0009020
+| 名称 = Exercise-induced muscle fatigue
+| 定义 = An abnormally increased tendency towards muscle fatigue induced by physical exercise.
+| 中文译名 = 运动性肌肉疲劳
+| 中文定义 = 体育锻炼引发的异常增加的肌肉疲劳。
+}}
+
+
+==[[HP:0009023]]==
+{{Infobox HPO
+| hpoId = HP:0009023
+| 名称 = Abdominal wall muscle weakness
+| 定义 = `Decreased strength` (PATO:0001779) of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌无力
+| 中文定义 = 腹部肌肉张力低下。
+}}
+
+
+==[[HP:0009026]]==
+{{Infobox HPO
+| hpoId = HP:0009026
+| 名称 = Hypoplasia of latissimus dorsi muscle
+| 定义 = Underdevelopment of the latissimus dorsi muscle, which is involved in adduction, extension, internal rotation, and transverse extension of the shoulder and assists in movement of the scapula.
+| 中文译名 = 背阔肌肌发育不全
+| 中文定义 = 背阔肌发育低下，这些肌肉参与肩部内收、外伸、内旋横向延伸，并协助在肩胛骨的运动。
+}}
+
+==[[HP:0009027]]==
+{{Infobox HPO
+| hpoId = HP:0009027
+| 名称 = Foot dorsiflexor weakness
+| 定义 = Weakness of the muscles responsible for dorsiflexion of the foot, that is, of the movement of the toes towards the shin. The foot dorsiflexors include the tibialis anterior, the extensor hallucis longus, the extensor digitorum longus, and the peroneus tertius muscles.
+| 中文译名 = 足背屈无力
+| 中文定义 = 弱点负责脚，即脚趾朝向胫的运动，背屈肌肉。足背伸包括胫前肌，伸拇长伸肌，趾长伸肌，以及第三腓骨肌肉。
+}}
+
+
+==[[HP:0009028]]==
+{{Infobox HPO
+| hpoId = HP:0009028
+| 名称 = Generalized weakness of limb muscles
+| 定义 = Generalized weakness of the muscles of the arms and legs.
+| 中文译名 = 四肢肌肉乏力
+| 中文定义 = 手臂和腿部的肌肉全身乏力。
+}}
+
+
+==[[HP:0009031]]==
+{{Infobox HPO
+| hpoId = HP:0009031
+| 名称 = Amyotrophy of ankle musculature
+| 定义 = Atrophy of the muscles of the ankle.
+| 中文译名 = 脚踝肌肉萎缩
+| 中文定义 = 脚踝肌肉萎缩。
+}}
+
+==[[HP:0009037]]==
+{{Infobox HPO
+| hpoId = HP:0009037
+| 名称 = Segmental spinal muscular atrophy
+| 定义 = #####
+| 中文译名 = 节段脊髓性肌萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009042]]==
+{{Infobox HPO
+| hpoId = HP:0009042
+| 名称 = Marked muscular hypertrophy
+| 定义 = Severe hypertrophy (increase in size) of muscle cells.
+| 中文译名 = 显著肌肉肥大
+| 中文定义 = 严重的肌细胞肥大（体积增大）。
+}}
+
+==[[HP:0009045]]==
+{{Infobox HPO
+| hpoId = HP:0009045
+| 名称 = Exercise-induced rhabdomyolysis
+| 定义 = `Rhabdomyolysis` (HP:0003201) induced by exercise.
+| 中文译名 = 运动诱导的横纹肌溶解
+| 中文定义 = 运动诱导的横纹肌溶解。
+}}
+
+
+==[[HP:0009046]]==
+{{Infobox HPO
+| hpoId = HP:0009046
+| 名称 = Difficulty running
+| 定义 = Reduced ability to run.
+| 中文译名 = 跑步困难
+| 中文定义 = 跑步能力下降。
+}}
+
+
+==[[HP:0009049]]==
+{{Infobox HPO
+| hpoId = HP:0009049
+| 名称 = Peroneal muscle atrophy
+| 定义 = Atrophy of the peroneous muscles, `peroneus longus (also known as Fibularis longus)&#39; (FMA:22539), `Peroneus brevis (also known as fibularis brevis` (FMA:22540), and `Peroneus tertius (also known as fibularis tertius` (FMA:22538).
+| 中文译名 = 腓肌萎缩
+| 中文定义 = `腓骨短（也称为腓骨brevis`（FMA:22540），和&#39;第三腓骨（也称为腓骨tertius`:所述peroneous肌肉，`腓骨长（也称为腓骨长肌）&#39;（22539 FMA）萎缩（FMA:22538）。
+}}
+
+
+==[[HP:0009050]]==
+{{Infobox HPO
+| hpoId = HP:0009050
+| 名称 = Quadriceps muscle atrophy
+| 定义 = Muscular atrophy involving the quadriceps muscle.
+| 中文译名 = 股四头肌肌肉萎缩
+| 中文定义 = 肌萎缩累及股四头肌。
+}}
+
+
+==[[HP:0009051]]==
+{{Infobox HPO
+| hpoId = HP:0009051
+| 名称 = Increased muscle glycogen content
+| 定义 = An increased amount of glycogen in muscle tissue.
+| 中文译名 = 肌肉糖原含量增加
+| 中文定义 = 糖原肌肉组织中的量增加。
+}}
+
+
+==[[HP:0009053]]==
+{{Infobox HPO
+| hpoId = HP:0009053
+| 名称 = Distal lower limb muscle weakness
+| 定义 = Reduced strength of the distal musculature of the legs.
+| 中文译名 = 下肢远端肌无力
+| 中文定义 = 下肢远端肌肉强度降低。
+}}
+
+
+==[[HP:0009054]]==
+{{Infobox HPO
+| hpoId = HP:0009054
+| 名称 = Scapuloperoneal myopathy
+| 定义 = #####
+| 中文译名 = 肩腓肌肌病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009055]]==
+{{Infobox HPO
+| hpoId = HP:0009055
+| 名称 = Generalized limb muscle atrophy
+| 定义 = Generalized (unlocalized) atrophy affecting muscles of the limbs in both proximal and distal locations.
+| 中文译名 = 泛发性四肢肌肉萎缩
+| 中文定义 = 广泛的（非固定性）萎缩影响近端和远端的位置四肢肌肉。
+}}
+
+==[[HP:0009058]]==
+{{Infobox HPO
+| hpoId = HP:0009058
+| 名称 = Increased muscle lipid content
+| 定义 = An abnormal accumulation of lipids in skeletal muscle.
+| 中文译名 = 肌肉脂肪含量增加
+| 中文定义 = 脂质在骨骼肌的异常积累。
+}}
+
+
+==[[HP:0009060]]==
+{{Infobox HPO
+| hpoId = HP:0009060
+| 名称 = Scapular muscle atrophy
+| 定义 = Atrophy of the muscles that are responsible for moving the scapula, which are the levator scapulae, the infraspinatus muscle, the teres major, the teres minor, and the supraspinatus muscle.
+| 中文译名 = 肩胛的肌肉萎缩
+| 中文定义 = 负责移动肩胛骨的肌肉萎缩，主要有肩胛提肌、冈肌、大圆肌、次要的大圆肌和冈上肌。
+}}
+
+==[[HP:0009062]]==
+{{Infobox HPO
+| hpoId = HP:0009062
+| 名称 = Infantile axial hypotonia
+| 定义 = Muscular hypotonia (abnormally low muscle tone) affecting the musculature of the trunk and with onset in infancy.
+| 中文译名 = 小儿轴向张力减退
+| 中文定义 = 肌张力减退（异常低肌张力）影响躯干肌肉，发病于婴儿期。
+}}
+
+==[[HP:0009063]]==
+{{Infobox HPO
+| hpoId = HP:0009063
+| 名称 = Progressive distal muscle weakness
+| 定义 = Progressively reduced strength of the distal musculature.
+| 中文译名 = 进行性远端肌无力
+| 中文定义 = 进行性远端肌肉力量减少。
+}}
+
+==[[HP:0009067]]==
+{{Infobox HPO
+| hpoId = HP:0009067
+| 名称 = Progressive spinal muscular atrophy
+| 定义 = Progressive spinal muscular atrophy, i.e., muscular weakness and atrophy related to loss of the motor neurons of the spinal cord and brainstem.
+| 中文译名 = 进行性脊髓性肌萎缩
+| 中文定义 = 进行性脊柱肌肉萎缩，即，肌肉无力和萎缩与脊髓和脑干的运动神经元缺失有关。
+}}
+
+
+==[[HP:0009069]]==
+{{Infobox HPO
+| hpoId = HP:0009069
+| 名称 = Lethal infantile mitochondrial myopathy
+| 定义 = #####
+| 中文译名 = 致命型婴儿线粒体肌病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009071]]==
+{{Infobox HPO
+| hpoId = HP:0009071
+| 名称 = Inflammatory myopathy
+| 定义 = #####
+| 中文译名 = 炎症性肌病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009073]]==
+{{Infobox HPO
+| hpoId = HP:0009073
+| 名称 = Progressive proximal muscle weakness
+| 定义 = Lack of strength of the proximal muscles that becomes progressively more severe.
+| 中文译名 = 进行性近端肌无力
+| 中文定义 = 近端肌肉缺乏力量并且逐渐加重。
+}}
+
+
+==[[HP:0009077]]==
+{{Infobox HPO
+| hpoId = HP:0009077
+| 名称 = Weakness of long finger extensor muscles
+| 定义 = #####
+| 中文译名 = 中指伸肌无力
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009109]]==
+{{Infobox HPO
+| hpoId = HP:0009109
+| 名称 = Denervation of the diaphragm
+| 定义 = Interruption of the innervation of the `diaphragm` (FMA:13295).
+| 中文译名 = 膈膜的去神经支配
+| 中文定义 = 膈膜神经支配的中断。
+}}
+
+
+==[[HP:0009110]]==
+{{Infobox HPO
+| hpoId = HP:0009110
+| 名称 = Diaphragmatic eventration
+| 定义 = A congenital failure of muscular development of part or all of one or both hemidiaphragms, resulting in superior displacement of abdominal viscera and altered lung development.
+| 中文译名 = 膈肌膨出
+| 中文定义 = 一个或两个偏侧膈（半膈）膈肌发育先天部分或全部缺失，导致腹腔脏器向上移位并改变肺的发育。
+}}
+
+
+==[[HP:0009112]]==
+{{Infobox HPO
+| hpoId = HP:0009112
+| 名称 = Absent left hemidiaphragm
+| 定义 = Congenital absence of the left half of the diaphragm.
+| 中文译名 = 左侧膈肌缺失
+| 中文定义 = 左半侧膈肌先天性缺失。
+}}
+
+
+==[[HP:0009113]]==
+{{Infobox HPO
+| hpoId = HP:0009113
+| 名称 = Diaphragmatic weakness
+| 定义 = A decrease in the strength of the diaphragm.
+| 中文译名 = 膈肌无力
+| 中文定义 = 膈肌力量的减弱。
+}}
+
+
+==[[HP:0009127]]==
+{{Infobox HPO
+| hpoId = HP:0009127
+| 名称 = Abnormality of the musculature of the limbs
+| 定义 = #####
+| 中文译名 = 四肢肌肉异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009128]]==
+{{Infobox HPO
+| hpoId = HP:0009128
+| 名称 = aplasia/Hypoplasia involving the musculature of the extremities
+| 定义 = #####
+| 中文译名 = 四肢肌肉发育不全或发育低下
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009129]]==
+{{Infobox HPO
+| hpoId = HP:0009129
+| 名称 = Upper limb amyotrophy
+| 定义 = Muscular atrophy involving the muscles of the upper limbs.
+| 中文译名 = 上肢肌萎缩
+| 中文定义 = 累及上肢肌肉的肌肉萎缩。
+}}
+
+
+==[[HP:0009130]]==
+{{Infobox HPO
+| hpoId = HP:0009130
+| 名称 = Hand muscle atrophy
+| 定义 = Muscular atrophy involving the muscles of the hand.
+| 中文译名 = 手肌萎缩
+| 中文定义 = 肌肉萎缩涉及手的肌肉。
+}}
+
+==[[HP:0009131]]==
+{{Infobox HPO
+| hpoId = HP:0009131
+| 名称 = Abnormality of the musculature of the thorax
+| 定义 = A disease or lesion affecting the muscles of the thorax.
+| 中文译名 = 胸肌组织的异常
+| 中文定义 = 疾病或损伤影响了胸肌。
+}}
+
+
+==[[HP:0009141]]==
+{{Infobox HPO
+| hpoId = HP:0009141
+| 名称 = Depletion of mitochondrial DNA in muscle tissue
+| 定义 = #####
+| 中文译名 = 肌肉组织中线粒体DNA消耗
+| 中文定义 = #####
+}}
+
+
+==[[HP:0009183]]==
+{{Infobox HPO
+| hpoId = HP:0009183
+| 名称 = Joint contracture of the 5th finger
+| 定义 = Chronic loss of joint motion in the 5th finger due to structural changes in non-bony tissue. The term camptodactyly of the 5th finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 小指关节挛缩
+| 中文定义 = 由于非骨组织的结构变化引起的第五手指的关节活动慢性损伤。第五手指的曲屈用于表述如远端和/或近端指间关节受到影响的情形。
+}}
+
+==[[HP:0009184]]==
+{{Infobox HPO
+| hpoId = HP:0009184
+| 名称 = Contracture of the distal interphalangeal joint of the 5th finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 5th finger due to structural changes in non-bony tissue.
+| 中文译名 = 小指的远端指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化引起的第五手指远端指间关节的关节活动慢性损失。
+}}
+
+==[[HP:0009185]]==
+{{Infobox HPO
+| hpoId = HP:0009185
+| 名称 = Contracture of the proximal interphalangeal joint of the 5th finger
+| 定义 = Proximal interphalangeal (PIP) flexion deformity of the little finger. That is, the PIP joint of a little finger is bent (flexed) and cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement.
+| 中文译名 = 小指近端指间关节挛缩
+| 中文定义 = 小指近端指间关节（PIP）曲屈畸形即小指的近侧指间关节弯曲（曲屈）不能主动或被动地伸直。这是一种由于肌肉、肌腱、韧带或皮肤的结构性变化引起的关节活动慢性损伤，进而妨碍了正常活动。
+}}
+
+==[[HP:0009186]]==
+{{Infobox HPO
+| hpoId = HP:0009186
+| 名称 = Contracture of the metacarpophalangeal joint of the 5th finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 5th finger due to structural changes in non-bony tissue.
+| 中文译名 = 小指掌指关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的小指掌指关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009274]]==
+{{Infobox HPO
+| hpoId = HP:0009274
+| 名称 = Joint contracture of the 4th finger
+| 定义 = Chronic loss of joint motion in the 4th finger due to structural changes in non-bony tissue. The term camptodactyly of the 4th finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 无名指关节挛缩
+| 中文定义 =由于非骨组织的结构变化引起第四手指的关节运动慢性损伤。第四手指的曲屈用于表述如远端和/或近端指间关节受到影响的情形。
+}}
+
+==[[HP:0009275]]==
+{{Infobox HPO
+| hpoId = HP:0009275
+| 名称 = Contracture of the distal interphalangeal joint of the 4th finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 4th finger due to structural changes in non-bony tissue.
+| 中文译名 = 无名指远端指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第四手指的远端指间关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009276]]==
+{{Infobox HPO
+| hpoId = HP:0009276
+| 名称 = Contracture of the proximal interphalangeal joint of the 4th finger
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 4th finger due to structural changes in non-bony tissue. That is, the PIP joint of a fourth finger is bent (flexed) and cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement.
+| 中文译名 = 无名指近端指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第四手指的近端指间关节的关节运动慢性丧失。即第四手指的指间关节弯曲（曲屈），不能主动或被动地深伸直。这是一种由于肌肉、肌腱、韧带或皮肤的结构变化引起的关节运动慢性损伤，进而妨碍了正常活动。
+}}
+
+==[[HP:0009277]]==
+{{Infobox HPO
+| hpoId = HP:0009277
+| 名称 = Contracture of the metacarpophalangeal joint of the 4th finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 4th finger due to structural changes in non-bony tissue.
+| 中文译名 = 无名指掌指关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第四手指的掌指关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009319]]==
+{{Infobox HPO
+| hpoId = HP:0009319
+| 名称 = Joint contracture of the 3rd finger
+| 定义 = Chronic loss of joint motion in the 3rd finger due to structural changes in non-bony tissue. The term camptodactyly of the 3rd finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 中指关节挛缩
+| 中文定义 =由于非骨组织结构变化引起的第三手指关节运动的慢性损伤。第三手指的曲屈用于表述如远端和/或近端指间关节受到影响的情形。
+}}
+
+==[[HP:0009469]]==
+{{Infobox HPO
+| hpoId = HP:0009469
+| 名称 = Contracture of the distal interphalangeal joint of the 3rd finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 3rd finger due to structural changes in non-bony tissue.
+| 中文译名 = 中指远端指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第三手指的远端指间关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009470]]==
+{{Infobox HPO
+| hpoId = HP:0009470
+| 名称 = Contracture of the metacarpophalangeal joint of the 3rd finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 3rd finger due to structural changes in non-bony tissue.
+| 中文译名 = 中指掌指关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第三个手指的掌指关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009471]]==
+{{Infobox HPO
+| hpoId = HP:0009471
+| 名称 = Contracture of the proximal interphalangeal joint of the 3rd finger
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 3rd finger due to structural changes in non-bony tissue.
+| 中文译名 = 中指近端指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第三手指的近端指间关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009473]]==
+{{Infobox HPO
+| hpoId = HP:0009473
+| 名称 = Joint contracture of the hand
+| 定义 = Contractures of one ore more joints of the hands meaning chronic loss of joint motion due to structural changes in non-bony tissue.
+| 中文译名 = 手指关节挛缩
+| 中文定义 = 一个或多个手指关节挛缩意味着由于非骨组织结构改变而引起的关节运动慢性损伤。
+}}
+
+==[[HP:0009537]]==
+{{Infobox HPO
+| hpoId = HP:0009537
+| 名称 = Flexion contracture of the 2nd finger
+| 定义 = Chronic loss of joint motion in the 2nd finger due to structural changes in non-bony tissue. The term camptodactyly of the 2nd finger is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 食指屈曲挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第二手指关节运动的慢性损伤。第二手指曲屈用于表述如远端和/或近端指间关节受到影响的情形。
+}}
+
+==[[HP:0009538]]==
+{{Infobox HPO
+| hpoId = HP:0009538
+| 名称 = Contracture of the distal interphalangeal joint of the 2nd finger
+| 定义 = Chronic loss of joint motion of the distal interphalangeal joint of the 2nd finger due to structural changes in non-bony tissue.
+| 中文译名 = 食指远端指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第二手指远端指间关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009539]]==
+{{Infobox HPO
+| hpoId = HP:0009539
+| 名称 = Contracture of the metacarpophalangeal joint of the 2nd finger
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the 2nd finger due to structural changes in non-bony tissue.
+| 中文译名 = 食指掌指关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第二手指的掌指关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009540]]==
+{{Infobox HPO
+| hpoId = HP:0009540
+| 名称 = Contracture of the proximal interphalangeal joint of the 2nd finger
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 2nd finger due to structural changes in non-bony tissue.
+| 中文译名 = 食指近端指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的第二手指的近端指间关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009600]]==
+{{Infobox HPO
+| hpoId = HP:0009600
+| 名称 = Flexion contracture of thumb
+| 定义 = Chronic loss of joint motion in the thumb due to structural changes in non-bony tissue. The term camptodactyly is used if the distal and/or proximal interphalangeal joints are affected.
+| 中文译名 = 拇指屈曲挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的拇指关节运动慢性损伤。指曲屈用于表述如远端和/或近端指间关节受到影响的情形。
+}}
+
+==[[HP:0009624]]==
+{{Infobox HPO
+| hpoId = HP:0009624
+| 名称 = Contractures of the carpometacarpal joint of the thumb
+| 定义 = Chronic loss of joint motion of the carpometacarpal joint of the thumb due to structural changes in non-bony tissue. This joint is formed by the first metacarpal and the trapezial bone and is also called Articulatio carpometacarpalis pollicis, carpometacarpal articulation of thumb, carpometacarpal joint of thumb or first carpometacarpal articulation. Seldom referred to as thumb saddle joint.
+| 中文译名 = 拇指腕掌关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的拇指腕掌关节的关节运动慢性损伤。该关节由第一掌骨和梯形骨形成，也被称为拇指腕掌关节、拇指的腕掌关节或第一手指的腕掌关节。很少被称为拇指鞍状关节。
+}}
+
+==[[HP:0009625]]==
+{{Infobox HPO
+| hpoId = HP:0009625
+| 名称 = Contractures of the metacarpophalangeal joint of the thumb
+| 定义 = Chronic loss of joint motion of the metacarpophalangeal joint of the thumb due to structural changes in non-bony tissue. This joint is also called Articulatio metacarpophalangealis pollicis.
+| 中文译名 = 拇指掌指关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的拇指掌指关节的关节运动慢性损伤。这种关节也被称为拇指掌间关节。
+}}
+
+==[[HP:0009626]]==
+{{Infobox HPO
+| hpoId = HP:0009626
+| 名称 = Contractures of the interphalangeal joint of the thumb
+| 定义 = Chronic loss of joint motion of the interphalangeal joint of the thumb due to structural changes in non-bony tissue. This joint is also called Articulatio interphalangealis pollicis.
+| 中文译名 = 拇指指间关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的拇指指间关节的关节运动慢性损伤。这种关节也被称为拇指指间关节。
+}}
+
+==[[HP:0009697]]==
+{{Infobox HPO
+| hpoId = HP:0009697
+| 名称 = Contracture of the distal interphalangeal joints of the fingers
+| 定义 = Chronic loss of joint motion in one or more distal interphalangeal joints of the fingers.
+| 中文译名 = 手指远端指间关节挛缩
+| 中文定义 = 一个或多个手指远端指间关节的关节运动慢性损伤。
+}}
+
+==[[HP:0009728]]==
+{{Infobox HPO
+| hpoId = HP:0009728
+| 名称 = Neoplasm of striated muscle
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) originating in striated muscle, either skeletal muscle or cardiac muscle.
+| 中文译名 = 横纹肌肉瘤
+| 中文定义 = 起源于横纹肌的良性或恶性肿瘤(MPATH:218)（肿瘤），包括骨骼肌和心肌。
+}}
+
+==[[HP:0009729]]==
+{{Infobox HPO
+| hpoId = HP:0009729
+| 名称 = Cardiac rhabdomyoma
+| 定义 = A benign tumor of cardiac striated muscle.
+| 中文译名 = 心脏横纹肌瘤
+| 中文定义 = 心脏横纹肌的良性肿瘤。
+}}
+
+==[[HP:0009730]]==
+{{Infobox HPO
+| hpoId = HP:0009730
+| 名称 = Rhabdomyoma
+| 定义 = A benign tumor of striated muscle.
+| 中文译名 = 横纹肌瘤
+| 中文定义 = 横纹肌的良性肿瘤。
+}}
+
+
+==[[HP:0009751]]==
+{{Infobox HPO
+| hpoId = HP:0009751
+| 名称 = aplasia of the pectoralis major muscle
+| 定义 = Absence of the pectoralis major muscle.
+| 中文译名 = 胸大肌发育不全
+| 中文定义 = 胸大肌缺失。
+}}
+
+==[[HP:0009782]]==
+{{Infobox HPO
+| hpoId = HP:0009782
+| 名称 = aplasia/Hypoplasia of the biceps
+| 定义 = Absence or underdevelopment of the biceps muscle.
+| 中文译名 = 肱二头肌发育不全或发育低下
+| 中文定义 = 肱二头肌缺失或发育低下。
+}}
+
+==[[HP:0009783]]==
+{{Infobox HPO
+| hpoId = HP:0009783
+| 名称 = Biceps aplasia
+| 定义 = Absence of the biceps muscle.
+| 中文译名 = 肱二头肌发育不全
+| 中文定义 = 肱二头肌缺失。
+}}
+
+==[[HP:0009784]]==
+{{Infobox HPO
+| hpoId = HP:0009784
+| 名称 = aplasia/Hypoplasia of the triceps
+| 定义 = Absence or underdevelopment of the triceps muscle.
+| 中文译名 = 肱三头肌发育不全或发育低下
+| 中文定义 = 肱三头肌缺失或发育低下。
+}}
+
+==[[HP:0009785]]==
+{{Infobox HPO
+| hpoId = HP:0009785
+| 名称 = Triceps aplasia
+| 定义 = Absence of the triceps muscle.
+| 中文译名 = 肱三头肌发育不全
+| 中文定义 = 肱三头肌缺失。
+}}
+
+==[[HP:0009786]]==
+{{Infobox HPO
+| hpoId = HP:0009786
+| 名称 = aplasia/Hypoplasia of the musculature of the thigh
+| 定义 = Absence or underdevelopment involving the musculature of the thigh.
+| 中文译名 = 大腿肌肉组织发育不全或发育低下
+| 中文定义 = 大腿肌肉组织缺失或发育低下。
+}}
+
+==[[HP:0009787]]==
+{{Infobox HPO
+| hpoId = HP:0009787
+| 名称 = aplasia/Hypoplasia of the quadriceps
+| 定义 = Absence or underdevelopment of the quadriceps muscle.
+| 中文译名 = 股四头肌发育不全或发育低下
+| 中文定义 = 股四头肌缺失或发育低下。
+}}
+
+==[[HP:0009788]]==
+{{Infobox HPO
+| hpoId = HP:0009788
+| 名称 = Quadriceps aplasia
+| 定义 = Absence of the quadriceps muscle.
+| 中文译名 = 股四头肌发育不全
+| 中文定义 = 股四头肌肌肉缺失。
+}}
+
+==[[HP:0010212]]==
+{{Infobox HPO
+| hpoId = HP:0010212
+| 名称 = Flexion contracture of the hallux
+| 定义 = One or more bent (flexed) joints of the first (big) toe that cannot be straightened actively or passively.
+| 中文译名 = 拇趾屈曲挛缩
+| 中文定义 = 大拇趾的一个或多个关节弯曲（曲屈），其关节不能主动或被动地伸直。
+}}
+
+==[[HP:0010213]]==
+{{Infobox HPO
+| hpoId = HP:0010213
+| 名称 = Contracture of the tarsometatarsal joint of the hallux
+| 定义 = Chronic loss of joint motion in the tarsometatarsal joint of the hallux due to structural changes in non-bony tissue. The tarsometatarsal joints of the feet are also called Lisfranc&#39;s joints.
+| 中文译名 = 拇趾跖跗关节挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的拇趾跖跗关节的关节运动慢性损伤。脚的跗跖关节也称为利斯弗朗关节。
+}}
+
+==[[HP:0010214]]==
+{{Infobox HPO
+| hpoId = HP:0010214
+| 名称 = Contracture of the interphalangeal joint of the hallux
+| 定义 = The interphalangeal joint of the big toe cannot be straightened actively or passively.
+| 中文译名 = 拇趾趾间关节挛缩
+| 中文定义 = 大脚趾的趾间关节不能主动或被动拉直。
+}}
+
+==[[HP:0010215]]==
+{{Infobox HPO
+| hpoId = HP:0010215
+| 名称 = Contractures of the metatarsophalangeal joint of the hallux
+| 定义 = The joint between the first metatarsal and the proximal phalanx of the first (big) toe cannot be straightened actively or passively.
+| 中文译名 = 拇趾跖趾关节挛缩
+| 中文定义 = 第一跖骨和拇趾近端指骨之间的关节不能被主动或被动地拉直。
+}}
+
+==[[HP:0010315]]==
+{{Infobox HPO
+| hpoId = HP:0010315
+| 名称 = aplasia/Hypoplasia of the diaphragm
+| 定义 = Absence or underdevelopment of the `diaphragm` (FMA:13295).
+| 中文译名 = 横膈发育不全/发育低下
+| 中文定义 = 横膈缺失或发育低下。
+}}
+
+==[[HP:0010318]]==
+{{Infobox HPO
+| hpoId = HP:0010318
+| 名称 = aplasia/Hypoplasia of the abdominal wall musculature
+| 定义 = Absence or underdevelopment of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹壁肌群发育不全/发育低下
+| 中文定义 = 腹壁肌群缺失或发育不全。
+}}
+
+==[[HP:0010327]]==
+{{Infobox HPO
+| hpoId = HP:0010327
+| 名称 = Flexion contracture of the 2nd toe
+| 定义 = One or more bent (flexed) joints of the second toe that cannot be straightened actively or passively.
+| 中文译名 = 第二趾屈曲挛缩
+| 中文定义 = 第二脚趾的一个或多个关节弯曲（曲屈），其不能主动或被动拉直。
+}}
+
+==[[HP:0010333]]==
+{{Infobox HPO
+| hpoId = HP:0010333
+| 名称 = Flexion contracture of 3rd toe
+| 定义 = One or more bent (flexed) joints of the third toe that cannot be straightened actively or passively.
+| 中文译名 = 第三趾屈曲挛缩
+| 中文定义 = 第三脚趾的一个或多个弯曲（曲屈），其不能主动或被动地拉直。
+}}
+
+==[[HP:0010339]]==
+{{Infobox HPO
+| hpoId = HP:0010339
+| 名称 = Flexion contracture of the 4th toe
+| 定义 = One or more bent (flexed) joints of the fourth toe that cannot be straightened actively or passively.
+| 中文译名 = 第四趾屈曲挛缩
+| 中文定义 = 第四脚趾的一个或多个弯曲（曲屈），其不能主动或被动地拉直。
+}}
+
+==[[HP:0010345]]==
+{{Infobox HPO
+| hpoId = HP:0010345
+| 名称 = Flexion contracture of the 5th toe
+| 定义 = One or more bent (flexed) joints of the fifth toe that cannot be straightened actively or passively.
+| 中文译名 = 第五趾屈曲挛缩
+| 中文定义 = 第五脚趾的一个或多个弯曲（曲屈），其不能主动或被动地拉直。
+}}
+
+==[[HP:0010486]]==
+{{Infobox HPO
+| hpoId = HP:0010486
+| 名称 = Abnormality of the hypothenar eminence
+| 定义 = An abnormality of the `hypothenar eminence`(FMA:61523), i.e., of the muscles on the ulnar side of the palm of the hand (i.e., on the side of the little finger).
+| 中文译名 = 小鱼际隆起异常
+| 中文定义 = 小鱼际的异常，即手掌尺侧（在小指一侧）的肌肉异常。
+}}
+
+==[[HP:0010487]]==
+{{Infobox HPO
+| hpoId = HP:0010487
+| 名称 = Small hypothenar eminence
+| 定义 = Reduced muscle mass on the ulnar side of the palm, that is, reduction in size of the `hypothenar eminence`(FMA:61523).
+| 中文译名 = 小鱼际小
+| 中文定义 = 手掌尺侧肌肉量减少，也就是小鱼际形状小。
+}}
+
+==[[HP:0010547]]==
+{{Infobox HPO
+| hpoId = HP:0010547
+| 名称 = Muscle flaccidity
+| 定义 = A type of paralysis in which a muscle becomes soft and yields to passive stretching, which results from loss of all or practically all peripheral motor nerves that innervated the muscle. Muscle tone is reduced and the affected muscles undergo extreme atrophy within months of the loss of innervation.
+| 中文译名 = 肌肉软弱无力
+| 中文定义 = 一种肌肉麻痹，表现为肌肉柔软松弛无法被动伸展，是由于部分或全部的支配肌肉的外周运动神经功能丧失所致。在丧失神经支配的数月内会出现肌张力减退和受累肌肉严重萎缩。
+}}
+
+==[[HP:0010548]]==
+{{Infobox HPO
+| hpoId = HP:0010548
+| 名称 = Percussion myotonia
+| 定义 = A localized myotonic contraction in a muscle in reaction to percussion (tapping with the examiner&#39;s finger, a rubber percussion hammer, or a similar object).
+| 中文译名 = 敲击性肌强直
+| 中文定义 = 敲击肌肉时局限性强直性收缩反应（用检查者的手指、橡胶锤或类似的对象敲击）。
+}}
+
+==[[HP:0010602]]==
+{{Infobox HPO
+| hpoId = HP:0010602
+| 名称 = Type 2 muscle fiber predominance
+| 定义 = An abnormal predominance of type II muscle fibers (in general, this feature can only be observed on muscle biopsy).
+| 中文译名 = 2型肌纤维占优势
+| 中文定义 = 2型肌纤维的异常优势（在一般情况下，该特征只能在肌肉活组织检查观察到）。
+}}
+
+==[[HP:0010628]]==
+{{Infobox HPO
+| hpoId = HP:0010628
+| 名称 = Facial palsy
+| 定义 = Facial nerve palsy is a dysfunction of cranial nerve VII (the facial nerve) that results in inability to control facial muscles on the affected side with weakness of the muscles of facial expression and eye closure. This can either be present in unilateral or bilateral form.
+| 中文译名 = 面部神经麻痹
+| 中文定义 = 面部神经麻痹是第VII颅神经（面神经）的机能障碍，可导致受累侧的面部肌肉无法控制，并伴有面部表情与闭眼肌肉无力。可出现在单侧或双侧。
+}}
+
+==[[HP:0010991]]==
+{{Infobox HPO
+| hpoId = HP:0010991
+| 名称 = Abnormality of the abdominal musculature
+| 定义 = An abnormality of the `abdominal musculature` (FMA:86917).
+| 中文译名 = 腹部肌肉系统异常
+| 中文定义 = 腹部肌肉组织的异常。
+}}
+
+==[[HP:0011006]]==
+{{Infobox HPO
+| hpoId = HP:0011006
+| 名称 = Abnormality of the musculature of the neck
+| 定义 = An abnormality of the `neck musculature` (FMA:71290).
+| 中文译名 = 颈部肌肉异常
+| 中文定义 = 颈部肌肉组织的异常
+}}
+
+==[[HP:0011099]]==
+{{Infobox HPO
+| hpoId = HP:0011099
+| 名称 = Spastic hemiplegia
+| 定义 = Unilateral paralysis with spasticity of the affected muscles and increased tendon reflexes.
+| 中文译名 = 痉挛性偏瘫
+| 中文定义 = 偏瘫伴受累肌肉痉挛和腱反射活跃。
+}}
+
+==[[HP:0011398]]==
+{{Infobox HPO
+| hpoId = HP:0011398
+| 名称 = Central hypotonia
+| 定义 = Reduced muscle tone secondary to an abnormality of the central nervous system.
+| 中文译名 = 中枢性肌张力低下
+| 中文定义 = 继发于中枢神经系统异常的肌张力减低。
+}}
+
+==[[HP:0011399]]==
+{{Infobox HPO
+| hpoId = HP:0011399
+| 名称 = Tibialis atrophy
+| 定义 = Atrophy of the tibialis muscle.
+| 中文译名 = 胫骨肌萎缩
+| 中文定义 = 胫骨肌肉萎缩。
+}}
+
+==[[HP:0011439]]==
+{{Infobox HPO
+| hpoId = HP:0011439
+| 名称 = Anesthetic-induced rhabdomylosis
+| 定义 = `Rhabdomyolysis` (HP:0003201) induced by anesthesia.
+| 中文译名 = 麻醉性横纹肌溶解症
+| 中文定义 = 麻醉诱导的“横纹肌溶解”。
+}}
+
+==[[HP:0011440]]==
+{{Infobox HPO
+| hpoId = HP:0011440
+| 名称 = Alcohol-induced rhabdomyolysis
+| 定义 = `Rhabdomyolysis` (HP:0003201) induced by intake of alcohol.
+| 中文译名 = 酒精性横纹肌溶解症
+| 中文定义 = 酒精摄入诱导的“横纹肌溶解”。
+}}
+
+
+==[[HP:0011727]]==
+{{Infobox HPO
+| hpoId = HP:0011727
+| 名称 = Peroneal muscle weakness
+| 定义 = Weakness of the peroneal muscles.
+| 中文译名 = 腓骨肌无力
+| 中文定义 = 腓骨肌虚弱无力。
+}}
+
+==[[HP:0011804]]==
+{{Infobox HPO
+| hpoId = HP:0011804
+| 名称 = Abnormality of muscle physiology
+| 定义 = A functional abnormality of a skeletal muscle.
+| 中文译名 = 肌肉生理机能异常
+| 中文定义 = 骨骼肌的功能异常。
+}}
+
+
+==[[HP:0011805]]==
+{{Infobox HPO
+| hpoId = HP:0011805
+| 名称 = Abnormality of muscle morphology
+| 定义 = A structural abnormality of a skeletal muscle.
+| 中文译名 = 肌肉形态异常
+| 中文定义 = 骨骼肌的结构异常。
+}}
+
+
+==[[HP:0011807]]==
+{{Infobox HPO
+| hpoId = HP:0011807
+| 名称 = Type 1 muscle fiber atrophy
+| 定义 = Atrophy (wasting) affecting primary type 1 muscle fibers. This feature in general can only be observed on muscle biopsy.
+| 中文译名 = 1型肌纤维萎缩
+| 中文定义 = 受累的1型肌肉纤维萎缩（消瘦）。一般该特征只能在肌肉活检中观察到。
+}}
+
+==[[HP:0011809]]==
+{{Infobox HPO
+| hpoId = HP:0011809
+| 名称 = Paradoxical myotonia
+| 定义 = A type of myotonia that worsens with repeated muscle contractions.
+| 中文译名 = 矛盾性肌强直
+| 中文定义 = 一种加重型肌强直，伴随肌肉的反复收缩。
+}}
+
+==[[HP:0011916]]==
+{{Infobox HPO
+| hpoId = HP:0011916
+| 名称 = Toe extensor amyotrophy
+| 定义 = Atrophy of the extensor digitorum longus muscles, which mediate extension of the toes.
+| 中文译名 = 趾伸肌肌萎缩
+| 中文定义 = 控制脚趾伸展的趾长伸肌肌肉萎缩。
+}}
+
+==[[HP:0011957]]==
+{{Infobox HPO
+| hpoId = HP:0011957
+| 名称 = Abnormality of the pectoral muscle
+| 定义 = An abnormality of the `pectoral muscle` (FMA:37349), comprising the pectoralis major, a thick, fan-shaped muscle of the anterior chest and the pectoralis minor, a thin, triangular muscle situated underneath the pectoralis major.
+| 中文译名 = 胸肌异常
+| 中文定义 = 胸肌异常，包括胸大肌（前胸部厚且呈扇形的肌肉）和胸小肌（薄且呈三角的肌肉，位于胸大肌的下面）异常。
+}}
+
+==[[HP:0011959]]==
+{{Infobox HPO
+| hpoId = HP:0011959
+| 名称 = Unilateral hypoplasia of pectoralis major muscle
+| 定义 = Hypoplasia (underdevelopment) of the `pectoralis major` (FMA:13109) on only one side of the chest.
+| 中文译名 = 单侧胸大肌发育不全
+| 中文定义 = 只有一侧胸大肌发育不全。
+}}
+
+
+==[[HP:0012036]]==
+{{Infobox HPO
+| hpoId = HP:0012036
+| 名称 = Sternocleidomastoid amyotrophy
+| 定义 = Wasting of the `sternocleidomastoid muscle` (FMA:13407), the muscle in the anterior part of the neck that acts to flex and rotate the head.
+| 中文译名 = 胸锁乳突肌肌萎缩
+| 中文定义 = 胸锁乳突肌失用，该颈前肌可控制头部活动旋转。
+}}
+
+==[[HP:0012037]]==
+{{Infobox HPO
+| hpoId = HP:0012037
+| 名称 = Pectoralis amyotrophy
+| 定义 = Wasting of the pectoral muscles, i.e., of the pectoralis major and pectoralis minor.
+| 中文译名 = 胸肌萎缩
+| 中文定义 = 胸肌的萎缩，如胸大肌和胸小肌。
+}}
+
+
+==[[HP:0012084]]==
+{{Infobox HPO
+| hpoId = HP:0012084
+| 名称 = Abnormality of skeletal muscle fiber size
+| 定义 = Any abnormality of the size of the `skeletal muscle cell` (FMA:9727).
+| 中文译名 = 骨骼肌纤维的大小异常
+| 中文定义 = “骨骼肌细胞”大小出现异常。
+}}
+
+
+==[[HP:0012233]]==
+{{Infobox HPO
+| hpoId = HP:0012233
+| 名称 = Intramuscular hematoma
+| 定义 = Blood clot formed within muscle tissue following leakage of blood into the tissue.
+| 中文译名 = 肌内血肿
+| 中文定义 = 泄漏的血液进入肌肉组织形成血块。
+}}
+
+==[[HP:0012240]]==
+{{Infobox HPO
+| hpoId = HP:0012240
+| 名称 = Increased intramyocellular lipid droplets
+| 定义 = An abnormal increase in intracellular lipid droplets In a muscle. The number and size of these drops can increase with somd disorders of lipid metabolism affecting muscle. See pmid 20691590 for histological images.
+| 中文译名 = 肌细胞内脂滴增加
+| 中文定义 = 肌肉细胞内脂滴的异常增加。这些脂滴数量和大小的增加会影响肌肉脂质代谢SOMD紊乱。见PMID 20691590组织学图像。
+}}
+
+==[[HP:0012241]]==
+{{Infobox HPO
+| hpoId = HP:0012241
+| 名称 = Levator palpebrae superioris atrophy
+| 定义 = Atrophy of the `levator palpebrae superioris` (FMA:49041), the extraocular muscle that  elevates the superior eyelid.
+| 中文译名 = 上睑提肌萎缩
+| 中文定义 = 上睑提肌萎缩（FMA:49041），眼外肌可影响上睑睁开。
+}}
+
+==[[HP:0012242]]==
+{{Infobox HPO
+| hpoId = HP:0012242
+| 名称 = Superior rectus atrophy
+| 定义 = Atrophy of the `superior rectus` (FMA:49035), the extraocular muscle whose primary function is to elevate the globe.
+| 中文译名 = 眼上直肌萎缩
+| 中文定义 = 眼上直肌的萎缩（FMA:49035），眼外肌的主要功能是使眼球上转。
+}}
+
+==[[HP:0012269]]==
+{{Infobox HPO
+| hpoId = HP:0012269
+| 名称 = Abnormal muscle glycogen content
+| 定义 = Any anomaly in the amount of glycogen in muscle tissue.
+| 中文译名 = 肌糖原含量异常
+| 中文定义 = 肌肉组织中糖原含量异常。
+}}
+
+==[[HP:0012270]]==
+{{Infobox HPO
+| hpoId = HP:0012270
+| 名称 = Decreased muscle glycogen content
+| 定义 = A decreased amount of glycogen in muscle tissue.
+| 中文译名 = 肌糖原含量减少
+| 中文定义 = 肌肉组织中的糖原量减少。
+}}
+
+
+==[[HP:0012385]]==
+{{Infobox HPO
+| hpoId = HP:0012385
+| 名称 = Camptodactyly
+| 定义 = The distal interphalangeal joint and/or the proximal interphalangeal joint of the fingers or toes cannot be extended to 180 degrees by either active or passive extension.
+| 中文译名 = 先天性手指弯曲
+| 中文定义 = 手指或脚趾的远端指间关节和/或近端指间关节无法通过主动或被动的方式拉直到180度。
+}}
+
+==[[HP:0012389]]==
+{{Infobox HPO
+| hpoId = HP:0012389
+| 名称 = Appendicular hypotonia
+| 定义 = Muscular hypotonia of one or more limbs.
+| 中文译名 = 四肢肌张力低下
+| 中文定义 = 一个或多个肢体肌张力减退。
+}}
+
+
+==[[HP:0012392]]==
+{{Infobox HPO
+| hpoId = HP:0012392
+| 名称 = Jaw hyporeflexia
+| 定义 = Reduced intensity of muscle tendon reflexes in jaw.
+| 中文译名 = 下颌反射减弱
+| 中文定义 = 下颌腱反射强度减弱。
+}}
+
+
+==[[HP:0012453]]==
+{{Infobox HPO
+| hpoId = HP:0012453
+| 名称 = Bilateral wrist flexion contracture
+| 定义 = A chronic loss of wrist joint motion on the right and left sides.
+| 中文译名 = 双侧腕关节曲屈挛缩
+| 中文定义 = 右侧和左侧的腕关节运动慢性损伤。
+}}
+
+==[[HP:0012454]]==
+{{Infobox HPO
+| hpoId = HP:0012454
+| 名称 = Unilateral wrist flexion contracture
+| 定义 = A chronic loss of wrist joint motion on one side only.
+| 中文译名 = 单侧腕关节屈曲挛缩
+| 中文定义 = 一侧腕关节活动慢性损伤。
+}}
+
+==[[HP:0012496]]==
+{{Infobox HPO
+| hpoId = HP:0012496
+| 名称 = Reduced maximal inspiratory pressure
+| 定义 = A decrease in the maximum amount of negative pressure a person can generate during an inhalation.
+| 中文译名 = 最大吸气压降低
+| 中文定义 = 一个人吸气时所能产生的最大负压降低。
+}}
+
+
+==[[HP:0012497]]==
+{{Infobox HPO
+| hpoId = HP:0012497
+| 名称 = Reduced maximal expiratory pressure
+| 定义 = A decrease in the maximum amount of pressure of expired air achieved by a person after a full inspiration.
+| 中文译名 = 最大呼气压降低
+| 中文定义 = 一个人在完全吸气后最大能力呼出气体的压力降低。
+}}
+
+==[[HP:0012507]]==
+{{Infobox HPO
+| hpoId = HP:0012507
+| 名称 = Weakness of orbicularis oculi muscle
+| 定义 = Reduced strength of the `orbicularis oculi` (FMA:46779), the circumorbital muscle in the face that closes the eyelid.
+| 中文译名 = 眼轮匝肌无力
+| 中文定义 = 眼轮匝肌（闭合眼睑）的收缩力度降低
+}}
+
+
+==[[HP:0012515]]==
+{{Infobox HPO
+| hpoId = HP:0012515
+| 名称 = Hip flexor weakness
+| 定义 = Reduced ability to flex the femur, that is, to pull the knee upward.
+| 中文译名 = 髋屈肌无力
+| 中文定义 = 股骨弯曲能力降低，即膝盖向上拉伸能力降低。
+}}
+
+==[[HP:0012548]]==
+{{Infobox HPO
+| hpoId = HP:0012548
+| 名称 = Skeletal muscle fatty infiltration
+| 定义 = Deposition of fat within muscles.
+| 中文译名 = 骨骼肌脂肪浸润
+| 中文定义 = 肌肉内脂肪沉积。
+}}
+
+
+==[[HP:0012785]]==
+{{Infobox HPO
+| hpoId = HP:0012785
+| 名称 = Flexion contracture of finger
+| 定义 = Chronic loss of joint motion in a finger due to structural changes in non-bony tissue.
+| 中文译名 = 手指屈曲挛缩
+| 中文定义 = 由于非骨组织结构变化而引起的手指关节活动慢性损伤。
+}}
+
+==[[HP:0012799]]==
+{{Infobox HPO
+| hpoId = HP:0012799
+| 名称 = Unilateral facial palsy
+| 定义 = One-sided weakness of the muscles of facial expression and eye closure.
+| 中文译名 = 单侧面神经麻痹
+| 中文定义 = 单侧控制面部表情和闭合眼睛的肌肉张力减低。
+}}
+
+==[[HP:0012892]]==
+{{Infobox HPO
+| hpoId = HP:0012892
+| 名称 = Facial muscle hypertrophy
+| 定义 = Muscle hypertrophy affecting the facial muscles.
+| 中文译名 = 面部肌肉肥大
+| 中文定义 = 受累的面部肌肉肥大。
+}}
+
+==[[HP:0012893]]==
+{{Infobox HPO
+| hpoId = HP:0012893
+| 名称 = Neck muscle hypertrophy
+| 定义 = Muscle hypertrophy affecting the muscles of the neck.
+| 中文译名 = 颈部肌肉肥大
+| 中文定义 = 受累的颈部肌肉肥大。
+}}
+
+==[[HP:0012894]]==
+{{Infobox HPO
+| hpoId = HP:0012894
+| 名称 = Paraspinal muscle hypertrophy
+| 定义 = Muscle hypertrophy affecting the paraspinal muscles.
+| 中文译名 = 椎旁肌肥大
+| 中文定义 = 受累的椎旁肌肥大。
+}}
+
+==[[HP:0012895]]==
+{{Infobox HPO
+| hpoId = HP:0012895
+| 名称 = Scapular muscle hypertrophy
+| 定义 = Muscle hypertrophy affecting the scapular muscles.
+| 中文译名 = 肩胛肌肥厚
+| 中文定义 = 受累的肩胛肌肥大。
+}}
+
+==[[HP:0012899]]==
+{{Infobox HPO
+| hpoId = HP:0012899
+| 名称 = Handgrip myotonia
+| 定义 = Difficulty releasing one&#39;s grip associated with prolonged first handgrip relaxation times.
+| 中文译名 = 抓握性肌强直
+| 中文定义 = 在一次握紧-放松时间延迟后很难放松。
+}}
+
+==[[HP:0012900]]==
+{{Infobox HPO
+| hpoId = HP:0012900
+| 名称 = Myotonia of the face
+| 定义 = Slowed relaxation of muscles in the face.
+| 中文译名 = 面部肌强直
+| 中文定义 = 面部肌肉的缓慢松弛。
+}}
+
+
+==[[HP:0012901]]==
+{{Infobox HPO
+| hpoId = HP:0012901
+| 名称 = Myotonia of the jaw
+| 定义 = Slowed relaxation of muscles in the jaw.
+| 中文译名 = 颚肌强直
+| 中文定义 = 下颚肌肉的缓慢松弛。
+}}
+
+
+==[[HP:0012902]]==
+{{Infobox HPO
+| hpoId = HP:0012902
+| 名称 = Myotonia of the lower limb
+| 定义 = Slowed relaxation of muscles in the leg.
+| 中文译名 = 下肢肌强直
+| 中文定义 = 下肢肌肉的缓慢松弛。
+}}
+
+
+==[[HP:0012903]]==
+{{Infobox HPO
+| hpoId = HP:0012903
+| 名称 = Myotonia of the upper limb
+| 定义 = Slowed relaxation of muscles in the arm.
+| 中文译名 = 上肢肌强直
+| 中文定义 = 上肢肌肉的缓慢松弛。
+}}
+
+
+==[[HP:0012904]]==
+{{Infobox HPO
+| hpoId = HP:0012904
+| 名称 = Cold-sensitive myotonia
+| 定义 = An involuntary and painless delay in the relaxation of skeletal muscle following contraction or electrical stimulation that is induced by exposure to cold.
+| 中文译名 = 寒冷诱发肌强直
+| 中文定义 = 在低温环境下，放松的骨骼肌收缩或受电刺激之后不自主地无痛延迟。
+}}
+
+
+==[[HP:0030000]]==
+{{Infobox HPO
+| hpoId = HP:0030000
+| 名称 = EMG: Repetitive nerve stimulation abnormality
+| 定义 = Abnormality observed upon electromyography when nerve studied is electrically stimulated six to ten times at 2 or 3 Hertz.
+| 中文译名 = 肌电图: 重复性神经电刺激异常
+| 中文定义 = 在2或3赫兹下电刺激6至10次，肌电图显示异常。
+}}
+
+==[[HP:0030006]]==
+{{Infobox HPO
+| hpoId = HP:0030006
+| 名称 = Single fiber EMG abnormality
+| 定义 = Abnormality in single fiber EMG recording, a technique that allows identification of action potentials (APs) from individual muscle fibers.
+| 中文译名 = 单纤维肌电图异常
+| 中文定义 = 单纤维肌电图异常，一种允许从个别肌肉纤维鉴别动作电位（APs）的技术。
+}}
+
+==[[HP:0030007]]==
+{{Infobox HPO
+| hpoId = HP:0030007
+| 名称 = EMG: Positive sharp waves
+| 定义 = These are spontaneous firing action potentials stimulated by needle movement of an injured muscle fiber. There is propagation to, but not past, the needle tip. This inhibits the display of the negative deflection of the waveform.
+| 中文译名 = 肌电图: 正锐波
+| 中文定义 = 由针极刺激受伤的肌纤维引起的自发性放电。针极正向传播，这抑制了波形的负偏转显示。
+}}
+
+==[[HP:0030044]]==
+{{Infobox HPO
+| hpoId = HP:0030044
+| 名称 = Flexion contracture of digit
+| 定义 = A bent (flexed) finger or toe joint that cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement of joints.
+| 中文译名 = 手指/脚趾屈曲挛缩
+| 中文定义 = 手指或脚趾关节的弯曲（曲屈）导致其不能主动或被动的拉直。这是一种由于肌肉、肌腱、韧带或皮肤的结构性变化引起的关节活动慢性损伤，进而妨碍了正常运动。
+}}
+
+==[[HP:0030046]]==
+{{Infobox HPO
+| hpoId = HP:0030046
+| 名称 = Hypoglycosylation of alpha-dystroglycan
+| 定义 = A reduction in the degree of glycosylation of alpha-dystroglycan in muscle tissue.
+| 中文译名 = α-抗肌萎缩蛋白聚糖糖基化不良
+| 中文定义 = 肌肉组织中的α-肌营养不良蛋白聚糖的糖基化程度降低。
+}}
+
+==[[HP:0030089]]==
+{{Infobox HPO
+| hpoId = HP:0030089
+| 名称 = Abnormal muscle fiber protein expression
+| 定义 = An anomalous amount of protein present in or on the surface of muscle fibers. This feature may be appreciate upon immunohistochemical investigation of muscle biopsy tissue.
+| 中文译名 = 肌纤维蛋白表达异常
+| 中文定义 = 肌纤维内部或表面的蛋白表达量异常，这种特征可能会在肌肉活检组织的免疫组化检查中出现。
+}}
+
+==[[HP:0030090]]==
+{{Infobox HPO
+| hpoId = HP:0030090
+| 名称 = Abnormal muscle fiber merosin expression
+| 定义 = An anomalous amount of merosin in muscle fibers. Merosin is a basement membrane-associated protein found in placenta, striated muscle, and peripheral nerve.
+| 中文译名 = 肌纤维层粘连蛋白α2表达异常
+| 中文定义 = 肌纤维中的分层蛋白表达量异常。分层蛋白是一种基础的膜结合蛋白，主要分布于胎盘中、横纹肌和末梢神经中。
+}}
+
+==[[HP:0030091]]==
+{{Infobox HPO
+| hpoId = HP:0030091
+| 名称 = Absent muscle fiber merosin
+| 定义 = Lack of merosin protein in the muscle biopsy.
+| 中文译名 = 肌纤维层粘连蛋白α2缺失
+| 中文定义 = 肌肉活检组织中分层蛋白缺失。
+}}
+
+==[[HP:0030092]]==
+{{Infobox HPO
+| hpoId = HP:0030092
+| 名称 = Reduced muscle fiber merosin
+| 定义 = A reduced amount of merosin in muscle fibers. This feature is usually assessed by immunohistochemical examination of muscle biopsy tissue.
+| 中文译名 = 肌纤维层粘连蛋白α2减少
+| 中文定义 = 肌纤维中分层蛋白表达量减少。这种特征经常出现于肌肉活检组织的免疫组化检查中。
+}}
+
+==[[HP:0030093]]==
+{{Infobox HPO
+| hpoId = HP:0030093
+| 名称 = Abnormal muscle fiber laminin beta 1
+| 定义 = A deviation from normal of the amount of laminin beta 1 in muscle fiber tissue. Laminin 2 is a major component of the basal lamina of skeletal muscle cells. It is a heterotrimer composed of 3 chains: merosin (laminin alpha 2 chain), beta 1, and gamma 1.
+| 中文译名 = 肌纤维层粘连蛋白β1异常
+| 中文定义 = 肌纤维组织中层粘连蛋白β1表达量偏差。层粘连蛋白2是一种骨骼肌细胞基膜中主要的组成成分。它是一个异三聚体，由分层蛋白（层粘连蛋白α2链），β1和γ1组成。
+}}
+
+==[[HP:0030094]]==
+{{Infobox HPO
+| hpoId = HP:0030094
+| 名称 = Reduced muscle fiber laminin beta 1
+| 定义 = A reduced amount of laminin beta 1 in muscle fiber tissue. Laminin 2 is a major component of the basal lamina of skeletal muscle cells. It is a heterotrimer composed of 3 chains: merosin (laminin alpha 2 chain), beta 1, and gamma 1.
+| 中文译名 = 肌纤维层粘连蛋白β1减少
+| 中文定义 = 肌纤维组织中层粘连蛋白β1表达量减少。层粘连蛋白2是一种骨骼肌细胞基膜中主要的组成成分。它是一个异三聚体，由分层蛋白（层粘连蛋白α2链），β1和γ1组成。
+}}
+
+==[[HP:0030095]]==
+{{Infobox HPO
+| hpoId = HP:0030095
+| 名称 = Reduced muscle collagen VI
+| 定义 = A decreased amount of collagen VI in muscle tissue. Collagen VI is a primarily associated with the extracellular matrix of skeletal muscle.
+| 中文译名 = 肌肉胶原蛋白VI型减少
+| 中文定义 = 肌肉组织中胶原蛋白VI型表达量降低。胶原蛋白VI型与骨骼肌细胞外基质有重要关联。
+}}
+
+==[[HP:0030096]]==
+{{Infobox HPO
+| hpoId = HP:0030096
+| 名称 = Abnormal muscle fiber dystrophin expression
+| 定义 = A deviation from normal in the amount of dystrophin in muscle fiber tissue. Dystrophin is located at the muscle sarcolemma in a membrane-spanning protein complex that connects the cytoskeleton to the basal lamina.
+| 中文译名 = 肌肉纤维抗肌萎缩蛋白表达异常
+| 中文定义 = 肌纤维组织中肌营养不良蛋白表达量与正常值的偏差。肌营养不良蛋白位于连接细胞骨架到基底层的跨膜蛋白复合物中的肌纤维膜中。
+}}
+
+==[[HP:0030097]]==
+{{Infobox HPO
+| hpoId = HP:0030097
+| 名称 = Absent muscle dystrophin expression
+| 定义 = Lack of dystrophin in muscle tissue. Immunohistochemistry reveals absent dystrophin protein in the muscle biopsy.
+| 中文译名 = 抗肌萎缩蛋白表达缺失
+| 中文定义 = 肌肉组织中肌营养不良蛋白表达减少。免疫组化检查显示肌肉活检组织中肌营养不良蛋白缺乏。
+}}
+
+==[[HP:0030098]]==
+{{Infobox HPO
+| hpoId = HP:0030098
+| 名称 = Reduced muscle dystrophin expression
+| 定义 = A decreased amount of dystrophin in muscle fiber tissue.
+| 中文译名 = 抗肌萎缩蛋白表达减少
+| 中文定义 = 肌纤维组织中肌营养不良蛋白表达减少。
+}}
+
+==[[HP:0030099]]==
+{{Infobox HPO
+| hpoId = HP:0030099
+| 名称 = Reduced muscle fiber alpha dystroglycan
+| 定义 = Immunohistochemistry reveals reduced alpha dystroglycan protein in the muscle biopsy. Alpha-dystroglycan is a heavily glycosylated peripheral-membrane component of the dystrophin-associated glycoprotein complex (DAPC), which, in addition to laminin alpha2, binds perlecan and agrin in the extracellular matrix, whereas beta-dystroglycan, derived from the same gene, is a transmembrane protein that links to dystrophin intracellularly.
+| 中文译名 = 肌纤维α-肌营养不良蛋白聚糖减少
+| 中文定义 = 免疫组化检查显示肌肉活检组织中α-肌营养不良蛋白减少。α-肌营养不良蛋白是一个重要的外周膜组成成分，由肌营养不良蛋白-糖蛋白的复合体组成，它与β-肌营养不良聚糖来自相同基因，在细胞内与肌营养不良蛋白结合成跨膜蛋白。除了层粘连蛋白α2、基底膜聚糖和细胞外基质中的聚集蛋白。
+}}
+
+==[[HP:0030100]]==
+{{Infobox HPO
+| hpoId = HP:0030100
+| 名称 = Abnormal muscle fiber alpha sarcoglycan
+| 定义 = Deviation from normal in the amount of alpha sarcoglycan in muscle. The alpha, beta, gamma, and delta sarcoglycans are components of the dystrophin-complex. They are all N-glycosylated transmembrane proteins with a short intra-cellular domain, a single transmembrane region and a large extra-cellular domain containing a cluster of conserved cysteines.
+| 中文译名 = 肌纤维α-肌聚糖异常
+| 中文定义 = 肌肉中α肌糖聚糖表达量与正常值有偏差。 α，β，γ和δ聚糖都是肌营养不良蛋白复合物的组分成分。N-糖基化跨膜蛋白包含一个短的细胞内结构域、一个单个跨膜区和一个大的细胞外结构域含有保守半胱氨酸簇。
+}}
+
+==[[HP:0030101]]==
+{{Infobox HPO
+| hpoId = HP:0030101
+| 名称 = Absent muscle fiber alpha sarcoglycan
+| 定义 = Lack of alpha sarcoglycan in muscle. Immunohistochemistry reveals absent alpha sarcoglycan protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维α-肌聚糖缺失
+| 中文定义 = 肌肉中α-肌聚糖缺失。免疫组化检查显示肌肉活检组织中α-肌聚糖蛋白缺乏。
+}}
+
+==[[HP:0030102]]==
+{{Infobox HPO
+| hpoId = HP:0030102
+| 名称 = Reduced muscle fiber alpha sarcoglycan
+| 定义 = A decreased amount of alpha sarcoglycan in muscle. Immunohistochemistry reveals reduced alpha sarcoglycan protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维α-肌聚糖减少
+| 中文定义 = 肌肉中α-肌聚糖表达量减少。免疫组化检查显示肌肉活检组织中α-肌聚糖蛋白减少。
+}}
+
+==[[HP:0030103]]==
+{{Infobox HPO
+| hpoId = HP:0030103
+| 名称 = Abnormal muscle fiber beta sarcoglycan
+| 定义 = Deviation from normal in the amount of beta sarcoglycan in muscle. The alpha, beta, gamma, and delta sarcoglycans are components of the dystrophin-complex. They are all N-glycosylated transmembrane proteins with a short intra-cellular domain, a single transmembrane region and a large extra-cellular domain containing a cluster of conserved cysteines.
+| 中文译名 = 肌肉纤维β-肌聚糖异常
+| 中文定义 = 肌肉中β-肌聚糖表达量异于常值。α，β，γ和δ肌聚糖都是肌营养不良蛋白复合物的组分成分。N-糖基化跨膜蛋白包含一个短的细胞内结构域、一个单个跨膜区和一个大的细胞外结构域含有保守半胱氨酸簇。
+}}
+
+==[[HP:0030104]]==
+{{Infobox HPO
+| hpoId = HP:0030104
+| 名称 = Abnormal muscle fiber gamma sarcoglycan
+| 定义 = Deviation from normal in the amount of gamma sarcoglycan in muscle. The alpha, beta, gamma, and delta sarcoglycans are components of the dystrophin-complex. They are all N-glycosylated transmembrane proteins with a short intra-cellular domain, a single transmembrane region and a large extra-cellular domain containing a cluster of conserved cysteines.
+| 中文译名 = 肌肉纤维γ-肌聚糖异常
+| 中文定义 = 肌肉中γ肌糖聚糖表达量异于常值。 α，β，γ和δ肌聚糖都是肌营养不良蛋白复合物的组分成分。N-糖基化跨膜蛋白包含一个短的细胞内结构域、一个单个跨膜区和一个大的细胞外结构域含有保守半胱氨酸簇。
+}}
+
+==[[HP:0030105]]==
+{{Infobox HPO
+| hpoId = HP:0030105
+| 名称 = Abnormal muscle fiber delta sarcoglycan
+| 定义 = Deviation from normal in the amount of delta sarcoglycan in muscle. The alpha, beta, gamma, and delta sarcoglycans are components of the dystrophin-complex. They are all N-glycosylated transmembrane proteins with a short intra-cellular domain, a single transmembrane region and a large extra-cellular domain containing a cluster of conserved cysteines.
+| 中文译名 = 肌肉纤维δ-肌聚糖异常
+| 中文定义 = 肌肉中δ肌糖聚糖表达量异于常值。 α，β，γ和δ肌聚糖都是肌营养不良蛋白复合物的组分成分。N-糖基化跨膜蛋白包含一个短的细胞内结构域、一个单个跨膜区和一个大的细胞外结构域含有保守半胱氨酸簇。
+}}
+
+==[[HP:0030106]]==
+{{Infobox HPO
+| hpoId = HP:0030106
+| 名称 = Absent muscle fiber beta sarcoglyan
+| 定义 = Immunohistochemistry shows complete lack of beta sarcoglycan protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维β-肌聚糖缺失
+| 中文定义 = 免疫组化检查显示肌肉活检组织中β-肌聚糖蛋白完全缺乏。
+}}
+
+==[[HP:0030107]]==
+{{Infobox HPO
+| hpoId = HP:0030107
+| 名称 = Reduced muscle fiber beta sarcoglycan
+| 定义 = Immunohistochemistry reveals reduced beta sarcoglycan protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维β-肌聚糖减少
+| 中文定义 = 免疫组化检查显示肌肉活检组织中β-肌聚糖蛋白减少。
+}}
+
+==[[HP:0030108]]==
+{{Infobox HPO
+| hpoId = HP:0030108
+| 名称 = Reduced muscle fiber gamma sarcoglycan
+| 定义 = Immunohistochemistry reveals reduced gamma sarcoglyan protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维γ-肌聚糖减少
+| 中文定义 = 免疫组化检查显示肌肉活检组织中γ-肌聚糖蛋白减少。
+}}
+
+==[[HP:0030109]]==
+{{Infobox HPO
+| hpoId = HP:0030109
+| 名称 = Absent muscle fiber gamma sarcoglycan
+| 定义 = Immunohistochemistry shows complete lack of gamma sarcoglycan protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维γ-肌聚糖缺失
+| 中文定义 = 免疫组化检查显示肌肉活检组织中γ-肌聚糖蛋白完全缺乏。
+}}
+
+==[[HP:0030110]]==
+{{Infobox HPO
+| hpoId = HP:0030110
+| 名称 = Absent muscle fiber delta sarcoglycan
+| 定义 = Immunohistochemistry shows complete lack of delta sarcoglycan protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维δ-肌聚糖缺失
+| 中文定义 = 免疫组化检查显示肌肉活检组织中δ-肌聚糖蛋白完全缺乏。
+}}
+
+==[[HP:0030111]]==
+{{Infobox HPO
+| hpoId = HP:0030111
+| 名称 = Reduced muscle fiber delta sarcoglycan
+| 定义 = #####
+| 中文译名 = 肌肉纤维δ-肌聚糖减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030112]]==
+{{Infobox HPO
+| hpoId = HP:0030112
+| 名称 = Abnormal muscle fiber alpha dystroglycan
+| 定义 = A deviation from normal of muscle alpha-dystroglcan expression. Alpha-dystroglycan is a heavily glycosylated peripheral-membrane component of the dystrophin-associated glycoprotein complex (DAPC), which, in addition to laminin alpha2, binds perlecan and agrin in the extracellular matrix, whereas beta-dystroglycan, derived from the same gene, is a transmembrane protein that links to dystrophin intracellularly.
+| 中文译名 = 肌纤维α-肌营养不良蛋白聚糖异常
+| 中文定义 = 肌肉组织中α-肌营养不良聚糖的表达异于常值。α-肌营养不良蛋白是一个重要的外周膜组成成分，由肌营养不良蛋白-糖蛋白的复合体组成，它与β-肌营养不良聚糖来自相同基因，在细胞内与肌营养不良蛋白结合成跨膜蛋白。除了层粘连蛋白α2、基底膜聚糖和细胞外基质中的聚集蛋白。
+}}
+
+==[[HP:0030113]]==
+{{Infobox HPO
+| hpoId = HP:0030113
+| 名称 = Abnormal muscle fiber dysferlin
+| 定义 = A deviation from normal in the expression of dysferlin in muscle tissue. Dysferlin is an ubiquitous 230-KDa transmembrane protein involved in calcium-mediated sarcolemma resealing.
+| 中文译名 = 肌肉纤维 dysferlin 异常
+| 中文定义 = 肌肉组织中dysferlin表达量异于常值。Dysferlin是一个普遍存在的230-KDa的转运蛋白，涉及肌膜间钙传递。
+}}
+
+==[[HP:0030114]]==
+{{Infobox HPO
+| hpoId = HP:0030114
+| 名称 = Absent muscle fiber dysferlin
+| 定义 = Immunohistochemistry shows complete lack of dysferlin protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维 dysferlin 缺失
+| 中文定义 = 免疫组化检查显示肌肉活检组织中dysferlin蛋白完全缺失。
+}}
+
+==[[HP:0030115]]==
+{{Infobox HPO
+| hpoId = HP:0030115
+| 名称 = Reduced muscle fiber dysferlin
+| 定义 = Immunohistochemistry reveals reduced dysferlin protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维 dysferlin 减少
+| 中文定义 = 免疫组化检查显示肌肉活检组织中dysferlin蛋白减少。
+}}
+
+==[[HP:0030116]]==
+{{Infobox HPO
+| hpoId = HP:0030116
+| 名称 = Abnormal muscle fiber emerin
+| 定义 = A deviation from normal of the amount of the inner nuclear membrane protein emerin in muscle tissue.
+| 中文译名 = 肌肉纤维emerin蛋白异常
+| 中文定义 = 肌肉组织中emerin蛋白表达量异于常值。
+}}
+
+==[[HP:0030117]]==
+{{Infobox HPO
+| hpoId = HP:0030117
+| 名称 = Absent muscle fiber emerin
+| 定义 = Immunohistochemistry shows complete lack of emerin protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维emerin蛋白缺失
+| 中文定义 = 免疫组化检查显示肌肉活检组织中emerin蛋白完全缺失。
+}}
+
+==[[HP:0030118]]==
+{{Infobox HPO
+| hpoId = HP:0030118
+| 名称 = Reduced muscle fiber emerin
+| 定义 = Immunohistochemistry reveals reduced emerin protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维emerin蛋白减少
+| 中文定义 = 免疫组化检查显示肌肉活检组织中emerin蛋白减少。
+}}
+
+==[[HP:0030119]]==
+{{Infobox HPO
+| hpoId = HP:0030119
+| 名称 = Abnormal muscle fiber calpain-3
+| 定义 = A deviation from normal in the amount of calpain-3 in muscle tissue. Calpains are intracellular nonlysosomal cysteine proteases modulated by calcium ions. A typical calpain is a heterodimer composed of two distinct subunits, one large (over 80 kDa) and the other small (30 kDa). While only one gene encoding the small subunit has been demonstrated, there are many genes for the large one. CAPN3 is similar to ubiquitous Calpain 1 and 2 (m-calpain and micro-calpain), but contains specific insertion sequences (NS, IS1 and IS2). Calpains cleave target proteins to modify their properties, rather than breaking down the substrates.
+| 中文译名 = 肌肉纤维钙蛋白酶-3异常
+| 中文定义 = 肌肉组织中钙蛋白酶-3表达量异常。钙蛋白酶是由钙离子调节的细胞内非溶酶体半胱氨酸蛋白酶。 典型的钙蛋白酶是由两个不同亚基组成的异源二聚体，一个大的（超过80kDa）和另一个小的（30kDa）。 虽然只有一个编码小亚基的基因已经被证实，但是大亚基有许多基因。 钙蛋白酶-3类似于普遍存在的钙蛋白酶1和2（m-钙蛋白酶和微钙蛋白酶），但包含特定的插入序列（NS，IS1和IS2）。 钙蛋白酶切割靶蛋白以修饰其性质，而不是分解底物。
+}}
+
+==[[HP:0030120]]==
+{{Infobox HPO
+| hpoId = HP:0030120
+| 名称 = Absent muscle fiber calpain-3
+| 定义 = Western blot shows complete lack of calpain-3 protein in the muscle biopsy tissue.
+| 中文译名 = 肌肉纤维钙蛋白酶-3缺失
+| 中文定义 = 肌肉活检组织的蛋白质印迹显示钙蛋白酶-3缺失。
+}}
+
+==[[HP:0030121]]==
+{{Infobox HPO
+| hpoId = HP:0030121
+| 名称 = Reduced muscle fiber calpain-3
+| 定义 = Western blot reveals reduced calpain-3 protein in the muscle biopsy tissue.
+| 中文译名 = 肌肉纤维钙蛋白酶-3减少
+| 中文定义 = 肌肉活检组织的蛋白质印迹显示钙蛋白酶-3减少。
+}}
+
+==[[HP:0030122]]==
+{{Infobox HPO
+| hpoId = HP:0030122
+| 名称 = Reduced muscle fiber perlecan
+| 定义 = Immunohistochemistry reveals reduced perlecan protein in the muscle biopsy. Perlecan is a basement membrane-specific heparan sulfate proteoglycan core protein (HSPG) also known as heparan sulfate proteoglycan 2 (HSPG2).
+| 中文译名 = 肌肉纤维perlecan聚糖减少
+| 中文定义 = 免疫组化检查显示肌肉活检组织中串珠蛋白聚糖减少。基底膜聚糖是基底膜特异性硫酸乙酰肝素蛋白聚糖的核心蛋白（HSPG），也称为硫酸乙酰肝素蛋白聚糖2（HSPG2）。
+}}
+
+==[[HP:0030123]]==
+{{Infobox HPO
+| hpoId = HP:0030123
+| 名称 = Abnormal muscle fiber lamin A/C
+| 定义 = A deviation from the normal amount of lamin A/C in muscle tissue. The LMNA gene gives rise to at least three splicing isoforms including the two main isoforms, lamin A and lamin C. These are constitutive components of the fibrous nuclear lamina and have different roles, ranging from mechanical nuclear membrane maintenance to gene regulation.
+| 中文译名 = 肌肉纤维核纤层蛋白 A/C 异常
+| 中文定义 = 肌肉组织中核纤层蛋白 A/C表达量异常。LMNA基因调控产生至少3个剪接连接酶，包括2个主要的核纤层蛋白A和C。它们是纤维性核层的重要组成成分且具有不同的功能，从机械核膜修护到基因调控。
+}}
+
+==[[HP:0030124]]==
+{{Infobox HPO
+| hpoId = HP:0030124
+| 名称 = Reduced muscle fiber lamin A/C
+| 定义 = A decreased amount of lamin A/C in muscle tissue. This feature can be shown by immunohistochemistry of Western blotting of muscle tissue.
+| 中文译名 = 肌肉纤维核纤层蛋白 A/C 减少
+| 中文定义 = 肌肉组织中核纤层蛋白 A/C表达量减少。肌肉组织的蛋白质印迹法免疫组化检查中可显示这种特征。
+}}
+
+==[[HP:0030190]]==
+{{Infobox HPO
+| hpoId = HP:0030190
+| 名称 = Oral motor hypotonia
+| 定义 = Reduced muscle tone of oral musculature. In infants, this feature may be associated with difficulties in breast feeding, and may affetc the latch, jaw motions, tongue placement, lip seal, suck/swallow/breathe pattern and overall feeding behavior.
+| 中文译名 = 口腔运动肌张力减退
+| 中文定义 = 口腔肌肉的肌张力减小。 在婴儿期，该特征可能与母乳喂养困难相关，并且可能影响闩锁、颌运动、舌放置、闭唇、吸吮/吞咽/呼吸模式和总体喂养行为。
+}}
+
+==[[HP:0030192]]==
+{{Infobox HPO
+| hpoId = HP:0030192
+| 名称 = Fatigable weakness of bulbar muscles
+| 定义 = A type of weakness of the bulbar muscles (muscles of the mouth and throat responsible for speech and swallowing) that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 口咽部肌肉疲劳性无力
+| 中文定义 = 一种肌群活动之后发生的延髓肌无力（负责言语和吞咽的口腔和喉部肌肉），休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030193]]==
+{{Infobox HPO
+| hpoId = HP:0030193
+| 名称 = Fatigable weakness of chewing muscles
+| 定义 = A type of weakness of the muscles involved in chewing that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 咀嚼肌疲劳性无力
+| 中文定义 = 一种发生在肌群运动后影响咀嚼的肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030194]]==
+{{Infobox HPO
+| hpoId = HP:0030194
+| 名称 = Fatigable weakness of speech muscles
+| 定义 = A type of weakness of the muscles involved in speech that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 发音肌肉疲劳性无力
+| 中文定义 = 一种发生在肌群运动后影响发音的肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030195]]==
+{{Infobox HPO
+| hpoId = HP:0030195
+| 名称 = Fatigable weakness of swallowing muscles
+| 定义 = A type of weakness of the muscles involved in swallowing that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 吞咽肌肉疲劳性无力
+| 中文定义 = 一种发生在肌群运动后影响吞咽的肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030196]]==
+{{Infobox HPO
+| hpoId = HP:0030196
+| 名称 = Fatigable weakness of respiratory muscles
+| 定义 = A type of weakness of the muscles involved in breathing (respiration) that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 呼吸肌疲劳性无力
+| 中文定义 = 一种发生在肌群运动后影响呼吸的肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030197]]==
+{{Infobox HPO
+| hpoId = HP:0030197
+| 名称 = Fatigable weakness of skeletal muscles
+| 定义 = A type of weakness of skeletal muscle that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 骨骼肌疲劳性无力
+| 中文定义 = 一种发生在肌群运动后的骨骼肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030198]]==
+{{Infobox HPO
+| hpoId = HP:0030198
+| 名称 = Fatigable weakness of distal limb muscles
+| 定义 = A type of weakness of a skeletal muscle of distal part of a limb that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 远端肢体肌肉疲劳性无力
+| 中文定义 = 一种发生在肌群运动后的远端肢体骨骼肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030199]]==
+{{Infobox HPO
+| hpoId = HP:0030199
+| 名称 = Fatigable weakness of neck muscles
+| 定义 = A type of weakness of a skeletal muscle in the neck that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 颈部肌肉疲劳性无力
+| 中文定义 = 一种通常发生在肌群运动后的颈部骨骼肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030200]]==
+{{Infobox HPO
+| hpoId = HP:0030200
+| 名称 = Fatiguable weakness of proximal limb muscles
+| 定义 = A type of weakness of a skeletal muscle of proximal part of a limb that occurs after a muscle group is used and lessens if the muscle group has some rest. That is, there is diminution of strength with repetitive muscle actions.
+| 中文译名 = 近端肢体肌肉疲劳性无力
+| 中文定义 = 一种通常发生在肌群运动后的近端肢体骨骼肌无力，休息后可以减轻。即肌肉重复运动后力量下降。
+}}
+
+==[[HP:0030205]]==
+{{Infobox HPO
+| hpoId = HP:0030205
+| 名称 = Increased jitter at single fibre EMG
+| 定义 = The variation in the time interval between the two action potentials of the same motor unit is called jitter. This term therefore applies to increased variability in the interval between successive action potentials of the same motor unit, which is measured by electromyography (EMG).
+| 中文译名 = 单纤维肌电图时抖动增加
+| 中文定义 = 同一运动单位的两个动作电位之间的时间间隔变化被称为抖动。因此，该术语适用于通过肌电图（EMG）测量的相同运动单位的连续动作电位之间的时间间隔的变异增加时。
+}}
+
+==[[HP:0030206]]==
+{{Infobox HPO
+| hpoId = HP:0030206
+| 名称 = EMG: incremental response of compound muscle action potential to repetitive nerve stimulation
+| 定义 = A compound muscle action potential (CMAP) is a type of electromyography (EMG). CMAP refers to a group of almost simultaneous action potentials from several muscle fibers in the same area evoked by stimulation of the supplying motor nerve and are recorded as one multipeaked summated action potential. This abnormality refers to an abnormal increase in the amplitude during the course of the investigation.
+| 中文译名 = 肌电图: 复合肌肉动作电位对于重复神经刺激的反应递增
+| 中文定义 = 复合肌肉动作电位（CMAP）是肌电图（EMG）的一种。 CMAP是指一组来自同一区域的几种肌肉纤维，由运动神经刺激诱发的几乎同时发生的动作电位，并且记录为一个多重加和的总动作电位。这种异常是指在研究过程中振幅的异常增加。
+}}
+
+==[[HP:0030224]]==
+{{Infobox HPO
+| hpoId = HP:0030224
+| 名称 = Abnormal muscle fiber desmin
+| 定义 = A deviation from normal in the expression of desmin in muscle tissue. Desmin is an 53-KDa protein.
+| 中文译名 = 肌肉纤维结蛋白异常
+| 中文定义 = 肌肉组织中结蛋白表达量异常。结蛋白是一个53-KDa的蛋白质。
+}}
+
+==[[HP:0030225]]==
+{{Infobox HPO
+| hpoId = HP:0030225
+| 名称 = Accumulation of muscle fiber desmin
+| 定义 = Immunohistochemistry shows accumulation of desmin protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维结蛋白蓄积
+| 中文定义 = 免疫组化检查显示肌肉活检组织中结蛋白蓄积。
+}}
+
+==[[HP:0030226]]==
+{{Infobox HPO
+| hpoId = HP:0030226
+| 名称 = Abnormal muscle fiber myotilin
+| 定义 = A deviation from normal in the expression of myotilin in muscle tissue. Myotilin is a 57kD cytoskeletal protein.
+| 中文译名 = 肌肉纤维肌收缩蛋白异常
+| 中文定义 = 肌肉组织中肌收缩蛋白表达量异常。肌收缩蛋白是一个57kD的细胞支架蛋白。
+}}
+
+==[[HP:0030227]]==
+{{Infobox HPO
+| hpoId = HP:0030227
+| 名称 = Accumulation of muscle fiber myotilin
+| 定义 = Immunohistochemistry shows accumulation of myotilin protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维肌收缩蛋白蓄积
+| 中文定义 = 免疫组化检查显示肌肉活检组织中肌收缩蛋白蓄积。
+}}
+
+==[[HP:0030228]]==
+{{Infobox HPO
+| hpoId = HP:0030228
+| 名称 = Abnormal muscle fiber valosin-containing protein
+| 定义 = A deviation from normal in the expression of valosin-containing protein in muscle tissue. Valosin-containing protein an ubiquitously expressed multifunctional 100-kD protein that is a member of the AAA+ (ATPase associated with various activities) protein family.
+| 中文译名 = 肌肉纤维含缬酪肽蛋白异常
+| 中文定义 = 肌肉组织中含缬酪肽蛋白的表达量异常。含缬酪肽蛋白是一个100-kD的多功能泛表达蛋白，也是AAA+蛋白家族的一员。
+}}
+
+==[[HP:0030229]]==
+{{Infobox HPO
+| hpoId = HP:0030229
+| 名称 = Accumulation of muscle fiber valosin-containing protein
+| 定义 = Immunohistochemistry shows accumulation of valosin-containing protein in the muscle biopsy.
+| 中文译名 = 肌肉纤维含缬酪肽蛋白蓄积
+| 中文定义 = 免疫组化检查显示肌肉活检组织中含缬酪肽蛋白蓄积。
+}}
+
+==[[HP:0030230]]==
+{{Infobox HPO
+| hpoId = HP:0030230
+| 名称 = Central core regions in muscle fibers
+| 定义 = The presence of disorganized areas called cores in the center of muscle fibers. There is a typical appearance of the biopsy on light microscopy, where the muscle cells have cores that are devoid of mitochondria and specific enzymes. Cores are typically well demarcated and centrally located, but may occasionally be multiple and of eccentric.
+| 中文译名 = 肌肉纤维中央轴空
+| 中文定义 = 存在的分裂区域也称为轴空区在肌肉纤维中心。在光学显微镜下存在活检的典型外观，其中肌肉细胞具有缺乏线粒体和特异性酶的核心。轴空区通常被良好地划定并且位于中心，但偶尔也是多重的和偏中心的。
+}}
+
+==[[HP:0030231]]==
+{{Infobox HPO
+| hpoId = HP:0030231
+| 名称 = Glycogen accumulation in muscle fiber lysosomes
+| 定义 = An increased amount of glycogen in muscle tissue found specifically in lysosomes.
+| 中文译名 = 肌肉纤维溶酶体糖原蓄积
+| 中文定义 = 肌肉组织中糖原含量增加，尤其是溶酶体中。
+}}
+
+==[[HP:0030232]]==
+{{Infobox HPO
+| hpoId = HP:0030232
+| 名称 = Increased sarcoplasmic glycogen
+| 定义 = Elevated glycogen content in the sarcoplasm (cytoplasm) of muscle fibers.
+| 中文译名 = 肌浆糖原增加
+| 中文定义 = 肌肉纤维的肌浆中糖原含量增加。
+}}
+
+==[[HP:0030233]]==
+{{Infobox HPO
+| hpoId = HP:0030233
+| 名称 = Bethlem sign
+| 定义 = Limitation of wrist and finger extension on asking patient to form a prayer sign. This is a result of progressive wrist and finger flexion contractures.
+| 中文译名 = 贝特莱姆征
+| 中文定义 = 当患者做祈祷样动作时，手腕及手指伸展受限。从而导致手腕及手指进行性屈曲挛缩。
+}}
+
+==[[HP:0030236]]==
+{{Infobox HPO
+| hpoId = HP:0030236
+| 名称 = Abnormality of muscle size
+| 定义 = Abnormalities of the overall muscle bulk based on clinical observation.
+| 中文译名 = 肌肉大小异常
+| 中文定义 = 基于临床观察发现的肌肉体积异常。
+}}
+
+==[[HP:0030237]]==
+{{Infobox HPO
+| hpoId = HP:0030237
+| 名称 = Hand muscle weakness
+| 定义 = Reduced strength of the musculature of the hand.
+| 中文译名 = 手肌无力
+| 中文定义 = 手部肌肉力量减弱。
+}}
+
+
+==[[HP:0030239]]==
+{{Infobox HPO
+| hpoId = HP:0030239
+| 名称 = Hypoplasia of the upper arm musculature
+| 定义 = Underdevelopment of the musculature of the upper arm, which may include the deltoid, the triceps, the biceps, and the brachioradialis.
+| 中文译名 = 上臂肌肉发育不全
+| 中文定义 = 上臂肌肉发育不全，包括三角肌、肱三头肌、肱二头肌、肱桡肌。
+}}
+
+
+==[[HP:0030241]]==
+{{Infobox HPO
+| hpoId = HP:0030241
+| 名称 = Hypoplasia of deltoid muscle
+| 定义 = Underdevelopment of the deltoid muscle.
+| 中文译名 = 三角肌发育不全
+| 中文定义 = 三角肌不完全发育
+}}
+
+
+==[[HP:0030284]]==
+{{Infobox HPO
+| hpoId = HP:0030284
+| 名称 = Triangular tongue
+| 定义 = A form of macrogloassia (increased size of the tongue) characterized by a broad based root of the tongue but a small tongue tip, giving the appearance of a triangle.
+| 中文译名 = 三角形舌
+| 中文定义 = 一种巨舌形式（舌的尺寸增加），其特征在于舌根宽大，但舌尖小，显示出三角形的外观。
+}}
+
+==[[HP:0030319]]==
+{{Infobox HPO
+| hpoId = HP:0030319
+| 名称 = Weakness of facial musculature
+| 定义 = Reduced strength of one or more muscles innervated by the facial nerve (the seventh cranial nerve).
+| 中文译名 = 面部肌肉无力
+| 中文定义 = 一个或多个受脸部神经（第7脑神经）支配的脸部肌肉无力。
+}}
+
+==[[HP:0030362]]==
+{{Infobox HPO
+| hpoId = HP:0030362
+| 名称 = Reduced muscle carnitine level
+| 定义 = A reduction in the level of carnitine in muscle tissue.
+| 中文译名 = 肌肉肉碱水平降低
+| 中文定义 = 肌肉组织中肉碱水平降低。
+}}
+
+==[[HP:0030664]]==
+{{Infobox HPO
+| hpoId = HP:0030664
+| 名称 = Beevor&#39;s sign
+| 定义 = Weakness of the inferior portion of the rectus abdominal muscle, which is ascertained clinically as follows. When a patient sits up or raises the head from a recumbent position, the umbilicus is displaced toward the head. This is the result of paralysis of the inferior portion of the rectus abdominal muscle, so that the upper fibres predominate pulling upwards the umbilicus.
+| 中文译名 = 比佛氏征
+| 中文定义 = 直肠腹肌下部的肌无力。临床确诊如下：当患者坐着或从躺着位置抬起头部时，脐部朝向头部位移。 这是直肠腹肌下部瘫痪的结果，使得上部肌纤维占优势，并向上拉伸脐部。
+}}
+
+==[[HP:0030675]]==
+{{Infobox HPO
+| hpoId = HP:0030675
+| 名称 = Contracture of proximal interphalangeal joints of 2nd-5th fingers
+| 定义 = Chronic loss of joint motion of the proximal interphalangeal joint of the 2nd, 3rd, 4th, and 5th fingers due to structural changes in non-bony tissue.
+| 中文译名 = 第二至第五指的近端指间关节挛缩
+| 中文定义 = 由于非骨性组织的结构改变，导致第二至第五指的近端指间关节活动的慢性丧失。
+}}
+
+
+==[[HP:0040044]]==
+{{Infobox HPO
+| hpoId = HP:0040044
+| 名称 = Hypoplasia of the diaphragm
+| 定义 = #####
+| 中文译名 = 横膈膜发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040045]]==
+{{Infobox HPO
+| hpoId = HP:0040045
+| 名称 = Abnormality of the hemidiaphragms
+| 定义 = #####
+| 中文译名 = 单侧横膈异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040046]]==
+{{Infobox HPO
+| hpoId = HP:0040046
+| 名称 = Abnormality of the left hemidiaphragm
+| 定义 = #####
+| 中文译名 = 左侧横膈异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040047]]==
+{{Infobox HPO
+| hpoId = HP:0040047
+| 名称 = Abnormality of the right hemidiaphragm
+| 定义 = #####
+| 中文译名 = 右侧横膈异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040048]]==
+{{Infobox HPO
+| hpoId = HP:0040048
+| 名称 = Aplasia of the left hemidiaphragm
+| 定义 = #####
+| 中文译名 = 左侧横膈发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040172]]==
+{{Infobox HPO
+| hpoId = HP:0040172
+| 名称 = Abnormality of occipitofrontalis muscle
+| 定义 = #####
+| 中文译名 = 枕额肌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040173]]==
+{{Infobox HPO
+| hpoId = HP:0040173
+| 名称 = Abnormality of the tongue muscle
+| 定义 = #####
+| 中文译名 = 舌肌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040174]]==
+{{Infobox HPO
+| hpoId = HP:0040174
+| 名称 = Abnormality of extrinsic muscle of tongue
+| 定义 = #####
+| 中文译名 = 舌外肌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040191]]==
+{{Infobox HPO
+| hpoId = HP:0040191
+| 名称 = Rectus femoris muscle atrophy
+| 定义 = #####
+| 中文译名 = 股四头肌肌肉萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040242]]==
+{{Infobox HPO
+| hpoId = HP:0040242
+| 名称 = Muscle haemorrhage
+| 定义 = Haemorrhage occurring within a muscle
+| 中文译名 = 肌肉出血
+| 中文定义 = 肌肉内出血。
+}}
+
+==[[HP:0040265]]==
+{{Infobox HPO
+| hpoId = HP:0040265
+| 名称 = Upper limb muscle hypertrophy
+| 定义 = #####
+| 中文译名 = 上肢肌肉肥大
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040266]]==
+{{Infobox HPO
+| hpoId = HP:0040266
+| 名称 = Proximal upper limb muscle hypertrophy
+| 定义 = #####
+| 中文译名 = 上肢近端肌肉肥大
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040267]]==
+{{Infobox HPO
+| hpoId = HP:0040267
+| 名称 = Distal upper limb muscle hypertrophy
+| 定义 = #####
+| 中文译名 = 上肢远端肌肉肥大
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045037]]==
+{{Infobox HPO
+| hpoId = HP:0045037
+| 名称 = Abnormality of jaw muscles
+| 定义 = #####
+| 中文译名 = 下颌肌肉异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100249]]==
+{{Infobox HPO
+| hpoId = HP:0100249
+| 名称 = Calcification of muscles
+| 定义 = Deposition of calcium salts in muscle tissue.
+| 中文译名 = 肌肉钙化
+| 中文定义 = 肌肉组织中钙盐沉积。
+}}
+
+==[[HP:0100283]]==
+{{Infobox HPO
+| hpoId = HP:0100283
+| 名称 = EMG: continuous motor unit activity at rest
+| 定义 = Continuous electromyographic activity of motor units at rest, i.e., without voluntary movement of the muscles.
+| 中文译名 = EMG:休息中持续的运动单位活动
+| 中文定义 = 在休息中，运动单位持续的肌电活动，即无意识的肌肉运动。
+}}
+
+==[[HP:0100284]]==
+{{Infobox HPO
+| hpoId = HP:0100284
+| 名称 = EMG: myotonic discharges
+| 定义 = High frequency discharges in electromyography (EMG) that vary in amplitude and frequency, waxing and waning continuously with firing frequencies ranging from 150/second down to 20/second and producing a sound that has been referred to as a dive bomber sound.
+| 中文译名 = 肌电图:肌强直性放电
+| 中文定义 = 肌电图出现不同振幅和频率的高频放电，发射150/s至20/s的频率波动，并会产生俯冲轰炸机样声音。
+}}
+
+==[[HP:0100285]]==
+{{Infobox HPO
+| hpoId = HP:0100285
+| 名称 = EMG: impaired neuromuscular transmission
+| 定义 = An electromyographic finding associated with erratic or absent neuromuscular transmission with erratic, moment-to-moment changes in the shape of the motor unit potential (MUP).
+| 中文译名 = 肌电图:神经肌肉接头传递受损
+| 中文定义 = 肌电图提示不稳定或无神经肌肉传递伴不稳定的、形状时刻变化的运动单位电位（MUP）。
+}}
+
+==[[HP:0100287]]==
+{{Infobox HPO
+| hpoId = HP:0100287
+| 名称 = EMG: slow motor conduction
+| 定义 = The presence of reduced conduction velocity of motor nerves on electromyography.
+| 中文译名 = 肌电图:运动传导慢
+| 中文定义 = 肌电图提示运动神经上肌电传导速度减小。
+}}
+
+
+==[[HP:0100288]]==
+{{Infobox HPO
+| hpoId = HP:0100288
+| 名称 = EMG: myokymic discharges
+| 定义 = The presence of spontaneous bursts of rapidly firing potentials that recur at regular intervals of 2-10 per second and are unaffected by voluntary effort. This is an electromyographic (EMG) finding.
+| 中文译名 = 肌电图:肌纤维颤搐放电
+| 中文定义 = 肌电图（EMG）显示以2-10次/秒的频率快速重复出现的自发性放电，不受意识控制。
+}}
+
+==[[HP:0100293]]==
+{{Infobox HPO
+| hpoId = HP:0100293
+| 名称 = Muscle fiber hypertrophy
+| 定义 = #####
+| 中文译名 = 肌纤维肥厚
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100295]]==
+{{Infobox HPO
+| hpoId = HP:0100295
+| 名称 = Muscle fiber atrophy
+| 定义 = #####
+| 中文译名 = 肌纤维萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100296]]==
+{{Infobox HPO
+| hpoId = HP:0100296
+| 名称 = Perifascicular muscle fiber atrophy
+| 定义 = #####
+| 中文译名 = 关节周围肌纤维萎缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100297]]==
+{{Infobox HPO
+| hpoId = HP:0100297
+| 名称 = Increased endomysial connective tissue
+| 定义 = #####
+| 中文译名 = 肌内膜结缔组织增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100298]]==
+{{Infobox HPO
+| hpoId = HP:0100298
+| 名称 = Motheaten muscle fibers
+| 定义 = #####
+| 中文译名 = 虫噬样肌纤维
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100299]]==
+{{Infobox HPO
+| hpoId = HP:0100299
+| 名称 = Muscle fiber inclusion bodies
+| 定义 = #####
+| 中文译名 = 肌纤维包涵体
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100300]]==
+{{Infobox HPO
+| hpoId = HP:0100300
+| 名称 = Desmin bodies
+| 定义 = #####
+| 中文译名 = 结蛋白体
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100301]]==
+{{Infobox HPO
+| hpoId = HP:0100301
+| 名称 = Muscle fiber tubular inclusions
+| 定义 = Unusual regions of densely packed membranous tubules known as tubular aggregates which present as membranous inclusions, derived from membranes of sarcoplasmic reticulum and mitochondria, containing miscellaneous proteins with a variety of enzymatic activities.
+| 中文译名 = 肌纤维管状包涵体
+| 中文定义 = 紧密包裹的膜性管状区域，表现为膜性包涵体的管状聚集。这些膜性包涵体来源于肌浆网和线粒体膜，含有多种具有酶活性的蛋白。
+}}
+
+==[[HP:0100302]]==
+{{Infobox HPO
+| hpoId = HP:0100302
+| 名称 = Muscle fiber tubuloreticular inclusions
+| 定义 = #####
+| 中文译名 = 肌纤维管网状包涵体
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100303]]==
+{{Infobox HPO
+| hpoId = HP:0100303
+| 名称 = Muscle fiber cytoplasmatic inclusion bodies
+| 定义 = The presence of inclusion bodies within the cytoplasm of muscle cells. Inclusion bodies are aggregates (deposits) or stainable material, usually misfolded proteins.
+| 中文译名 = 肌纤维胞质包涵体
+| 中文定义 = 肌细胞的细胞质内存在包涵体。包涵体是聚集物（沉积物）或可着色物质，通常是错误折叠的蛋白质。
+}}
+
+==[[HP:0100304]]==
+{{Infobox HPO
+| hpoId = HP:0100304
+| 名称 = Muscle fiber intranuclear inclusion bodies
+| 定义 = The presence of inclusion bodies within the nucleus of muscle cells. Inclusion bodies are aggregates (deposits) or stainable material, usually misfolded proteins.
+| 中文译名 = 肌纤维核内包涵体
+| 中文定义 = 肌细胞的细胞核内存在包涵体。包涵体是聚集物（沉积物）或可着色物质，通常是错误折叠的蛋白质。
+}}
+
+==[[HP:0100305]]==
+{{Infobox HPO
+| hpoId = HP:0100305
+| 名称 = Ring fibers
+| 定义 = Ring fibers are formed by a bundle of peripheral myofibrils which are circumferentially oriented such that they encircle the internal portion of the sarcoplasm which is normal in structure and orientation.
+| 中文译名 = 环状肌纤维
+| 中文定义 = 环状肌纤维由周围肌纤维环化成束，并定向环绕，使得它们的肌质内部包围结构和定向正常。
+}}
+
+==[[HP:0100306]]==
+{{Infobox HPO
+| hpoId = HP:0100306
+| 名称 = Muscle fiber hyaline bodies
+| 定义 = #####
+| 中文译名 = 肌纤维透明小体
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100348]]==
+{{Infobox HPO
+| hpoId = HP:0100348
+| 名称 = Contracture of the proximal interphalangeal joint of the 2nd toe
+| 定义 = The proximal interphalangeal joint of the 2nd toe cannot be straightened actively or passively.
+| 中文译名 = 第二脚趾的近端趾间关节挛缩
+| 中文定义 = 第二脚趾的近端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100349]]==
+{{Infobox HPO
+| hpoId = HP:0100349
+| 名称 = Contracture of the proximal interphalangeal joint of the 3rd toe
+| 定义 = The proximal interphalangeal joint of the 3rd toe cannot be straightened actively or passively.
+| 中文译名 = 第三脚趾的近端趾间关节挛缩
+| 中文定义 = 第三脚趾的近端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100350]]==
+{{Infobox HPO
+| hpoId = HP:0100350
+| 名称 = Contracture of the proximal interphalangeal joint of the 4th toe
+| 定义 = The proximal interphalangeal joint of the 4th toe cannot be straightened actively or passively.
+| 中文译名 = 第四脚趾的近端趾间关节挛缩
+| 中文定义 = 第四脚趾的近端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100351]]==
+{{Infobox HPO
+| hpoId = HP:0100351
+| 名称 = Contractures of the proximal interphalangeal joint of the 5th toe
+| 定义 = The proximal interphalangeal joint of the fifth toe cannot be straightened actively or passively.
+| 中文译名 = 第五脚趾的近端趾间关节挛缩
+| 中文定义 = 第五脚趾的近端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100352]]==
+{{Infobox HPO
+| hpoId = HP:0100352
+| 名称 = Contracture of the distal interphalangeal joint of the 2nd toe
+| 定义 = The distal interphalangeal joint of the 2nd toe cannot be straightened actively or passively.
+| 中文译名 = 第二脚趾的远端趾间关节挛缩
+| 中文定义 = 第二脚趾的远端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100353]]==
+{{Infobox HPO
+| hpoId = HP:0100353
+| 名称 = Contracture of the distal interphalangeal joint of the 3rd toe
+| 定义 = The distal interphalangeal joint of the 3rd toe cannot be straightened actively or passively.
+| 中文译名 = 第三脚趾的远端趾间关节挛缩
+| 中文定义 = 第三脚趾的远端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100354]]==
+{{Infobox HPO
+| hpoId = HP:0100354
+| 名称 = Contracture of the distal interphalangeal joint of the 4th toe
+| 定义 = The distal interphalangeal joint of the 4th toe cannot be straightened actively or passively.
+| 中文译名 = 第四脚趾的远端趾间关节挛缩
+| 中文定义 = 第四脚趾的远端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100355]]==
+{{Infobox HPO
+| hpoId = HP:0100355
+| 名称 = Contractures of the distal interphalangeal joint of the 5th toe
+| 定义 = The distal interphalangeal joint of the 5th toe cannot be straightened actively or passively.
+| 中文译名 = 第五脚趾的远端趾间关节挛缩
+| 中文定义 = 第五脚趾的远端指间关节不能主动或被动地拉直。
+}}
+
+==[[HP:0100356]]==
+{{Infobox HPO
+| hpoId = HP:0100356
+| 名称 = Contracture of the metatarsophalangeal joint of the 2nd toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 2nd toe cannot be straightened actively or passively.
+| 中文译名 = 第二脚趾的跖趾关节挛缩
+| 中文定义 = 第二跖骨和第二脚趾的近端指骨之间的关节不能被主动或被动地拉直。
+}}
+
+==[[HP:0100357]]==
+{{Infobox HPO
+| hpoId = HP:0100357
+| 名称 = Contracture of the metatarsophalangeal joint of the 3rd toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 3rd toe cannot be straightened actively or passively.
+| 中文译名 = 第三脚趾的跖趾关节挛缩
+| 中文定义 = 第二跖骨和第三趾的近端指骨之间的关节不能被主动或被动地拉直。
+}}
+
+==[[HP:0100358]]==
+{{Infobox HPO
+| hpoId = HP:0100358
+| 名称 = Contracture of the metatarsophalangeal joint of the 4th toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 4th toe cannot be straightened actively or passively.
+| 中文译名 = 第四脚趾的跖趾关节挛缩
+| 中文定义 = 第二跖骨和第四趾的近端指骨之间的关节不能被主动或被动地拉直。
+}}
+
+==[[HP:0100359]]==
+{{Infobox HPO
+| hpoId = HP:0100359
+| 名称 = Contracture of the metatarsophalangeal joint of the 5th toe
+| 定义 = The joint between the second metatarsal and the proximal phalanx of the 5th toe cannot be straightened actively or passively.
+| 中文译名 = 第五脚趾的跖趾关节挛缩
+| 中文定义 = 第二跖骨和第五脚趾的近端指骨之间的关节不能被主动或被动地拉直。
+}}
+
+==[[HP:0100360]]==
+{{Infobox HPO
+| hpoId = HP:0100360
+| 名称 = Contractures of the joints of the upper limbs
+| 定义 = #####
+| 中文译名 = 上肢关节挛缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100490]]==
+{{Infobox HPO
+| hpoId = HP:0100490
+| 名称 = Camptodactyly of finger
+| 定义 = The distal interphalangeal joint and/or the proximal interphalangeal joint of the fingers cannot be extended to 180 degrees by either active or passive extension.
+| 中文译名 = 先天性手指屈曲
+| 中文定义 = 手指的远端指间关节和/或近端指间关节，无法通过主动或被动的方式伸直到180度。
+}}
+
+==[[HP:0100492]]==
+{{Infobox HPO
+| hpoId = HP:0100492
+| 名称 = Joint contractures involving the joints of the feet
+| 定义 = Contractures of one ore more joints of the feet meaning chronic loss of joint motion due to structural changes in non-bony tissue.
+| 中文译名 = 脚趾关节挛缩
+| 中文定义 = 脚部一个或多个关节挛缩，即由于非骨性组织的结构改变导致关节活动慢性损伤。
+}}
+
+==[[HP:0100614]]==
+{{Infobox HPO
+| hpoId = HP:0100614
+| 名称 = Myositis
+| 定义 = A general term for inflammation of the muscles without respect to the underlying cause.
+| 中文译名 = 肌炎
+| 中文定义 = 一类肌肉炎症的概括，并无具体病因。
+}}
+
+
+==[[HP:0100748]]==
+{{Infobox HPO
+| hpoId = HP:0100748
+| 名称 = Muscular edema
+| 定义 = #####
+| 中文译名 = 肌内水肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100854]]==
+{{Infobox HPO
+| hpoId = HP:0100854
+| 名称 = aplasia of the musculature
+| 定义 = Absence of the musculature.
+| 中文译名 = 肌肉组织发育不全
+| 中文定义 = 肌肉组织的缺失。
+}}
+
+
+==[[HP:0100855]]==
+{{Infobox HPO
+| hpoId = HP:0100855
+| 名称 = Triceps hypoplasia
+| 定义 = Hypoplasia of the triceps muscle.
+| 中文译名 = 肱三头肌发育不良
+| 中文定义 = 肱三头肌发育不良。
+}}
+
+==[[HP:0100875]]==
+{{Infobox HPO
+| hpoId = HP:0100875
+| 名称 = Hemimacroglossia
+| 定义 = Increased length and width of one half of the tounge.
+| 中文译名 = 舌偏侧肥大
+| 中文定义 = 半边舌头的长度和宽度增大。
+}}
+
+
+==[[HP:0200049]]==
+{{Infobox HPO
+| hpoId = HP:0200049
+| 名称 = Upper limb hypertonia
+| 定义 = #####
+| 中文译名 = 上肢张力增高
+| 中文定义 = #####
+}}
+
+
+==[[HP:0410011]]==
+{{Infobox HPO
+| hpoId = HP:0410011
+| 名称 = Abnormality of masticatory muscle
+| 定义 = Any abnormality of the masticatory muscle.
+| 中文译名 = 咀嚼肌异常
+| 中文定义 = 咀嚼肌异常。
+}}
+
+==[[HP:0430014]]==
+{{Infobox HPO
+| hpoId = HP:0430014
+| 名称 = Abnormality of musculature of soft palate
+| 定义 = An abnormality of one or more of the five muscles of the soft palate.
+| 中文译名 = 软腭肌肉组织异常
+| 中文定义 = 五对腭肌中的一个或多个异常。
+}}
+
+==[[HP:0430015]]==
+{{Infobox HPO
+| hpoId = HP:0430015
+| 名称 = Abnormality of musculature of pharynx
+| 定义 = An abnormality of any of the muscles of the pharynx.
+| 中文译名 = 咽部肌肉组织异常
+| 中文定义 = 咽部肌肉组织异常。
+}}
+
+==[[HP:0430016]]==
+{{Infobox HPO
+| hpoId = HP:0430016
+| 名称 = Abnormality of tensor veli palatini muscle
+| 定义 = An abnormality of the tensor veli palatini muscle
+| 中文译名 = 腭帆张肌异常
+| 中文定义 = 腭帆张肌异常。
+}}
+
+==[[HP:0430017]]==
+{{Infobox HPO
+| hpoId = HP:0430017
+| 名称 = Abnormality of uvular muscle
+| 定义 = An abnormality of the uvular muscle
+| 中文译名 = 悬雍垂肌异常
+| 中文定义 = 悬雍垂肌异常。
+}}
+
+==[[HP:0430018]]==
+{{Infobox HPO
+| hpoId = HP:0430018
+| 名称 = Abnormality of nasal musculature
+| 定义 = An abnormality of the muscles of the structure of the nose.
+| 中文译名 = 鼻部肌肉异常
+| 中文定义 = 鼻部肌肉异常。
+}}
+
+==[[HP:0430019]]==
+{{Infobox HPO
+| hpoId = HP:0430019
+| 名称 = Abnormality of muscle of facial expression
+| 定义 = An abnormality of any of the muscles of facial expression, which are innervated by the seventh (VII) cranial nerve and control facial expression.
+| 中文译名 = 面肌（表情肌）异常
+| 中文定义 = 由第VII脑神经支配的和控制面部表情的表情肌异常。
+}}
+
+==[[HP:0430020]]==
+{{Infobox HPO
+| hpoId = HP:0430020
+| 名称 = Abnormality of levator labii superioris alaeque nasi muscle
+| 定义 = An abnormality of the levator labii superioris alaeque nasi muscle.
+| 中文译名 = 提上唇鼻翼肌异常
+| 中文定义 = 提上唇鼻翼肌异常。
+}}
+
+==[[HP:0430025]]==
+{{Infobox HPO
+| hpoId = HP:0430025
+| 名称 = Bilateral facial palsy
+| 定义 = Two-sided or bilateral weakness of the muscles of facial expression and eye closure.
+| 中文译名 = 面部双侧瘫
+| 中文定义 = 影响面部表情和闭眼功能的双边或单边肌萎缩。
+}}
+
+==[[HP:3000004]]==
+{{Infobox HPO
+| hpoId = HP:3000004
+| 名称 = Abnormality of frontalis muscle belly
+| 定义 = An abnormality of a frontalis muscle belly.
+| 中文译名 = 额肌肌腹异常
+| 中文定义 = 额肌肌腹异常。
+}}
+
+==[[HP:3000005]]==
+{{Infobox HPO
+| hpoId = HP:3000005
+| 名称 = Abnormality of masseter muscle
+| 定义 = An abnormality of a masseter muscle.
+| 中文译名 = 咬肌异常
+| 中文定义 = 咬肌异常。
+}}
+
+==[[HP:3000006]]==
+{{Infobox HPO
+| hpoId = HP:3000006
+| 名称 = Abnormality of medial pterygoid muscle
+| 定义 = An abnormality of a medial pterygoid muscle.
+| 中文译名 = 翼内肌异常
+| 中文定义 = 翼内肌异常。
+}}
+
+==[[HP:3000007]]==
+{{Infobox HPO
+| hpoId = HP:3000007
+| 名称 = Abnormality of mentalis muscle
+| 定义 = An abnormality of a mentalis muscle.
+| 中文译名 = 颏肌异常
+| 中文定义 = 颏肌异常。
+}}
+
+==[[HP:3000008]]==
+{{Infobox HPO
+| hpoId = HP:3000008
+| 名称 = Abnormality of mylohyoid muscle
+| 定义 = An abnormality of a mylohyoid muscle.
+| 中文译名 = 下颌舌骨肌异常
+| 中文定义 = 下颌舌骨肌异常。
+}}
+
+==[[HP:3000009]]==
+{{Infobox HPO
+| hpoId = HP:3000009
+| 名称 = Abnormality of nasalis muscle
+| 定义 = An abnormality of a nasalis muscle.
+| 中文译名 = 鼻肌异常
+| 中文定义 = 鼻肌异常。
+}}
+
+==[[HP:3000010]]==
+{{Infobox HPO
+| hpoId = HP:3000010
+| 名称 = Abnormality of orbicularis oris muscle
+| 定义 = An abnormality of an orbicularis oris muscle.
+| 中文译名 = 口轮匝肌异常
+| 中文定义 = 口轮匝肌异常。
+}}
+
+==[[HP:3000011]]==
+{{Infobox HPO
+| hpoId = HP:3000011
+| 名称 = Abnormality of palatoglossus muscle
+| 定义 = An abnormality of a palatoglossus muscle.
+| 中文译名 = 腭舌肌异常
+| 中文定义 = 腭舌肌异常。
+}}
+
+==[[HP:3000012]]==
+{{Infobox HPO
+| hpoId = HP:3000012
+| 名称 = Abnormality of palatopharyngeus muscle
+| 定义 = An abnormality of a palatopharyngeus muscle.
+| 中文译名 = 腭咽肌异常
+| 中文定义 = 腭咽肌异常。
+}}
+
+==[[HP:3000013]]==
+{{Infobox HPO
+| hpoId = HP:3000013
+| 名称 = Abnormality of platysma
+| 定义 = An abnormality of the platysma muscle.
+| 中文译名 = 颈阔肌异常
+| 中文定义 = 颈阔肌异常。
+}}
+
+==[[HP:3000014]]==
+{{Infobox HPO
+| hpoId = HP:3000014
+| 名称 = Abnormality of procerus muscle
+| 定义 = An abnormality of a procerus.
+| 中文译名 = 降眉间肌异常
+| 中文定义 = 降眉间肌异常。
+}}
+
+==[[HP:3000015]]==
+{{Infobox HPO
+| hpoId = HP:3000015
+| 名称 = Abnormality of risorius muscle
+| 定义 = An abnormality of a risorius muscle.
+| 中文译名 = 笑肌异常
+| 中文定义 = 笑肌异常。
+}}
+
+==[[HP:3000016]]==
+{{Infobox HPO
+| hpoId = HP:3000016
+| 名称 = Abnormality of styloglossus muscle
+| 定义 = An abnormality of the styloglossus muscle.
+| 中文译名 = 茎突舌肌异常
+| 中文定义 = 茎突舌肌异常。
+}}
+
+==[[HP:3000017]]==
+{{Infobox HPO
+| hpoId = HP:3000017
+| 名称 = Abnormality of temporalis muscle
+| 定义 = An abnormality of a temporalis muscle.
+| 中文译名 = 颞肌异常
+| 中文定义 = 颞肌异常。
+}}
+
+==[[HP:3000018]]==
+{{Infobox HPO
+| hpoId = HP:3000018
+| 名称 = Abnormality of zygomaticus major muscle
+| 定义 = An abnormality of a zygomaticus major muscle.
+| 中文译名 = 颧大肌异常
+| 中文定义 = 颧大肌异常。
+}}
+
+==[[HP:3000020]]==
+{{Infobox HPO
+| hpoId = HP:3000020
+| 名称 = Abnormality of zygomaticus minor muscle
+| 定义 = An abnormality of a zygomaticus minor muscle.
+| 中文译名 = 颧小肌异常
+| 中文定义 = 颧小肌异常。
+}}
+
+==[[HP:3000028]]==
+{{Infobox HPO
+| hpoId = HP:3000028
+| 名称 = Abnormality of depressor anguli oris muscle
+| 定义 = An abnormality of a depressor anguli oris muscle.
+| 中文译名 = 降口角肌异常
+| 中文定义 = 降口角肌异常。
+}}
+
+==[[HP:3000029]]==
+{{Infobox HPO
+| hpoId = HP:3000029
+| 名称 = Abnormality of depressor labii inferioris
+| 定义 = An abnormality of a depressor labii inferioris.
+| 中文译名 = 降下唇肌异常
+| 中文定义 = 降下唇肌异常。
+}}
+
+==[[HP:3000045]]==
+{{Infobox HPO
+| hpoId = HP:3000045
+| 名称 = Abnormality of genioglossus muscle
+| 定义 = An abnormality of a genioglossus muscle.
+| 中文译名 = 颏舌肌异常
+| 中文定义 = 颏舌肌异常。
+}}
+
+==[[HP:3000046]]==
+{{Infobox HPO
+| hpoId = HP:3000046
+| 名称 = Abnormality of geniohyoid muscle
+| 定义 = An abnormality of a geniohyoid muscle.
+| 中文译名 = 颏舌骨肌异常
+| 中文定义 = 颏舌骨肌异常。
+}}
+
+==[[HP:3000051]]==
+{{Infobox HPO
+| hpoId = HP:3000051
+| 名称 = Abnormality of hyoglossus muscle
+| 定义 = An abnormality of a hyoglossus muscle.
+| 中文译名 = 舌骨舌肌异常
+| 中文定义 = 舌骨舌肌异常。
+}}
+
+==[[HP:3000057]]==
+{{Infobox HPO
+| hpoId = HP:3000057
+| 名称 = Abnormality of inferior oblique extraocular muscle
+| 定义 = An abnormality of an inferior oblique extraocular muscle.
+| 中文译名 = 下斜眼外肌异常
+| 中文定义 = 下斜眼外肌异常。
+}}
+
+==[[HP:3000058]]==
+{{Infobox HPO
+| hpoId = HP:3000058
+| 名称 = Abnormality of inferior rectus extraocular muscle
+| 定义 = An abnormality of an inferior rectus extraocular muscle.
+| 中文译名 = 下直眼外肌异常
+| 中文定义 = 下直眼外肌异常。
+}}
+
+==[[HP:3000064]]==
+{{Infobox HPO
+| hpoId = HP:3000064
+| 名称 = Abnormality of intrinsic muscle of tongue
+| 定义 = An abnormality of an intrinsic muscle of tongue.
+| 中文译名 = 舌固有肌异常
+| 中文定义 = 舌固有肌异常。
+}}
+
+==[[HP:3000067]]==
+{{Infobox HPO
+| hpoId = HP:3000067
+| 名称 = Abnormality of lateral crico-arytenoid
+| 定义 = An abnormality of a lateral crico-arytenoid.
+| 中文译名 = 环杓侧肌异常
+| 中文定义 = 环杓侧肌异常。
+}}
+
+==[[HP:3000068]]==
+{{Infobox HPO
+| hpoId = HP:3000068
+| 名称 = Abnormality of lateral pterygoid muscle
+| 定义 = An abnormality of a lateral pterygoid muscle.
+| 中文译名 = 翼外肌异常
+| 中文定义 = 翼外肌异常。
+}}
+
+==[[HP:3000069]]==
+{{Infobox HPO
+| hpoId = HP:3000069
+| 名称 = Abnormality of lateral rectus extra-ocular muscle
+| 定义 = An abnormality of a lateral rectus extra-ocular muscle.
+| 中文译名 = 眼外直肌异常
+| 中文定义 = 眼外直肌异常。
+}}
+
+==[[HP:3000070]]==
+{{Infobox HPO
+| hpoId = HP:3000070
+| 名称 = Abnormality of levator anguli oris
+| 定义 = An abnormality of a levator anguli oris.
+| 中文译名 = 口角提肌异常
+| 中文定义 = 口角提肌异常。
+}}
+
+==[[HP:3000071]]==
+{{Infobox HPO
+| hpoId = HP:3000071
+| 名称 = Abnormality of levator labii superioris
+| 定义 = An abnormality of a levator labii superioris.
+| 中文译名 = 提上唇肌异常
+| 中文定义 = 提上唇肌异常。
+}}
+
+==[[HP:3000072]]==
+{{Infobox HPO
+| hpoId = HP:3000072
+| 名称 = Abnormality of levator palpebrae superioris
+| 定义 = An abnormality of a levator palpebrae superioris.
+| 中文译名 = 提上睑肌异常
+| 中文定义 = 提上睑肌异常。
+}}
+
+==[[HP:3000073]]==
+{{Infobox HPO
+| hpoId = HP:3000073
+| 名称 = Abnormality of levator veli palatini muscle
+| 定义 = An abnormality of a levator veli palatini.
+| 中文译名 = 腭帆提肌异常
+| 中文定义 = 腭帆提肌异常。
+}}

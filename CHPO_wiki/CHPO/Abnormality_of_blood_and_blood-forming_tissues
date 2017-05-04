@@ -1,0 +1,5036 @@
+<accesscontrol>审核人:血液和造血组织异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=血液和造血组织异常(511条目)=
+
+
+==[[HP:0000132]]==
+{{Infobox HPO
+| hpoId = HP:0000132
+| 名称 = Menorrhagia
+| 定义 = Abnormally heavy and prolonged menstrual period.
+| 中文译名 = 月经过多症
+| 中文定义 = 月经异常增多和经期延长。
+}}
+
+
+==[[HP:0000225]]==
+{{Infobox HPO
+| hpoId = HP:0000225
+| 名称 = Gingival bleeding
+| 定义 = `Hemorrhage` (MPATH:119) affecting the `gingiva` (FMA:59762).
+| 中文译名 = 牙龈出血
+| 中文定义 = 影响牙龈的出血
+}}
+
+
+==[[HP:0000421]]==
+{{Infobox HPO
+| hpoId = HP:0000421
+| 名称 = Epistaxis
+| 定义 = Epistaxis, or nosebleed, refers to a `hemorrhage` (MPATH:119) localized in the`nose` (FMA:46472).
+| 中文译名 = 鼻衄
+| 中文定义 = 鼻出血，是指鼻子流血
+}}
+
+
+==[[HP:0000573]]==
+{{Infobox HPO
+| hpoId = HP:0000573
+| 名称 = Retinal hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) occurring within the `retina` (FMA:58301).
+| 中文译名 = 眼底出血
+| 中文定义 = ` 发生于视网膜内的出血。
+}}
+
+
+==[[HP:0000967]]==
+{{Infobox HPO
+| hpoId = HP:0000967
+| 名称 = Petechiae
+| 定义 = Petechiae are pinpoint-sized reddish/purple spots, resembling a rash, that appear just under the skin or a mucous membrane when capillaries have ruptured and some superficial bleeding into the skin has happened. This term refers to an abnormally increased susceptibility to developing petechiae.
+| 中文译名 = 瘀点
+| 中文定义 = 瘀点是针尖大小红色或紫色的斑点，类似红疹，是皮肤或粘膜下毛细血管破裂发生浅表出血的表现。瘀点一般有发生出血的倾向。
+}}
+
+
+==[[HP:0000978]]==
+{{Infobox HPO
+| hpoId = HP:0000978
+| 名称 = Bruising susceptibility
+| 定义 = An ecchymosis (bruise) refers to the skin discoloration caused by the escape of blood into the tissues from ruptured blood vessels. This term refers to an abnormally increased susceptibility to bruising. The corresponding phenotypic abnormality is generally elicited on medical history as a report of frequent ecchymoses or bruising without adequate trauma.
+| 中文译名 = 瘀斑易感性
+| 中文定义 = 瘀斑（青肿）指的是由于血液从破裂的血管逸入组织而引起的皮肤变色。这个术语指的是瘀伤易感性的异常增加。病例报道中发现其相应的表型异常通常表现为无外伤发生后出现的频繁青紫和瘀斑。
+}}
+
+
+==[[HP:0000979]]==
+{{Infobox HPO
+| hpoId = HP:0000979
+| 名称 = Purpura
+| 定义 = Purpura (from Latin: purpura, meaning &quot;purple&quot;) is the appearance of red or purple discolorations on the skin that do not blanch on applying pressure. They are caused by bleeding underneath the skin. This term refers to an abnormally increased susceptibility to developing purpura. Purpura are larger than petechiae.
+| 中文译名 = 紫癜
+| 中文定义 = 紫癜（源自拉丁语:purpura，意为“紫色”）是一种压之不褪色的皮肤紫红色斑。通常由皮下出血引起。由于毛细血管脆性增加从而发展成紫癜。紫癜比瘀点大。
+}}
+
+
+==[[HP:0001342]]==
+{{Infobox HPO
+| hpoId = HP:0001342
+| 名称 = Cerebral hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) into the parenchyma of the `brain` (FMA:50801).
+| 中文译名 = 脑出血
+| 中文定义 = 脑实质（FMA:50801）的出血(MPATH:119)。
+}}
+
+
+==[[HP:0001727]]==
+{{Infobox HPO
+| hpoId = HP:0001727
+| 名称 = Thromboembolic stroke
+| 定义 = A cerebrovascular accident (stroke) that occurs because of thromboembolism.
+| 中文译名 = 血栓栓塞性脑卒中
+| 中文定义 = 由于血栓栓塞发生脑血管意外（脑卒中/中风）。
+}}
+
+
+==[[HP:0001871]]==
+{{Infobox HPO
+| hpoId = HP:0001871
+| 名称 = Abnormality of blood and blood-forming tissues
+| 定义 = An abnormality of the `hematopoietic system` (FMA:9667).
+| 中文译名 = 血液和造血组织异常
+| 中文定义 = 在造血系统的异常（FMA:9667）。
+}}
+
+==[[HP:0001872]]==
+{{Infobox HPO
+| hpoId = HP:0001872
+| 名称 = Abnormality of thrombocytes
+| 定义 = An abnormality of `platelets` (CL:0000233).
+| 中文译名 = 血小板异常
+| 中文定义 = 血小板异常（CL:0000233）。
+}}
+
+
+==[[HP:0001873]]==
+{{Infobox HPO
+| hpoId = HP:0001873
+| 名称 = Thrombocytopenia
+| 定义 = A reduction in the number of circulating `thrombocytes` (CL:0000762).
+| 中文译名 = 血小板减少症
+| 中文定义 = 血循环中血小板（:0000762 CL）的数量的减少。
+}}
+
+
+==[[HP:0001874]]==
+{{Infobox HPO
+| hpoId = HP:0001874
+| 名称 = Abnormality of neutrophils
+| 定义 = A `neutrophil` (CL:0000775) abnormality.
+| 中文译名 = 中性粒细胞异常
+| 中文定义 = 中性粒细胞（CL:0000775）异常。
+}}
+
+
+==[[HP:0001875]]==
+{{Infobox HPO
+| hpoId = HP:0001875
+| 名称 = Neutropenia
+| 定义 = An abnormally low number of `neutrophils` (CL:0000775) in the peripheral `blood` (FMA:9670).
+| 中文译名 = 中性粒细胞减少症
+| 中文定义 = 外周血中性粒细胞数目异常降低。
+}}
+
+
+==[[HP:0001876]]==
+{{Infobox HPO
+| hpoId = HP:0001876
+| 名称 = Pancytopenia
+| 定义 = An abnormal reduction in numbers of all blood cell types (red blood cells, white blood cells, and platelets).
+| 中文译名 = 全血细胞减少症
+| 中文定义 = 所有血细胞类型的数目的异常降低（红细胞，白细胞，和血小板）。
+}}
+
+
+==[[HP:0001877]]==
+{{Infobox HPO
+| hpoId = HP:0001877
+| 名称 = Abnormality of erythrocytes
+| 定义 = An abnormality of `erythrocytes` (CL:0000232) (red-blood cells).
+| 中文译名 = 红细胞异常
+| 中文定义 = 红细胞异常（CL:0000232）（红血细胞）。
+}}
+
+
+==[[HP:0001878]]==
+{{Infobox HPO
+| hpoId = HP:0001878
+| 名称 = Hemolytic anemia
+| 定义 = A type of anemia caused by premature destruction of red blood cells (hemolysis).
+| 中文译名 = 溶血性贫血
+| 中文定义 = 一型由血红细胞（溶血）过早破坏引起贫血。
+}}
+
+
+==[[HP:0001879]]==
+{{Infobox HPO
+| hpoId = HP:0001879
+| 名称 = Abnormality of eosinophils
+| 定义 = An `eosinophil` (CL:0000771) abnormality.
+| 中文译名 = 嗜酸性粒细胞异常
+| 中文定义 = 嗜酸性粒细胞（CL:0000771）异常。
+}}
+
+
+==[[HP:0001880]]==
+{{Infobox HPO
+| hpoId = HP:0001880
+| 名称 = Eosinophilia
+| 定义 = Increased count of `eosinophils` (CL:0000771) in the `blood` (FMA:9670).
+| 中文译名 = 嗜酸性粒细胞增多症
+| 中文定义 = 在外周血中（FMA:9670）嗜酸粒细胞（CL:0000771）增加。
+}}
+
+
+==[[HP:0001881]]==
+{{Infobox HPO
+| hpoId = HP:0001881
+| 名称 = Abnormality of leukocytes
+| 定义 = An abnormality of `leukocytes` (CL:0000738).
+| 中文译名 = 白细胞异常
+| 中文定义 = 白细胞的异常（CL:0000738）。
+}}
+
+
+==[[HP:0001882]]==
+{{Infobox HPO
+| hpoId = HP:0001882
+| 名称 = Leukopenia
+| 定义 = An abnormal decreased number of `leukocytes` (CL:0000738) in the `blood` (FMA:9670).
+| 中文译名 = 白细胞减少症
+| 中文定义 = 血液中白细胞（CL:0000738）的数量异常减少。
+}}
+
+
+==[[HP:0001888]]==
+{{Infobox HPO
+| hpoId = HP:0001888
+| 名称 = Lymphopenia
+| 定义 = A reduced number of `lymphocytes` (CL:0000542) in the blood.
+| 中文译名 = 淋巴细胞减少症
+| 中文定义 = 血液中的淋巴细胞（0000542 CL）的数量减少。
+}}
+
+
+==[[HP:0001889]]==
+{{Infobox HPO
+| hpoId = HP:0001889
+| 名称 = Megaloblastic anemia
+| 定义 = Anemia characterized by the presence of erythroblasts that are larger than normal (megaloblasts).
+| 中文译名 = 巨幼细胞性贫血
+| 中文定义 = 比正常细胞体积大的幼红细胞（巨幼红细胞）为特征的贫血。
+}}
+
+
+==[[HP:0001890]]==
+{{Infobox HPO
+| hpoId = HP:0001890
+| 名称 = Autoimmune hemolytic anemia
+| 定义 = An autoimmune form of `hemolytic anemia` (HP:0001878).
+| 中文译名 = 自身免疫性溶血性贫血
+| 中文定义 = 一种与自身免疫有关的溶血性贫血（HP:0001878）。
+}}
+
+
+==[[HP:0001891]]==
+{{Infobox HPO
+| hpoId = HP:0001891
+| 名称 = Iron deficiency anemia
+| 定义 = #####
+| 中文译名 = 缺铁性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001892]]==
+{{Infobox HPO
+| hpoId = HP:0001892
+| 名称 = Abnormal bleeding
+| 定义 = An abnormal susceptibility to bleeding, often referred to as a bleeding diathesis. A bleeding diathesis may be related to vascular, platelet and coagulation defects.
+| 中文译名 = 出血异常
+| 中文定义 = 异常出血，通常称为出血易感性体质。出血体质可能与血管、血小板和凝血功能障碍相关。
+}}
+
+
+==[[HP:0001894]]==
+{{Infobox HPO
+| hpoId = HP:0001894
+| 名称 = Thrombocytosis
+| 定义 = Increased numbers of platelets in the peripheral blood.
+| 中文译名 = 血小板增多症
+| 中文定义 = 在外周血血小板的数目增高。
+}}
+
+
+==[[HP:0001895]]==
+{{Infobox HPO
+| hpoId = HP:0001895
+| 名称 = Normochromic anemia
+| 定义 = #####
+| 中文译名 = 正常色素性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001896]]==
+{{Infobox HPO
+| hpoId = HP:0001896
+| 名称 = Reticulocytopenia
+| 定义 = A reduced number of `reticulocytes` (CL:0000558) in the peripheral blood.
+| 中文译名 = 网状细胞减少症
+| 中文定义 = 外周血的网状细胞（CL:0000558）的数量减少。
+}}
+
+
+==[[HP:0001897]]==
+{{Infobox HPO
+| hpoId = HP:0001897
+| 名称 = Normocytic anemia
+| 定义 = A kind of anemia in which the volume of the red blood cells is normal.
+| 中文译名 = 正常红细胞性贫血
+| 中文定义 = 一种贫血，其中红血细胞的体积是正常的。
+}}
+
+
+==[[HP:0001898]]==
+{{Infobox HPO
+| hpoId = HP:0001898
+| 名称 = Increased red blood cell mass
+| 定义 = The presence of an increased mass of red blood cells in the circulation.
+| 中文译名 = 红细胞增多症
+| 中文定义 = 循环中的的红血细胞量增加。
+}}
+
+
+==[[HP:0001899]]==
+{{Infobox HPO
+| hpoId = HP:0001899
+| 名称 = Increased hematocrit
+| 定义 = An increase in the volume of packed erythrocytes in a blood specimen.
+| 中文译名 = 红细胞压积增高
+| 中文定义 = 在血液检测样本中红细胞累积体积增加。
+}}
+
+
+==[[HP:0001900]]==
+{{Infobox HPO
+| hpoId = HP:0001900
+| 名称 = Increased hemoglobin
+| 定义 = #####
+| 中文译名 = 血红蛋白增多
+| 中文定义 = #####
+}}
+
+==[[HP:0001901]]==
+{{Infobox HPO
+| hpoId = HP:0001901
+| 名称 = Polycythemia
+| 定义 = Polycythemia is diagnosed if the red blood cell count, the hemoglobin level, and the red blood cell volume all exceed the upper limits of normal.
+| 中文译名 = 红细胞增多症
+| 中文定义 = 红细胞增多症的诊断原则是红细胞计数、血红蛋白水平和红细胞体积都超过正常值的上限。
+}}
+
+
+==[[HP:0001902]]==
+{{Infobox HPO
+| hpoId = HP:0001902
+| 名称 = Giant platelets
+| 定义 = Giant platelets are larger than 7 micrometers and usually 10 to 20 micrometers. The term giant platelet is used when the platelet is larger than the size of the average red cell in the field. (Description adapted from College of American Pathologists, Hematology Manual, 1998).
+| 中文译名 = 巨血小板
+| 中文定义 = 巨血小板大于7微米，并且通常为10至20微米。当血小板比该领域的平均红细胞的大小大时称为巨血小板。 （来自美国病理学院，血液学手册，1998年描述改编）。
+}}
+
+
+==[[HP:0001903]]==
+{{Infobox HPO
+| hpoId = HP:0001903
+| 名称 = Anemia
+| 定义 = A reduction in `erythrocytes` (CL:0000232) volume or hemoglobin concentration.
+| 中文译名 = 贫血
+| 中文定义 = 红细胞（CL :0000232）体积或血红蛋白浓度的减少。
+}}
+
+
+==[[HP:0001904]]==
+{{Infobox HPO
+| hpoId = HP:0001904
+| 名称 = Autoimmune neutropenia
+| 定义 = Autoimmune-induced `neutropenia` (HP:0001875).
+| 中文译名 = 自身免疫性中性粒细胞减少症
+| 中文定义 = 自体免疫诱导的中性粒细胞减少（HP:0001875）。
+}}
+
+
+==[[HP:0001905]]==
+{{Infobox HPO
+| hpoId = HP:0001905
+| 名称 = Congenital thrombocytopenia
+| 定义 = Thrombocytopenia with congenital onset.
+| 中文译名 = 先天性血小板减少症
+| 中文定义 = 先天性发病的血小板减少症。
+}}
+
+
+==[[HP:0001907]]==
+{{Infobox HPO
+| hpoId = HP:0001907
+| 名称 = Thromboembolism
+| 定义 = The formation of a blood clot inside a blood vessel that subsequently travels through the blood stream from the site where it formed to another location in the body, generally leading to vascular occlusion at the distant site.
+| 中文译名 = 血栓栓塞症
+| 中文定义 = 血管内血栓形成，随后通过血液从原发处移动至体内另一个部位，通常导致远端部位血管闭塞。
+}}
+
+
+==[[HP:0001908]]==
+{{Infobox HPO
+| hpoId = HP:0001908
+| 名称 = Hypoplastic anemia
+| 定义 = Anemia with varying degrees of erythrocytic hypoplasia without leukopenia or thrombocytopenia.
+| 中文译名 = 再生不良性贫血
+| 中文定义 = 贫血伴有不同程度的红细胞发育不全，无白细胞或血小板减少。
+}}
+
+
+==[[HP:0001909]]==
+{{Infobox HPO
+| hpoId = HP:0001909
+| 名称 = Leukemia
+| 定义 = A cancer of the blood and bone marrow characterized by an abnormal proliferation of leukocytes.
+| 中文译名 = 白血病
+| 中文定义 = 由于白细胞的异常增殖的引起的发生在血液和骨髓的癌症。
+}}
+
+
+==[[HP:0001911]]==
+{{Infobox HPO
+| hpoId = HP:0001911
+| 名称 = Abnormality of granulocytes
+| 定义 = An abnormality of `granulocytes` (CL:0000094).
+| 中文译名 = 粒细胞异常
+| 中文定义 = 粒细胞异常（CL:0000094）。
+}}
+
+
+==[[HP:0001912]]==
+{{Infobox HPO
+| hpoId = HP:0001912
+| 名称 = Abnormality of basophils
+| 定义 = A `basophils` (CL:0000767) abnormality.
+| 中文译名 = 嗜碱性粒细胞异常
+| 中文定义 = 嗜碱性粒细胞（CL:0000767）异常。
+}}
+
+
+==[[HP:0001913]]==
+{{Infobox HPO
+| hpoId = HP:0001913
+| 名称 = Granulocytopenia
+| 定义 = An abnormally reduced number of `granulocytes` (CL:0000094) in the `blood` (FMA:9670).
+| 中文译名 = 粒细胞减少症
+| 中文定义 = 在外周血中粒细胞（0000094 CL）的数量异常减少（FMA:9670）。
+}}
+
+
+==[[HP:0001915]]==
+{{Infobox HPO
+| hpoId = HP:0001915
+| 名称 = aplastic anemia
+| 定义 = Aplastic anemia is defined as pancytopenia with a hypocellular marrow.
+| 中文译名 = 再生障碍性贫血
+| 中文定义 = 再生障碍性贫血指全血细胞减少与骨髓增生低下。
+}}
+
+
+==[[HP:0001922]]==
+{{Infobox HPO
+| hpoId = HP:0001922
+| 名称 = Vacuolated lymphocytes
+| 定义 = The presence of clear, sharply defined vacuoles in the lymphocyte cytoplasm.
+| 中文译名 = 空泡性淋巴细胞
+| 中文定义 = 淋巴细胞细胞质中存在明确的、清晰的空泡。
+}}
+
+
+==[[HP:0001923]]==
+{{Infobox HPO
+| hpoId = HP:0001923
+| 名称 = Reticulocytosis
+| 定义 = An elevation in the number of `reticulocytes` (CL:0000558) (immature erythrocytes) in the peripheral blood circulation.
+| 中文译名 = 网状细胞过多
+| 中文定义 = 在外周血液循环中网状细胞（CL:0000558 ）（未成熟的红细胞）的数目增加。
+}}
+
+
+==[[HP:0001924]]==
+{{Infobox HPO
+| hpoId = HP:0001924
+| 名称 = Sideroblastic anemia
+| 定义 = Sideroblastic anemia results from a defect in the incorporation of iron into the heme molecule. A sideroblast is an erythroblast that has stainable deposits of iron in cytoplasm (this can be demonstrated by Prussian blue staining).
+| 中文译名 = 铁粒幼细胞性贫血
+| 中文定义 = 铁粒幼细胞性贫血是由于铁掺入血红蛋白分子的缺陷。铁粒幼红是有铁质沉淀于细胞质（这可以通过普鲁士蓝染色证明）的红细胞。
+}}
+
+
+==[[HP:0001927]]==
+{{Infobox HPO
+| hpoId = HP:0001927
+| 名称 = Acanthocytosis
+| 定义 = Acanthocytosis is a type of `poikilocytosis` (HP:0004447) characterized by the presence of spikes on the cell surface. The cells have an irregular shaped resembling many-pointed stars.
+| 中文译名 = 棘形红细胞增多症
+| 中文定义 = 棘形红细胞增多症是血细胞形态的多样性（HP:0004447）的一种类型，其特征在细胞表面出现尖峰样突起。该细胞形状不规则类似于五角星。
+}}
+
+
+==[[HP:0001928]]==
+{{Infobox HPO
+| hpoId = HP:0001928
+| 名称 = Abnormality of coagulation
+| 定义 = An abnormality of the process of `blood coagulation` (GO:0007596). That is, altered ability or inability of the blood to clot.
+| 中文译名 = 凝血异常
+| 中文定义 = 凝血的过程异常（GO:0007596）。也就是说，凝血能力改变或无效。
+}}
+
+
+==[[HP:0001929]]==
+{{Infobox HPO
+| hpoId = HP:0001929
+| 名称 = Reduced factor XI activity
+| 定义 = Decreased activity of `coagulation factor XI` (PR:000007295). Factor XI, also known as plasma thromboplastin antecedent, is a serine proteínase that activates factor IX.
+| 中文译名 = XI凝血因子活性降低
+| 中文定义 = `凝血因子XI`（PR:000007295）的活性降低。因子XI，也被称为血浆凝血激酶的前体，是一种丝氨酸蛋白酶可以激活因子IX。
+}}
+
+
+==[[HP:0001930]]==
+{{Infobox HPO
+| hpoId = HP:0001930
+| 名称 = Nonspherocytic hemolytic anemia
+| 定义 = #####
+| 中文译名 = 非椭圆形细胞性溶血性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001931]]==
+{{Infobox HPO
+| hpoId = HP:0001931
+| 名称 = Hypochromic anemia
+| 定义 = A type of anemia characterized by an abnormally low concentration of hemoglobin in the erythrocytes.
+| 中文译名 = 低色素性贫血
+| 中文定义 = 一型贫血，特征在于红细胞血红蛋白浓度异常低。
+}}
+
+
+==[[HP:0001933]]==
+{{Infobox HPO
+| hpoId = HP:0001933
+| 名称 = Subcutaneous hemorrhage
+| 定义 = This term refers to an abnormally increased susceptibility to bruising (purpura, petechiae, or ecchymoses).
+| 中文译名 = 皮下出血
+| 中文定义 = 指的是毛细血管脆性增加（表现为紫癜，瘀点或瘀斑）。
+}}
+
+
+==[[HP:0001934]]==
+{{Infobox HPO
+| hpoId = HP:0001934
+| 名称 = Persistent bleeding after trauma
+| 定义 = #####
+| 中文译名 = 外伤后持续性出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001935]]==
+{{Infobox HPO
+| hpoId = HP:0001935
+| 名称 = Microcytic anemia
+| 定义 = A kind of anemia in which the volume of the red blood cells is reduced.
+| 中文译名 = 小细胞性贫血
+| 中文定义 = 一种贫血，特征为红细胞的体积减小。
+}}
+
+
+==[[HP:0001937]]==
+{{Infobox HPO
+| hpoId = HP:0001937
+| 名称 = Microangiopathic hemolytic anemia
+| 定义 = #####
+| 中文译名 = 微血管病性溶血性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001972]]==
+{{Infobox HPO
+| hpoId = HP:0001972
+| 名称 = Macrocytic anemia
+| 定义 = A type of anemia characterized by increased size of erythrocytes with increased mean corpuscular volume (MCV) and increased mean corpuscular hemoglobin (MCH).
+| 中文译名 = 大细胞性贫血
+| 中文定义 = 一型贫血，特征为平均红细胞体积（MCV）增加，和平均红细胞血红蛋白含量（MCH）增加。
+}}
+
+
+==[[HP:0001973]]==
+{{Infobox HPO
+| hpoId = HP:0001973
+| 名称 = Autoimmune thrombocytopenia
+| 定义 = The presence of thrombocytopenia in combination with detection of antiplatelet antibodies.
+| 中文译名 = 自身免疫性血小板减少症
+| 中文定义 = 与抗血小板抗体相关的血小板减少。
+}}
+
+
+==[[HP:0001974]]==
+{{Infobox HPO
+| hpoId = HP:0001974
+| 名称 = Leukocytosis
+| 定义 = An abnormal increase in the number of `leukocytes` (CL:0000738) in the `blood` (FMA:9670).
+| 中文译名 = 白细胞增多症
+| 中文定义 = 血液中白细胞（CL:0000738）的数量异常增加。
+}}
+
+
+==[[HP:0001975]]==
+{{Infobox HPO
+| hpoId = HP:0001975
+| 名称 = Decreased platelet glycoprotein IIb-IIIa
+| 定义 = Decreased cell membrane concentration of glycoprotein  IIb-IIIa.
+| 中文译名 = 血小板糖蛋白Ⅱb-IIIA减少
+| 中文定义 = 血小板膜糖蛋白Ⅱb-IIIA降低。
+}}
+
+
+==[[HP:0001976]]==
+{{Infobox HPO
+| hpoId = HP:0001976
+| 名称 = Reduced antithrombin III activity
+| 定义 = An `abnormality of coagulation` (HP:0001928) related to a `decreased concentration` (PATO:0001163) of `antithrombin-III` (PR:000003252).
+| 中文译名 = 抗凝血酶Ⅲ活性降低
+| 中文定义 = 与抗凝血酶III（:000003252 PR）浓度（PATO:0001163）下降相关的凝血异常（HP:0001928）。
+}}
+
+
+==[[HP:0001977]]==
+{{Infobox HPO
+| hpoId = HP:0001977
+| 名称 = Abnormal thrombosis
+| 定义 = Venous or arterial thrombosis (formation of blood clots) of spontaneous nature and which cannot be fully explained by acquired risk (e.g. atherosclerosis).
+| 中文译名 = 异常血栓形成
+| 中文定义 = 自发性静脉、动脉血栓形成（血凝块），且非获得性风险（例如，动脉粥样硬化）导致。
+}}
+
+
+==[[HP:0001978]]==
+{{Infobox HPO
+| hpoId = HP:0001978
+| 名称 = Extramedullary hematopoiesis
+| 定义 = The process of hematopoiesis occurring outside of the bone marrow (in the liver, thymus, and spleen) in the postnatal organisms.
+| 中文译名 = 骨髓外造血
+| 中文定义 = 发生在骨髓以外的部位（在肝脏，胸腺，脾脏）造血。
+}}
+
+
+==[[HP:0001980]]==
+{{Infobox HPO
+| hpoId = HP:0001980
+| 名称 = Megaloblastic bone marrow
+| 定义 = Abnormal increased number of megaloblasts in the bone marrow.
+| 中文译名 = 巨幼细胞性骨髓
+| 中文定义 = 在骨髓中巨幼红细胞数目的异常增加。
+}}
+
+
+==[[HP:0001981]]==
+{{Infobox HPO
+| hpoId = HP:0001981
+| 名称 = Schistocytosis
+| 定义 = The presence of an abnormal number of fragmented red blood cells (schistocytes) in the blood.
+| 中文译名 = 裂(红)细胞症
+| 中文定义 = 破损的红细胞数目异常。
+}}
+
+
+==[[HP:0001982]]==
+{{Infobox HPO
+| hpoId = HP:0001982
+| 名称 = Sea-blue histiocytosis
+| 定义 = An abnormality of `macrophages` (CL:0000235), also known as histiocytes, in which the cells take on a sea blue appearance due to abnormally increased lipid content.
+| 中文译名 = 海蓝色组织细胞增多症
+| 中文定义 = `巨噬细胞`（CL:0000235）的一种异常，也被称为组织细胞症，由于异常增加的脂质含量细胞呈现海蓝色外观。
+}}
+
+
+==[[HP:0001983]]==
+{{Infobox HPO
+| hpoId = HP:0001983
+| 名称 = Reduced lymphocyte surface expression of CD43 (sialophorin)
+| 定义 = A reduction in the expression of CD43 on the cell surface of `lymphocytes` (CL:0000542).
+| 中文译名 = CD43淋巴细胞表面表达减少（涎福林蛋白）
+| 中文定义 = 在淋巴细胞表面的CD43（CL:0000542）的表达减少。
+}}
+
+==[[HP:0002138]]==
+{{Infobox HPO
+| hpoId = HP:0002138
+| 名称 = Subarachnoid hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) occurring between the `arachnoid mater` (FMA:9591) and the `pia mater` (FMA:9590).
+| 中文译名 = 蛛网膜下腔出血
+| 中文定义 = `发生在`蛛网膜（FMA:9591）和&#39;软脑膜（FMA:9590）之间的出血（mpath:119）。
+}}
+
+
+==[[HP:0002170]]==
+{{Infobox HPO
+| hpoId = HP:0002170
+| 名称 = Intracranial hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) occurring within the `skull` (FMA:46565).
+| 中文译名 = 颅内出血
+| 中文定义 = 发生在颅内（FMA:46565）的出血（MPATH:119）。
+}}
+
+
+==[[HP:0002239]]==
+{{Infobox HPO
+| hpoId = HP:0002239
+| 名称 = Gastrointestinal hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) affecting the `gastrointestinal tract` (FMA:71132).
+| 中文译名 = 胃肠道出血
+| 中文定义 = `影响胃肠系统的出血。
+}}
+
+
+==[[HP:0002248]]==
+{{Infobox HPO
+| hpoId = HP:0002248
+| 名称 = Hematemesis
+| 定义 = The vomiting of blood.
+| 中文译名 = 吐血
+| 中文定义 = 血的呕吐。
+}}
+
+
+==[[HP:0002249]]==
+{{Infobox HPO
+| hpoId = HP:0002249
+| 名称 = Melena
+| 定义 = The passage of blackish, tarry feces associated with gastrointestinal hemorrhage. Melena occurs if the blood remains in the colon long enough for it to be broken down by colonic bacteria. One degradation product, hematin, imbues the stool with a blackish color. Thus, melena generally occurs with bleeding from the upper gastrointestinal tract (e.g., sotmach ulcers or duodenal ulcers), since the blood usually remains in the gut for a longer period of time than with lower gastrointestinal bleeding.
+| 中文译名 = 黑便
+| 中文定义 = 与消化道出血相关的黑色、柏油样粪便的排泄。如果血在结肠停留的时间够长，足以使结肠细菌将其降解而产生黑便。一种降解产物，血红素，浸染粪便使其呈黑色。因此，黑便通常伴随上消化道出血（例如，胃溃疡或十二指肠溃疡），其血液通常在肠道的停留时间较下消化道出血更长。
+}}
+
+
+==[[HP:0002488]]==
+{{Infobox HPO
+| hpoId = HP:0002488
+| 名称 = Acute leukemia
+| 定义 = #####
+| 中文译名 = 急性白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002573]]==
+{{Infobox HPO
+| hpoId = HP:0002573
+| 名称 = Hematochezia
+| 定义 = The passage of fresh (red) blood per anus, usually in or with stools. Most rectal bleeding comes from the colon, rectum, or anus.
+| 中文译名 = 便血
+| 中文定义 = 通常伴随粪便或在粪便中经由肛门而出的（红色的）鲜血。大多数直肠出血来自结肠、直肠或肛门。
+}}
+
+
+==[[HP:0002584]]==
+{{Infobox HPO
+| hpoId = HP:0002584
+| 名称 = Intestinal bleeding
+| 定义 = Bleeding from the intestines.
+| 中文译名 = 肠道出血
+| 中文定义 = 肠道中的出血。
+}}
+
+==[[HP:0002625]]==
+{{Infobox HPO
+| hpoId = HP:0002625
+| 名称 = Deep venous thrombosis
+| 定义 = Formation of a blot clot in a deep vein. The clot often blocks blood flow, causing swelling and pain. The deep veins of the leg are most often affected.
+| 中文译名 = 深静脉血栓形成
+| 中文定义 = 血块在深静脉形成。血块通常阻断血流量，引起肿胀和疼痛。腿部深静脉最常受到影响。
+}}
+
+
+==[[HP:0002638]]==
+{{Infobox HPO
+| hpoId = HP:0002638
+| 名称 = Superficial thrombophlebitis
+| 定义 = Inflammation of a superficial vein associated with venous thrombosis (blood clot formation within the vein).
+| 中文译名 = 浅表性血栓性静脉炎
+| 中文定义 = 浅静脉炎症并导致静脉血栓形成（静脉内血栓形成）。
+}}
+
+
+==[[HP:0002641]]==
+{{Infobox HPO
+| hpoId = HP:0002641
+| 名称 = Peripheral thrombosis
+| 定义 = #####
+| 中文译名 = 外周血栓形成
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002665]]==
+{{Infobox HPO
+| hpoId = HP:0002665
+| 名称 = Lymphoma
+| 定义 = A cancer originating in lymphocytes and presenting as a solid tumor of lymhpoid cells.
+| 中文译名 = 淋巴瘤
+| 中文定义 = 一种淋巴细胞起源癌症，以淋巴细胞为主的实体瘤。
+}}
+
+
+==[[HP:0002720]]==
+{{Infobox HPO
+| hpoId = HP:0002720
+| 名称 = IgA deficiency
+| 定义 = Decreased levels of immunoglobulin IgA.
+| 中文译名 = IgA缺乏
+| 中文定义 = 免疫球蛋白的IgA水平降低。
+}}
+
+
+==[[HP:0002723]]==
+{{Infobox HPO
+| hpoId = HP:0002723
+| 名称 = Absence of bactericidal oxidative &#39;respiratory burst&#39; in phagocytes
+| 定义 = #####
+| 中文译名 = 吞噬细胞氧化杀菌作用缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002731]]==
+{{Infobox HPO
+| hpoId = HP:0002731
+| 名称 = Defective lymphocyte apoptosis
+| 定义 = A defect in `apoptosis` (GO:0006915) in `lymphocytes` (CL:0000542).
+| 中文译名 = 淋巴细胞凋亡缺陷
+| 中文定义 = 淋巴细胞（CL:0000542）凋亡（GO:0006915）的缺陷。
+}}
+
+
+==[[HP:0002843]]==
+{{Infobox HPO
+| hpoId = HP:0002843
+| 名称 = Abnormality of T cells
+| 定义 = An abnormality of `T cells` (CL:0000084).
+| 中文译名 = T细胞异常
+| 中文定义 = T细胞（:0000084 CL）的异常。
+}}
+
+
+==[[HP:0002845]]==
+{{Infobox HPO
+| hpoId = HP:0002845
+| 名称 = Increased number of peripheral CD3+ T cells
+| 定义 = #####
+| 中文译名 = 外周血CD3阳性T细胞数目增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002846]]==
+{{Infobox HPO
+| hpoId = HP:0002846
+| 名称 = Abnormality of B cells
+| 定义 = An abnormality of `B cells` (CL:0000236).
+| 中文译名 = B细胞异常
+| 中文定义 = B细胞（:0000236 CL）的异常。
+}}
+
+
+==[[HP:0002847]]==
+{{Infobox HPO
+| hpoId = HP:0002847
+| 名称 = Impaired memory B-cell generation
+| 定义 = Impaired production of memory cells, the B-cells that persist for years or an entire lifetime and which confer rapid and enhanced response to secondary challenge.
+| 中文译名 = 记忆B细胞生成障碍
+| 中文定义 = 记忆细胞生成受损，具有记忆功能的B细胞可以在体内持续存在数年或整个寿命，当第二次遇到相同抗原时，可以快速和增效反应。
+}}
+
+
+==[[HP:0002850]]==
+{{Infobox HPO
+| hpoId = HP:0002850
+| 名称 = IgM deficiency
+| 定义 = An abnormally decreased level of immunoglobulin IgM in blood.
+| 中文译名 = IgM缺乏
+| 中文定义 = 免疫球蛋白的IgM在血液异常降低。
+}}
+
+==[[HP:0002851]]==
+{{Infobox HPO
+| hpoId = HP:0002851
+| 名称 = Increased number of CD4-/CD8- T cells expressing alpha/beta T-cell receptors
+| 定义 = #####
+| 中文译名 = 表达α/βT细胞受体的CD4-/CD8-T细胞的数量增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002853]]==
+{{Infobox HPO
+| hpoId = HP:0002853
+| 名称 = Increased proportion of HLA DR+ and CD57+ T cells
+| 定义 = #####
+| 中文译名 = HLA-DR阳性和CD57阳性T细胞比例增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002863]]==
+{{Infobox HPO
+| hpoId = HP:0002863
+| 名称 = Myelodysplasia
+| 定义 = Clonal hematopoietic stem cell disorders characterized by dysplasia (ineffective production) in one or more hematopoietic cell lineages, leading to anemia and cytopenia.
+| 中文译名 = 骨髓增生异常
+| 中文定义 = 克隆性骨髓造血干细胞发育不良，其特征在于一个或多个造血细胞谱系紊乱（无效生产），不典型增生导致贫血和血细胞减少症。
+}}
+
+==[[HP:0002955]]==
+{{Infobox HPO
+| hpoId = HP:0002955
+| 名称 = Granulomatosis
+| 定义 = Formation of multiple granulomas, i.e., localized nodular foci inflammation.
+| 中文译名 = 肉芽肿病
+| 中文定义 = 多个肉芽肿的形成，即局限性结节性病灶炎症。
+}}
+
+
+==[[HP:0002959]]==
+{{Infobox HPO
+| hpoId = HP:0002959
+| 名称 = Impaired Ig class switch recombination
+| 定义 = An impairment of the class-switch recombination process that normally leads B lymphocytes to produce IgG, IgA, or IgE.
+| 中文译名 = 免疫球蛋白类别转换重组障碍
+| 中文定义 = 在B淋巴细胞产生IgG，IgA或IgE的类转换重组过程中受损。
+}}
+
+
+==[[HP:0002961]]==
+{{Infobox HPO
+| hpoId = HP:0002961
+| 名称 = Dysgammaglobulinemia
+| 定义 = Selective deficiency of one or more, but not all, classes of immunoglobulins.
+| 中文译名 = 异常丙种球蛋白血症
+| 中文定义 = 免疫球蛋白一种或多种减少，但不是所有种类不足。
+}}
+
+
+==[[HP:0002963]]==
+{{Infobox HPO
+| hpoId = HP:0002963
+| 名称 = Abnormal delayed hypersensitivity skin test
+| 定义 = Delay in cutaneous immune reaction to specific antigens mediated not by antibodies but by cells. The delayed hypersensitivity test is an immune function test measuring the presence of activated T cells that recognize a specific antigen and is performed by injecting a small amount of the antigen into the skin. The area of the injection is examined 48-72 hours thereafter.
+| 中文译名 = 迟发型皮肤超敏试验异常
+| 中文定义 = 皮肤由抗体或细胞介导的对特异性抗原的迟发免疫应答。迟发型超敏反应试验是测量活化的T细胞识别特定抗原的一种免疫功能测试，通过注入少量的抗原进入皮肤，48-72小时之后观察注射的区域的变化。
+}}
+
+==[[HP:0002965]]==
+{{Infobox HPO
+| hpoId = HP:0002965
+| 名称 = Cutaneous anergy
+| 定义 = Inability to react to a delayed hypersensitivity skin test.
+| 中文译名 = 皮肤失能
+| 中文定义 = 对迟发性超敏反应皮肤试验无反应。
+}}
+
+==[[HP:0002971]]==
+{{Infobox HPO
+| hpoId = HP:0002971
+| 名称 = Absent microvilli on the surface of peripheral blood lymphocytes
+| 定义 = #####
+| 中文译名 = 外周血淋巴细胞表面上微绒毛缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002972]]==
+{{Infobox HPO
+| hpoId = HP:0002972
+| 名称 = Reduced delayed hypersensitivity
+| 定义 = Decreased ability to react to a delayed hypersensitivity skin test.
+| 中文译名 = 迟发型超敏反应降低
+| 中文定义 = 迟发性超敏反应皮肤试验反应能力降低。
+}}
+
+
+==[[HP:0003010]]==
+{{Infobox HPO
+| hpoId = HP:0003010
+| 名称 = Prolonged bleeding time
+| 定义 = Prolongation of the time taken for a standardized skin cut of fixed depth and length to stop bleeding.
+| 中文译名 = 出血时间延长
+| 中文定义 = 固定深度和长度标准化皮肤切口后止血时间的延长。
+}}
+
+
+==[[HP:0003125]]==
+{{Infobox HPO
+| hpoId = HP:0003125
+| 名称 = Reduced factor VIII activity
+| 定义 = Reduced activity of `coagulation factor VIII` (PR:000007302). Factor VIII (fVIII) is a cofactor in the intrinsic clotting cascade that is activated to fVIIIa in  the presence of minute quantities of thrombin. fVIIIa acts as a receptor, for factors IXa and X.
+| 中文译名 = VIII凝血因子活性降低
+| 中文定义 = `凝血因子VIII`（PR:000007302）的活性减少。因子VIII（fVIII生物）是内源性凝血系统中的一个辅助因子， 被微量凝血酶活化后成为fVIIIa。 fVIIIa是因子IXa的和X的受体。
+}}
+
+
+==[[HP:0003139]]==
+{{Infobox HPO
+| hpoId = HP:0003139
+| 名称 = Panhypogammaglobulinemia
+| 定义 = #####
+| 中文译名 = 全丙种球蛋白减少血症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003203]]==
+{{Infobox HPO
+| hpoId = HP:0003203
+| 名称 = Negative nitroblue tetrazolium (NBT) reduction test
+| 定义 = In the NBT test, neutrophils change the colorless compound NBT into a compound with a deep blue color. If this test is negative (i.e., no blue color is produced), then this indicates a defect in `superoxide-generating NADPH oxidase activity` (GO:0016175) with inability to efficiently kill phagocytized bacteria.
+| 中文译名 = 四氮唑蓝（NBT）还原试验阴性
+| 中文定义 = 在NBT法检测中，中性粒细胞使无色NBT化合物变成深蓝色的化合物。如果这个测试是阴性（即没有蓝色产生），那么这表明&#39;超氧化物生成NADPH氧化酶活性缺陷（GO:0016175），提示中性粒细胞不能有效地杀灭吞噬细菌。
+}}
+
+==[[HP:0003212]]==
+{{Infobox HPO
+| hpoId = HP:0003212
+| 名称 = Increased IgE level
+| 定义 = An abnormally increased level of immunoglobulin E in blood.
+| 中文译名 = IgE水平增加
+| 中文定义 = 免疫球蛋白E在血液中异常。
+}}
+
+
+==[[HP:0003225]]==
+{{Infobox HPO
+| hpoId = HP:0003225
+| 名称 = Reduced factor V activity
+| 定义 = Decreased activity of coagulation factor V, Factor V, which is activated to factor Va by means of minute amounts of thrombin (and inactivated by larger amounts of thrombin). Activated factor V (fVa)  is a cofactor in the formation of the prothrombinase complex.
+| 中文译名 = V凝血因子活性降低
+| 中文定义 = 活性降低的凝血因子V。凝血因子V被凝血酶复合物激活后转变为因子Va。（和由较大量的凝血酶的灭活）。活化因子V（FVA）是在凝血酶原复合物形成中的辅助因子。
+}}
+
+
+==[[HP:0003237]]==
+{{Infobox HPO
+| hpoId = HP:0003237
+| 名称 = Increased IgG level
+| 定义 = An abnormally increased level of immunoglobulin G in blood.
+| 中文译名 = IgG水平升高
+| 中文定义 = 免疫球蛋白G在血液中的水平异常升高。
+}}
+
+
+==[[HP:0003256]]==
+{{Infobox HPO
+| hpoId = HP:0003256
+| 名称 = Abnormality of the coagulation cascade
+| 定义 = An abnormality of the coagulation cascade, which is comprised of the contact activation pathway (also known as the intrinsic pathway) and the tissue factor pathway (also known as the extrinsic pathway) as well as cofactors and regulators.
+| 中文译名 = 凝血因子级联反应异常
+| 中文定义 = 凝血级联的异常，包括接触活化途径（也称为内在途径）和组织因子途径（也称为外源性途径）以及辅因子和调节因子的异常。
+}}
+
+==[[HP:0003261]]==
+{{Infobox HPO
+| hpoId = HP:0003261
+| 名称 = Increased IgA level
+| 定义 = An abnormally increased level of immunoglobulin A in blood.
+| 中文译名 = IgA水平升高
+| 中文定义 = 免疫球蛋白A在血液中异常升高。
+}}
+
+
+==[[HP:0003337]]==
+{{Infobox HPO
+| hpoId = HP:0003337
+| 名称 = Reduced prothrombin consumption
+| 定义 = The prothrombin consumption test measures the formation of intrinsic thromboplastin by determining the residual serum prothrombin after blood clotting is complete. If there is a defect in the process, less prothrombin will be converted to thrombin than normal (less prothrombin is consumed). This test may be abnormal with conditions including deficiency of factors VIII or IX, with circulating anticoagulants, thrombocytopenia.
+| 中文译名 = 凝血酶原消耗减少
+| 中文定义 = 凝血酶原消耗测试是用来测量内源性凝血酶的形成，通过确定血液凝固完成后残留血清凝血酶原浓度。如果在这个过程中有缺陷，较少的凝血酶原被转化为凝血酶（较少的凝血酶原被消耗）。这个测试可见于多种异常情况，包括因子VIII或IX缺乏，使用循环抗凝剂，血小板减少症。
+}}
+
+
+==[[HP:0003339]]==
+{{Infobox HPO
+| hpoId = HP:0003339
+| 名称 = Pyrimidine-responsive megaloblastic anemia
+| 定义 = A type of megaloblastic anemia that improves upon administration of pyrimidine supplements such as uridylic acid and cytidylic acid.
+| 中文译名 = 嘧啶应答型巨幼细胞性贫血
+| 中文定义 = 一型巨幼细胞贫血，嘧啶补充剂如尿苷酸和胞苷酸的治疗后改善。
+}}
+
+==[[HP:0003347]]==
+{{Infobox HPO
+| hpoId = HP:0003347
+| 名称 = Impaired lymphocyte transformation with phytohemagglutinin
+| 定义 = Normal peripheral blood lymphocytes, when stimulated by phytohemagglutinin (PHA) are cytotoxic for homologous and heterologous cells but not for autologous cells in monolayer culture. The cytotoxic effect is thought to be indicative of the immunological competence of the lymphocytes.
+| 中文译名 = 植物血凝素淋巴细胞转化受损
+| 中文定义 = 在单向细胞培养时，受由植物血凝素（PHA）刺激时，正常外周血淋巴细胞表现为对于同源和异源细胞的细胞毒性，但对自体细胞无效应。这种细胞毒性作用被认为是代表淋巴细胞的免疫能力的。
+}}
+
+
+==[[HP:0003459]]==
+{{Infobox HPO
+| hpoId = HP:0003459
+| 名称 = Polyclonal elevation of IgM
+| 定义 = #####
+| 中文译名 = IgM抗体多克隆升高
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003460]]==
+{{Infobox HPO
+| hpoId = HP:0003460
+| 名称 = Total immunoglobulin A deficiency
+| 定义 = Undetectable serum immunoglobulin A level at a value &lt; 5 mg/dL (0.05 g/L).
+| 中文译名 = 总免疫球蛋白A缺乏症
+| 中文定义 = 检测不到血清免疫球蛋白A，水平值&lt;5毫克/分升（0.05克/升）。
+}}
+
+
+==[[HP:0003496]]==
+{{Infobox HPO
+| hpoId = HP:0003496
+| 名称 = Increased IgM level
+| 定义 = An abnormally increased level of immunoglobulin M in blood.
+| 中文译名 = IgM水平增加
+| 中文定义 = 免疫球蛋白M在血液中的异常水平升高。
+}}
+
+
+==[[HP:0003540]]==
+{{Infobox HPO
+| hpoId = HP:0003540
+| 名称 = Impaired platelet aggregation
+| 定义 = An abnormality in the rate and degree to which platelets aggregate after the addition of an agonist that stimulates platelet clumping. Platelet aggregation is measured using aggregometer to measure the optical density of platelet-rich plasma, whereby platelet aggregation causes the plasma to become more transparent.
+| 中文译名 = 血小板聚集障碍
+| 中文定义 = 血小板激动剂使用后血小板聚集的速度和程度异常。血浆在血小板聚集后变得更加透明，对光密度的测量是测定血小板聚集功能的一种方法。
+}}
+
+
+==[[HP:0003645]]==
+{{Infobox HPO
+| hpoId = HP:0003645
+| 名称 = Prolonged partial thromboplastin time
+| 定义 = Increased time to coagulation in the partial thromboplastin time (PTT) test, a measure of the intrinsic and common coagulation pathways. Phospholipid, and activator, and calcium are mixed into an anticoagulated plasma sample, and the time is measured until a thrombus forms.
+| 中文译名 = 部分凝血活酶时间延长
+| 中文定义 = 在测量内源性和共同凝血通路的部分凝血活酶时间（PTT）测试中凝血时间增长。磷脂，活化剂，和钙混入抗凝血浆样品后，测量血栓形成所需的时间。
+}}
+
+
+==[[HP:0004311]]==
+{{Infobox HPO
+| hpoId = HP:0004311
+| 名称 = Abnormality of macrophages
+| 定义 = An abnormality of `macrophages` (CL:0000235).
+| 中文译名 = 巨噬细胞的异常
+| 中文定义 = 巨噬细胞（:0000235 CL）的异常。
+}}
+
+
+==[[HP:0004312]]==
+{{Infobox HPO
+| hpoId = HP:0004312
+| 名称 = Abnormality of reticulocytes
+| 定义 = A `reticulocyte` (CL:0000558) abnormality.
+| 中文译名 = 网织红细胞异常
+| 中文定义 = 网织红细胞（CL:0000558）异常。
+}}
+
+
+==[[HP:0004313]]==
+{{Infobox HPO
+| hpoId = HP:0004313
+| 名称 = Hypogammaglobulinemia
+| 定义 = An abnormally decreased level of immunoglobulin in blood.
+| 中文译名 = 低丙球蛋白血症
+| 中文定义 = 血液中异常降低的免疫球蛋白水平。
+}}
+
+
+==[[HP:0004315]]==
+{{Infobox HPO
+| hpoId = HP:0004315
+| 名称 = IgG deficiency
+| 定义 = An abnormally decreased level of immunoglobulin IgG in blood.
+| 中文译名 = IgG抗体缺乏症
+| 中文定义 = 免疫球蛋白IgG的水平降低。
+}}
+
+
+==[[HP:0004332]]==
+{{Infobox HPO
+| hpoId = HP:0004332
+| 名称 = Abnormality of lymphocytes
+| 定义 = An abnormality of `lymphocytes` (CL:0000542).
+| 中文译名 = 淋巴细胞异常
+| 中文定义 = 淋巴细胞异常（CL:0000542）。
+}}
+
+
+==[[HP:0004333]]==
+{{Infobox HPO
+| hpoId = HP:0004333
+| 名称 = Bone-marrow foam cells
+| 定义 = The presence of foam cells in the bone marrow, generally demonstrated by bone-marrow aspiration or biopsy. Foam cells have a vacuolated appearance due to the presence of complex lipid deposits, giving them a foamy or soap-suds appearance.
+| 中文译名 = 骨髓泡沫细胞
+| 中文定义 = 泡沫细胞是骨髓中的一种异常细胞，通常由骨髓抽吸或活检证实。泡沫细胞由于复合脂质沉积物的存在，染色后呈现泡沫或肥皂泡沫外观。
+}}
+
+
+==[[HP:0004377]]==
+{{Infobox HPO
+| hpoId = HP:0004377
+| 名称 = Hematological neoplasm
+| 定义 = #####
+| 中文译名 = 血液肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004406]]==
+{{Infobox HPO
+| hpoId = HP:0004406
+| 名称 = Spontaneous, recurrent epistaxis
+| 定义 = No exact cause,recurrent episodes of bleeding from the nose.
+| 中文译名 = 自发性，反复鼻出血
+| 中文定义 = 没有确切原因的、反复发生的鼻出血。
+}}
+
+==[[HP:0004418]]==
+{{Infobox HPO
+| hpoId = HP:0004418
+| 名称 = Thrombophlebitis
+| 定义 = Inflammation of a vein associated with venous thrombosis (blood clot formation within the vein).
+| 中文译名 = 血栓性静脉炎
+| 中文定义 = 静脉炎症，与静脉血栓形成（静脉内的血液凝块的形成）有关。
+}}
+
+
+==[[HP:0004419]]==
+{{Infobox HPO
+| hpoId = HP:0004419
+| 名称 = Recurrent thrombophlebitis
+| 定义 = Repeated episodes of inflammation of a vein associated with venous thrombosis (blood clot formation within the vein).
+| 中文译名 = 复发性血栓性静脉炎
+| 中文定义 = 与静脉血栓形成（静脉内的血液凝块的形成）相关联的静脉炎症的反复发作。
+}}
+
+
+==[[HP:0004420]]==
+{{Infobox HPO
+| hpoId = HP:0004420
+| 名称 = Arterial thrombosis
+| 定义 = The formation of a blood clot inside an artery.
+| 中文译名 = 动脉血栓形成
+| 中文定义 = 动脉内血凝块的形成。
+}}
+
+
+==[[HP:0004432]]==
+{{Infobox HPO
+| hpoId = HP:0004432
+| 名称 = Agammaglobulinemia
+| 定义 = Absence or extremely low level of generally all classes of gamma-globulin in the blood.
+| 中文译名 = 丙种球蛋白缺乏血症
+| 中文定义 = 血γ-球蛋白缺乏或极少。
+}}
+
+
+==[[HP:0004433]]==
+{{Infobox HPO
+| hpoId = HP:0004433
+| 名称 = Secretory IgA deficiency
+| 定义 = Deficiency of secretory IgA (polymers of 2-4 IgA monomers are linked by two additional chains) and is the  primary antibody response at the mucosal level, where it forms immune complexes with pathogens and allergens.
+| 中文译名 = 分泌型IgA缺乏症
+| 中文定义 = 分泌型IgA缺乏（分泌型IgA缺乏:2-4 个IgA单体的聚合物，是由两个附加的链连接的）。分泌型IgA是位于粘膜的主要抗原，在那里形成的免疫复合物，并参与病原体和过敏原的初级应答。
+}}
+
+
+==[[HP:0004444]]==
+{{Infobox HPO
+| hpoId = HP:0004444
+| 名称 = Spherocytosis
+| 定义 = The presence of erythrocytes that are sphere-shaped.
+| 中文译名 = 球形红细胞增多症
+| 中文定义 = 红细胞呈球形增多。
+}}
+
+
+==[[HP:0004445]]==
+{{Infobox HPO
+| hpoId = HP:0004445
+| 名称 = Elliptocytosis
+| 定义 = The presence of elliptical, cigar-shaped erythrocytes on peripheral blood smear.
+| 中文译名 = 椭圆形红细胞增多症
+| 中文定义 = 外周血涂片发现椭圆形、雪茄形红细胞存在。
+}}
+
+
+==[[HP:0004446]]==
+{{Infobox HPO
+| hpoId = HP:0004446
+| 名称 = Stomatocytosis
+| 定义 = The presence of erythrocytes with a mouth-shaped (stoma) area of central pallor on peripheral blood smear.
+| 中文译名 = 唇形红细胞增多症
+| 中文定义 = 在外周血涂片中的红细胞呈现出中央苍白的唇形（气孔）区域。
+}}
+
+==[[HP:0004447]]==
+{{Infobox HPO
+| hpoId = HP:0004447
+| 名称 = Poikilocytosis
+| 定义 = The presence of abnormally shaped `erythrocytes` (CL:0000232).
+| 中文译名 = 异形性红细胞
+| 中文定义 = 异常形状的红细胞（CL:0000232）出现。
+}}
+
+
+==[[HP:0004802]]==
+{{Infobox HPO
+| hpoId = HP:0004802
+| 名称 = Episodic hemolytic anemia
+| 定义 = A form of `hemolytic anemia` (HP:0001878) that occurs in repeated episodes.
+| 中文译名 = 阵发性溶血性贫血
+| 中文定义 = 反复发作的一种溶血性贫血（0001878 HP）。
+}}
+
+
+==[[HP:0004804]]==
+{{Infobox HPO
+| hpoId = HP:0004804
+| 名称 = Congenital hemolytic anemia
+| 定义 = A form of `hemolytic anemia` (HP:0001878) with congenital onset.
+| 中文译名 = 先天性溶血性贫血
+| 中文定义 = 先天性发病的溶血性贫血（HP:0001878）。
+}}
+
+
+==[[HP:0004808]]==
+{{Infobox HPO
+| hpoId = HP:0004808
+| 名称 = Acute myeloid leukemia
+| 定义 = A form of leukemia characterized by overproduction of an early myeloid cell.
+| 中文译名 = 急性髓性白血病
+| 中文定义 = 白血病的一种形式，特征是早期髓细胞堆积。
+}}
+
+
+==[[HP:0004809]]==
+{{Infobox HPO
+| hpoId = HP:0004809
+| 名称 = Neonatal alloimmune thrombocytopenia
+| 定义 = Low platelet count associated with maternal platelet-specific alloantibodies.
+| 中文译名 = 新生儿同种免疫性血小板减少症
+| 中文定义 = 与母体血小板特异的同种抗原相关的血小板计数减低。
+}}
+
+
+==[[HP:0004810]]==
+{{Infobox HPO
+| hpoId = HP:0004810
+| 名称 = Congenital hypoplastic anemia
+| 定义 = A type of `hypoplastic anemia` (HP:0001908) with congenital onset.
+| 中文译名 = 先天性发育不良性贫血
+| 中文定义 = 一型先天性发病的发育不良性贫血（HP:0001908）。
+}}
+
+
+==[[HP:0004812]]==
+{{Infobox HPO
+| hpoId = HP:0004812
+| 名称 = Pre-B-cell acute lymphoblastic leukemia
+| 定义 = #####
+| 中文译名 = 前B细胞急性淋巴细胞性白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004813]]==
+{{Infobox HPO
+| hpoId = HP:0004813
+| 名称 = Post-transfusion thrombocytopenia
+| 定义 = Sudden onset of thrombocytopenia (reduced platelet count) within 5-10 days of the transfusion of blood products. The clinical presentation is post-transfusion purpura (PTP), wigth severe thrmbocytopenia, epistaxis, and hemorrhages.
+| 中文译名 = 输血后血小板减少症
+| 中文定义 = 在输血后5-10天内突发的血小板减少症（降低血小板计数）。其临床表现为输血后紫癜（PTP），伴随严重血小板减少，鼻出血和皮肤出血。
+}}
+
+
+==[[HP:0004814]]==
+{{Infobox HPO
+| hpoId = HP:0004814
+| 名称 = Fava bean-induced hemolytic anemia
+| 定义 = A kind of `hemolytic anemia` (HP:0001878) that is induced by the ingestion of fava beans.
+| 中文译名 = 蚕豆诱发性溶血性贫血
+| 中文定义 = 溶血性溶血（HP:0001878）的一种类型，是有蚕豆摄入诱发。
+}}
+
+==[[HP:0004817]]==
+{{Infobox HPO
+| hpoId = HP:0004817
+| 名称 = Drug-sensitive hemolytic anemia
+| 定义 = A form of `hemolytic anemia` (HP:0001878) that is triggered by ingestion of certain drugs.
+| 中文译名 = 药物敏感溶血性贫血
+| 中文定义 = 一型溶血性贫血（HP:0001878），它是通过某些药物的摄入引起的。
+}}
+
+
+==[[HP:0004819]]==
+{{Infobox HPO
+| hpoId = HP:0004819
+| 名称 = Normocytic hypoplastic anemia
+| 定义 = A type of `hypoplastic anemia` (HP:0001908) in which the erythrocytes have a normal cell volume (the mean corpuscular volume is within normal limits).
+| 中文译名 = 正常红细胞发育不全贫血
+| 中文定义 = 一型发育不全性贫血（HP:0001908），其中红细胞的体积正常（红细胞平均体积在正常范围内）。
+}}
+
+
+==[[HP:0004820]]==
+{{Infobox HPO
+| hpoId = HP:0004820
+| 名称 = Acute myelomonocytic leukemia
+| 定义 = A pediatric acute myeloid leukemia involving both myeloid and monocytoid precursors. At least 20% of non-erythroid cells are of monocytic origin.
+| 中文译名 = 急性髓细胞白血病
+| 中文定义 = 小儿急性髓细胞白血病同时涉及粒细胞系和单核细胞系前体。至少20％是非红系细胞的单核细胞来源的。
+}}
+
+==[[HP:0004821]]==
+{{Infobox HPO
+| hpoId = HP:0004821
+| 名称 = Hypersegmentation of neutrophil nuclei
+| 定义 = An excessive division of the lobes of the nucleus of a `neutrophil` (CL:0000775).
+| 中文译名 = 中性粒细胞核分叶过度
+| 中文定义 = 中性粒细胞（:0000775 CL）核分叶过度。
+}}
+
+==[[HP:0004822]]==
+{{Infobox HPO
+| hpoId = HP:0004822
+| 名称 = Atypical elliptocytosis
+| 定义 = #####
+| 中文译名 = 非典型椭圆形红细胞增多症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004823]]==
+{{Infobox HPO
+| hpoId = HP:0004823
+| 名称 = Anisopoikilocytosis
+| 定义 = A type of `poikilocytosis` (HP:0004447) characterized by the presence in the blood of erythrocytes of varying sizes and abnormal shapes.
+| 中文译名 = 异形红细胞增多症
+| 中文定义 = 一种红细胞形态多样性（HP:0004447），特点是存在不同大小和形状异常的红细胞。
+}}
+
+
+==[[HP:0004825]]==
+{{Infobox HPO
+| hpoId = HP:0004825
+| 名称 = Increased hemoglobin oxygen affinity
+| 定义 = An abnormal increase in the binding affinity of hemoglobin for oxygen.
+| 中文译名 = 血红蛋白的氧亲和力增加
+| 中文定义 = 血红蛋白的氧亲和力的异常增加。
+}}
+
+
+==[[HP:0004826]]==
+{{Infobox HPO
+| hpoId = HP:0004826
+| 名称 = Folate-unresponsive megaloblastic anemia
+| 定义 = A type of megaloblastic anemia that does not improve upon administration of folate. Since vitamin B12 acts by promoting recycling of folate, administration of vitamin B12 also does not improve this type of anemia.
+| 中文译名 = 叶酸不应答型巨幼细胞性贫血
+| 中文定义 = 一型巨幼细胞贫血，用叶酸治疗后无效。由于维生素B12的治疗是通过促进循环叶酸，维生素B12的治疗也不能改善这种类型的贫血。
+}}
+
+==[[HP:0004828]]==
+{{Infobox HPO
+| hpoId = HP:0004828
+| 名称 = Refractory anemia with ringed sideroblasts
+| 定义 = A type of myelodysplastic syndrome characterized by less than 5% myeloblasts in the bone marrow, but with 15% or greater red cell precursors in the marrow being abnormal iron-stuffed cells called ringed sideroblasts.
+| 中文译名 = 难治性贫血伴环状铁粒幼红细胞
+| 中文定义 = 一型骨髓增生异常综合征，骨髓特征在原粒细胞于小于5％，但15％或更多的骨髓红细胞前体是环状铁粒幼细胞。
+}}
+
+
+==[[HP:0004831]]==
+{{Infobox HPO
+| hpoId = HP:0004831
+| 名称 = Recurrent thromboembolism
+| 定义 = Repeated episodes of obstruction of blood flow due to an embolus, i.e., blood clot that has traveled from its point of origin within the blood stream.
+| 中文译名 = 复发性血栓栓塞
+| 中文定义 = 反复发作的血栓梗阻血流，血栓是来源于血管中移动而来的血凝块。
+}}
+
+==[[HP:0004835]]==
+{{Infobox HPO
+| hpoId = HP:0004835
+| 名称 = Microspherocytosis
+| 定义 = The presence of erythrocytes that are sphere-shaped and reduced in size.
+| 中文译名 = 小球形红细胞症
+| 中文定义 = 红细胞是球形和尺寸减小。
+}}
+
+
+==[[HP:0004836]]==
+{{Infobox HPO
+| hpoId = HP:0004836
+| 名称 = Acute promyelocytic leukemia
+| 定义 = A type of acute myeloid leukemia in which abnormal promyelocytes predominate.
+| 中文译名 = 急性早幼粒细胞白血病
+| 中文定义 = 急性髓系白血病的一种，以异常早幼粒细胞为主。
+}}
+
+
+==[[HP:0004839]]==
+{{Infobox HPO
+| hpoId = HP:0004839
+| 名称 = Pyropoikilocytosis
+| 定义 = A form of severe hemolytic anemia characterized by erythrocyte morphology reminiscent of that seen in patients after a thermal burn.
+| 中文译名 = 热异形细胞增多症
+| 中文定义 = 一种严重的溶血性贫血，特点是多见于热烧伤患者红细胞的形态学异常。
+}}
+
+==[[HP:0004840]]==
+{{Infobox HPO
+| hpoId = HP:0004840
+| 名称 = Hypochromic microcytic anemia
+| 定义 = A type of anemia characterized by an abnormally low concentration of hemoglobin in the erythrocytes and lower than normal size of the erythrocytes.
+| 中文译名 = 低色素性小细胞贫血
+| 中文定义 = 一型贫血，特征在于血红蛋白浓度降低和红细胞的大小降低。
+}}
+
+==[[HP:0004841]]==
+{{Infobox HPO
+| hpoId = HP:0004841
+| 名称 = Reduced factor XII activity
+| 定义 = Decreased activity of `coagulation factor XII` (PR:000007296). Factor XII (fXII) is part of the intrinsic coagulation pathway and binds to exposed collagen at site of vessel wall injury, activated by high-MW kininogen and kallikrein, thereby initiating the coagulation cascade.
+| 中文译名 = XII凝血因子活性降低
+| 中文定义 = `凝血因子XII`（PR:000007296）的活性降低。因子XII（FXII）是内源性凝血途径的一部分，结合到血管壁损伤后暴露的胶原，由高MW激肽原和激肽释放酶激活，从而启动凝血级联。
+}}
+
+
+==[[HP:0004844]]==
+{{Infobox HPO
+| hpoId = HP:0004844
+| 名称 = Coombs-positive hemolytic anemia
+| 定义 = A type of `hemolytic anemia` (HP:0001878) in which the Coombs test is positive.
+| 中文译名 = Coombs试验阳性溶血性贫血
+| 中文定义 = 一型溶血性贫血（HP:0001878），在其中Coombs试验阳性。
+}}
+
+
+==[[HP:0004845]]==
+{{Infobox HPO
+| hpoId = HP:0004845
+| 名称 = Acute monocytic leukemia
+| 定义 = #####
+| 中文译名 = 急性单核细胞白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004846]]==
+{{Infobox HPO
+| hpoId = HP:0004846
+| 名称 = Prolonged bleeding after surgery
+| 定义 = Bleeding that persists longer than the normal time following a surgical procedure.
+| 中文译名 = 手术后出血时间延长
+| 中文定义 = 手术后出血时间比正常延长。
+}}
+
+
+==[[HP:0004848]]==
+{{Infobox HPO
+| hpoId = HP:0004848
+| 名称 = Ph-positive acute lymphoblastic leukemia
+| 定义 = #####
+| 中文译名 = 费城染色体阳性急性淋巴细胞白血病
+| 中文定义 = #####
+}}
+
+==[[HP:0004850]]==
+{{Infobox HPO
+| hpoId = HP:0004850
+| 名称 = Recurrent deep vein thrombosis
+| 定义 = Repeated episodes of the formation of a blot clot in a deep vein.
+| 中文译名 = 复发性深静脉血栓形成
+| 中文定义 = 形成在深静脉的血块反复发作。
+}}
+
+
+==[[HP:0004851]]==
+{{Infobox HPO
+| hpoId = HP:0004851
+| 名称 = Folate-responsive megaloblastic anemia
+| 定义 = A type of megaloblastic anemia (i.e., anemia characterized by the presence of erythroblasts that are larger than normal) that improves upon the administration of folate.
+| 中文译名 = 叶酸应答型巨幼细胞性贫血
+| 中文定义 = 一型巨幼细胞贫血（即贫血特点是红细胞体积是大于正常），用叶酸治疗后的改善。
+}}
+
+==[[HP:0004854]]==
+{{Infobox HPO
+| hpoId = HP:0004854
+| 名称 = Intermittent thrombocytopenia
+| 定义 = Reduced platelet count that occurs sporadically, i.e., it comes and goes.
+| 中文译名 = 间歇性血小板减少症
+| 中文定义 = 偶尔出现血小板计数减少，也就是说，出现后可以自动消失。
+}}
+
+
+==[[HP:0004855]]==
+{{Infobox HPO
+| hpoId = HP:0004855
+| 名称 = Reduced protein S activity
+| 定义 = An `abnormality of coagulation` (HP:0001928) related to a `decreased concentration` (PATO:0001163) of `vitamin K-dependent protein S` (PR:000013269). Protein S is a cofactor of protein C.
+| 中文译名 = 蛋白S活动降低
+| 中文定义 = 与`维生素K依赖的蛋白S`（PR:000013269）浓度（PATO:0001163）下降相关的凝血异常（HP:0001928）。centration`的。蛋白S是蛋白C的辅因子
+}}
+
+
+==[[HP:0004856]]==
+{{Infobox HPO
+| hpoId = HP:0004856
+| 名称 = Normochromic microcytic anemia
+| 定义 = A type of anemia characterized by an normal concentration of hemoglobin in the erythrocytes and lower than normal size of the erythrocytes.
+| 中文译名 = 正常色素性小细胞贫血
+| 中文定义 = 此型贫血的特征在于正常浓度的血红蛋白和红细胞小于正常尺寸。
+}}
+
+==[[HP:0004857]]==
+{{Infobox HPO
+| hpoId = HP:0004857
+| 名称 = Hyperchromic macrocytic anemia
+| 定义 = A type of anemia cahracterized by abnormally large erythrocytes with abnormally high amounts of haemoglobin.
+| 中文译名 = 大细胞高色素性贫血
+| 中文定义 = 一型贫血，以异常大红细胞和异常高量的血红蛋白为特征。
+}}
+
+==[[HP:0004859]]==
+{{Infobox HPO
+| hpoId = HP:0004859
+| 名称 = Amegakaryocytic thrombocytopenia
+| 定义 = Thrombocytopenia related to lack of or severe reduction in the count of megakaryocytes.
+| 中文译名 = 巨核细胞缺乏性血小板减少症
+| 中文定义 = 巨核细胞的计数缺乏或严重衰减的血小板减少症有关的。
+}}
+
+==[[HP:0004860]]==
+{{Infobox HPO
+| hpoId = HP:0004860
+| 名称 = Thiamine-responsive megaloblastic anemia
+| 定义 = A type of megaloblastic anemia (i.e., anemia characterized by the presence of erythroblasts that are larger than normal) that improves upon the administration of thiamine.
+| 中文译名 = 硫胺素应答型巨幼细胞性贫血
+| 中文定义 = 一型巨幼细胞贫血（即贫血特点是红细胞是大于正常的存在），硫胺素治疗后改善。
+}}
+
+==[[HP:0004861]]==
+{{Infobox HPO
+| hpoId = HP:0004861
+| 名称 = refractory macrocytic anemia
+| 定义 = #####
+| 中文译名 = 难治性大细胞性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004863]]==
+{{Infobox HPO
+| hpoId = HP:0004863
+| 名称 = Compensated hemolytic anemia
+| 定义 = #####
+| 中文译名 = 代偿性溶血性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004864]]==
+{{Infobox HPO
+| hpoId = HP:0004864
+| 名称 = Refractory sideroblastic anemia
+| 定义 = A type of `sideroblastic anemia` (HP:0001924) that is not responsive to treatment.
+| 中文译名 = 难治性铁粒幼细胞贫血
+| 中文定义 = 一型对治疗无反应的&#39;铁粒幼细胞贫血`（HP:0001924）。
+}}
+
+
+==[[HP:0004866]]==
+{{Infobox HPO
+| hpoId = HP:0004866
+| 名称 = Impaired ADP-induced platelet aggregation
+| 定义 = Abnormal platelet response to ADP as manifested by reduced or lacking aggregation of platelets upon addition of ADP.
+| 中文译名 = ADP诱导的血小板聚集障碍
+| 中文定义 = 异常血小板对ADP的反应，表现为血小板在加入ADP后聚集减少或缺乏。
+}}
+
+
+==[[HP:0004870]]==
+{{Infobox HPO
+| hpoId = HP:0004870
+| 名称 = Chronic hemolytic anemia
+| 定义 = An chronic form of `hemolytic anemia` (HP:0001878).
+| 中文译名 = 慢性溶血性贫血
+| 中文定义 = 一种慢性型的溶血性贫血（HP:0001878）。
+}}
+
+
+==[[HP:0004936]]==
+{{Infobox HPO
+| hpoId = HP:0004936
+| 名称 = Venous thrombosis
+| 定义 = Formation of a blood clot (thrombus) inside a vein, causing the obstruction of blood flow.
+| 中文译名 = 静脉血栓形成
+| 中文定义 = 静脉内形成血凝块（血栓），引起血流的阻塞。
+}}
+
+
+==[[HP:0004968]]==
+{{Infobox HPO
+| hpoId = HP:0004968
+| 名称 = Recurrent cerebral hemorrhage
+| 定义 = Recurrent bleeding into the parenchyma of the brain.
+| 中文译名 = 复发性脑出血
+| 中文定义 = 脑实质的反复出血
+}}
+
+
+==[[HP:0005261]]==
+{{Infobox HPO
+| hpoId = HP:0005261
+| 名称 = Joint hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) occurring within a `joint` (FMA:7490).
+| 中文译名 = 关节出血
+| 中文定义 = `Hemorrhage`（的mpath:119）发生了`joint`（FMA:7490）之内。
+}}
+
+
+==[[HP:0005305]]==
+{{Infobox HPO
+| hpoId = HP:0005305
+| 名称 = Cerebral venous thrombosis
+| 定义 = Formation of a blood clot (thrombus) inside a cerebral vein, causing the obstruction of blood flow.
+| 中文译名 = 脑静脉血栓形成
+| 中文定义 = 脑静脉内形成血凝块（血栓），引起血流的阻塞。
+}}
+
+
+==[[HP:0005354]]==
+{{Infobox HPO
+| hpoId = HP:0005354
+| 名称 = Absent cellular immunity
+| 定义 = #####
+| 中文译名 = 细胞免疫缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005357]]==
+{{Infobox HPO
+| hpoId = HP:0005357
+| 名称 = Defective B cell differentiation
+| 定义 = #####
+| 中文译名 = B细胞分化缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005365]]==
+{{Infobox HPO
+| hpoId = HP:0005365
+| 名称 = Severe B lymphocytopenia
+| 定义 = A `severe` (PATO:0000396) form of `B lymphocytopenia` (HP:0010976) in which the count of B cells` (CL:0000236) is very low or absent.
+| 中文译名 = 严重的B淋巴细胞减少症
+| 中文定义 = 重型（PATO:0000396）的B 淋巴细胞减少症`（HP:0010976），其中B 细胞（CL:0000236）的数量非常低或不存在。
+}}
+
+
+==[[HP:0005372]]==
+{{Infobox HPO
+| hpoId = HP:0005372
+| 名称 = Abnormality of B cell physiology
+| 定义 = An abnormality of the physiological functioning of `B cells` (CL:0000236).
+| 中文译名 = B细胞生理异常
+| 中文定义 = B细胞（:0000236 CL）的生理功能的异常。
+}}
+
+
+==[[HP:0005379]]==
+{{Infobox HPO
+| hpoId = HP:0005379
+| 名称 = Severe T lymphocytopenia
+| 定义 = A `severe` (PATO:0000396) form of `T lymphocytopenia` (HP:0005403) in which the count of T cells is very low or absent.
+| 中文译名 = 重型T淋巴细胞减少症
+| 中文定义 = 一个重型（PATO:0000396）T 淋巴细胞减少症（HP:0005403），其中T细胞的数量非常低或不存在。
+}}
+
+
+==[[HP:0005384]]==
+{{Infobox HPO
+| hpoId = HP:0005384
+| 名称 = Defective B cell activation
+| 定义 = #####
+| 中文译名 = B细胞活化障碍
+| 中文定义 = #####
+}}
+
+==[[HP:0005397]]==
+{{Infobox HPO
+| hpoId = HP:0005397
+| 名称 = Exaggerated cellular immune processes
+| 定义 = #####
+| 中文译名 = 细胞免疫过度
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005400]]==
+{{Infobox HPO
+| hpoId = HP:0005400
+| 名称 = Reduction of neutrophil motility
+| 定义 = An abnormal reduction of the cell motility of `neutrophils` (CL:0000775).
+| 中文译名 = 中性粒细胞活动度降低
+| 中文定义 = 中性粒细胞的细胞运动的异常减少（CL:0000775）。
+}}
+
+
+==[[HP:0005402]]==
+{{Infobox HPO
+| hpoId = HP:0005402
+| 名称 = Primary T-lymphocyte immune abnormalities
+| 定义 = #####
+| 中文译名 = 原发性T淋巴细胞免疫异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005403]]==
+{{Infobox HPO
+| hpoId = HP:0005403
+| 名称 = T lymphocytopenia
+| 定义 = An abnormally low count of `T cells` (CL:0000084).
+| 中文译名 = T淋巴细胞减少症
+| 中文定义 = `T淋巴细胞`（:0000084 CL）异常计数降低。
+}}
+
+
+==[[HP:0005404]]==
+{{Infobox HPO
+| hpoId = HP:0005404
+| 名称 = Increase in B cell number
+| 定义 = An abnormal increase from the normal count of `B cells` (CL:0000236).
+| 中文译名 = B细胞数目增加
+| 中文定义 = B细胞（CL:0000236）的数量异常增加。
+}}
+
+
+==[[HP:0005407]]==
+{{Infobox HPO
+| hpoId = HP:0005407
+| 名称 = Decreased number of CD4+ T cells
+| 定义 = A decreased count of circulating `CD4-positive helper T cells` (CL:0000492).
+| 中文译名 = CD4 + T细胞的数目减少
+| 中文定义 = 外周血中CD4阳性辅助T细胞（CL:0000492）的计数降低。
+}}
+
+
+==[[HP:0005409]]==
+{{Infobox HPO
+| hpoId = HP:0005409
+| 名称 = Markedly reduced T cell function
+| 定义 = #####
+| 中文译名 = T细胞功能显著降低
+| 中文定义 = #####
+}}
+
+==[[HP:0005413]]==
+{{Infobox HPO
+| hpoId = HP:0005413
+| 名称 = Increased alpha-globulin
+| 定义 = #####
+| 中文译名 = α-球蛋白增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005415]]==
+{{Infobox HPO
+| hpoId = HP:0005415
+| 名称 = Decreased number of CD8+ T cells
+| 定义 = A decreased count of circulating `CD8-positive, alpha-beta regulatory T cells` (CL:0000795).
+| 中文译名 = CD8 + T细胞数目减少
+| 中文定义 = 外周血中CD8阳性，α-β调节性T细胞（CL:0000795）的计数降低。
+}}
+
+
+==[[HP:0005419]]==
+{{Infobox HPO
+| hpoId = HP:0005419
+| 名称 = Decreased T cell activation
+| 定义 = #####
+| 中文译名 = T细胞活化降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005422]]==
+{{Infobox HPO
+| hpoId = HP:0005422
+| 名称 = Absence of CD8+ T cells
+| 定义 = #####
+| 中文译名 = CD8 + T细胞的缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005424]]==
+{{Infobox HPO
+| hpoId = HP:0005424
+| 名称 = Absent specific antibody response
+| 定义 = #####
+| 中文译名 = 特异性抗体应答缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005432]]==
+{{Infobox HPO
+| hpoId = HP:0005432
+| 名称 = Transient hypogammaglobulinemia of infancy
+| 定义 = At birth, newborns are endowed with maternal antibodies. IgG production normally begins at the age of two months. A delay in recovery from this physiological hypogammaglobulinemia between the 3rd and the 6th month of life, and of recovery period between 18 and 36 months defines transient newborn hypogammaglobulinemia.
+| 中文译名 = 婴儿期的短暂性低丙球蛋白血症
+| 中文定义 = 出生时，新生儿携带母源抗体。 IgG的产生通常开始于出生后两个月。此处指暂时性新生儿低丙球蛋白血症常见于从出生后第三和第六个月之间。这种生理低丙球蛋白血症至18至36个月恢复。
+}}
+
+
+==[[HP:0005435]]==
+{{Infobox HPO
+| hpoId = HP:0005435
+| 名称 = Impaired T cell function
+| 定义 = #####
+| 中文译名 = T细胞功能受损
+| 中文定义 = #####
+}}
+
+==[[HP:0005479]]==
+{{Infobox HPO
+| hpoId = HP:0005479
+| 名称 = IgE deficiency
+| 定义 = An abnormally decreased level of immunoglobulin IgE in blood.
+| 中文译名 = IgE缺乏
+| 中文定义 = 免疫球蛋白IgE缺乏。
+}}
+
+
+==[[HP:0005502]]==
+{{Infobox HPO
+| hpoId = HP:0005502
+| 名称 = Increased red cell osmotic fragility
+| 定义 = #####
+| 中文译名 = 红细胞渗透脆性增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005505]]==
+{{Infobox HPO
+| hpoId = HP:0005505
+| 名称 = Refractory anemia
+| 定义 = #####
+| 中文译名 = 难治性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005506]]==
+{{Infobox HPO
+| hpoId = HP:0005506
+| 名称 = Chronic myelogenous leukemia
+| 定义 = A myeloproliferative disorder characterized by increased proliferation of the granulocytic cell line without the loss of their capacity to differentiate.
+| 中文译名 = 慢性粒细胞白血病
+| 中文定义 = 骨髓增生性疾病，其特点的粒细胞系多度增殖但仍有分化能力。
+}}
+
+
+==[[HP:0005507]]==
+{{Infobox HPO
+| hpoId = HP:0005507
+| 名称 = Hemoglobin Barts
+| 定义 = Normal adult hemoglobin is composed of two chains each of alpha and beta globin. Hb Barts (Hemoglobin Barts) is a tetramer with four gamma globin chains, and is essentially pathognomonic for one or another form of alpha thalassemia. Hb Barts has an extremely high affinity for oxygen, resulting in almost no oxygen delivery to the tissues.
+| 中文译名 = Barts 血红蛋白
+| 中文定义 = 正常成人血红蛋白由两个α球蛋白链和两个β球蛋白链构成。Barts血红蛋白是由四个γ球蛋白链形成的四聚体，是地中海贫血的另一种病理形式。该血红蛋白对氧具有非常高的亲和力，导致几乎没有氧气输送到组织。
+}}
+
+
+==[[HP:0005508]]==
+{{Infobox HPO
+| hpoId = HP:0005508
+| 名称 = Waldenstrom macroglobulinemia
+| 定义 = A malignant monoclonal gammopathy characterized by a high level of an IgM monoclonal protein.
+| 中文译名 = 华氏巨球蛋白血症
+| 中文定义 = 一种恶性单克隆丙种球蛋白病，特征为高水平的IgM 蛋白单克隆异常增高。
+}}
+
+
+==[[HP:0005510]]==
+{{Infobox HPO
+| hpoId = HP:0005510
+| 名称 = Transient erythroblastopenia
+| 定义 = A transient reduction in the number of `erythroblasts` (CL:0000765) in the circulation.
+| 中文译名 = 短暂性幼红细胞减少症
+| 中文定义 = 血循环中幼红细胞的数量暂时性减少。
+}}
+
+==[[HP:0005511]]==
+{{Infobox HPO
+| hpoId = HP:0005511
+| 名称 = Heinz body anemia
+| 定义 = Anemia characterized by abnormal intracellular inclusions, composed of denatured hemoglobin, found on the membrane of red blood cells.
+| 中文译名 = 包涵体贫血
+| 中文定义 = 这类贫血常表现出在细胞内由变性血红蛋白沉积形成的包涵体。
+}}
+
+==[[HP:0005512]]==
+{{Infobox HPO
+| hpoId = HP:0005512
+| 名称 = Impaired neutrophil killing of staphylococci
+| 定义 = #####
+| 中文译名 = 中性粒细胞杀死葡萄球菌功能受损
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005513]]==
+{{Infobox HPO
+| hpoId = HP:0005513
+| 名称 = Increased megakaryocyte count
+| 定义 = Increased `megakaryocyte` (CL:0000556) number, i.e., of platelet precursor cells, present in the bone marrow.
+| 中文译名 = 巨核细胞数目增加
+| 中文定义 = 增加的巨核细胞（CL:0000556）的数目。巨核细胞是血小板的前体细胞，存在于骨髓中。
+}}
+
+
+==[[HP:0005517]]==
+{{Infobox HPO
+| hpoId = HP:0005517
+| 名称 = T-cell lymphoma/leukemia
+| 定义 = A type of T-cell lymphoma in which cancerous T-cells may present in the blood (leukemia), lymph nodes (lymphoma), skin or in multiple areas.
+| 中文译名 = T细胞淋巴瘤/白血病
+| 中文定义 = 一型T细胞淋巴瘤，其中恶性T细胞可以存在于血液中（白血病），淋巴结（淋巴瘤），以及皮肤或多个领域。
+}}
+
+
+==[[HP:0005518]]==
+{{Infobox HPO
+| hpoId = HP:0005518
+| 名称 = Erythrocyte macrocytosis
+| 定义 = Larger than normal size of erythrocytes.
+| 中文译名 = 巨红细胞症
+| 中文定义 = 比红细胞的正常体积大。
+}}
+
+
+==[[HP:0005520]]==
+{{Infobox HPO
+| hpoId = HP:0005520
+| 名称 = Chronic disseminated intravascular coagulation
+| 定义 = A chronic form of `disseminated intravascular coagulation` (HP:0005521) in which a persistent weak or intermittent activating stimulus is present and destruction and production of coagulation factors and platelets are balanced.
+| 中文译名 = 慢性弥漫性血管内凝血
+| 中文定义 = 慢性发生的弥漫性血管内凝血（HP:0005521），因持久但较弱或间歇激活的刺激因素， 破坏和生产的凝血因子和血小板是平衡的。
+}}
+
+
+==[[HP:0005521]]==
+{{Infobox HPO
+| hpoId = HP:0005521
+| 名称 = Disseminated intravascular coagulation
+| 定义 = Disseminated intravascular coagulation is characterized by the widespread activation of coagulation, which results in the intravascular formation of fibrin and ultimately thrombotic occlusion of small and midsize vessels.
+| 中文译名 = 弥漫性血管内凝血
+| 中文定义 = 弥漫性血管内凝血以凝血普遍激活为特点，这导致在血管内形成血纤维蛋白和在中小型血管内最终血栓闭塞。
+}}
+
+==[[HP:0005522]]==
+{{Infobox HPO
+| hpoId = HP:0005522
+| 名称 = Pyridoxine-responsive sideroblastic anemia
+| 定义 = A type of `sideroblastic anemia` (HP:0001924) that is alleviated by pyridoxine (vitamin B-6) treatment.
+| 中文译名 = 吡哆醇应答型铁粒幼细胞性贫血
+| 中文定义 = 用吡哆醇（维生素B-6）治疗可缓解的一型铁粒幼细胞贫血（HP:0001924）。
+}}
+
+==[[HP:0005523]]==
+{{Infobox HPO
+| hpoId = HP:0005523
+| 名称 = Lymphoproliferative disorder
+| 定义 = #####
+| 中文译名 = 淋巴组织增殖性疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005524]]==
+{{Infobox HPO
+| hpoId = HP:0005524
+| 名称 = Macrocytic hemolytic disease
+| 定义 = #####
+| 中文译名 = 大红细胞溶血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005525]]==
+{{Infobox HPO
+| hpoId = HP:0005525
+| 名称 = Spontaneous hemolytic crises
+| 定义 = #####
+| 中文译名 = 自发性溶血危象
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005526]]==
+{{Infobox HPO
+| hpoId = HP:0005526
+| 名称 = Lymphoid leukemia
+| 定义 = Leukemia associated with hyperplasia of the lymphoid tissues and increased numbers of circulating malignant lymphocytes and lymphoblasts.
+| 中文译名 = 淋系白血病
+| 中文定义 = 与淋巴组织过多增生有关白血病，循环中恶性淋巴细胞和淋巴母细胞数目增加。
+}}
+
+
+==[[HP:0005527]]==
+{{Infobox HPO
+| hpoId = HP:0005527
+| 名称 = Reduced kininogen activity
+| 定义 = Reduction in the amount of kininogen, which functions as a cofactor in the contact phase of the intrinsic blood coagulation cascade.
+| 中文译名 = 激肽原活性降低
+| 中文定义 = 激肽原的量减少，是内源性血液凝固级联中的一个辅助因子。
+}}
+
+
+==[[HP:0005528]]==
+{{Infobox HPO
+| hpoId = HP:0005528
+| 名称 = Bone marrow hypocellularity
+| 定义 = A reduced number of hematopoietic cells present in the bone marrow.
+| 中文译名 = 骨髓细胞过少
+| 中文定义 = 存在于骨髓的造血细胞的数目减少。
+}}
+
+
+==[[HP:0005531]]==
+{{Infobox HPO
+| hpoId = HP:0005531
+| 名称 = Biphenotypic acute leukaemia
+| 定义 = A type of actue leukemia with features characteristic of both the myeloid and lymphoid lineages. These leukemias are for this reason are designated mixed-lineage, hybrid or biphenotypic acute leukemias.
+| 中文译名 = 双表型急性白血病
+| 中文定义 = 一型急性白血病以同时影响髓系和淋巴细胞系为特征。这些白血病细胞为混合细胞，又称混合型或双表型急性白血病。
+}}
+
+
+==[[HP:0005532]]==
+{{Infobox HPO
+| hpoId = HP:0005532
+| 名称 = Macrocytic dyserythropoietic anemia
+| 定义 = #####
+| 中文译名 = 大细胞性红细胞生成异常性贫血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005534]]==
+{{Infobox HPO
+| hpoId = HP:0005534
+| 名称 = Transient myeloproliferative syndrome
+| 定义 = #####
+| 中文译名 = 暂时性的骨髓增生综合征
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005535]]==
+{{Infobox HPO
+| hpoId = HP:0005535
+| 名称 = Exercise-induced hemolysis
+| 定义 = A form of `hemolytic anemia` (HP:0001878) that can be triggered by exertion.
+| 中文译名 = 运动诱发性性溶血
+| 中文定义 = 溶血性贫血的`一种形式（HP:0001878），可以通过运动来触发。
+}}
+
+
+==[[HP:0005537]]==
+{{Infobox HPO
+| hpoId = HP:0005537
+| 名称 = Decreased mean platelet volume
+| 定义 = Average platelet volume below the lower limit of the normal reference interval.
+| 中文译名 = 平均血小板体积减小
+| 中文定义 = 平均血小板体积低于正常参考区间的下限。
+}}
+
+
+==[[HP:0005539]]==
+{{Infobox HPO
+| hpoId = HP:0005539
+| 名称 = T-cell chronic lymphocytic lymphoma/leukemia
+| 定义 = #####
+| 中文译名 = T细胞慢性淋巴细胞淋巴瘤/白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005540]]==
+{{Infobox HPO
+| hpoId = HP:0005540
+| 名称 = Red blood cell keratocytosis
+| 定义 = A form of `poikilocytosis` (HP:0004447) in which the abnormally shaped erythrocytes have notches that results in projections that look like horns.
+| 中文译名 = 红细胞角化增多症
+| 中文定义 = 红细胞形态多样性的一种形式（HP:0004447），红细胞有异常形缺口和看起来像角的突起。
+}}
+
+==[[HP:0005541]]==
+{{Infobox HPO
+| hpoId = HP:0005541
+| 名称 = Congenital agranulocytosis
+| 定义 = Congenital onset of a marked decrease in the number of `granulocytes` (CL:0000094).
+| 中文译名 = 先天性粒细胞缺乏症
+| 中文定义 = 先天性发病的粒细胞（CL:0000094）的数量显着减少。
+}}
+
+
+==[[HP:0005542]]==
+{{Infobox HPO
+| hpoId = HP:0005542
+| 名称 = Prolonged whole-blood clotting time
+| 定义 = An abnormal prolongation (delay) in the time required by whole blood to produce a visible clot.
+| 中文译名 = 全血凝血时间延长
+| 中文定义 = 由全血到凝固为凝块所需要的时间异常延长（延迟）。
+}}
+
+
+==[[HP:0005543]]==
+{{Infobox HPO
+| hpoId = HP:0005543
+| 名称 = Reduced protein C activity
+| 定义 = An `abnormality of coagulation` (HP:0001928) related to a `decreased concentration` (PATO:0001163) of `vitamin K-dependent protein C` (PR:000013261). Protein C is activated to protein Ca by thrombin bound to thrombomodulin. Activated protein C degrades factors VIIIa and Va.
+| 中文译名 = 蛋白C活性降低
+| 中文定义 = 与`维生素K依赖的蛋白C`（PR:000013261）的浓度（PATO:0001163）下降相关的凝血异常（HP:0001928）。凝血酶结合于血栓调节素后激活蛋白C形成活化的蛋白Ca。活化蛋白C可以降解因素Ⅷa族和Va。
+}}
+
+
+==[[HP:0005546]]==
+{{Infobox HPO
+| hpoId = HP:0005546
+| 名称 = Increased red cell osmotic resistance
+| 定义 = #####
+| 中文译名 = 红细胞渗透阻力增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005547]]==
+{{Infobox HPO
+| hpoId = HP:0005547
+| 名称 = Myeloproliferative disorder
+| 定义 = Proliferation (excess production) of hemopoietically active tissue or of tissue which has embryonic hemopoietic potential.
+| 中文译名 = 骨髓增生性疾病
+| 中文定义 = 具有胚胎造血潜力组织过度增殖（过量生产）。
+}}
+
+
+==[[HP:0005548]]==
+{{Infobox HPO
+| hpoId = HP:0005548
+| 名称 = Megakaryocytopenia
+| 定义 = A `reduced count` (PATO:0002001) of `megakaryocytes` (CL:0000556).
+| 中文译名 = 巨核细胞减少症
+| 中文定义 = 巨核细胞（CL:0000556）计数减少（0002001 PATO）。
+}}
+
+
+==[[HP:0005549]]==
+{{Infobox HPO
+| hpoId = HP:0005549
+| 名称 = Congenital neutropenia
+| 定义 = A form of `neutropenia` (HP:0001875) with congenital onset.
+| 中文译名 = 先天性中性粒细胞减少症
+| 中文定义 = 先天性发病的中性粒细胞减少的一种形式（HP:0001875）。
+}}
+
+
+==[[HP:0005550]]==
+{{Infobox HPO
+| hpoId = HP:0005550
+| 名称 = Chronic lymphatic leukemia
+| 定义 = A chronic lymphocytic/lymphatic/lymphoblastic leukemia (CLL) is a neoplastic disease characterized by proliferation and accumulation (blood, marrow and lymphoid organs) of morphologically mature but immunologically dysfunctional lymphocytes. A CLL is always a B-cell lymphocytic leukemia as there are no reports of cases of T-cell lymphocytic leukemias.
+| 中文译名 = 慢性淋巴细胞性白血病
+| 中文定义 = 慢性淋巴细胞/淋巴性/成淋巴母细胞性白血病（CLL），是一种血液肿瘤性疾病。特征是在血液中发现形态成熟但免疫功能失调的淋巴细胞，在骨髓和淋巴器官的增殖和积累。因为没有T细胞淋巴细胞白血病的病例报告，慢性淋巴性白血病是一个B细胞淋巴细胞性白血病。
+}}
+
+==[[HP:0005558]]==
+{{Infobox HPO
+| hpoId = HP:0005558
+| 名称 = Chronic leukemia
+| 定义 = #####
+| 中文译名 = 慢性白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005560]]==
+{{Infobox HPO
+| hpoId = HP:0005560
+| 名称 = Imbalanced hemoglobin synthesis
+| 定义 = Normal hemoglobin synthesis is characterized by production of equal amounts of alpha and beta globins. This term refers to a deviation from this pattern and is the main characteristic of the various forms of thalassemia.
+| 中文译名 = 血红蛋白合成失衡
+| 中文定义 = 正常血红蛋白合成的特点是产生等量的α和β球蛋白。此指该比例的失衡，是各种形式地中海贫血的主要特征。
+}}
+
+
+==[[HP:0005561]]==
+{{Infobox HPO
+| hpoId = HP:0005561
+| 名称 = Abnormality of bone marrow cell morphology
+| 定义 = An anomaly of the form or number of cells in the `bone marrow` (FMA:9608).
+| 中文译名 = 骨髓细胞形态异常
+| 中文定义 = 骨髓细胞的形态或数量异常（FMA:9608）。
+}}
+
+
+==[[HP:0006298]]==
+{{Infobox HPO
+| hpoId = HP:0006298
+| 名称 = Prolonged bleeding after dental extraction
+| 定义 = Prolonged bleeding post dental extraction sufficient to require medical intervention.
+| 中文译名 = 拔牙后出血时间延长
+| 中文定义 = 拔牙后出血时间延长，需要医疗干预。
+}}
+
+
+==[[HP:0006535]]==
+{{Infobox HPO
+| hpoId = HP:0006535
+| 名称 = Recurrent intrapulmonary hemorrhage
+| 定义 = A recurrent， hemorrhage， occurring within the lung.
+| 中文译名 = 复发性肺内出血
+| 中文定义 = 个发生于肺内的、反复性的出血。
+}}
+
+
+==[[HP:0006721]]==
+{{Infobox HPO
+| hpoId = HP:0006721
+| 名称 = Acute lymphatic leukemia
+| 定义 = A form of acute leukemia characterized by excess lympoblasts.
+| 中文译名 = 急性淋巴细胞性白血病
+| 中文定义 = 急性白血病的一种形式，特点是增多的淋巴母细胞。
+}}
+
+==[[HP:0006727]]==
+{{Infobox HPO
+| hpoId = HP:0006727
+| 名称 = T-cell acute lymphoblastic leukemias
+| 定义 = #####
+| 中文译名 = T细胞急性淋巴细胞白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006733]]==
+{{Infobox HPO
+| hpoId = HP:0006733
+| 名称 = Acute megakaryocytic leukemia
+| 定义 = #####
+| 中文译名 = 急性巨核细胞白血病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006775]]==
+{{Infobox HPO
+| hpoId = HP:0006775
+| 名称 = Multiple myeloma
+| 定义 = A malignant plasma cell tumor growing within soft tissue or within the skeleton.
+| 中文译名 = 多发性骨髓瘤
+| 中文定义 = 在软组织或骨骼内生长的恶性浆细胞瘤。
+}}
+
+
+==[[HP:0006782]]==
+{{Infobox HPO
+| hpoId = HP:0006782
+| 名称 = Malignant eosinophil proliferation
+| 定义 = #####
+| 中文译名 = 嗜酸性粒细胞恶性增殖
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007023]]==
+{{Infobox HPO
+| hpoId = HP:0007023
+| 名称 = Antenatal intracerebral hemorrhage
+| 定义 = Cerebral hemorrhage that occurs before birth.
+| 中文译名 = 产前脑出血
+| 中文定义 = 即出生前发生脑出血。
+}}
+
+
+==[[HP:0007420]]==
+{{Infobox HPO
+| hpoId = HP:0007420
+| 名称 = Spontaneous hematomas
+| 定义 = Spontaneous development of hematomas (hematoma) or bruises without significant trauma.
+| 中文译名 = 自发性血肿
+| 中文定义 = 无明显外伤前提下自然发生的血肿。
+}}
+
+
+==[[HP:0007902]]==
+{{Infobox HPO
+| hpoId = HP:0007902
+| 名称 = Vitreous hemorrhage
+| 定义 = Bleeding within the vitreous compartment of the eye.
+| 中文译名 = 玻璃体出血
+| 中文定义 = 眼睛的玻璃体中的出血。
+}}
+
+
+==[[HP:0008148]]==
+{{Infobox HPO
+| hpoId = HP:0008148
+| 名称 = Impaired epinephrine-induced platelet aggregation
+| 定义 = Abnormal response to epinephrine as manifested by reduced or lacking aggregation of platelets upon addition of epinephrine.
+| 中文译名 = 肾上腺素诱导的血小板聚集障碍
+| 中文定义 = 肾上腺素应答异常，表现为血小板在加入肾上腺素聚集减少或缺乏。
+}}
+
+
+==[[HP:0008151]]==
+{{Infobox HPO
+| hpoId = HP:0008151
+| 名称 = Prolonged prothrombin time
+| 定义 = Increased time to coagulation in the prothrombin time test, which is a measure of the extrinsic pathway of coagulation.
+| 中文译名 = 凝血酶原时间延长
+| 中文定义 = 测量外源凝血途径的凝血酶原时间延长。
+}}
+
+
+==[[HP:0008165]]==
+{{Infobox HPO
+| hpoId = HP:0008165
+| 名称 = Reduced circulating T-helper cells
+| 定义 = Reduced numbers of `helper T cells` (CL:0000912).
+| 中文译名 = 循环辅助性T细胞减少
+| 中文定义 = 辅助性T细胞的数目减少（CL:0000912）。
+}}
+
+==[[HP:0008169]]==
+{{Infobox HPO
+| hpoId = HP:0008169
+| 名称 = Reduced factor VII activity
+| 定义 = Reduced activity of `coagulation factor VII` (PR:000007301   ). Factor VII is part of the extrinsic coagulation pathway, which is initiated at the site of injury in response to the release of tissue factor (fIII). Tissue factor and activated factor VII catalyze the activation of factor X.
+| 中文译名 = Ⅶ凝血因子活性降低
+| 中文定义 = `凝血因子VII`（PR:000007301）的活性减少。 Ⅶ因子是在外源性凝血途径中起作用，外源性凝血途径起源于损伤部位组织因子（FIII）的释放。组织因子和活化的因子VII一起催化因子X的活化
+}}
+
+
+==[[HP:0008264]]==
+{{Infobox HPO
+| hpoId = HP:0008264
+| 名称 = Neutrophil inclusion bodies
+| 定义 = The presence of intraceullar inclusion bodies (aggregates of stainable substances, usually proteins)  in neutrophils. Cytoplasmic neutrophil inclusions (oval, basophilic) are also known as Doehle bodies.
+| 中文译名 = 中性粒细胞包涵体
+| 中文定义 = 中性粒细胞细胞内存在包涵体（可染色的物质，通常为蛋白聚集体）。嗜中性粒细胞细胞质内含物（椭圆形，嗜碱性）也被称为Doehle小体。
+}}
+
+
+==[[HP:0008269]]==
+{{Infobox HPO
+| hpoId = HP:0008269
+| 名称 = Increased red cell hemolysis by shear stress
+| 定义 = #####
+| 中文译名 = 与剪切应力增加相关的红细胞溶血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008320]]==
+{{Infobox HPO
+| hpoId = HP:0008320
+| 名称 = Impaired collagen-induced platelet aggregation
+| 定义 = Abnormal response to collagen or collagen-mimetics as manifested by reduced or lacking aggregation of platelets upon addition  collagen or collagen-mimetics.
+| 中文译名 = 胶原诱导的血小板凝集障碍
+| 中文定义 = 胶原蛋白或胶原蛋白的模拟物反应异常，其表现为在加入胶原或胶原模拟物后血小板的聚集减少或缺乏。
+}}
+
+
+==[[HP:0008321]]==
+{{Infobox HPO
+| hpoId = HP:0008321
+| 名称 = Reduced factor X activity
+| 定义 = Reduced activity of `coagulation factor X` (PR:000007294). The extrinsic and intrinsic pathways converge at factor X (fX). The extrinsic pathway activates fX by means of d factor VII with its cofactor, tissue factor. The intrinsic pathway activates fX by means of the tenase complex (Ca2+ and factors VIIIa, IXa and X) on the surface of activated platelets. Factor Xa in turn activates prothrombin (factor II) to thrombin (factor IIa).
+| 中文译名 = X凝血因子活性降低
+| 中文定义 = `凝血因子X`（PR:000007294）的活性减少。外在和内在的途径在凝血因子X（FX）会合。外源性途径通过D-因子VII及其辅助因子，组织因子激活FX。内在途径由活化的血小板的表面上的tenase复合物（Ca 2+和因子VIIIa，Ⅸa和X）的共同作用激活FX。 然后Xa因子激活凝血酶原（II因子）生成凝血酶（IIa因子）。
+}}
+
+
+==[[HP:0008330]]==
+{{Infobox HPO
+| hpoId = HP:0008330
+| 名称 = Reduced von Willebrand factor activity
+| 定义 = Decreased activity of `von Willebrand factor` (PR:000017364). Von Willebrand factor mediates the adhesion of platelets to the collagen exposed on endothelial cell surfaces.
+| 中文译名 = 血管性血友病因子活性降低
+| 中文定义 = `血管性血友病因子`（PR:000017364）的活性减少。血管性血友病因子介导血小板对暴露于内皮细胞表面上的胶原蛋白的粘附。
+}}
+
+
+==[[HP:0008346]]==
+{{Infobox HPO
+| hpoId = HP:0008346
+| 名称 = Increased red cell sickling tendency
+| 定义 = #####
+| 中文译名 = 镰状红细胞增加倾向
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008348]]==
+{{Infobox HPO
+| hpoId = HP:0008348
+| 名称 = Immunoglobulin IgG2 deficiency
+| 定义 = A reduction in immunoglobulin levels of the IgG2 subclass.
+| 中文译名 = 免疫球蛋白IgG2缺乏
+| 中文定义 = IgG2亚类的免疫球蛋白水平的降低。
+}}
+
+
+==[[HP:0008352]]==
+{{Infobox HPO
+| hpoId = HP:0008352
+| 名称 = Impaired platelet adhesion
+| 定义 = An abnormality of adhesion of thrombocytes. Normally, platelets adhere to collagen in the vascular subendothelium within seconds of injury via a receptor made up of glycoprotein Ia and IIa and GPVI and to vWF via receptor GPIb/IX/V. The adherent platelets then release granules that lead to platelet activation and aggregation.
+| 中文译名 = 血小板粘附障碍
+| 中文定义 = 凝血细胞粘附的异常。通常，在血管内皮下膜损伤数秒以内，血小板通过由糖蛋白Ⅰa和Ⅱa和GPVI构成的受体粘附于胶原蛋白，通过GPIb/ IX / V受体粘附于vWF因子。粘附的血小板然后释放颗粒，导致血小板激活和聚集。
+}}
+
+==[[HP:0008354]]==
+{{Infobox HPO
+| hpoId = HP:0008354
+| 名称 = Factor X activation deficiency
+| 定义 = Reduced ability to transform factor X into its activated form factor Xa.
+| 中文译名 = 凝血因子X活性降低
+| 中文定义 = 凝血因子X转化成其活化形式Xa因子的能力降低。
+}}
+
+
+==[[HP:0008357]]==
+{{Infobox HPO
+| hpoId = HP:0008357
+| 名称 = Reduced factor XIII activity
+| 定义 = Decreased activity of coagulation factor XIII (also known as fibrin stabilizing factor). Activated Factor XIII cross-links fibrin polymers solidifying the clot.
+| 中文译名 = XIII凝血因子活性降低
+| 中文定义 = 凝血因子XIII（也称为纤维蛋白稳定因子）活性下降。活化的因子XIII与血纤维蛋白聚合物交联后固化形成凝块。
+}}
+
+
+==[[HP:0010701]]==
+{{Infobox HPO
+| hpoId = HP:0010701
+| 名称 = Abnormal immunoglobulin level
+| 定义 = An abnormal deviation from normal levels of immunoglobulins in blood.
+| 中文译名 = 免疫球蛋白水平异常
+| 中文定义 = 血液中免疫球蛋白含量异常。
+}}
+
+
+==[[HP:0010702]]==
+{{Infobox HPO
+| hpoId = HP:0010702
+| 名称 = Hypergammaglobulinemia
+| 定义 = An increased level of gamma globulin (immunoglobulin) in the blood.
+| 中文译名 = 高丙种球蛋白血症
+| 中文定义 = 丙种球蛋白（免疫球蛋白）在血液中的水平增加。
+}}
+
+==[[HP:0010970]]==
+{{Infobox HPO
+| hpoId = HP:0010970
+| 名称 = Blood group antigen abnormality
+| 定义 = An abnormality of an erythrocyte cell surface molecule.
+| 中文译名 = 血型抗原异常
+| 中文定义 = 红细胞的细胞表面血型分子的异常。
+}}
+
+
+==[[HP:0010971]]==
+{{Infobox HPO
+| hpoId = HP:0010971
+| 名称 = Absence of Lutheran antigen on erythrocytes
+| 定义 = Absence of the Lutheran antigen (a type I integral membrane glycoprotein) from the surface of red blood cells.
+| 中文译名 = 红细胞路德抗原（Lutheran抗原）缺失
+| 中文定义 = 红血细胞的表面上的Lutheran抗原缺失（I型整合膜糖蛋白）。
+}}
+
+
+==[[HP:0010972]]==
+{{Infobox HPO
+| hpoId = HP:0010972
+| 名称 = Anemia of inadequate production
+| 定义 = A kind of `anemia` (HP:0001903) characterized by inadequate production of erythrocytes.
+| 中文译名 = 红细胞 生成不足性贫血
+| 中文定义 = 一种贫血，（HP:0001903），特点是红细胞生成不足。
+}}
+
+
+==[[HP:0010974]]==
+{{Infobox HPO
+| hpoId = HP:0010974
+| 名称 = Abnormality of myeloid leukocytes
+| 定义 = An abnormality of `myeloid leukocytes` (CL:0000766).
+| 中文译名 = 髓性白细胞异常
+| 中文定义 = 髓性白细胞（:0000766 CL）的异常。
+}}
+
+
+==[[HP:0010975]]==
+{{Infobox HPO
+| hpoId = HP:0010975
+| 名称 = Abnormality of B cell number
+| 定义 = A deviation from the normal count of `B cells` (CL:0000236), i.e., the cells that are formed in the bone marrow, migrate to the peripheral lymphatic system, and mature into plasma cells or memory cells.
+| 中文译名 = B细胞数量异常
+| 中文定义 = B细胞（CL:0000236）的数量异常。B细胞在骨髓成熟后迁移到外周血淋巴系统，并分化为浆细胞或记忆细胞。
+}}
+
+
+==[[HP:0010976]]==
+{{Infobox HPO
+| hpoId = HP:0010976
+| 名称 = B lymphocytopenia
+| 定义 = An abnormal decrease from the normal count of `B cells` (CL:0000236).
+| 中文译名 = B淋巴细胞减少症
+| 中文定义 = B淋巴细胞（:0000236 CL）数量的异常降低。
+}}
+
+
+==[[HP:0010977]]==
+{{Infobox HPO
+| hpoId = HP:0010977
+| 名称 = Abnormality of phagocytes
+| 定义 = An abnormality of `phagocytes` (CL:0000518).
+| 中文译名 = 吞噬细胞异常
+| 中文定义 = 吞噬细胞异常（CL:0000518）。
+}}
+
+
+==[[HP:0010988]]==
+{{Infobox HPO
+| hpoId = HP:0010988
+| 名称 = Abnormality of the extrinsic pathway
+| 定义 = An abnormality of the `extrinsic pathway` (GO:0007598) (also known as the tissue factor pathway) of the coagulation cascade.
+| 中文译名 = 外源性凝血异常
+| 中文定义 = 凝血级联中外源性途径（也被称为组织因子途径）的异常（GO:0007598）。
+}}
+
+==[[HP:0010989]]==
+{{Infobox HPO
+| hpoId = HP:0010989
+| 名称 = Abnormality of the intrinsic pathway
+| 定义 = An abnormality of the `intrinsic pathway` (GO:0007597) (also known as the contact activation pathway) of the coagulation cascade.
+| 中文译名 = 内源性凝血异常
+| 中文定义 = 异常的内在途径（GO:0007597）（也称为接触活化途径）凝血级联。
+}}
+
+==[[HP:0010990]]==
+{{Infobox HPO
+| hpoId = HP:0010990
+| 名称 = Abnormality of the common coagulation pathway
+| 定义 = An abnormality of `blood coagulation, common pathway` (GO:0072377).
+| 中文译名 = 共同凝血途径异常
+| 中文定义 = 共同凝血途径功能异常（GO:0072377）。
+}}
+
+
+==[[HP:0011029]]==
+{{Infobox HPO
+| hpoId = HP:0011029
+| 名称 = Internal hemorrhage
+| 定义 = The presence of `hemorrhage` (MPATH:119) within the `body` (FMA:20394).
+| 中文译名 = 内出血
+| 中文定义 = 在“机体”（FMA:20394）内的“出血”现象（mpath:119）。
+}}
+
+
+==[[HP:0011273]]==
+{{Infobox HPO
+| hpoId = HP:0011273
+| 名称 = Anisocytosis
+| 定义 = Abnormally increased variability in the size of erythrocytes.
+| 中文译名 = 红细胞大小不均
+| 中文定义 = 红细胞的大小变异度增加。
+}}
+
+==[[HP:0011447]]==
+{{Infobox HPO
+| hpoId = HP:0011447
+| 名称 = Hyposegmentation of neutrophil nuclei
+| 定义 = Hyposegmented (hypolob化ulated) or bilobed neutrophil nuclei.
+| 中文译名 = 中性粒细胞核低分叶
+| 中文定义 = 低分化的（低分页的）或双叶中性粒细胞的细胞核。
+}}
+
+==[[HP:0011695]]==
+{{Infobox HPO
+| hpoId = HP:0011695
+| 名称 = Cerebellar hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) into the parenchyma of the cerebellum.
+| 中文译名 = 小脑出血
+| 中文定义 = 小脑实质内的出血(MPATH:119)。
+}}
+
+
+==[[HP:0011837]]==
+{{Infobox HPO
+| hpoId = HP:0011837
+| 名称 = Partial IgA deficiency
+| 定义 = Detectable but decreased IgA levels that are more than 2 standard deviations below normal age-adjusted means.
+| 中文译名 = 部分IgA缺乏
+| 中文定义 = 可低于IgA同年龄段正常值水平但超过2个标准差。
+}}
+
+
+==[[HP:0011839]]==
+{{Infobox HPO
+| hpoId = HP:0011839
+| 名称 = Abnormality of T cell number
+| 定义 = A deviation from the normal count of `T cells` (CL:0000084).
+| 中文译名 = T细胞数量异常
+| 中文定义 = 异常的T细胞（:0000084 CL）计数。
+}}
+
+
+==[[HP:0011840]]==
+{{Infobox HPO
+| hpoId = HP:0011840
+| 名称 = Abnormality of T cell physiology
+| 定义 = A deviation from the normal count of `T cells` (CL:0000084).
+| 中文译名 = T细胞生理功能异常
+| 中文定义 = 异常的T细胞（:0000084 CL）计数。
+}}
+
+==[[HP:0011857]]==
+{{Infobox HPO
+| hpoId = HP:0011857
+| 名称 = Plasmacytoma
+| 定义 = A discrete mass of neoplastic monoclonal plasma cells either in the bone marrow or in an extramedullary location.
+| 中文译名 = 浆细胞肿瘤
+| 中文定义 = 在骨髓或在髓外组织的单克隆浆细胞性肿瘤。
+}}
+
+
+==[[HP:0011858]]==
+{{Infobox HPO
+| hpoId = HP:0011858
+| 名称 = Reduced factor IX activity
+| 定义 = Decreased activity of `coagulation factor IX` (PR:000007303). Factor IX, which itself is activated by factor Xa or factor VIIa to form factor IXa, activates factor X into factor Xa.
+| 中文译名 = IX凝血因子活性降低
+| 中文定义 = `凝血因子IX`（PR:000007303）的活性降低。凝血因子IX，其本身是通过因子Xa或Ⅶa因子活化后，形成因子IXa，然后激活因子X形成活化的因子Xa。
+}}
+
+
+==[[HP:0011869]]==
+{{Infobox HPO
+| hpoId = HP:0011869
+| 名称 = Abnormal platelet function
+| 定义 = Any anomaly in the function of thrombocytes.
+| 中文译名 = 血小板功能异常
+| 中文定义 = 任何异常的血小板的功能。
+}}
+
+
+==[[HP:0011870]]==
+{{Infobox HPO
+| hpoId = HP:0011870
+| 名称 = Impaired arachidonic acid-induced platelet aggregation
+| 定义 = Abnormal response to arachidonic acid as manifested by reduced or lacking aggregation of platelets upon addition of arachidonic acid.
+| 中文译名 = 花生四烯酸诱导的血小板聚集受损
+| 中文定义 = 花生四烯酸反应异常，在加入花生四烯酸后表现为血小板聚集减少或缺乏。
+}}
+
+
+==[[HP:0011871]]==
+{{Infobox HPO
+| hpoId = HP:0011871
+| 名称 = Impaired ristocetin-induced platelet aggregation
+| 定义 = Abnormal response to ristocetin as manifested by reduced or lacking aggregation of platelets upon addition of ristocetin.
+| 中文译名 = 瑞斯托菌素诱发的血小板聚集受损
+| 中文定义 = 对瑞斯托霉素异常反应，表现为血小板在加入瑞斯托霉素聚集降低或缺乏。
+}}
+
+==[[HP:0011872]]==
+{{Infobox HPO
+| hpoId = HP:0011872
+| 名称 = Impaired thrombin-induced platelet aggregation
+| 定义 = Abnormal response to thrombin or thrombin mimetics as manifested by reduced or lacking aggregation of platelets upon addition of thrombin (or thrombin mimetics).
+| 中文译名 = 凝血酶诱导的血小板聚集障碍
+| 中文定义 = 在加入的凝血酶（凝血酶或模拟物）后，血小板聚集减少或缺乏。
+}}
+
+
+==[[HP:0011873]]==
+{{Infobox HPO
+| hpoId = HP:0011873
+| 名称 = Abnormal platelet count
+| 定义 = Abnormal number of platelets per volume of blood. In a healthy adult, a normal platelet count is between 150,000 and 450,000 per microliter of blood.
+| 中文译名 = 血小板计数异常
+| 中文定义 = 每升血液中血小板数量异常。健康成年血小板计数为每微升血液15万至45万。
+}}
+
+
+==[[HP:0011874]]==
+{{Infobox HPO
+| hpoId = HP:0011874
+| 名称 = Heparin-induced thrombocytopenia
+| 定义 = Low platelet count following administration of unfractionated or (less commonly) low-molecular weight heparin.
+| 中文译名 = 肝素诱导的血小板减少症
+| 中文定义 = 未分级的或（较不常见）的低分子量肝素应用引起的血小板计数降低。
+}}
+
+
+==[[HP:0011875]]==
+{{Infobox HPO
+| hpoId = HP:0011875
+| 名称 = Abnormal platelet morphology
+| 定义 = An anomaly in platelet form, ultrastructure, or intracellular organelles.
+| 中文译名 = 血小板形态异常
+| 中文定义 = 血小板形态、超微结构、或细胞内细胞器异常。
+}}
+
+
+==[[HP:0011876]]==
+{{Infobox HPO
+| hpoId = HP:0011876
+| 名称 = Abnormal platelet volume
+| 定义 = Anomalous size of platelets. Most normal sized platelets are 1.5 to 3 micrometers in diameter. Large platelets are 4 to 7 micrometers. Giant platelets are larger than 7 micrometers and usually 10 to 20 micrometers.
+| 中文译名 = 血小板体积异常
+| 中文定义 = 血小板大小异常。大多数正常大小的血小板的直径是1.5至3微米。大血小板4至7微米。巨血小板大于7微米，通常为10至20微米。
+}}
+
+
+==[[HP:0011877]]==
+{{Infobox HPO
+| hpoId = HP:0011877
+| 名称 = Increased mean platelet volume
+| 定义 = Average platelet volume above the upper limit of the normal reference interval.
+| 中文译名 = 平均血小板体积增加
+| 中文定义 = 平均血小板体积高于正常参考区间的上限。
+}}
+
+
+==[[HP:0011878]]==
+{{Infobox HPO
+| hpoId = HP:0011878
+| 名称 = Abnormal platelet membrane protein expression
+| 定义 = Presence of reduced amount of a membrane protein on the cell membrane of platelets. This feature is typically measured by flow cytometry.
+| 中文译名 = 血小板膜蛋白表达异常
+| 中文定义 = 血小板细胞膜蛋白量减少。此功能通常通过流式细胞术测量。
+}}
+
+
+==[[HP:0011879]]==
+{{Infobox HPO
+| hpoId = HP:0011879
+| 名称 = Decreased platelet glycoprotein Ib-IX-V
+| 定义 = Decreased cell membrane concentration of the glycoprotein complex Ib-IX-V.
+| 中文译名 = 血小板糖蛋白Ib-IX-V降低
+| 中文定义 = 血小板糖细胞膜蛋白复合物Ib-IX-V减少。
+}}
+
+
+==[[HP:0011880]]==
+{{Infobox HPO
+| hpoId = HP:0011880
+| 名称 = Acute disseminated intravascular coagulation
+| 定义 = An acute form of `disseminated intravascular coagulation` (HP:0005521). Acute DIC can occur following sudden exposure of blood to procoagulants, with the compensatory hemostatic mechanisms becoming overwhelmed.
+| 中文译名 = 急性弥散性血管内凝血
+| 中文定义 = 弥散性血管内凝血一种急性型（HP:0005521）凝血功能异常综合征。急性DIC可能由于促凝血剂突然增多，使止血机制不堪代偿而发生。
+}}
+
+
+==[[HP:0011881]]==
+{{Infobox HPO
+| hpoId = HP:0011881
+| 名称 = Decreased platelet glycoprotein VI
+| 定义 = Decreased cell membrane concentration of glycoprotein  VI.
+| 中文译名 = 血小板糖蛋白VI降低
+| 中文定义 = 细胞膜糖蛋白VI浓度减少。
+}}
+
+
+==[[HP:0011882]]==
+{{Infobox HPO
+| hpoId = HP:0011882
+| 名称 = Decreased platelet P2Y12 receptor
+| 定义 = Decreased cell membrane concentration of P2Y12 receptor.
+| 中文译名 = 血小板P2Y12受体降低
+| 中文定义 = 血小板细胞膜P2Y12受体减少。
+}}
+
+
+==[[HP:0011883]]==
+{{Infobox HPO
+| hpoId = HP:0011883
+| 名称 = Abnormal platelet granules
+| 定义 = An anomaly of alpha or dense granules or platelet lysosomes.
+| 中文译名 = 异常血小板颗粒
+| 中文定义 = α或致密颗粒或血小板溶酶体的异常。
+}}
+
+
+==[[HP:0011884]]==
+{{Infobox HPO
+| hpoId = HP:0011884
+| 名称 = Abnormal umbilical stump bleeding
+| 定义 = Abnormal bleeding of the umbilical stump following separation of the cord at approximately 7-10 days after birth.
+| 中文译名 = 异常脐带根部出血
+| 中文定义 = 出生脐带分离后7-10天残端异常出血。
+}}
+
+==[[HP:0011885]]==
+{{Infobox HPO
+| hpoId = HP:0011885
+| 名称 = Hemorrhage of the eye
+| 定义 = Bleeding from vessels of the various tissues of the eye.
+| 中文译名 = 眼出血
+| 中文定义 = 从眼睛的各种组织的血管出血。
+}}
+
+
+==[[HP:0011886]]==
+{{Infobox HPO
+| hpoId = HP:0011886
+| 名称 = Hyphema
+| 定义 = Bleeding in the anterior chamber of the eye.
+| 中文译名 = 前房积血
+| 中文定义 = 出血在眼睛的前房中。
+}}
+
+
+==[[HP:0011887]]==
+{{Infobox HPO
+| hpoId = HP:0011887
+| 名称 = Choroid hemorrhage
+| 定义 = Hemorrhage from the vessels of the choroid.
+| 中文译名 = 脉络膜出血
+| 中文定义 = 脉络膜血管的出血。
+}}
+
+
+==[[HP:0011888]]==
+{{Infobox HPO
+| hpoId = HP:0011888
+| 名称 = Bleeding requiring red cell transfusion
+| 定义 = Bleeding sufficiently severe as to require red cell transfusion (WHO Grade 3 or 4).
+| 中文译名 = 需要输红细胞的出血
+| 中文定义 = 出血十分严重，需要接受红细胞输血（WHO 3或4级）。
+}}
+
+
+==[[HP:0011889]]==
+{{Infobox HPO
+| hpoId = HP:0011889
+| 名称 = Bleeding with minor or no trauma
+| 定义 = Significant bleeding or hemorrhage without significant precipitating factor.
+| 中文译名 = 轻微或无创伤出血
+| 中文定义 = 没有显著促发因素出血。
+}}
+
+
+==[[HP:0011890]]==
+{{Infobox HPO
+| hpoId = HP:0011890
+| 名称 = Prolonged bleeding following procedure
+| 定义 = Prolonged or protracted bleeding following an invasive procedure or intervention.
+| 中文译名 = 术后出血时间延长
+| 中文定义 = 侵入性手术或介入治疗后的出血延长或长期出血。
+}}
+
+==[[HP:0011891]]==
+{{Infobox HPO
+| hpoId = HP:0011891
+| 名称 = Post-partum hemorrhage
+| 定义 = Significant maternal haemorrhage/blood loss following deilvery of a child.
+| 中文译名 = 产后出血
+| 中文定义 = 产后严重出血/失血。
+}}
+
+
+==[[HP:0011893]]==
+{{Infobox HPO
+| hpoId = HP:0011893
+| 名称 = Abnormal leukocyte count
+| 定义 = Number of leukocytes per volume of blood beyond normal limits.
+| 中文译名 = 白细胞计数异常
+| 中文定义 = 超出正常血液白细胞计数。
+}}
+
+
+==[[HP:0011894]]==
+{{Infobox HPO
+| hpoId = HP:0011894
+| 名称 = Impaired thromboxane A2 agonist-induced platelet aggregation
+| 定义 = Abnormal response to thromboxane as manifested by reduced or lacking aggregation of platelets upon addition of thromboxane A2 receptor agonists.
+| 中文译名 = 血栓素A2激动剂诱导的血小板聚集受损
+| 中文定义 = 对血栓素异常响应，表现为血小板在加入血栓烷A2受体激动剂后减少或缺乏聚集。
+}}
+
+==[[HP:0011895]]==
+{{Infobox HPO
+| hpoId = HP:0011895
+| 名称 = Anemia due to reduced life span of red cells
+| 定义 = A type of anemia related to a reduction in the average life span of red blood cells in the peripheral circulation, which is normally around 120 days.
+| 中文译名 = 红细胞寿命缩短性贫血
+| 中文定义 = 一种与外周循环中红血细胞平均寿命降低的贫血。它通常约为120天。
+}}
+
+
+==[[HP:0011896]]==
+{{Infobox HPO
+| hpoId = HP:0011896
+| 名称 = Subconjunctival hemorrhage
+| 定义 = Bleeding beneath the mucous membrane that lines the inner surface of the eyelid.
+| 中文译名 = 结膜下出血
+| 中文定义 = 出血发生于眼结膜下，眼结膜位于眼睑的内表面。
+}}
+
+
+==[[HP:0011897]]==
+{{Infobox HPO
+| hpoId = HP:0011897
+| 名称 = Neutrophillia
+| 定义 = Increased number of neutrophils circulating in blood.
+| 中文译名 = 嗜中性白细胞增多症
+| 中文定义 = 血液循环中嗜中性粒细胞的数量增加。
+}}
+
+
+==[[HP:0011898]]==
+{{Infobox HPO
+| hpoId = HP:0011898
+| 名称 = Abnormality of circulating fibrinogen
+| 定义 = An abnormality of the level of activity of circulating fibrinogen.
+| 中文译名 = 外周血纤维蛋白原异常
+| 中文定义 = 外周血中纤维蛋白原的活性异常。
+}}
+
+
+==[[HP:0011899]]==
+{{Infobox HPO
+| hpoId = HP:0011899
+| 名称 = Hyperfibrinogenemia
+| 定义 = Increased concentration of fibrinogen in the blood.
+| 中文译名 = 高纤维蛋白原血症
+| 中文定义 = 血液中的纤维蛋白原增加浓度。
+}}
+
+
+==[[HP:0011900]]==
+{{Infobox HPO
+| hpoId = HP:0011900
+| 名称 = Hypofibrinogenemia
+| 定义 = Decreased concentration of fibrinogen in the blood.
+| 中文译名 = 低纤维蛋白原血症
+| 中文定义 = 血液中纤维蛋白浓度减少。
+}}
+
+
+==[[HP:0011901]]==
+{{Infobox HPO
+| hpoId = HP:0011901
+| 名称 = Dysfibrinogenemia
+| 定义 = Qualitatively abnormal fibrinogen.
+| 中文译名 = 异常纤维蛋白原血症
+| 中文定义 = 纤维蛋白原的定性异常。
+}}
+
+
+==[[HP:0011902]]==
+{{Infobox HPO
+| hpoId = HP:0011902
+| 名称 = Abnormal hemoglobin
+| 定义 = Anomaly in the level or the function of hemoglobin, the oxygen-carrying protein of erythrocytes.
+| 中文译名 = 血红蛋白异常
+| 中文定义 = 红细胞中携氧蛋白——血红蛋白水平或功能异常。
+}}
+
+
+==[[HP:0011903]]==
+{{Infobox HPO
+| hpoId = HP:0011903
+| 名称 = Hemoglobin H
+| 定义 = Hemoglobin H (HbH) contains four beta-globin chains. It is normally not present at all in blood, but may make up about 1-40 percent of all hemoglobin in HbH disease, a subform of alpha thalassemia.
+| 中文译名 = 血红蛋白H
+| 中文定义 = 血红蛋白H（血红蛋白H）包含四个β球蛋白链。正常情况下它不会出现，但在血红蛋白H病可达约1-40％，是α-地中海贫血的一种亚型。
+}}
+
+
+==[[HP:0011904]]==
+{{Infobox HPO
+| hpoId = HP:0011904
+| 名称 = Persistence of hemoglobin F
+| 定义 = Hemoglobin F (HbF) contains two globin alpha chains and two globin gamma chains. It is the main form of hemoglobin in the fetus during the last seven months of intrauterine  development and in the half year of postnatal life. In adults it normally makes up less than one percent of all hemoglobiin. This term refers to an increase in HbF above this limit. In beta thalassemia major, it may represent over 90 percent of all hemoglobin, and in beta thalassemia minor it may make up between 0.5 to 4 percent.
+| 中文译名 = 胎儿血红蛋白F持续存在
+| 中文定义 = 血红蛋白F（HbF的）含有两条α链球蛋白和两条γ链球蛋白。这是胎儿血红蛋白的主要形式，存在于子宫内发育的最后七个月至出生后的半年。在成人中，通常它少于总血红蛋白的百分之一。此术语是指HbF的增加超过1%的。在重型β地中海贫血，它可能总血红蛋白的超过90％，在轻型地中海贫血，HbF通常在0.5%-4％之间。
+}}
+
+==[[HP:0011905]]==
+{{Infobox HPO
+| hpoId = HP:0011905
+| 名称 = Reduced hemoglobin A
+| 定义 = Hemoglobin A (HbA) contains two globin alpha chains and two globin beta chains. HbA is normally the main adult hemoglobin, representing about 96-98 percent of all hemoglobin. This term represents a decreased in the proportion of HbA below this limit, and can be seen in various forms of thalassemia.
+| 中文译名 = 血红蛋白A降低
+| 中文定义 = 糖化血红蛋白（HBA）包含两条α链珠蛋白和两条β链珠蛋白。糖化血红蛋白通常是成人血红蛋白的主要成分，约占所有血红蛋白的96-98％左右。这个术语表示的HbA的比例低于96%，常见于各种形式地中海贫血。
+}}
+
+==[[HP:0011906]]==
+{{Infobox HPO
+| hpoId = HP:0011906
+| 名称 = Reduced beta/alpha synthesis ratio
+| 定义 = A reduction in the ratio of production of beta globin to that of alpha globin. This is the major abnormality in the various forms of beta thalassemia.
+| 中文译名 = β/α合成比降低
+| 中文定义 = β/α球蛋白合成比例减少。这是在各种形式的β地中海的主要异常。
+}}
+
+
+==[[HP:0011907]]==
+{{Infobox HPO
+| hpoId = HP:0011907
+| 名称 = Reduced alpha/beta synthesis ratio
+| 定义 = A reduction in the ratio of production of alpha globin to that of beta globin. This is the major abnormality in the various forms of alpha thalassemia.
+| 中文译名 = α/β合成比降低
+| 中文定义 = α球蛋白的产生少于β球蛋白。这是在各种形式的α地中海贫血的主要异常表型。
+}}
+
+
+==[[HP:0011953]]==
+{{Infobox HPO
+| hpoId = HP:0011953
+| 名称 = Pulmonary lymphoma
+| 定义 = Lung parenchymal involvement with lymphoma.
+| 中文译名 = 肺淋巴瘤
+| 中文定义 = 淋巴瘤累及肺实质。
+}}
+
+
+==[[HP:0011955]]==
+{{Infobox HPO
+| hpoId = HP:0011955
+| 名称 = Hepatic granulomatosis
+| 定义 = The presence of multiple granulomas in the liver as based on pathological examination. Granulomas are small 0.5 to 2 mm collections of modified macrophages called epithelioid cells usually surrounded by lymphocytes.
+| 中文译名 = 肝肉芽肿
+| 中文定义 = 基于病理检测的肝脏中多个肉芽肿的存在。肉芽肿大小为0.5-2毫米，为由淋巴细胞包围的被称为上皮样细胞的改性巨噬细胞的集合。
+}}
+
+
+==[[HP:0011974]]==
+{{Infobox HPO
+| hpoId = HP:0011974
+| 名称 = Myelofibrosis
+| 定义 = Replacement of bone marrow by fibrous tissue.
+| 中文译名 = 骨髓纤维化
+| 中文定义 = 由纤维组织替代骨髓。
+}}
+
+
+==[[HP:0011990]]==
+{{Infobox HPO
+| hpoId = HP:0011990
+| 名称 = Abnormality of neutrophil physiology
+| 定义 = A functional abnormality of neutrophils.
+| 中文译名 = 中性粒细胞生理功能异常
+| 中文定义 = 中性粒细胞的功能异常。
+}}
+
+
+==[[HP:0011991]]==
+{{Infobox HPO
+| hpoId = HP:0011991
+| 名称 = Abnormal neutrophil cell number
+| 定义 = A deviation from the normal range of neutrophil cell counts in the circulation.
+| 中文译名 = 中性粒细胞的数量异常
+| 中文定义 = 中性粒细胞计数异常。
+}}
+
+
+==[[HP:0011992]]==
+{{Infobox HPO
+| hpoId = HP:0011992
+| 名称 = Abnormality of neutrophil morphology
+| 定义 = An abnormal form or size of neutrophils.
+| 中文译名 = 中性粒细胞形态异常
+| 中文定义 = 不正常的中性粒细胞的形态或大小。
+}}
+
+
+==[[HP:0011993]]==
+{{Infobox HPO
+| hpoId = HP:0011993
+| 名称 = Impaired neutrophil bactericidal activity
+| 定义 = A reduction in the ability of neutrophils to kill bacteria.
+| 中文译名 = 中性粒细胞杀菌活性降低
+| 中文定义 = 中性粒细胞杀死细菌的能力下降。
+}}
+
+
+==[[HP:0011996]]==
+{{Infobox HPO
+| hpoId = HP:0011996
+| 名称 = Elevated factor V activity
+| 定义 = Increased activity of coagulation factor V, Factor V, which is activated to factor Va by means of minute amounts of thrombin (and inactivated by larger amounts of thrombin). Activated factor V (fVa)  is a cofactor in the formation of the prothrombinase complex.
+| 中文译名 = 因子V活性升高
+| 中文定义 = 凝血因子V活性增加。凝血因子V由微量的凝血酶激活后形成因子Va，（然后由较大量的凝血酶灭活）。活化的因子V（FVA）是凝血酶原酶复合物形成的辅助因子。
+}}
+
+
+==[[HP:0012119]]==
+{{Infobox HPO
+| hpoId = HP:0012119
+| 名称 = Methemoglobinemia
+| 定义 = Abnormally increased levels of Methemoglobinemia in the blood. In this form of hemoglobin, there is an oxidized ferric iron (Fe +3) rather than the reduced ferrous form (Fe 2+) that is normally found in hemoglobin. Methemoglobin has a reduced affinity for oxygen, resulting in a reduced ability to release oxygen to tissues.
+| 中文译名 = 高铁血红蛋白血症
+| 中文定义 = 在血液异常增高的高铁血红蛋白血症。在这种形式的血红蛋白，含有氧化三价铁（Fe 3），而不是在正常血红蛋白中存在的亚铁形式（Fe 2+）。高铁血红蛋白对氧亲和力低，导致释放氧气到组织的能力降低。
+}}
+
+
+==[[HP:0012129]]==
+{{Infobox HPO
+| hpoId = HP:0012129
+| 名称 = Abnormality of bone marrow stromal cells
+| 定义 = #####
+| 中文译名 = 骨髓基质细胞异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012130]]==
+{{Infobox HPO
+| hpoId = HP:0012130
+| 名称 = Abnormality of cells of the erythroid lineage
+| 定义 = An anomaly of `erythroid lineage cells` (CL:0000764), that is, of the erythropoietic cells in the lineage leading to and including erythrocytes.
+| 中文译名 = 红系细胞异常
+| 中文定义 = 红细胞系（CL:0000764）的异常，即生成红细胞的细胞谱系异常。
+}}
+
+
+==[[HP:0012131]]==
+{{Infobox HPO
+| hpoId = HP:0012131
+| 名称 = Abnormal number of erythroid precursors
+| 定义 = A deviation from the normal count of erythroid precursor cells, that is,  `erythroid lineage cells` (CL:0000764) in the bone marrow.
+| 中文译名 = 幼稚红细胞数量异常
+| 中文定义 = 红系前体细胞的计数异常，也就是骨髓中的有核红系细胞（CL:0000764）数量异常。
+}}
+
+
+==[[HP:0012132]]==
+{{Infobox HPO
+| hpoId = HP:0012132
+| 名称 = Erythroid hyperplasia
+| 定义 = Increased count of erythroid precursor cells, that is,  `erythroid lineage cells` (CL:0000764) in the bone marrow.
+| 中文译名 = 红系增生
+| 中文定义 = 红细胞前体细胞增加计数，也就是说，`红细胞谱系细胞`（CL:0000764）在骨髓中增多。
+}}
+
+
+==[[HP:0012133]]==
+{{Infobox HPO
+| hpoId = HP:0012133
+| 名称 = Erythroid hypoplasia
+| 定义 = Decreased count of erythroid precursor cells, that is,  `erythroid lineage cells` (CL:0000764) in the bone marrow.
+| 中文译名 = 红细胞发育不良
+| 中文定义 = 红系前体细胞数目降低，即红细胞谱系细胞（CL:0000764）在骨髓中减少。
+}}
+
+
+==[[HP:0012134]]==
+{{Infobox HPO
+| hpoId = HP:0012134
+| 名称 = Dysplastic erythropoesis
+| 定义 = #####
+| 中文译名 = 红细胞生成异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012135]]==
+{{Infobox HPO
+| hpoId = HP:0012135
+| 名称 = Abnormality of cells of the granulocytic lineage
+| 定义 = An anomaly of cells involved in  the formation of a granulocytes, that is, of the `granulocytopoietic cell` (CL:0002191).
+| 中文译名 = 粒系细胞异常
+| 中文定义 = 粒细胞成熟异常，也就是粒系干细胞（ CL:0002191）的分化成熟异常。
+}}
+
+
+==[[HP:0012136]]==
+{{Infobox HPO
+| hpoId = HP:0012136
+| 名称 = Dysplastic granulopoesis
+| 定义 = #####
+| 中文译名 = 粒细胞生成异常
+| 中文定义 = #####
+}}
+
+==[[HP:0012137]]==
+{{Infobox HPO
+| hpoId = HP:0012137
+| 名称 = Abnormal number of granulocyte precursors
+| 定义 = #####
+| 中文译名 = 粒细胞前体细胞数量异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012138]]==
+{{Infobox HPO
+| hpoId = HP:0012138
+| 名称 = Granulocytic hyperplasia
+| 定义 = #####
+| 中文译名 = 粒细胞增生
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012139]]==
+{{Infobox HPO
+| hpoId = HP:0012139
+| 名称 = Granulocytic hypoplasia
+| 定义 = Decreased number of granulocyte precursors in the bone marrow.
+| 中文译名 = 粒细胞发育不全
+| 中文定义 = 骨髓粒细胞前体的数目降低。
+}}
+
+
+==[[HP:0012140]]==
+{{Infobox HPO
+| hpoId = HP:0012140
+| 名称 = Abnormality of cells of the lymphoid lineage
+| 定义 = An anomaly of cells that originate from the `lymphoid lineage restricted progenitor cell` (CL:0000838).
+| 中文译名 = 淋系细胞的异常
+| 中文定义 = 淋系干细胞分化成熟异常（CL:0000838）。
+}}
+
+
+==[[HP:0012143]]==
+{{Infobox HPO
+| hpoId = HP:0012143
+| 名称 = Abnormality of cells of the megakaryocyte lineage
+| 定义 = Anomaly of `megakaryocytes` (CL:0000556).
+| 中文译名 = 巨核细胞系的细胞异常
+| 中文定义 = 巨核细胞系异常（CL:0000556）。
+}}
+
+
+==[[HP:0012144]]==
+{{Infobox HPO
+| hpoId = HP:0012144
+| 名称 = Abnormality of cells of the monocyte/macrophage lineage
+| 定义 = #####
+| 中文译名 = 单核/巨噬细胞系的细胞异常
+| 中文定义 = #####
+}}
+
+==[[HP:0012145]]==
+{{Infobox HPO
+| hpoId = HP:0012145
+| 名称 = Abnormality of multiple cell lineages in the bone marrow
+| 定义 = #####
+| 中文译名 = 骨髓中多系细胞异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012146]]==
+{{Infobox HPO
+| hpoId = HP:0012146
+| 名称 = Abnormality of von Willebrand factor
+| 定义 = Decreased quantity or activity of `von Willebrand factor` (PR:000017364). Von Willebrand factor mediates the adhesion of platelets to the collagen exposed on endothelial cell surfaces.
+| 中文译名 = 血管性血友病因子异常
+| 中文定义 = 血管性血友病因子（PR:000017364）数量减少或活性下降。血管性血友病因子是介导血小板粘附于暴露的内皮细胞表面上的胶原蛋白。
+}}
+
+
+==[[HP:0012147]]==
+{{Infobox HPO
+| hpoId = HP:0012147
+| 名称 = Reduced quantity of Von Willebrand factor
+| 定义 = Decreased quantity of `von Willebrand factor` (PR:000017364).
+| 中文译名 = 血管性血友病因子数量减少
+| 中文定义 = `血管性血友病因子`（PR:000017364）的数量减少。
+}}
+
+
+==[[HP:0012148]]==
+{{Infobox HPO
+| hpoId = HP:0012148
+| 名称 = Multiple lineage myelodysplasia
+| 定义 = Myelodysplasia with dysplastic changes in two or more of the myeloid lineages: erythroid, granulocytic, megakaryocytic.
+| 中文译名 = 多系脊髓发育不良
+| 中文定义 = 脊髓发育不良影响两个或更多的骨髓细胞系:红细胞，粒细胞，巨核细胞。
+}}
+
+==[[HP:0012149]]==
+{{Infobox HPO
+| hpoId = HP:0012149
+| 名称 = Bilineage myelodysplasia
+| 定义 = Myelodysplasia with dysplastic changes in two of the myeloid lineages: erythroid, granulocytic, megakaryocytic.
+| 中文译名 = 双系骨髓增生不良
+| 中文定义 = 骨髓增生异常与不典型增生改变影响两个髓系的细胞:红细胞，粒细胞或巨核细胞。
+}}
+
+
+==[[HP:0012150]]==
+{{Infobox HPO
+| hpoId = HP:0012150
+| 名称 = Single lineage myelodysplasia
+| 定义 = Abnormality/dysplasia of a single myeloid cell (erythroid, granulocytic, or megakaryocytic).
+| 中文译名 = 单系骨髓增生异常
+| 中文定义 = 单一的骨髓细胞（红细胞，粒细胞，巨核细胞或）的异常/发育异常。
+}}
+
+==[[HP:0012156]]==
+{{Infobox HPO
+| hpoId = HP:0012156
+| 名称 = Hemophagocytosis
+| 定义 = Phagocytosis by macrophages of erythrocytes, leukocytes, platelets, and their precursors in bone marrow and other tissues.
+| 中文译名 = 噬血细胞
+| 中文定义 = 红细胞，白细胞，血小板，和它们的前体被在骨髓和其他组织中的巨噬细胞所吞噬。
+}}
+
+==[[HP:0012175]]==
+{{Infobox HPO
+| hpoId = HP:0012175
+| 名称 = Resistance to activated protein C
+| 定义 = Poor anticoagulant response to activated protein C. A plasma is termed &#39;APC resistant&#39; when the addition of exogenous APC fails to prolong its clotting time in an activated partial thromboplastin time assay.
+| 中文译名 = 活化蛋白C抵抗
+| 中文定义 = 对活化C蛋白的抗凝效果反应不佳。&#39;当在活化部分凝血酶时间测定法中，加入外源性的APC未能延长凝血时间，被称为“APC耐受”血浆。
+}}
+
+
+==[[HP:0012176]]==
+{{Infobox HPO
+| hpoId = HP:0012176
+| 名称 = Abnormality of natural killer cells
+| 定义 = An anomaly of the `natural killer cell` (CL:0000623), which is a lymphocyte that can spontaneously kill a variety of target cells without prior antigenic activation via germline encoded activation receptors and also regulate immune responses via cytokine release and direct contact with other cells.
+| 中文译名 = 自然杀伤细胞异常
+| 中文定义 = 自然杀伤细胞异常（CL:0000623），自然杀伤细胞是一种无需抗原活化直接通过种系编码的活化的淋巴细胞，与其直接接触的免疫反应细胞释放细胞因子从而自发杀死多种靶细胞。
+}}
+
+
+==[[HP:0012177]]==
+{{Infobox HPO
+| hpoId = HP:0012177
+| 名称 = Abnormal natural killer cell physiology
+| 定义 = A functional anomaly of the `natural killer cell` (CL:0000623).
+| 中文译名 = 自然杀伤细胞生理功能异常
+| 中文定义 = 自然杀伤细胞的功能异常（CL:0000623）。
+}}
+
+==[[HP:0012178]]==
+{{Infobox HPO
+| hpoId = HP:0012178
+| 名称 = Reduced natural killer cell activity
+| 定义 = Reduced ability of the `natural killer cell` (CL:0000623) to function in the  adaptive immune response.
+| 中文译名 = 自然杀伤细胞活性降低
+| 中文定义 = 在适应性免疫应答中， `自然杀伤细胞`（0000623 CL）的能力降低。
+}}
+
+
+==[[HP:0012189]]==
+{{Infobox HPO
+| hpoId = HP:0012189
+| 名称 = Hodgkin lymphoma
+| 定义 = A typer of lymphoma characterized microscopically by multinucleated Reed-Sternberg cells.
+| 中文译名 = 霍奇金淋巴瘤
+| 中文定义 = 一种淋巴瘤，以多核Reed-Sternberg细胞为镜下特征。
+}}
+
+
+==[[HP:0012190]]==
+{{Infobox HPO
+| hpoId = HP:0012190
+| 名称 = T-cell lymphoma
+| 定义 = A type of lymphoma that originates in T-cells.
+| 中文译名 = T细胞淋巴瘤
+| 中文定义 = 一型起源于T细胞的淋巴瘤。
+}}
+
+
+==[[HP:0012191]]==
+{{Infobox HPO
+| hpoId = HP:0012191
+| 名称 = B-cell lymphoma
+| 定义 = A type of lymphoma that originates in B-cells.
+| 中文译名 = B细胞淋巴瘤
+| 中文定义 = 一型起源于B细胞的淋巴瘤。
+}}
+
+
+==[[HP:0012192]]==
+{{Infobox HPO
+| hpoId = HP:0012192
+| 名称 = Cutaneous T-cell lymphoma
+| 定义 = A type of T-cell lymphoma that exhibits malignant infiltration of the skin.
+| 中文译名 = 皮肤T细胞淋巴瘤
+| 中文定义 = 一型T细胞淋巴瘤，表现为对皮肤的恶性浸润。
+}}
+
+
+==[[HP:0012193]]==
+{{Infobox HPO
+| hpoId = HP:0012193
+| 名称 = Anaplastic large-cell lymphoma
+| 定义 = A type of T-cell lymphoma that is characterized by so-called hallmark cells with a pleomorphic appearance that express the CD30 antigen, are lobulated, and have indented nuclei. These so-called hallmark cells have lobulated and indented nuclei.
+| 中文译名 = 退行性大细胞淋巴瘤
+| 中文定义 = T细胞淋巴瘤的一种，其特点是表达CD30抗原，外观多形性，细胞核分叶状或退缩。
+}}
+
+==[[HP:0012200]]==
+{{Infobox HPO
+| hpoId = HP:0012200
+| 名称 = Abnormality of prothrombin
+| 定义 = An anomaly of clotting factor II, which is known as prothrombin, a vitamin K-dependent proenzyme that functions in the blood coagulation cascade.
+| 中文译名 = 凝血酶原异常
+| 中文定义 = 凝血因子II，又被称为凝血酶原，是一种维生素K依赖性酶原，因其异常引起的血液凝固的异常。
+}}
+
+
+==[[HP:0012201]]==
+{{Infobox HPO
+| hpoId = HP:0012201
+| 名称 = Reduced prothrombin activity
+| 定义 = Decreased activity of coagulation factor II, which is also known as prothrombin.
+| 中文译名 = 凝血酶原活性降低
+| 中文定义 = 活性降低的凝血因子II，它也被称为凝血酶原。
+}}
+
+
+==[[HP:0012209]]==
+{{Infobox HPO
+| hpoId = HP:0012209
+| 名称 = Juvenile myelomonocytic leukemia
+| 定义 = Juvenile myelomonocytic leukemia (JMML) is a lethal myeloproliferative disease of young childhood characterized clinically by overproduction of myelomonocytic cells and by the in vitro phenotype of hematopoietic progenitor hypersensitivity to granulocyte-macrophage colony-stimulating factor.
+| 中文译名 = 青少年粒单核细胞白血病
+| 中文定义 = 少年粒单核细胞白血病（JMML）是年轻儿童期的致命骨髓增生性疾病，表现出骨髓髓系单核细胞过多和体外对粒细胞巨噬细胞集落刺激因子高度过敏为临床特征。
+}}
+
+
+==[[HP:0012220]]==
+{{Infobox HPO
+| hpoId = HP:0012220
+| 名称 = Non-caseating epithelioid cell granulomatosis
+| 定义 = The presence of multiple epithelioid cell granulomas consist of highly differentiated mononuclear phagocytes (epithelioid cells and giant cells) and lymphocytes, not exhibiting caseation (a form of necrosis in which the tissue changes into a dry, amorphous mass said to resemble cheese).
+| 中文译名 = 非干酪性上皮样细胞肉芽肿
+| 中文定义 = 存在多个上皮样细胞肉芽肿，由高度分化的单核吞噬细胞（上皮样细胞和巨细胞）和淋巴细胞构成，不表现出干酪样坏死（坏死的一种形式，其中组织变化成干燥无定型团块，类似干酪）。
+}}
+
+
+==[[HP:0012234]]==
+{{Infobox HPO
+| hpoId = HP:0012234
+| 名称 = Agranulocytosis
+| 定义 = Marked decrease in the number of `granulocytes` (CL:0000094).
+| 中文译名 = 粒细胞缺乏症
+| 中文定义 = 粒细胞（CL:0000094）数目显着降低。
+}}
+
+
+==[[HP:0012235]]==
+{{Infobox HPO
+| hpoId = HP:0012235
+| 名称 = Drug-induced agranulocytosis
+| 定义 = A type of agranulocytosis related to ingestion of a specific medication.
+| 中文译名 = 药物引起的粒细胞缺乏症
+| 中文定义 = 一型与特定药物摄取相关的粒细胞缺乏症。
+}}
+
+
+==[[HP:0012310]]==
+{{Infobox HPO
+| hpoId = HP:0012310
+| 名称 = Abnormal monocyte count
+| 定义 = An anomaly in the number of `monocytes` (CL:0000576), which are myeloid mononuclear recirculating leukocyte that can act as a precursor of tissue macrophages, osteoclasts and some populations of tissue dendritic cells.
+| 中文译名 = 单核细胞计数异常
+| 中文定义 = 单核细胞（0000576 CL）的数目异常。由髓系细胞分化再循环入外周血的单核细胞，在组织损伤时发挥前体吞噬细胞作用、破骨细胞和某些组织树突细胞的作用。
+}}
+
+
+==[[HP:0012311]]==
+{{Infobox HPO
+| hpoId = HP:0012311
+| 名称 = Monocytosis
+| 定义 = An increased number of circulating `monocytes` (CL:0000576).
+| 中文译名 = 单核细胞增多症
+| 中文定义 = 在循环系统中单核细胞的数量增加（CL:0000576）。
+}}
+
+
+==[[HP:0012312]]==
+{{Infobox HPO
+| hpoId = HP:0012312
+| 名称 = Monocytopenia
+| 定义 = An decreased number of circulating `monocytes` (CL:0000576).
+| 中文译名 = 单核细胞减少症
+| 中文定义 = 在循环系统中单核细胞的数量减少（CL:0000576）。
+}}
+
+==[[HP:0012324]]==
+{{Infobox HPO
+| hpoId = HP:0012324
+| 名称 = Myeloid leukemia
+| 定义 = A leukemia that originates from a  `myeloid cell` (CL:0000763), that is the blood forming cells of the bone marrow.
+| 中文译名 = 髓系白血病
+| 中文定义 = 起源自髓系细胞（CL:0000763）的白血病，髓系细胞即骨髓造血的细胞。
+}}
+
+
+==[[HP:0012325]]==
+{{Infobox HPO
+| hpoId = HP:0012325
+| 名称 = Chronic myelomonocytic leukemia
+| 定义 = A myelodysplastic-myeloproliferative disease characterized by monocytosis, increased monocytes in the bone marrow, variable degrees of dysplasia, but an absence of immature granulocytes in the blood.
+| 中文译名 = 慢性粒-单核细胞白血病
+| 中文定义 = 骨髓增生异常-骨髓增生性疾病，其特征是骨髓中不同程度发育异常的单核细胞增多，但外周血中幼稚粒细胞无增加。
+}}
+
+
+==[[HP:0012410]]==
+{{Infobox HPO
+| hpoId = HP:0012410
+| 名称 = Pure red cell aplasia
+| 定义 = A type of anemia resuting from suppression of erythropoiesis with little or no abnormality of leukocyte or platelet production. Erythroblasts are virtually absent in bone marrow; however, leukocyte and platelet production show little or no reduction.
+| 中文译名 = 纯红细胞再生障碍性贫血
+| 中文定义 = 一型贫血，原因是红细胞生成受抑制，白细胞或血小板数目正常或少量减少。在骨髓中红细胞几乎不存在， 但白细胞和血小板生成略微或没有减少。
+}}
+
+==[[HP:0012483]]==
+{{Infobox HPO
+| hpoId = HP:0012483
+| 名称 = Abnormal alpha granules
+| 定义 = Defective structure, size or content of alpha granules, platelet organelles that contain several growth factors destined for release during platelet activation at sites of vessel wall injury.
+| 中文译名 = α颗粒异常
+| 中文定义 = α颗粒指血管受损时血小板得以活化，释放多种生长因子。这些颗粒的结构、尺寸或成分的异常成称为α颗粒异常。
+}}
+
+
+==[[HP:0012484]]==
+{{Infobox HPO
+| hpoId = HP:0012484
+| 名称 = Abnormal dense granules
+| 定义 = Defective structure, size or content of dense granules, platelet organelles that  contain granules proaggregatory factors such as adenosine diphosphate (ADP), adenosine triphosphate (ATP), ionized calcium , histamine and serotonin.
+| 中文译名 = 致密颗粒异常
+| 中文定义 = 致密颗粒结构、尺寸或内容物的异常。。指血小板细胞器含有的血小板聚集因子，如二磷酸腺苷（ADP），三磷酸腺苷（ATP），离子钙，组胺和血清素的异常。
+}}
+
+
+==[[HP:0012485]]==
+{{Infobox HPO
+| hpoId = HP:0012485
+| 名称 = Abnormal surface-connected open canalicular system
+| 定义 = An anomaly of the invaginations of the surface membrane that form the open canalicular system (OCS). The OCS serve as the pathway for transport of substances into the cells and as conduits for the discharge of alpha granule products secreted during the platelet release reaction.
+| 中文译名 = 表面连接开放管道系统异常
+| 中文定义 = 指细胞膜表面开放管道系统（OCS）的功能异常。OCS是血小板活化时α - 颗粒释放和其他物质进出细胞的途径。
+}}
+
+
+==[[HP:0012491]]==
+{{Infobox HPO
+| hpoId = HP:0012491
+| 名称 = Abnormal dense tubular system
+| 定义 = An anomaly of the intracellular membrane complexes known as the dense tubular system.
+| 中文译名 = 致密管道系统异常
+| 中文定义 = 被称为致密管系统细胞内的膜复合体的异常。
+}}
+
+
+==[[HP:0012524]]==
+{{Infobox HPO
+| hpoId = HP:0012524
+| 名称 = Abnormal platelet shape
+| 定义 = A deviation from the normal discoid platelet shape.
+| 中文译名 = 血小板形状异常
+| 中文定义 = 区别于正常的盘状血小板形状的异常。
+}}
+
+
+==[[HP:0012525]]==
+{{Infobox HPO
+| hpoId = HP:0012525
+| 名称 = Abnormal alpha granule distribution
+| 定义 = An anomalous location and arrangement of platelet alpha granules.
+| 中文译名 = α颗粒分布异常
+| 中文定义 = 血小板α颗粒位置和分布异常。
+}}
+
+
+==[[HP:0012526]]==
+{{Infobox HPO
+| hpoId = HP:0012526
+| 名称 = Absence of alpha granules
+| 定义 = A lack of platelet alpha granules.
+| 中文译名 = α颗粒缺失
+| 中文定义 = 缺乏血小板的α颗粒。
+}}
+
+
+==[[HP:0012527]]==
+{{Infobox HPO
+| hpoId = HP:0012527
+| 名称 = Abnormal alpha granule content
+| 定义 = A deviation from the normal contents of the platelet alpha granules, which normally contain hemostatic proteins such as fibrinogen, von Willebrand factor, and growth factors such as platelet-derived growth factor.
+| 中文译名 = α颗粒内容物异常
+| 中文定义 = 血小板α颗粒通常含有凝血因子如纤维蛋白原、von Willebrand因子和生长因子 (如血小板衍生的生长因子)。此处指这些成分的异常。
+}}
+
+
+==[[HP:0012528]]==
+{{Infobox HPO
+| hpoId = HP:0012528
+| 名称 = Abnormal number of alpha granules
+| 定义 = A deviation from the normal count of alpha granules per thrombocyte.
+| 中文译名 = α颗粒的数量异常
+| 中文定义 = 血小板α颗粒数量异常。
+}}
+
+
+==[[HP:0012529]]==
+{{Infobox HPO
+| hpoId = HP:0012529
+| 名称 = Abnormal dense granule content
+| 定义 = A deviation from the normal contents of the platelet alpha granules, which normally contain adenosine triphosphate (ATP), adenosine diphosphate (ADP), serotonin, calcium, and pyrophosphate, which are secreted when platelets are activated.
+| 中文译名 = 致密颗粒含量异常
+| 中文定义 = 正常的血小板α颗粒包括三磷酸腺苷（ATP），腺苷二磷酸（ADP），血清素，钙和焦磷酸盐，血小板被激活后分泌这些成分。
+}}
+
+
+==[[HP:0012530]]==
+{{Infobox HPO
+| hpoId = HP:0012530
+| 名称 = Abnormal number of dense granules
+| 定义 = A deviation from the normal count of dense granules per thrombocyte.
+| 中文译名 = 致密颗粒数量异常
+| 中文定义 = 异常的血小板致密颗粒的数量。
+}}
+
+
+==[[HP:0012539]]==
+{{Infobox HPO
+| hpoId = HP:0012539
+| 名称 = Non-Hodgkin lymphoma
+| 定义 = A typer of lymphoma characterized microscopically by the absence of multinucleated Reed-Sternberg cells.
+| 中文译名 = 非霍奇金淋巴瘤
+| 中文定义 = 缺乏多核R-S细胞的淋巴瘤。
+}}
+
+
+==[[HP:0012541]]==
+{{Infobox HPO
+| hpoId = HP:0012541
+| 名称 = Cephalohematoma
+| 定义 = Hemorrhage between the skull and periosteum of a newborn resulting from rupture of blood vessels that cross the periosteum.
+| 中文译名 = 胎头血肿
+| 中文定义 = 新生儿骨膜下血管破裂出血，引起颅骨及骨膜下血肿而形成头颅血肿。
+}}
+
+
+==[[HP:0012551]]==
+{{Infobox HPO
+| hpoId = HP:0012551
+| 名称 = Absent neutrophil specific granules
+| 定义 = Lack of specific granules in neutrophils.
+| 中文译名 = 中性粒细胞特殊颗粒缺乏
+| 中文定义 = 缺乏特定的中性粒细胞颗粒。
+}}
+
+
+==[[HP:0012552]]==
+{{Infobox HPO
+| hpoId = HP:0012552
+| 名称 = Increased neutrophil nuclear projections
+| 定义 = Presence of an elevanted number of projections from nuclei of neutrophils. Ths projections can have the shape of hooks, tags, or clubs.
+| 中文译名 = 中性粒细胞核突起增加
+| 中文定义 = 中性粒细胞的细胞核存在多个突起。 这种突起可以有钩状，标签状，或高尔夫球杆头部的形状。
+}}
+
+==[[HP:0012849]]==
+{{Infobox HPO
+| hpoId = HP:0012849
+| 名称 = Small intestinal bleeding
+| 定义 = Bleeding from the small intestine.
+| 中文译名 = 小肠出血
+| 中文定义 = 自小肠的出血。
+}}
+
+
+==[[HP:0025034]]==
+{{Infobox HPO
+| hpoId = HP:0025034
+| 名称 = Abnormal morphology of erythroid progenitor cell
+| 定义 = Abnormal form of the progenitor cells committed to the erythroid lineage.
+| 中文译名 = 红系祖细胞形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0025035]]==
+{{Infobox HPO
+| hpoId = HP:0025035
+| 名称 = Abnormal proerythroblast morphology
+| 定义 = Anomalous form of the proerythroblast, i.e., the immature, nucleated erythrocyte occupying the stage of erythropoeisis that follows formation of erythroid progenitor cells. This cell is CD71-positive, has both a nucleus and a nucleolus, and lacks hematopoeitic lineage markers.
+| 中文译名 = 原红细胞形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030058]]==
+{{Infobox HPO
+| hpoId = HP:0030058
+| 名称 = Sickled erythrocytes
+| 定义 = An irreversible distortion of the morphology of an erythrocyte such that the cells are elongated and curved, resembling the blade of a sickle (the hand-held agricultural tool traditionally used to harvest grains).
+| 中文译名 = 镰状红细胞
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030069]]==
+{{Infobox HPO
+| hpoId = HP:0030069
+| 名称 = Primary central nervous system lymphoma
+| 定义 = A form of extranodal, high-grade non-Hodgkin B-cell neoplasm, usually large cell or immunoblastic type that originates in the brain, leptomeninges, spinal cord, or eyes and typically remains confined to the CNS.
+| 中文译名 = 原发性中枢神经系统淋巴瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030080]]==
+{{Infobox HPO
+| hpoId = HP:0030080
+| 名称 = Burkitt lymphoma
+| 定义 = A form of undifferentiated malignant lymphoma commonly manifested as a large osteolytic lesion in the jaw or as an abdominal mass.
+| 中文译名 = 伯基特淋巴瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030129]]==
+{{Infobox HPO
+| hpoId = HP:0030129
+| 名称 = Impaired ristocetin cofactor assay activity
+| 定义 = Abnormal response to ristocetin as manifested by reduced or lacking aggregation of platelets upon addition of ristocetin to platelet-poor plasma.
+| 中文译名 = 瑞斯托辅助因子测定活性降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030130]]==
+{{Infobox HPO
+| hpoId = HP:0030130
+| 名称 = Impaired von Willibrand factor collagen binding activity
+| 定义 = Reduced ability of von Willibrand factor (vWF) to bind collagen. Abnormal response to collagen as manifested by reduced or lacking ability of plasma von WIllebrand Factor to bind collagen. An ELISA-based assay is typically used; the test is sensitive to loss of von Willebrand Factor high molecular weight multimers.
+| 中文译名 = 血管性血友病因子胶原结合活性降低
+| 中文定义 = #####
+}}
+
+==[[HP:0030131]]==
+{{Infobox HPO
+| hpoId = HP:0030131
+| 名称 = Abnormal von Willebrand Factor multimer distribution
+| 定义 = Deviation from the normal von Willebrand Factor multimer pattern.
+| 中文译名 = 血管性血友病因子多聚体分布异常
+| 中文定义 = #####
+}}
+
+==[[HP:0030132]]==
+{{Infobox HPO
+| hpoId = HP:0030132
+| 名称 = Absence of large von Willibrand factor multimers
+| 定义 = Absence of large von Willebrand Factor multimers on gel electrophoresis.
+| 中文译名 = 大型血管性血友病因子多聚体缺失
+| 中文定义 = #####
+}}
+
+==[[HP:0030133]]==
+{{Infobox HPO
+| hpoId = HP:0030133
+| 名称 = Abnormal presence of ultra-large von Willebrand Factor multimers
+| 定义 = Detection of abnormal ultra-large von Willebrand factor multimers.
+| 中文译名 = 超大型血管性血友病因子多聚体异常存在
+| 中文定义 = #####
+}}
+
+==[[HP:0030134]]==
+{{Infobox HPO
+| hpoId = HP:0030134
+| 名称 = Total absence von Willebrand Factor multimers
+| 定义 = Complete bsence of all von Willebrand factor multimers.
+| 中文译名 = 血管性血友病因子多聚体完全缺失
+| 中文定义 = #####
+}}
+
+==[[HP:0030135]]==
+{{Infobox HPO
+| hpoId = HP:0030135
+| 名称 = Absence of intermediate von Willibrand factor multimers
+| 定义 = Lack of intermediate von Willebrand Factor multimers on gel electrophoresis.
+| 中文译名 = 中型血管性血友病因子多聚体缺失
+| 中文定义 = #####
+}}
+
+==[[HP:0030136]]==
+{{Infobox HPO
+| hpoId = HP:0030136
+| 名称 = Enhanced ristocetin cofactor assay activity
+| 定义 = Abnormal response to ristocetin as manifested by increased aggregation of platelets upon addition of low-dose ristocetin to platelet-rich plasma.
+| 中文译名 = 瑞斯托辅助因子测定活性增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030137]]==
+{{Infobox HPO
+| hpoId = HP:0030137
+| 名称 = Prolonged bleeding following circumcision
+| 定义 = Bleeding that persists for a longer than usual time following circumcision.
+| 中文译名 = 包皮环切术后出血时间延长
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030138]]==
+{{Infobox HPO
+| hpoId = HP:0030138
+| 名称 = Excessive bleeding from superficial cuts
+| 定义 = An abnormally increased degree of bleeding following a superfical injury to the surface of the skin.
+| 中文译名 = 表皮割伤出血过多
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030139]]==
+{{Infobox HPO
+| hpoId = HP:0030139
+| 名称 = Excessive bleeding after a venipuncture
+| 定义 = An abnormal high amount of bleeding following the procedure of taking a blood sample.
+| 中文译名 = 静脉穿刺后出血过多
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030140]]==
+{{Infobox HPO
+| hpoId = HP:0030140
+| 名称 = Oral cavity bleeding
+| 定义 = Recurrent or excessive bleeding from the mouth.
+| 中文译名 = 口腔出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030150]]==
+{{Infobox HPO
+| hpoId = HP:0030150
+| 名称 = Plasmacytosis
+| 定义 = An abnormally increased number of plasma cells in tissues, exudates, or blood
+| 中文译名 = 浆细胞增多症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030242]]==
+{{Infobox HPO
+| hpoId = HP:0030242
+| 名称 = Portal vein thrombosis
+| 定义 = Thrombosis of the portal vein and/or its tributaries, which include the splenic vein and the sup-erior and inferior mesenteric veins.
+| 中文译名 = 门静脉血栓形成
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030243]]==
+{{Infobox HPO
+| hpoId = HP:0030243
+| 名称 = Hepatic vein thrombosis
+| 定义 = An obstruction in the veins of the liver caused by a blood clot (thrombosis).
+| 中文译名 = 肝静脉血栓形成
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030247]]==
+{{Infobox HPO
+| hpoId = HP:0030247
+| 名称 = Splanchnic vein thrombosis
+| 定义 = The term splanchnic vein thrombosis encompasses Budd-Chiari syndrome (hepatic vein thrombosis), extrahepatic portal vein obstruction (EHPVO), and mesenteric vein thrombosis; the word splanchnic is used to refer to the visceral organs (of the abdominal cavity).
+| 中文译名 = 内脏静脉血栓形成
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030248]]==
+{{Infobox HPO
+| hpoId = HP:0030248
+| 名称 = Mesenteric venous thrombosis
+| 定义 = A clot that obstructs blood flow in a mesenteric vein (the superior and the inferior mesenteric vein drain blood from the small and large intestine).
+| 中文译名 = 肠系膜静脉血栓形成
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030251]]==
+{{Infobox HPO
+| hpoId = HP:0030251
+| 名称 = Absence of memory B cells
+| 定义 = Complete lack of memory B cells, that is, of mature B cell type that is long-lived, readily activated upon re-encounter of its antigenic determinant, and has been selected for expression of higher affinity immunoglobulin.
+| 中文译名 = 记忆 B 细胞缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030252]]==
+{{Infobox HPO
+| hpoId = HP:0030252
+| 名称 = Absence of mature B cells
+| 定义 = Complete lack of mature B cells, that is, of B cells that have left the bone marrow.
+| 中文译名 = 成熟 B 细胞缺失
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030253]]==
+{{Infobox HPO
+| hpoId = HP:0030253
+| 名称 = Defective T cell proliferation
+| 定义 = A reduced ability of a T cell population to expand by cell division following T cell activation.
+| 中文译名 = T 细胞增殖缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030270]]==
+{{Infobox HPO
+| hpoId = HP:0030270
+| 名称 = Elevated red cell adenosine deaminase activity
+| 定义 = Increase in the activity of adenosine deaminase (ADA), an enzyme involved in purine metabolism, within erythrocytes. ADA is involved in the catabolism of adenosine.
+| 中文译名 = 红细胞腺苷脱氨酶活性增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030271]]==
+{{Infobox HPO
+| hpoId = HP:0030271
+| 名称 = Reduced erythrocyte 2,3-diphosphoglycerate concentration
+| 定义 = 2,3-diphosphoglycerate (2,3-DPG) controls the movement of oxygen from red blood cells to tissues. Anemia is usually accompanied by an increased level of 2,3-DPG in order to promote tissue oxygenation. This term refers to an inappropriate low 2,3-DPG concentration in erythrocytes.
+| 中文译名 = 红细胞 2，3-二磷酸甘油酸浓度降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030272]]==
+{{Infobox HPO
+| hpoId = HP:0030272
+| 名称 = Abnormal erythrocyte enzyme activity
+| 定义 = An altered ability of any enzyme to act as catalysts within erythrocytes. This term includes changes due to altered levels of an enzyme.
+| 中文译名 = 红细胞酶活性异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030273]]==
+{{Infobox HPO
+| hpoId = HP:0030273
+| 名称 = Reduced red cell adenosine deaminase activity
+| 定义 = Decrease in the activity of adenosine deaminase (ADA), an enzyme involved in purine metabolism, within erythrocytes. ADA is involved in the catabolism of adenosine.
+| 中文译名 = 红细胞腺苷脱氨酶活性降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030326]]==
+{{Infobox HPO
+| hpoId = HP:0030326
+| 名称 = Abnormal macrophage count
+| 定义 = An anomaly in the number of macrophages.
+| 中文译名 = 巨噬细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030327]]==
+{{Infobox HPO
+| hpoId = HP:0030327
+| 名称 = Abnormal osteoclast count
+| 定义 = An anomaly in the number of osteoclasts, bone-resorbing cells that develop from macrophages.
+| 中文译名 = 破骨细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030328]]==
+{{Infobox HPO
+| hpoId = HP:0030328
+| 名称 = Decreased osteoclast count
+| 定义 = Decreased number of osteoclasts.
+| 中文译名 = 破骨细胞计数减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030332]]==
+{{Infobox HPO
+| hpoId = HP:0030332
+| 名称 = Abnormal T cell morphology
+| 定义 = A structural T cell anomaly.
+| 中文译名 = T 细胞形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030333]]==
+{{Infobox HPO
+| hpoId = HP:0030333
+| 名称 = Abnormal alpha-beta T cell morphology
+| 定义 = A structural anomal of T cells that express an alpha-beta T cell receptor.
+| 中文译名 = α-β T 细胞形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030334]]==
+{{Infobox HPO
+| hpoId = HP:0030334
+| 名称 = Abnormal CD4-positive, CD25-positive, alpha-beta regulatory T cell morphology
+| 定义 = A structural anomaly of a CD4-positive, CD25-positive, alpha-beta T cell. These cells are regulatory T cells.
+| 中文译名 = CD4 阳性、 CD25 阳性、α-β调节性 T 细胞形态异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030335]]==
+{{Infobox HPO
+| hpoId = HP:0030335
+| 名称 = Abnormal CD4-positive, CD25-positive, alpha-beta regulatory T cell count
+| 定义 = A deviation from the normal count of CD4-positive, CD25-positive, alpha-beta regulatory T cells.
+| 中文译名 = CD4 阳性、 CD25 阳性、α-β调节性 T 细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030336]]==
+{{Infobox HPO
+| hpoId = HP:0030336
+| 名称 = Absence of CD4-positive, CD25-positive regulatory T cells
+| 定义 = Lack of CD4+CD25+ T regulatory cells.
+| 中文译名 = CD4 阳性、 CD25阳性 调节性 T 细胞缺失
+| 中文定义 = #####
+}}
+
+==[[HP:0030337]]==
+{{Infobox HPO
+| hpoId = HP:0030337
+| 名称 = Elevated CD4-positive, CD25-positive regulatory T cell count
+| 定义 = An increased number of Absence of CD4-positive, CD25-positive regulatory T cells.
+| 中文译名 = CD4 阳性、阳性 CD25 调节性 T 细胞计数增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030370]]==
+{{Infobox HPO
+| hpoId = HP:0030370
+| 名称 = Abnormal naive B cell count
+| 定义 = A deviation from normal of the count of naive B cells (CD19+/CD27-/IgD+/IgM+). Naive B cells represent one of the subtypes of B cells in the peripheral blood, and are B cells that have not been exposed to antigen.
+| 中文译名 = 初始B 细胞计数异常
+| 中文定义 = #####
+}}
+
+==[[HP:0030371]]==
+{{Infobox HPO
+| hpoId = HP:0030371
+| 名称 = Increased naive B cell count
+| 定义 = An elevation above normal of the count of naive B cells (CD19+/CD27-/IgD+/IgM+). Naive B cells represent one of the subtypes of B cells in the peripheral blood, and are B cells that have not been exposed to antigen.
+| 中文译名 = 初始 B 细胞计数增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030372]]==
+{{Infobox HPO
+| hpoId = HP:0030372
+| 名称 = Decreased naive B cell count
+| 定义 = A reduction below normal of the count of naive B cells (CD19+/CD27-/IgD+/IgM+). Naive B cells represent one of the subtypes of B cells in the peripheral blood, and are B cells that have not been exposed to antigen.
+| 中文译名 = 初始B 细胞计数降低
+| 中文定义 = #####
+}}
+
+==[[HP:0030373]]==
+{{Infobox HPO
+| hpoId = HP:0030373
+| 名称 = Abnormal memory B cell count
+| 定义 = A deviation from the normal count in the circulation of memory B cells (CD19+/CD27+). Memory B cells develop from naive B cells. Upon antigen rechallenge, memory B cells rapidly expand and differentiate into plasma cells under the cognate control of memory Th cells (Phase IV).
+| 中文译名 = 记忆 B 细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030374]]==
+{{Infobox HPO
+| hpoId = HP:0030374
+| 名称 = Decreased memory B cell count
+| 定义 = A reduction from the normal count in the circulation of memory B cells (CD19+/CD27+). Memory B cells develop from naive B cells. Upon antigen rechallenge, memory B cells rapidly expand and differentiate into plasma cells under the cognate control of memory Th cells (Phase IV).
+| 中文译名 = 记忆 B 细胞计数降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030375]]==
+{{Infobox HPO
+| hpoId = HP:0030375
+| 名称 = Increased memory B cell count
+| 定义 = An elevation above the normal count in the circulation of memory B cells (CD19+/CD27+). Memory B cells develop from naive B cells. Upon antigen rechallenge, memory B cells rapidly expand and differentiate into plasma cells under the cognate control of memory Th cells (Phase IV).
+| 中文译名 = 记忆 B 细胞计数增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030376]]==
+{{Infobox HPO
+| hpoId = HP:0030376
+| 名称 = Abnormal immature B cell count
+| 定义 = A deviation from normal of the count in the ciculation of immature B cells (CD19+/ CD21low). Immature B cells (IgM+) are still in final stages of development within the bone marrow. Naive B cells are those which have left the bone marrow, before they bind to the antigen for which they&#39;re specific (IgM+/IgD+).
+| 中文译名 = 不成熟 B 细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030377]]==
+{{Infobox HPO
+| hpoId = HP:0030377
+| 名称 = Increased immature B cell count
+| 定义 = An elevation above normal of the count in the ciculation of immature B cells (CD19+/ CD21low). Immature B cells (IgM+) are still in final stages of development within the bone marrow. Naive B cells are those which have left the bone marrow, before they bind to the antigen for which they&#39;re specific (IgM+/IgD+).
+| 中文译名 = 不成熟 B 细胞计数增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030378]]==
+{{Infobox HPO
+| hpoId = HP:0030378
+| 名称 = Decreased immature B cell count
+| 定义 = A reduction from normal of the count in the ciculation of immature B cells (CD19+/ CD21low). Immature B cells (IgM+) are still in final stages of development within the bone marrow. Naive B cells are those which have left the bone marrow, before they bind to the antigen for which they&#39;re specific (IgM+/IgD+).
+| 中文译名 = 未成熟 B 细胞计数减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030379]]==
+{{Infobox HPO
+| hpoId = HP:0030379
+| 名称 = Abnormal transitional B cell count
+| 定义 = A deviation from normal of the count in the circulation of transitional B cells (CD19+/CD38high/IgMhigh). B cells originate from precursors in the bone marrow, and the first cells which migrate to the peripheral blood have been classified as transitional B cells.
+| 中文译名 = 过渡 B 细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030380]]==
+{{Infobox HPO
+| hpoId = HP:0030380
+| 名称 = Decreased transitional B cell count
+| 定义 = A reduction from normal of the count in the circulation of transitional B cells (CD19+/CD38high/IgMhigh). B cells originate from precursors in the bone marrow, and the first cells which migrate to the peripheral blood have been classified as transitional B cells.
+| 中文译名 = 过渡 B 细胞计数减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030381]]==
+{{Infobox HPO
+| hpoId = HP:0030381
+| 名称 = Increased transitional B cell count
+| 定义 = An elevation above normal of the count in the circulation of transitional B cells (CD19+/CD38high/IgMhigh). B cells originate from precursors in the bone marrow, and the first cells which migrate to the peripheral blood have been classified as transitional B cells.
+| 中文译名 = 过渡 B 细胞计数增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030383]]==
+{{Infobox HPO
+| hpoId = HP:0030383
+| 名称 = Abnormal marginal zone B cell count
+| 定义 = A deviation from normal of the count in the circulation of marginal zone B cells (CD19+/CD27+/IgM+/IgD+).
+| 中文译名 = 边缘区 B 细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030384]]==
+{{Infobox HPO
+| hpoId = HP:0030384
+| 名称 = Decreased marginal zone B cell count
+| 定义 = A reduction from normal of the count in the circulation of marginal zone B cells (CD19+/CD27+/IgM+/IgD+).
+| 中文译名 = 边缘区 B 细胞计数降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030385]]==
+{{Infobox HPO
+| hpoId = HP:0030385
+| 名称 = Increased marginal zone B cell count
+| 定义 = An elevation from the normal count in the circulation of marginal zone B cells (CD19+/CD27+/IgM+/IgD+).
+| 中文译名 = 边缘区 B 细胞计数增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030386]]==
+{{Infobox HPO
+| hpoId = HP:0030386
+| 名称 = Abnormal class-switched memory B cell count
+| 定义 = A deviation from the normal count of class-switched memory B cells (CD19+/CD27+/IgM-/IgD-). Marginal zone B cells undergo limited somatic hypermutation and produce high-affinity IgM and some IgG, whereas class-switched memory B-cells synthetize IgG, IgM, and IgA.
+| 中文译名 = 类别转换记忆 B 细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030387]]==
+{{Infobox HPO
+| hpoId = HP:0030387
+| 名称 = Increased class-switched memory B cell count
+| 定义 = #####
+| 中文译名 = 类别转换记忆 B 细胞计数增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030388]]==
+{{Infobox HPO
+| hpoId = HP:0030388
+| 名称 = Decreased class-switched memory B cell count
+| 定义 = A reduction from the normal count of class-switched memory B cells (CD19+/CD27+/IgM+/IgD+). Marginal zone B cells undergo limited somatic hypermutation and produce high-affinity IgM and some IgG, whereas class-switched memory B-cells synthetize IgG, IgM, and IgA.
+| 中文译名 = 类别转换记忆 B 细胞计数降低
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030396]]==
+{{Infobox HPO
+| hpoId = HP:0030396
+| 名称 = Abnormal platelet granule secretion
+| 定义 = Platelets are replete with secretory granules, which are critical to normal platelet function. Among the three types of platelet secretory granules - alpha-granules, dense granules, and lysosomes - the alpha-granule is the most abundant. Granule contents must be released from their intracellular repository in order to achieve their physiologic function, and this term refers to a functional defect in granule secretion.
+| 中文译名 = 血小板颗粒分泌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030397]]==
+{{Infobox HPO
+| hpoId = HP:0030397
+| 名称 = Abnormal platelet dense granule secretion
+| 定义 = Abnormal release of dense granules from platelets.
+| 中文译名 = 血小板致密颗粒分泌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030398]]==
+{{Infobox HPO
+| hpoId = HP:0030398
+| 名称 = Abnormal platelet ATP dense granule secretion
+| 定义 = Abnormal secretion of the platelet dense-granule content adenosine triphosphate (ATP).
+| 中文译名 = 血小板 ATP 致密颗粒分泌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030399]]==
+{{Infobox HPO
+| hpoId = HP:0030399
+| 名称 = Abnormal platelet alpha granule secretion
+| 定义 = Abnormal release of alpha granule contents from platelets.
+| 中文译名 = 血小板α颗粒分泌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030400]]==
+{{Infobox HPO
+| hpoId = HP:0030400
+| 名称 = Abnormal platelet lysosome secretion
+| 定义 = Abnormal release of lysosome contents from platelets.
+| 中文译名 = 血小板溶酶体分泌异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030401]]==
+{{Infobox HPO
+| hpoId = HP:0030401
+| 名称 = Abnormal platelet dense granule ATP/ADP ratio
+| 定义 = Deviation from normal of the ratio of adenosine triphosphate (ATP) to adenosine diphosphate (ADP) within platelets.
+| 中文译名 = 血小板异常致密颗粒 ATP/ADP 比率
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030402]]==
+{{Infobox HPO
+| hpoId = HP:0030402
+| 名称 = Abnormal platelet aggregation
+| 定义 = An abnormality in the rate and degree to which platelets aggregate after the addition of an agonist that stimulates platelet clumping. Platelet aggregation is measured using aggregometer to measure the optical density of platelet-rich plasma, whereby platelet aggregation causes the plasma to become more transparent.
+| 中文译名 = 血小板聚集异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030403]]==
+{{Infobox HPO
+| hpoId = HP:0030403
+| 名称 = Spontaneous platelet aggregation
+| 定义 = Clumping together of platelets in the blood in a platelet aggregation test without addition of agents normally used to induce aggregation.
+| 中文译名 = 自发性血小板聚集
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030746]]==
+{{Infobox HPO
+| hpoId = HP:0030746
+| 名称 = Intraventricular hemorrhage
+| 定义 = Bleeding into the ventricles of the brain.
+| 中文译名 = 脑室内出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030747]]==
+{{Infobox HPO
+| hpoId = HP:0030747
+| 名称 = Preterm intraventricular hemorrhage
+| 定义 = Intraventricular hemorrhage that occurs in a premature infant.
+| 中文译名 = 早产儿脑室内出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030748]]==
+{{Infobox HPO
+| hpoId = HP:0030748
+| 名称 = Grade I preterm intraventricular hemorrhage
+| 定义 = Intraventricular hemorrhage that occurs in a preterm infant and that is restricted to subependymal region/germline matrix which is seen in the caudothalamic groove.
+| 中文译名 = 早产儿脑室内出血 I 级
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030749]]==
+{{Infobox HPO
+| hpoId = HP:0030749
+| 名称 = Grade II preterm intraventricular hemorrhage
+| 定义 = Intraventricular hemorrhage that occurs in a preterm infant and that has extension into normal-sized ventricles and typically fills less than 50% of the volume of the ventricle.
+| 中文译名 = 早产儿脑室内出血 II 级
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030750]]==
+{{Infobox HPO
+| hpoId = HP:0030750
+| 名称 = Grade III preterm intraventricular hemorrhage
+| 定义 = Intraventricular hemorrhage that occurs in a preterm infant and that has extension into dilated ventricles.
+| 中文译名 = 早产儿脑室内出血 III 级
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030751]]==
+{{Infobox HPO
+| hpoId = HP:0030751
+| 名称 = Grade IV preterm intraventricular hemorrhage
+| 定义 = Intraventricular hemorrhage that occurs in a preterm infant and that shows parenchymal extension.
+| 中文译名 = 早产儿脑室内出血 IV 级
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030780]]==
+{{Infobox HPO
+| hpoId = HP:0030780
+| 名称 = Abnormality of the protein C anticoagulant pathway
+| 定义 = An anomaly of the protein C anticoagulant pathway, which serves as a major system for controlling thrombosis, limiting inflammatory responses, and potentially decreasing endothelial cell apoptosis in response to inflammatory cytokines and ischemia. A natural anticoagulant system denoted the protein C pathway exerts its anticoagulant effect by regulating the activity of FVIIIa and FVa. The vitamin K-dependent protein C is the key component of the pathway. Activated protein C (APC) cleaves and inhibits coagulation cofactors FVIIIa and FVa, which result in downregulation of the activity of the coagulation system. The endothelial protein C receptor stimulates the T-TM-mediated activation of protein C on the endothelial cell surface. The two cofactors, protein S and the intact form of FV, enhance the anticoagulant activity of APC.
+| 中文译名 = 蛋白 C 抗凝途径异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030886]]==
+{{Infobox HPO
+| hpoId = HP:0030886
+| 名称 = Abnormal lymphocyte apoptosis
+| 定义 = A anomaly in the rate of apoptosis in lymphocytes.
+| 中文译名 = 淋巴细胞凋亡异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030887]]==
+{{Infobox HPO
+| hpoId = HP:0030887
+| 名称 = Increased lymphocyte apoptosis
+| 定义 = A elevation in the rate of apoptosis in lymphocytes.
+| 中文译名 = 淋巴细胞凋亡增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040088]]==
+{{Infobox HPO
+| hpoId = HP:0040088
+| 名称 = Abnormal lymphocyte count
+| 定义 = #####
+| 中文译名 = 淋巴细胞计数异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040089]]==
+{{Infobox HPO
+| hpoId = HP:0040089
+| 名称 = Abnormality of natural killer cell number
+| 定义 = #####
+| 中文译名 = 自然杀伤细胞数量异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040138]]==
+{{Infobox HPO
+| hpoId = HP:0040138
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 黏液性组织细胞增多症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040139]]==
+{{Infobox HPO
+| hpoId = HP:0040139
+| 名称 = Lipogranulomatosis
+| 定义 = Yellow nodules of lipoid material are deposited in the skin and mucosae. This gives rise to granulomatous reactions.
+| 中文译名 = 皮下脂肪肉芽肿病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040185]]==
+{{Infobox HPO
+| hpoId = HP:0040185
+| 名称 = Macrothrombocytopenia
+| 定义 = #####
+| 中文译名 = 巨大血小板减少症
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040217]]==
+{{Infobox HPO
+| hpoId = HP:0040217
+| 名称 = Increased HbA1c levels
+| 定义 = #####
+| 中文译名 = 糖化血红蛋白水平升高
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040218]]==
+{{Infobox HPO
+| hpoId = HP:0040218
+| 名称 = Reduced natural killer cell number
+| 定义 = Less than normal number of natural killer cells, a type of lymphocyte in the innate immune system that contains cytoplasmic granzymes, i.e., small granules with perforin and proteases that allow natural killer cells to form pores in the cell membrane of the target cell through which the granzymes and associated molecules can enter, inducing apoptosis.
+| 中文译名 = 自然杀伤细胞数目减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040219]]==
+{{Infobox HPO
+| hpoId = HP:0040219
+| 名称 = Absent natural killer cells
+| 定义 = Lack of natural killer cells, a type of lymphocyte in the innate immune system that contains cytoplasmic granzymes, i.e., small granules with perforin and proteases that allow natural killer cells to form pores in the cell membrane of the target cell through which the granzymes and associated molecules can enter, inducing apoptosis.
+| 中文译名 = 自然杀伤细胞缺乏
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040223]]==
+{{Infobox HPO
+| hpoId = HP:0040223
+| 名称 = Intrapulmonary hemorrhage
+| 定义 = A hemorrhage occurring within the lung.
+| 中文译名 = 肺内出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040224]]==
+{{Infobox HPO
+| hpoId = HP:0040224
+| 名称 = Abnormality of fibrinolysis
+| 定义 = Clincial phenotype characterized by delayed bleeding accelerated break down of blood clot (fibrinolysis)
+| 中文译名 = 纤维蛋白溶解异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040225]]==
+{{Infobox HPO
+| hpoId = HP:0040225
+| 名称 = Decrease in High molecular weight von Willebrand Factor Multimers
+| 定义 = A decrease in High molecular weight von Willebrand Factor Multimers
+| 中文译名 = 高分子量血管性血友病因子多聚体减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040226]]==
+{{Infobox HPO
+| hpoId = HP:0040226
+| 名称 = Decreased level of heparin co-factor II
+| 定义 = An abnormality of coagulation related to a decreased concentration of heparin co-factor II
+| 中文译名 = 肝素辅因子II水平下降
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040227]]==
+{{Infobox HPO
+| hpoId = HP:0040227
+| 名称 = Decreased level of histidine-rich glycoprotein
+| 定义 = Decrease of these levels result in increased inhibition of fibrinolysis and reduced inhibition of coagulation
+| 中文译名 = 富含组氨酸糖蛋白水平下降
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040228]]==
+{{Infobox HPO
+| hpoId = HP:0040228
+| 名称 = Decreased level of plasminogen
+| 定义 = A decreased level of Plasminogen
+| 中文译名 = 纤溶酶原水平下降
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040229]]==
+{{Infobox HPO
+| hpoId = HP:0040229
+| 名称 = Decreased level of thrombomodulin
+| 定义 = Thrombomodulin is a cofactor in the thrombin induced activation of Protein C. In the case of deficiency there will be less Protein C and tendency to clot
+| 中文译名 = 血栓调节蛋白水平下降
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040230]]==
+{{Infobox HPO
+| hpoId = HP:0040230
+| 名称 = Decreased level of tissue plasminogen activator
+| 定义 = tPA catalyzes the conversion of plasiminogen to plasmin, and thus break down of clots. When there is a deficiency there will be an increase of thrombosis
+| 中文译名 = 血浆纤溶酶原激活剂水平下降
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040231]]==
+{{Infobox HPO
+| hpoId = HP:0040231
+| 名称 = Abnormal onset of bleeding
+| 定义 = #####
+| 中文译名 = 异常性出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040232]]==
+{{Infobox HPO
+| hpoId = HP:0040232
+| 名称 = Delayed onset bleeding
+| 定义 = Abnormal bleeding related to a procedure or trauma which does not start at the time of the initial insult, but after delay by at least 24 hours.
+| 中文译名 = 延迟性出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040233]]==
+{{Infobox HPO
+| hpoId = HP:0040233
+| 名称 = Factor XIII subunit A deficiency
+| 定义 = Deficiency of factor XIII subunit A, leading to a reduced factor XIII activity. Activated Factor XIII cross-links fibrin polymers solidifying the clot.
+| 中文译名 = 凝血因子XIII A亚基缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040234]]==
+{{Infobox HPO
+| hpoId = HP:0040234
+| 名称 = Factor XIII subunit B deficiency
+| 定义 = Deficiency of factor XIII subunit B, leading to a reduced factor XIII activity. Activated Factor XIII cross-links fibrin polymers solidifying the clot.
+| 中文译名 = 凝血因子XIII B亚基缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040235]]==
+{{Infobox HPO
+| hpoId = HP:0040235
+| 名称 = Leukocyte inclusion bodies
+| 定义 = The presence of intraceullar inclusion bodies (aggregates of stainable substances, usually proteins) in leukocytes.
+| 中文译名 = 白细胞包涵体
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040236]]==
+{{Infobox HPO
+| hpoId = HP:0040236
+| 名称 = Hyperfibrinolysis
+| 定义 = Increased degradation of fibrin, associated with clot instability and bleeding
+| 中文译名 = 纤溶亢进
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040237]]==
+{{Infobox HPO
+| hpoId = HP:0040237
+| 名称 = Impaired binding of factor VIII to VWF
+| 定义 = Impaired binding of factor VIII to von Willebrand Factor. This is determined using a modified ELISA assay.
+| 中文译名 = 凝血因子VIII及VWF结合受损
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040238]]==
+{{Infobox HPO
+| hpoId = HP:0040238
+| 名称 = Impaired neutrophil chemotaxis
+| 定义 = An impairment of the migration of neutrophils towards chemoattractants as part of the innate immune response
+| 中文译名 = 中性粒细胞趋化功能受损
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040239]]==
+{{Infobox HPO
+| hpoId = HP:0040239
+| 名称 = Increased plasma vitamin K epoxide after vitamin K supplementation
+| 定义 = Increased plasma vitamin K epoxide after vitamin K supplementation is present in VKCFD (vitamin K-dependent clotting factor deficiency) type 2, but not in VKCFD type 1.
+| 中文译名 = 补充维生素K后，血浆维生素K环氧化物增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040240]]==
+{{Infobox HPO
+| hpoId = HP:0040240
+| 名称 = Increased ratio of VWF propeptide to VWF antigen
+| 定义 = An increased VWF propeptide to VWF antigen indicates that deficiency of VWF is not due to impaired synthesis but due to rapid clearance. The VWF propeptide is measured by ELISA.
+| 中文译名 = 因子VWF前肽与VWF抗原比例增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040241]]==
+{{Infobox HPO
+| hpoId = HP:0040241
+| 名称 = Increased RIPA
+| 定义 = Increased platelet agglutination in response to low-dose ristocetin
+| 中文译名 = 血小板凝集反应增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040242]]==
+{{Infobox HPO
+| hpoId = HP:0040242
+| 名称 = Muscle haemorrhage
+| 定义 = Haemorrhage occurring within a muscle
+| 中文译名 = 肌肉出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040243]]==
+{{Infobox HPO
+| hpoId = HP:0040243
+| 名称 = Prolonged euglobulin clot lysis time
+| 定义 = Clinical assay used to measure fibrinolysis. The euglobulin fraction of plasma is precipitated and used to form clot by addition of thrombin; after clot forms the rate of clot breakdown (fibrinolysis) can be monitored.
+| 中文译名 = 延长优球蛋白溶解时间
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040244]]==
+{{Infobox HPO
+| hpoId = HP:0040244
+| 名称 = Prolonged Russell&#39;s viper venom time
+| 定义 = Increased time to coagulation in the Russell&#39;s viper venom assay
+| 中文译名 = 延长蝰蛇毒时间（RVVT）
+| 中文定义 = #####
+}}
+
+==[[HP:0040245]]==
+{{Infobox HPO
+| hpoId = HP:0040245
+| 名称 = Reduced alpha-2-antiplasmin activity
+| 定义 = Reduced activity of alpha-2-antiplasmin. This protein inactivates the protease plasmin that drives fibrinolysis.
+| 中文译名 = α2-抗纤溶酶活性降低
+| 中文定义 = #####
+}}
+
+==[[HP:0040246]]==
+{{Infobox HPO
+| hpoId = HP:0040246
+| 名称 = Reduced antithrombin antigen
+| 定义 = Reduced antithrombin antigen. A reduced level of antithrombin may lead to an increased risk of thrombus formation.
+| 中文译名 = 抗凝血酶抗原减少
+| 中文定义 = #####
+}}
+
+==[[HP:0040247]]==
+{{Infobox HPO
+| hpoId = HP:0040247
+| 名称 = Reduced euglobulin clot lysis time
+| 定义 = Clinical assay used to measure fibrinolysis. The euglobulin fraction of plasma is precipitated and used to form clot by addition of thrombin; after clot forms the rate of clot breakdown (fibrinolysis) can be monitored.
+| 中文译名 = 优球蛋白溶解时间减少
+| 中文定义 = #####
+}}
+
+==[[HP:0040248]]==
+{{Infobox HPO
+| hpoId = HP:0040248
+| 名称 = Reduced plasminogen activator inhibitor 1 activity
+| 定义 = Reduced activity of plasminogen activator inhibitor 1. This protein down-regulates fibrinolysis in the circulation by inhibiting the two major plasminogen activators: tissue-plasminogen activator and urokinase-plasminogen activator.
+| 中文译名 = 纤溶酶原激活物抑制剂1活性降低
+| 中文定义 = #####
+}}
+
+==[[HP:0040249]]==
+{{Infobox HPO
+| hpoId = HP:0040249
+| 名称 = Reduced plasminogen activator inhibitor 1 antigen
+| 定义 = Reduced level of plasminogen activator inhibitor 1 antigen.
+| 中文译名 = 纤溶酶原激活物抑制剂1抗原减少
+| 中文定义 = #####
+}}
+
+==[[HP:0040250]]==
+{{Infobox HPO
+| hpoId = HP:0040250
+| 名称 = Reduced prothrombin antigen
+| 定义 = Reduced prothrombin antigen as measured by ELISA assay. Prothrombin is a vitamin K-dependent coagulation factor that is proteolytically cleaved to form thrombin.
+| 中文译名 = 凝血原酶抗原减少
+| 中文定义 = #####
+}}
+
+==[[HP:0045029]]==
+{{Infobox HPO
+| hpoId = HP:0045029
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 嗜酸细胞性筋膜炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045038]]==
+{{Infobox HPO
+| hpoId = HP:0045038
+| 名称 = Gastric lymphoma
+| 定义 = Llymphoma that originates in the stomach itself.
+| 中文译名 = 胃淋巴瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045047]]==
+{{Infobox HPO
+| hpoId = HP:0045047
+| 名称 = HbS hemoglobin
+| 定义 = Presence of an abnormal type of hemoglobin characterized by the subsitution of a glutamic acid residue at position 7 following the initial methionine residue by a valine (the mutation causative of sickle cell disease). The mutation promotes the polymerization of the HbS under conditions of low oxygen concentration. HbS can be identified by multiple methodologies including hemoglobin electrophoresis and high-performance liquid chromatography.
+| 中文译名 = 血红蛋白S
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045048]]==
+{{Infobox HPO
+| hpoId = HP:0045048
+| 名称 = Increased HbA2 hemoglobin
+| 定义 = An elevated concentration in the blood of hemoglobin A2 (HbA2), which is a normal variant of hemoglobin A that consists of two alpha and two delta chains and is normally present at low levels in adults but may be increased in beta thalassemia.
+| 中文译名 = 血红蛋白A2增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045071]]==
+{{Infobox HPO
+| hpoId = HP:0045071
+| 名称 = Decrease in T cell number
+| 定义 = #####
+| 中文译名 = T细胞数量减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045072]]==
+{{Infobox HPO
+| hpoId = HP:0045072
+| 名称 = Decreased number of CD3+ T cells
+| 定义 = #####
+| 中文译名 = CD3+ T细胞数量减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100309]]==
+{{Infobox HPO
+| hpoId = HP:0100309
+| 名称 = Subdural hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) occurring between the `dura mater` (FMA:9592) and the `arachnoid mater` (FMA:9591).
+| 中文译名 = 硬膜下出血
+| 中文定义 = `发生在`硬脑膜（FMA:9592）和蛛网膜mater`（FMA:9591）之间的出血（mpath:119）。
+}}
+
+
+==[[HP:0100310]]==
+{{Infobox HPO
+| hpoId = HP:0100310
+| 名称 = Epidural hemorrhage
+| 定义 = `Hemorrhage` (MPATH:119) occurring between the `dura mater` (FMA:9592) and the `skull` (FMA:46565).
+| 中文译名 = 硬膜外出血
+| 中文定义 = 存在于`硬脑膜`(FMA:9592)和`颅骨` (FMA:46565)之间的`出血` (MPATH:119)
+}}
+
+
+==[[HP:0100313]]==
+{{Infobox HPO
+| hpoId = HP:0100313
+| 名称 = Cerebral granulomatosis
+| 定义 = Cerebral inflammation involving a granulomatous response, i.e., a non-specific inflammatory response involving granulomas, defined as a compact organized collection of mature mononuclear phagocytes including epithelioid and giant cells.
+| 中文译名 = 脑肉芽肿
+| 中文定义 = 脑部涉及肉芽肿反应的炎症，即涉及肉芽肿的非特异性炎症反应，定义为成熟单核吞噬细胞紧密、有序聚集，包括上皮样细胞和巨细胞。
+}}
+
+
+==[[HP:0100494]]==
+{{Infobox HPO
+| hpoId = HP:0100494
+| 名称 = Abnormality of mast cells
+| 定义 = An abnormality of `mast cells` (CL:0000097).
+| 中文译名 = 肥大细胞异常
+| 中文定义 = 肥大细胞（:0000097 CL）的异常。
+}}
+
+
+==[[HP:0100495]]==
+{{Infobox HPO
+| hpoId = HP:0100495
+| 名称 = Mastocytosis
+| 定义 = The presence of an increased number of `mast cells` (CL:0000097) and CD34+ mast cell precursors in the body.
+| 中文译名 = 肥大细胞增多症
+| 中文定义 = 肥大细胞和CD34 +肥大细胞前体细胞数量增加。
+}}
+
+
+==[[HP:0100724]]==
+{{Infobox HPO
+| hpoId = HP:0100724
+| 名称 = Hypercoagulability
+| 定义 = An abnormality of coagulation associated with an increased risk of thrombosis.
+| 中文译名 = 高凝状态
+| 中文定义 = 与凝血与血栓形成风险增加相关的异常。
+}}
+
+
+==[[HP:0100727]]==
+{{Infobox HPO
+| hpoId = HP:0100727
+| 名称 = Histiocytosis
+| 定义 = An excessive number of histiocytes (tissue macrophages).
+| 中文译名 = 组织细胞增多症
+| 中文定义 = 组织细胞（组织的巨噬细胞）数量过多。
+}}
+
+
+==[[HP:0100827]]==
+{{Infobox HPO
+| hpoId = HP:0100827
+| 名称 = Lymphocytosis
+| 定义 = Increase in the number or proportion of lymphocytes in the blood.
+| 中文译名 = 淋巴细胞增多症
+| 中文定义 = 血液淋巴细胞比例或绝对数量增多。
+}}
+
+
+==[[HP:0100828]]==
+{{Infobox HPO
+| hpoId = HP:0100828
+| 名称 = Increase in T cell number
+| 定义 = #####
+| 中文译名 = T细胞数目增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200143]]==
+{{Infobox HPO
+| hpoId = HP:0200143
+| 名称 = Megaloblastic erythroid hyperplasia
+| 定义 = #####
+| 中文译名 = 巨幼红细胞增生异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200151]]==
+{{Infobox HPO
+| hpoId = HP:0200151
+| 名称 = Cutaneous mastocytosis
+| 定义 = #####
+| 中文译名 = 皮肤肥大细胞增多症
+| 中文定义 = #####
+}}

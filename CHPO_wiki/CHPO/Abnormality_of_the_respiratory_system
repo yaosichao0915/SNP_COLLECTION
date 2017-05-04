@@ -1,0 +1,3180 @@
+<accesscontrol>审核人:呼吸系统异常,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=呼吸系统异常(319条目)=
+
+
+==[[HP:0000961]]==
+{{Infobox HPO
+| hpoId = HP:0000961
+| 名称 = Cyanosis
+| 定义 = A bluish or purplish discoloration of the skin and mucous membranes due to an increase in the amount of deoxygenated hemoglobin in the blood or a structural defect in the hemoglobin molecule.
+| 中文译名 = 紫绀
+| 中文定义 = 因血液中还原型血红蛋白的含量增加或血红蛋白分子的结构缺陷而表现出皮肤或粘膜的颜色变蓝或变紫。
+}}
+
+
+==[[HP:0001063]]==
+{{Infobox HPO
+| hpoId = HP:0001063
+| 名称 = Acrocyanosis
+| 定义 = #####
+| 中文译名 = 手足发绀
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001600]]==
+{{Infobox HPO
+| hpoId = HP:0001600
+| 名称 = Abnormality of the larynx
+| 定义 = An abnormality of the `larynx` (FMA:55097).
+| 中文译名 = 喉部异常
+| 中文定义 = 喉部（FMA:55097）的异常。
+}}
+
+
+==[[HP:0001601]]==
+{{Infobox HPO
+| hpoId = HP:0001601
+| 名称 = Laryngomalacia
+| 定义 = Laryngomalacia is a congenital abnormality of the laryngeal cartilage in which the cartilage is floppy and prolapses over the larynx during inspiration.
+| 中文译名 = 喉软骨软化
+| 中文定义 = 喉软骨软化是一种吸气时软骨松软和塌陷的喉软骨先天发畸形育。
+}}
+
+
+==[[HP:0001602]]==
+{{Infobox HPO
+| hpoId = HP:0001602
+| 名称 = Laryngeal stenosis
+| 定义 = Stricture or narrowing of the larynx that may be associated with symptoms of respiratory difficulty depending on the degree of laryngeal narrowing.
+| 中文译名 = 喉狭窄
+| 中文定义 = 喉部受限或狭窄，可伴有与喉狭窄程度相关呼吸困难。
+}}
+
+
+==[[HP:0001604]]==
+{{Infobox HPO
+| hpoId = HP:0001604
+| 名称 = Vocal cord paresis
+| 定义 = `Decreased strength` (PATO:0001779) of the `vocal folds` (FMA:55457).
+| 中文译名 = 声带麻痹
+| 中文定义 = 声带运动能力减弱。
+}}
+
+
+==[[HP:0001605]]==
+{{Infobox HPO
+| hpoId = HP:0001605
+| 名称 = Vocal cord paralysis
+| 定义 = A loss of the ability to move the `vocal folds` (FMA:55457).
+| 中文译名 = 声带麻痹
+| 中文定义 = 声带运动能力丧失（FMA:55457）。
+}}
+
+
+==[[HP:0001607]]==
+{{Infobox HPO
+| hpoId = HP:0001607
+| 名称 = Subglottic stenosis
+| 定义 = #####
+| 中文译名 = 声门下狭窄
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002086]]==
+{{Infobox HPO
+| hpoId = HP:0002086
+| 名称 = Abnormality of the respiratory system
+| 定义 = An abnormality of the `respiratory system` (FMA:7158), which include the airways, lungs, and the respiratory muscles.
+| 中文译名 = 呼吸系统异常
+| 中文定义 = 呼吸系统（FMA:7158）的异常，其中包括呼吸道，肺部和呼吸肌。
+}}
+
+
+==[[HP:0002087]]==
+{{Infobox HPO
+| hpoId = HP:0002087
+| 名称 = Abnormality of the upper respiratory tract
+| 定义 = An abnormality of the `upper respiratory tract` (FMA:45661).
+| 中文译名 = 上呼吸道异常
+| 中文定义 = `上呼吸道`（FMA:45661）的异常。
+}}
+
+
+==[[HP:0002088]]==
+{{Infobox HPO
+| hpoId = HP:0002088
+| 名称 = Abnormality of the lung
+| 定义 = An abnormality of the `lung` (FMA:7195).
+| 中文译名 = 肺部异常
+| 中文定义 = 肺部（FMA:7195）的异常。
+}}
+
+
+==[[HP:0002089]]==
+{{Infobox HPO
+| hpoId = HP:0002089
+| 名称 = Pulmonary hypoplasia
+| 定义 = #####
+| 中文译名 = 肺发育不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002090]]==
+{{Infobox HPO
+| hpoId = HP:0002090
+| 名称 = Pneumonia
+| 定义 = Inflammation of any part of the lung parenchyma.
+| 中文译名 = 肺炎
+| 中文定义 = 肺实质任何部分的炎症。
+}}
+
+
+==[[HP:0002091]]==
+{{Infobox HPO
+| hpoId = HP:0002091
+| 名称 = Restrictive lung disease
+| 定义 = #####
+| 中文译名 = 限制性肺疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002092]]==
+{{Infobox HPO
+| hpoId = HP:0002092
+| 名称 = Pulmonary hypertension
+| 定义 = Pulmonary hypertension is defined as a mean pulmonary artery pressure greater than 25 mm Hg during rest (normal level, 10 mm Hg) or greater than 30 mm Hg during exercise (normal level, 15 mm Hg), as determined with right heart catheterization.
+| 中文译名 = 肺动脉高压
+| 中文定义 = 肺动脉高血压被定义为在休息平均肺动脉压大于25毫米汞柱（正常水平，10个毫米汞柱）或在锻炼期间大于30毫米汞柱（正常水平，15个毫米汞柱），由右心脏导管插入术来确定。
+}}
+
+
+==[[HP:0002093]]==
+{{Infobox HPO
+| hpoId = HP:0002093
+| 名称 = Respiratory insufficiency
+| 定义 = Failure to adequately provide oxygen to cells of the body and to remove excess carbon dioxide.
+| 中文译名 = 呼吸功能不全
+| 中文定义 = 未能充分提供氧到机体的细胞和除去过量的二氧化碳。
+}}
+
+
+==[[HP:0002094]]==
+{{Infobox HPO
+| hpoId = HP:0002094
+| 名称 = Dyspnea
+| 定义 = Difficult or labored breathing.
+| 中文译名 = 呼吸困难
+| 中文定义 = 呼吸费力或劳力性呼吸困难。
+}}
+
+
+==[[HP:0002097]]==
+{{Infobox HPO
+| hpoId = HP:0002097
+| 名称 = Emphysema
+| 定义 = #####
+| 中文译名 = 肺气肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002098]]==
+{{Infobox HPO
+| hpoId = HP:0002098
+| 名称 = Respiratory distress
+| 定义 = #####
+| 中文译名 = 呼吸窘迫
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002099]]==
+{{Infobox HPO
+| hpoId = HP:0002099
+| 名称 = Asthma
+| 定义 = Asthma is characterized by increased responsiveness of the tracheobronchial tree to multiple stimuli, leading to narrowing of the air passages with resultant dyspnea, cough, and wheezing.
+| 中文译名 = 哮喘
+| 中文定义 = 哮喘的特征在于，气管支气管树因多种应激因素导致气道狭窄，引起了呼吸困难、咳嗽、喘息。
+}}
+
+
+==[[HP:0002100]]==
+{{Infobox HPO
+| hpoId = HP:0002100
+| 名称 = Recurrent aspiration pneumonia
+| 定义 = Increased susceptibility to aspiration pneumonia, defined as pneumonia due to breathing in foreign material, as manifested by a medical history of repeated episodes of aspiration pneumonia.
+| 中文译名 = 反复吸入性肺炎
+| 中文定义 = 吸入性肺炎的易感性增加，吸入性肺炎是由于吸入异物导致的肺炎，表现为吸入性肺炎反复发作的病史。
+}}
+
+
+==[[HP:0002101]]==
+{{Infobox HPO
+| hpoId = HP:0002101
+| 名称 = Abnormal lung lobation
+| 定义 = Defects in the formation of pulmonary lobules.
+| 中文译名 = 肺分叶异常
+| 中文定义 = 肺叶形成时的缺陷。
+}}
+
+
+==[[HP:0002102]]==
+{{Infobox HPO
+| hpoId = HP:0002102
+| 名称 = Pleuritis
+| 定义 = Inflammation of the pleura.
+| 中文译名 = 胸膜炎
+| 中文定义 = 胸膜炎症。
+}}
+
+
+==[[HP:0002103]]==
+{{Infobox HPO
+| hpoId = HP:0002103
+| 名称 = Abnormality of the pleura
+| 定义 = An abnormality of the `pulmonary pleura` (FMA:9734), the thin, transparent membrane which covers the lungs and lines the inside of the chest walls.
+| 中文译名 = 胸膜异常
+| 中文定义 = 位于胸膜的异常。胸膜(FMA:9734)是覆盖在肺与内侧胸壁的薄而透明的膜。
+}}
+
+
+==[[HP:0002104]]==
+{{Infobox HPO
+| hpoId = HP:0002104
+| 名称 = Apnea
+| 定义 = Lack of breathing with no movement of the respiratory muscles and no exchange of air in the lungs. This term refers to a disposition to have recurrent episodes of apnea rather than to a single event.
+| 中文译名 = 呼吸暂停
+| 中文定义 = 呼吸肌无运动，并在肺中无气体交换。这个术语指呼吸暂停反复发作，而不是一个单一的事件。
+}}
+
+
+==[[HP:0002105]]==
+{{Infobox HPO
+| hpoId = HP:0002105
+| 名称 = Hemoptysis
+| 定义 = Coughing up (expectoration) of blood or blood-streaked sputum from the larynx, trachea, bronchi, or lungs.
+| 中文译名 = 咯血
+| 中文定义 = 从喉、气管支气管或肺部咳出血或血丝痰。
+}}
+
+
+==[[HP:0002107]]==
+{{Infobox HPO
+| hpoId = HP:0002107
+| 名称 = Pneumothorax
+| 定义 = Accumulation of air in the pleural cavity leading to a partially or completely collapsed lung.
+| 中文译名 = 气胸
+| 中文定义 = 胸腔内气体积聚，导致部分或完全肺萎陷。
+}}
+
+
+==[[HP:0002108]]==
+{{Infobox HPO
+| hpoId = HP:0002108
+| 名称 = Spontaneous pneumothorax
+| 定义 = Pneumothorax occurring without traumatic injury to the chest or lung.
+| 中文译名 = 自发性气胸
+| 中文定义 = 气无胸部或肺外伤发生的气胸。
+}}
+
+
+==[[HP:0002109]]==
+{{Infobox HPO
+| hpoId = HP:0002109
+| 名称 = Abnormality of the bronchi
+| 定义 = An abnormality of the `set of bronchi`(FMA:70774).
+| 中文译名 = 支气管异常
+| 中文定义 = 支气管（FMA:70774）的结构异常。
+}}
+
+
+==[[HP:0002110]]==
+{{Infobox HPO
+| hpoId = HP:0002110
+| 名称 = Bronchiectasis
+| 定义 = Persistent abnormal dilatation of the bronchi owing to localized and irreversible destruction and widening of the large airways.
+| 中文译名 = 支气管扩张
+| 中文定义 = 由于局部的和不可逆转的结构破坏，并大气道的扩张，从而导致支气管的持续异常扩张。
+}}
+
+
+==[[HP:0002111]]==
+{{Infobox HPO
+| hpoId = HP:0002111
+| 名称 = Restrictive respiratory insufficiency
+| 定义 = #####
+| 中文译名 = 限制性呼吸功能不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002113]]==
+{{Infobox HPO
+| hpoId = HP:0002113
+| 名称 = Pulmonary infiltrates
+| 定义 = #####
+| 中文译名 = 肺浸润
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002202]]==
+{{Infobox HPO
+| hpoId = HP:0002202
+| 名称 = Pleural effusion
+| 定义 = The presence of an excessive amount of fluid in the `pleural cavity` (FMA:9740).
+| 中文译名 = 胸腔积液
+| 中文定义 = 胸腔内存在过多的液体（FMA:9740）。
+}}
+
+
+==[[HP:0002203]]==
+{{Infobox HPO
+| hpoId = HP:0002203
+| 名称 = Respiratory paralysis
+| 定义 = Inability to move the muscles of respiration.
+| 中文译名 = 呼吸肌麻痹
+| 中文定义 = 呼吸肌肉无法运动。
+}}
+
+
+==[[HP:0002204]]==
+{{Infobox HPO
+| hpoId = HP:0002204
+| 名称 = Pulmonary embolism
+| 定义 = #####
+| 中文译名 = 肺栓塞
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002205]]==
+{{Infobox HPO
+| hpoId = HP:0002205
+| 名称 = Recurrent respiratory infections
+| 定义 = An increased susceptibility to respiratory infections as manifested by a history of recurrent respiratory infections.
+| 中文译名 = 反复呼吸道感染
+| 中文定义 = 呼吸道感染的易感性增加，表现为反复呼吸道感染的病史。
+}}
+
+
+==[[HP:0002206]]==
+{{Infobox HPO
+| hpoId = HP:0002206
+| 名称 = Pulmonary fibrosis
+| 定义 = Replacement of normal lung tissues are progressively replaced by fibroblasts and collagen.
+| 中文译名 = 肺纤维化
+| 中文定义 = 正常肺组织逐步由成纤维细胞和胶原蛋白所取代。
+}}
+
+
+==[[HP:0002207]]==
+{{Infobox HPO
+| hpoId = HP:0002207
+| 名称 = Diffuse reticular or finely nodular infiltrations
+| 定义 = #####
+| 中文译名 = 弥漫性网状或细结节状浸润
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002575]]==
+{{Infobox HPO
+| hpoId = HP:0002575
+| 名称 = Tracheoesophageal fistula
+| 定义 = An abnormal connection (fistula) between the esophagus and the trachea.
+| 中文译名 = 气管食管瘘
+| 中文定义 = 食管和气管之间的一种异常连接（瘘管）。
+}}
+
+
+==[[HP:0002643]]==
+{{Infobox HPO
+| hpoId = HP:0002643
+| 名称 = Neonatal respiratory distress
+| 定义 = Respiratory difficulty as newborn.
+| 中文译名 = 新生儿呼吸窘迫
+| 中文定义 = 新生儿呼吸困难。
+}}
+
+
+==[[HP:0002747]]==
+{{Infobox HPO
+| hpoId = HP:0002747
+| 名称 = Respiratory insufficiency due to muscle weakness
+| 定义 = #####
+| 中文译名 = 肌肉无力导致的呼吸功能不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002777]]==
+{{Infobox HPO
+| hpoId = HP:0002777
+| 名称 = Tracheal stenosis
+| 定义 = #####
+| 中文译名 = 气管狭窄
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002778]]==
+{{Infobox HPO
+| hpoId = HP:0002778
+| 名称 = Abnormality of the trachea
+| 定义 = An anomaly of the `trachea` (FMA:7394).
+| 中文译名 = 气管异常
+| 中文定义 = `气管`（FMA:7394）的异常。
+}}
+
+
+==[[HP:0002779]]==
+{{Infobox HPO
+| hpoId = HP:0002779
+| 名称 = Tracheomalacia
+| 定义 = #####
+| 中文译名 = 气管软化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002780]]==
+{{Infobox HPO
+| hpoId = HP:0002780
+| 名称 = Bronchomalacia
+| 定义 = #####
+| 中文译名 = 支气管软化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002781]]==
+{{Infobox HPO
+| hpoId = HP:0002781
+| 名称 = Upper airway obstruction
+| 定义 = Increased resistance to the passage of air in the upper airway.
+| 中文译名 = 上气道阻塞
+| 中文定义 = 气体经过上气道的阻力增加。
+}}
+
+
+==[[HP:0002783]]==
+{{Infobox HPO
+| hpoId = HP:0002783
+| 名称 = Recurrent lower respiratory tract infections
+| 定义 = An increased susceptibility to lower respiratory tract infections as manifested by a history of recurrent lower respiratory tract infections.
+| 中文译名 = 反复下呼吸道感染
+| 中文定义 = 下呼吸道感染的易感性增加，表现为反复下呼吸道感染的病史。
+}}
+
+
+==[[HP:0002786]]==
+{{Infobox HPO
+| hpoId = HP:0002786
+| 名称 = Tracheobronchomalacia
+| 定义 = Weakness of the cartilage in the trachea and the bronchi, resulting in a floppy (non-rigid) airway. Affected persons may have difficulties to maintain patency of the airways.
+| 中文译名 = 气管支气管软化
+| 中文定义 = 气管和支气管软骨疾病，致使气道变软，患者难以保持气道通畅。
+}}
+
+
+==[[HP:0002787]]==
+{{Infobox HPO
+| hpoId = HP:0002787
+| 名称 = Tracheal calcification
+| 定义 = Calcification (abnormal deposits of calcium) in the tracheal tissues.
+| 中文译名 = 气管钙化
+| 中文定义 = 气管组织发生的钙化（不正常的钙的异常沉积）
+}}
+
+
+==[[HP:0002788]]==
+{{Infobox HPO
+| hpoId = HP:0002788
+| 名称 = Recurrent upper respiratory tract infections
+| 定义 = An increased susceptibility to upper respiratory tract infections as manifested by a history of recurrent upper respiratory tract infections (running ears - otitis, sinusitis, pharyngitis, tonsillitis).
+| 中文译名 = 复发性上呼吸道感染
+| 中文定义 = 易感性增加导致的复发性上呼吸道感染，表现为反复发作的上呼吸道感染（中耳炎，鼻窦炎，咽炎，扁桃体炎）。
+}}
+
+
+==[[HP:0002789]]==
+{{Infobox HPO
+| hpoId = HP:0002789
+| 名称 = Tachypnea
+| 定义 = Very rapid breathing.
+| 中文译名 = 呼吸过速
+| 中文定义 = 很急促的呼吸。
+}}
+
+
+==[[HP:0002790]]==
+{{Infobox HPO
+| hpoId = HP:0002790
+| 名称 = Neonatal breathing dysregulation
+| 定义 = #####
+| 中文译名 = 新生儿呼吸调节异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002791]]==
+{{Infobox HPO
+| hpoId = HP:0002791
+| 名称 = Hypoventilation
+| 定义 = A reduction in the amount of air transported into the pulmonary alveoli by breathing, leading to hypercapnia (increase in the partial pressure of carbon dioxide).
+| 中文译名 = 通气不足
+| 中文定义 = 由呼吸运动输送至肺泡的空气量减少导致的高碳酸血症（二氧化碳分压增加）。
+}}
+
+
+==[[HP:0002792]]==
+{{Infobox HPO
+| hpoId = HP:0002792
+| 名称 = Reduced vital capacity
+| 定义 = An abnormal reduction on the vital capacity, which is defined as the total lung capacity (volume of air in the lungs at maximal inflation) less the residual volume (i.e., volume of air in the lungs following maximal exhalation) of the lung.
+| 中文译名 = 肺活量减少
+| 中文定义 = 肺活量的异常减少，肺活量是肺总量（即最大吸气时肺的容积）减去残气量（最大呼气时肺的容积）。
+}}
+
+
+==[[HP:0002793]]==
+{{Infobox HPO
+| hpoId = HP:0002793
+| 名称 = Abnormal pattern of respiration
+| 定义 = An anomaly of the rhythm or depth of breathing.
+| 中文译名 = 呼吸模式异常
+| 中文定义 = 呼吸的节奏或深度异常。
+}}
+
+
+==[[HP:0002795]]==
+{{Infobox HPO
+| hpoId = HP:0002795
+| 名称 = Functional respiratory abnormality
+| 定义 = #####
+| 中文译名 = 功能性呼吸异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002835]]==
+{{Infobox HPO
+| hpoId = HP:0002835
+| 名称 = Aspiration
+| 定义 = Inspiration of a foreign object into the airway.
+| 中文译名 = 误吸
+| 中文定义 = 异物误吸进入气道。
+}}
+
+
+==[[HP:0002837]]==
+{{Infobox HPO
+| hpoId = HP:0002837
+| 名称 = Recurrent bronchitis
+| 定义 = An increased susceptibility to bronchitis as manifested by a history of recurrent bronchitis.
+| 中文译名 = 复发性支气管炎
+| 中文定义 = 易感性增加导致的支气管炎反复发作。
+}}
+
+
+==[[HP:0002870]]==
+{{Infobox HPO
+| hpoId = HP:0002870
+| 名称 = Obstructive sleep apnea
+| 定义 = A condition characterized by obstruction of the airway and by pauses in breathing during sleep occurring many times during the night. Obstructive sleep apnea is related to a relaxation of muscle tone (which normally occurs during sleep) leading to partial collapse of the soft tissues in the airway with resultant obstruction of the air flow.
+| 中文译名 = 阻塞性睡眠呼吸暂停
+| 中文定义 = 夜间睡眠过程中多次出现呼吸道梗阻而导致睡眠中呼吸暂停。阻塞性睡眠呼吸暂停与肌肉张力松弛（通常是在睡眠时）导致气道内的软组织部分塌陷，从而引起气道阻塞有关。
+}}
+
+
+==[[HP:0002871]]==
+{{Infobox HPO
+| hpoId = HP:0002871
+| 名称 = Central apnea
+| 定义 = Apnea resulting from depression of the respiratory centers in the medulla oblongata. There is a lack of respiratory effort rather than obstruction of airflow.
+| 中文译名 = 中枢性呼吸暂停
+| 中文定义 = 由于延髓呼吸中枢的抑制而导致的呼吸暂停从，表现为呼吸动力缺失而非气流受阻。
+}}
+
+
+==[[HP:0002872]]==
+{{Infobox HPO
+| hpoId = HP:0002872
+| 名称 = Apneic episodes precipitated by illness, fatigue, stress
+| 定义 = Recurrent episodes of apnea that are precipitated by factors such as illness, fatigue, or stress.
+| 中文译名 = 因疾病、疲劳、紧张而导致的呼吸暂停发作
+| 中文定义 = 由疾病、疲劳或紧张导致的呼吸暂停反复发作。
+}}
+
+
+==[[HP:0002875]]==
+{{Infobox HPO
+| hpoId = HP:0002875
+| 名称 = Exertional dyspnea
+| 定义 = #####
+| 中文译名 = 劳力性呼吸困难
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002876]]==
+{{Infobox HPO
+| hpoId = HP:0002876
+| 名称 = Episodic tachypnea
+| 定义 = Episodes of very rapid breathing.
+| 中文译名 = 阵发性呼吸急促
+| 中文定义 = 阵发性急促呼吸。
+}}
+
+
+==[[HP:0002877]]==
+{{Infobox HPO
+| hpoId = HP:0002877
+| 名称 = Nocturnal hypoventilation
+| 定义 = #####
+| 中文译名 = 夜间低通气
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002878]]==
+{{Infobox HPO
+| hpoId = HP:0002878
+| 名称 = Respiratory failure
+| 定义 = A severe form of respiratory insufficiency characterized by inadequate gas exchange such that the levels of oxygen or carbon dioxide cannot be maintained within normal limits.
+| 中文译名 = 呼吸衰竭
+| 中文定义 = 呼吸功能不全的一种严重形式，表现为气体交换不足，使得氧气或二氧化碳的水平不能保持在正常范围内。
+}}
+
+
+==[[HP:0002880]]==
+{{Infobox HPO
+| hpoId = HP:0002880
+| 名称 = Respiratory difficulties
+| 定义 = #####
+| 中文译名 = 呼吸困难
+| 中文定义 = #####
+}}
+
+
+==[[HP:0002882]]==
+{{Infobox HPO
+| hpoId = HP:0002882
+| 名称 = Sudden episodic apnea
+| 定义 = Recurrent bouts of sudden, severe apnea that may be life-threatening.
+| 中文译名 = 突然发作性呼吸暂停
+| 中文定义 = 反复突然发作严重的呼吸暂停，可能是危及生命。
+}}
+
+
+==[[HP:0002883]]==
+{{Infobox HPO
+| hpoId = HP:0002883
+| 名称 = Hyperventilation
+| 定义 = Hyperventilation refers to an increased pulmonary ventilation rate that is faster than necessary for the exchange of gases. Hyperventilation can result from increased frequency of breathing, an increased tidal volume, or both, and leads to an excess intake of oxygen and the blowing off of carbon dioxide.
+| 中文译名 = 过度通气
+| 中文定义 = 过度通气指肺通气速率快于所需要的气体交换率。过度通气可由呼吸频率增加、潮气量增加或两者都有的原因所致，可以引起氧摄取和二氧化碳呼出过量。
+}}
+
+
+==[[HP:0004347]]==
+{{Infobox HPO
+| hpoId = HP:0004347
+| 名称 = Weakness of muscles of respiration
+| 定义 = Reduced function of the muscles required to generate subatmospheric pressure in the thoracic cavity during breathing: the diaphragm, the external intercostal and the interchondral part of the internal intercostal muscles.
+| 中文译名 = 呼吸肌无力
+| 中文定义 = 呼吸运动中呼吸肌力减弱导致胸腔产生的负压不足:隔肌、肋间外肌和肋间内肌。
+}}
+
+
+==[[HP:0004414]]==
+{{Infobox HPO
+| hpoId = HP:0004414
+| 名称 = Abnormality of the pulmonary artery
+| 定义 = An abnormality of the `pulmonary artery` (FMA:66326).
+| 中文译名 = 肺动脉的异常
+| 中文定义 = 肺动脉的异常（FMA:66326）。
+}}
+
+
+==[[HP:0004415]]==
+{{Infobox HPO
+| hpoId = HP:0004415
+| 名称 = Pulmonary artery stenosis
+| 定义 = An abnormal narrowing or constriction of the pulmonary artery, in the main pulmonary artery and/or in the left or right pulmonary artery branches.
+| 中文译名 = 肺动脉狭窄
+| 中文定义 = 在主肺动脉和/或在左或右肺动脉分支上的异常变窄或肺动脉狭窄。
+}}
+
+
+==[[HP:0004468]]==
+{{Infobox HPO
+| hpoId = HP:0004468
+| 名称 = Anomalous tracheal cartilage
+| 定义 = #####
+| 中文译名 = 气管软骨异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004469]]==
+{{Infobox HPO
+| hpoId = HP:0004469
+| 名称 = Chronic bronchitis
+| 定义 = Chronic inflammation of the bronchi.
+| 中文译名 = 慢性支气管炎
+| 中文定义 = 支气管慢性炎症
+}}
+
+
+==[[HP:0004875]]==
+{{Infobox HPO
+| hpoId = HP:0004875
+| 名称 = Neonatal inspiratory stridor
+| 定义 = #####
+| 中文译名 = 新生儿吸气性喘鸣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004876]]==
+{{Infobox HPO
+| hpoId = HP:0004876
+| 名称 = Spontaneous neonatal pneumothorax
+| 定义 = Pneumothorax occurring neonatally without traumatic injury to the chest or lung.
+| 中文译名 = 新生儿自发性气胸
+| 中文定义 = 新生儿无胸部或肺外伤发生的气胸
+}}
+
+
+==[[HP:0004878]]==
+{{Infobox HPO
+| hpoId = HP:0004878
+| 名称 = Intercostal muscle weakness
+| 定义 = Lack of strength of the intercostal muscles, i.e., of the muscle groups running along the ribs that create and move the chest wall.
+| 中文译名 = 肋间肌无力
+| 中文定义 = 肋间肌即肋骨周围构成和运动胸壁的肌肉群乏力。
+}}
+
+
+==[[HP:0004879]]==
+{{Infobox HPO
+| hpoId = HP:0004879
+| 名称 = intermittent hyperventilation
+| 定义 = Episodic hyperventilation.
+| 中文译名 = 间歇性过度通气
+| 中文定义 = 发作性过度换气。
+}}
+
+
+==[[HP:0004880]]==
+{{Infobox HPO
+| hpoId = HP:0004880
+| 名称 = Respiratory infections in early life
+| 定义 = #####
+| 中文译名 = 童年呼吸道感染
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004881]]==
+{{Infobox HPO
+| hpoId = HP:0004881
+| 名称 = Episodic hypoventilation
+| 定义 = #####
+| 中文译名 = 阵发性通气不足
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004885]]==
+{{Infobox HPO
+| hpoId = HP:0004885
+| 名称 = Episodic respiratory distress
+| 定义 = #####
+| 中文译名 = 阵发性呼吸窘迫
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004886]]==
+{{Infobox HPO
+| hpoId = HP:0004886
+| 名称 = Congenital laryngeal stridor
+| 定义 = #####
+| 中文译名 = 先天性喉喘鸣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004887]]==
+{{Infobox HPO
+| hpoId = HP:0004887
+| 名称 = Respiratory failure requiring assisted ventilation
+| 定义 = #####
+| 中文译名 = 呼吸衰竭，需要辅助通气
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004889]]==
+{{Infobox HPO
+| hpoId = HP:0004889
+| 名称 = Intermittent episodes of respiratory insufficiency due to muscle weakness
+| 定义 = #####
+| 中文译名 = 肌无力性间歇性呼吸功能不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004890]]==
+{{Infobox HPO
+| hpoId = HP:0004890
+| 名称 = Elevated pulmonary artery pressure
+| 定义 = An abnormally elevated blood pressure in the circulation of the `pulmonary artery` (FMA:66326).
+| 中文译名 = 肺动脉压升高
+| 中文定义 = 在`肺动脉`循环中的血压异常升高（FMA:66326）。
+}}
+
+
+==[[HP:0004891]]==
+{{Infobox HPO
+| hpoId = HP:0004891
+| 名称 = Recurrent infections due to aspiration
+| 定义 = #####
+| 中文译名 = 由于吸入，反复感染，
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004894]]==
+{{Infobox HPO
+| hpoId = HP:0004894
+| 名称 = Laryngotracheal stenosis
+| 定义 = #####
+| 中文译名 = 喉气管狭窄
+| 中文定义 = #####
+}}
+
+
+==[[HP:0004927]]==
+{{Infobox HPO
+| hpoId = HP:0004927
+| 名称 = Pulmonary artery dilatation
+| 定义 = An abnormal widening of the diameter of the pulmonary artery.
+| 中文译名 = 肺动脉扩张
+| 中文定义 = 肺动脉直径异常扩大。
+}}
+
+
+==[[HP:0004930]]==
+{{Infobox HPO
+| hpoId = HP:0004930
+| 名称 = Abnormality of the pulmonary vasculature
+| 定义 = An abnormality of the pulmonary vasculature.
+| 中文译名 = 肺血管系统异常
+| 中文定义 = 肺血管系统的异常。
+}}
+
+
+==[[HP:0004935]]==
+{{Infobox HPO
+| hpoId = HP:0004935
+| 名称 = Pulmonary artery atresia
+| 定义 = A congenital anomaly with e narrowing or complete absence of the opening between the right ventricle and the pulmonary artery.
+| 中文译名 = 肺动脉闭锁
+| 中文定义 = 先天性畸形性疾病，表现为右心室和肺动脉之间的开口狭窄或完全缺失。
+}}
+
+
+==[[HP:0004937]]==
+{{Infobox HPO
+| hpoId = HP:0004937
+| 名称 = Pulmonary artery aneurysm
+| 定义 = An aneurysm (localized balloon-like outward bulging) in the pulmonary artery.
+| 中文译名 = 肺动脉瘤
+| 中文定义 = 肺动脉上的动脉瘤（局部呈气球状向外膨出）。
+}}
+
+
+==[[HP:0004960]]==
+{{Infobox HPO
+| hpoId = HP:0004960
+| 名称 = Absent pulmonary artery
+| 定义 = A congenital defect with aplasia (absence) of one of the right or left pulmonary artery.
+| 中文译名 = 肺动脉缺失
+| 中文定义 = 左肺动脉或右肺动脉的先天缺失（不发育）。
+}}
+
+
+==[[HP:0004961]]==
+{{Infobox HPO
+| hpoId = HP:0004961
+| 名称 = Pulmonary artery sling
+| 定义 = An anomalous origin of the left pulmonary artery, such that it arises from the posterior aspect of the right pulmonary artery and passes between the trachea and esophagus to reach the left hilum.
+| 中文译名 = 肺动脉吊带
+| 中文定义 = 是指左肺动脉异常起源于右肺动脉的后方，呈半环形跨过右主支气管向左穿行于食道前和气管后到达左肺门。
+}}
+
+
+==[[HP:0004964]]==
+{{Infobox HPO
+| hpoId = HP:0004964
+| 名称 = Pulmonary arterial medial hypertrophy
+| 定义 = Increase in mass of the tunica media of the arteries in the pulmonary circulation.
+| 中文译名 = 肺动脉中膜肥厚
+| 中文定义 = 肺循环动脉血管中膜变厚。
+}}
+
+
+==[[HP:0004969]]==
+{{Infobox HPO
+| hpoId = HP:0004969
+| 名称 = Peripheral pulmonary artery stenosis
+| 定义 = Stenosis of a peripheral branch of the pulmonary artery.
+| 中文译名 = 周围肺动脉狭窄
+| 中文定义 = 肺动脉外围分支的狭窄
+}}
+
+
+==[[HP:0004971]]==
+{{Infobox HPO
+| hpoId = HP:0004971
+| 名称 = Pulmonary artery hypoplasia
+| 定义 = Underdevelopment of the pulmonary artery.
+| 中文译名 = 肺动脉发育不全
+| 中文定义 = 肺动脉未发育完全。
+}}
+
+
+==[[HP:0005143]]==
+{{Infobox HPO
+| hpoId = HP:0005143
+| 名称 = Anomalous origin of right pulmonary artery from ascending aorta
+| 定义 = The right pulmonary artery originates from the ascending aorta in the presence of a pulmonary valve and main pulmonary artery.
+| 中文译名 = 右肺动脉异常起源于升主动脉
+| 中文定义 = 在肺动脉瓣和肺主动脉存在的情况下，右肺动脉异常起源于升主动脉。
+}}
+
+
+==[[HP:0005160]]==
+{{Infobox HPO
+| hpoId = HP:0005160
+| 名称 = Total anomalous pulmonary venous return
+| 定义 = Total anomalous pulmonary venous return refers to a congenital malformation in which all four pulmonary veins do not connect normally to the left atrium, but instead drain abnormally to the right atrium.
+| 中文译名 = 全肺静脉回流异常
+| 中文定义 = 全肺静脉回流异常是一种先天性畸形，全部四个肺静脉没有连接到左心房，而是将所有血液流入到了右心房。
+}}
+
+
+==[[HP:0005304]]==
+{{Infobox HPO
+| hpoId = HP:0005304
+| 名称 = Hypoplastic pulmonary veins
+| 定义 = Underdevelopment or incomplete development of pulmonary veins.
+| 中文译名 = 肺静脉发育不全
+| 中文定义 = 肺静脉发育不全
+}}
+
+
+==[[HP:0005308]]==
+{{Infobox HPO
+| hpoId = HP:0005308
+| 名称 = Pulmonary artery vasoconstriction
+| 定义 = The abnormal narrowing of pulmonary artery blood vessels.
+| 中文译名 = 肺动脉血管收缩
+| 中文定义 = 肺动脉血管异常狭窄。
+}}
+
+
+==[[HP:0005311]]==
+{{Infobox HPO
+| hpoId = HP:0005311
+| 名称 = Agenesis of pulmonary vessels
+| 定义 = Number and volume of pulmonary vessels are decreased.
+| 中文译名 = 肺血管发育不全
+| 中文定义 = 肺血管的数量和容积降低。
+}}
+
+
+==[[HP:0005312]]==
+{{Infobox HPO
+| hpoId = HP:0005312
+| 名称 = Pulmonary arterial intimal fibrosis
+| 定义 = Formation of excess fibrous connective tissue in the tunica intima (innermost layer) of arteries in the pulmonary circulation.
+| 中文译名 = 肺动脉内膜纤维化
+| 中文定义 = 在动脉中的肺循环的内膜（最内层）形成过量纤维性结缔组织。
+}}
+
+
+==[[HP:0005316]]==
+{{Infobox HPO
+| hpoId = HP:0005316
+| 名称 = Peripheral pulmonary vessel aplasia
+| 定义 = Congenital absence of the peripheral pulmonary vessel
+| 中文译名 = 周围肺血管发育不良
+| 中文定义 = 指周围肺血管的先天性缺失。
+}}
+
+
+==[[HP:0005317]]==
+{{Infobox HPO
+| hpoId = HP:0005317
+| 名称 = Increased pulmonary vascular resistance
+| 定义 = Increased pulmonary vascular resistance
+| 中文译名 = 肺血管阻力增加
+| 中文定义 = 肺血管阻力增加
+}}
+
+
+==[[HP:0005347]]==
+{{Infobox HPO
+| hpoId = HP:0005347
+| 名称 = Cartilaginous trachea
+| 定义 = #####
+| 中文译名 = 气管软骨化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005348]]==
+{{Infobox HPO
+| hpoId = HP:0005348
+| 名称 = Inspiratory stridor
+| 定义 = Inspiratory stridor is a high pitched sound upon inspiration that is generally related to laryngeal abnormalities.
+| 中文译名 = 吸气性喘鸣
+| 中文定义 = 吸气性喘鸣是吸气相高调音，通常与喉部异常有关。
+}}
+
+
+==[[HP:0005349]]==
+{{Infobox HPO
+| hpoId = HP:0005349
+| 名称 = Hypoplasia of the epiglottis
+| 定义 = Hypoplasia of the `epiglottis` (FMA:55130).
+| 中文译名 = 会厌发育不良
+| 中文定义 = 会厌发育不良（FMA:55130）。
+}}
+
+
+==[[HP:0005366]]==
+{{Infobox HPO
+| hpoId = HP:0005366
+| 名称 = Recurrent streptococcus pneumoniae infections
+| 定义 = Increased susceptibility to streptococcus pneumoniae infections as manifested by a history of recurrent infections by streptococcus pneumoniae.
+| 中文译名 = 复发性链球菌感染肺炎
+| 中文定义 = 肺炎链球菌感染的易感性增加，反复感染肺炎链球菌的病史表现。
+}}
+
+==[[HP:0005425]]==
+{{Infobox HPO
+| hpoId = HP:0005425
+| 名称 = Recurrent sinopulmonary infections
+| 定义 = An increased susceptibility to infections involving both the paranasal sinuses and the lungs, as manifested by a history of recurrent sinopulmonary infections.
+| 中文译名 = 反复鼻窦及肺感染
+| 中文定义 = 同时涉及鼻窦和肺感染的易感性增加，表现反复鼻窦和肺感染。
+}}
+
+
+==[[HP:0005483]]==
+{{Infobox HPO
+| hpoId = HP:0005483
+| 名称 = Abnormality of the epiglottis
+| 定义 = An abnormality of the `epiglottis` (FMA:55130).
+| 中文译名 = 会厌异常
+| 中文定义 = 会厌（FMA:55130）的异常。
+}}
+
+
+==[[HP:0005607]]==
+{{Infobox HPO
+| hpoId = HP:0005607
+| 名称 = Abnormality of the tracheobronchial system
+| 定义 = #####
+| 中文译名 = 气管支气管系统异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005828]]==
+{{Infobox HPO
+| hpoId = HP:0005828
+| 名称 = Transient pulmonary infiltrates
+| 定义 = #####
+| 中文译名 = 短暂肺浸润
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005934]]==
+{{Infobox HPO
+| hpoId = HP:0005934
+| 名称 = Imperfect vocal cord adduction
+| 定义 = #####
+| 中文译名 = 声带内收缺陷
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005938]]==
+{{Infobox HPO
+| hpoId = HP:0005938
+| 名称 = Abnormal respiratory motile cilium morphology
+| 定义 = Abnormal arrangement of the structures of the axoneme, which is the cytoskeletal structure that forms the inner core of the motile cilium and displays a canonical 9 + 2 microtubular pattern of motile cilia studded with dynein arms.
+| 中文译名 = 运动纤毛细胞形态异常
+| 中文定义 = 轴丝结构的异常排列。所谓轴丝指形成运动纤毛内芯的细胞骨架结构，呈现为镶有动力蛋白臂的、典型的9 + 2运动纤毛微管图案。
+}}
+
+==[[HP:0005939]]==
+{{Infobox HPO
+| hpoId = HP:0005939
+| 名称 = Multiple bilateral pneumothoraces
+| 定义 = #####
+| 中文译名 = 复发性双侧气胸
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005941]]==
+{{Infobox HPO
+| hpoId = HP:0005941
+| 名称 = Intermittent hyperpnea at rest
+| 定义 = #####
+| 中文译名 = 静息性间歇过度通气
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005942]]==
+{{Infobox HPO
+| hpoId = HP:0005942
+| 名称 = Desquamative interstitial pneumonitis
+| 定义 = #####
+| 中文译名 = 脱屑间质性肺炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005943]]==
+{{Infobox HPO
+| hpoId = HP:0005943
+| 名称 = Respiratory arrest
+| 定义 = #####
+| 中文译名 = 呼吸骤停
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005944]]==
+{{Infobox HPO
+| hpoId = HP:0005944
+| 名称 = Bilateral lung agenesis
+| 定义 = Bilateral lack of development of the lungs.
+| 中文译名 = 双侧肺发育不全
+| 中文定义 = 双肺发育缺失。
+}}
+
+
+==[[HP:0005945]]==
+{{Infobox HPO
+| hpoId = HP:0005945
+| 名称 = Laryngeal obstruction
+| 定义 = Blockage of the upper airway at the level of the larynx often accompanied by respiratory distress.
+| 中文译名 = 喉梗阻
+| 中文定义 = 在喉的水平的上气道阻塞常伴有呼吸窘迫。
+}}
+
+
+==[[HP:0005946]]==
+{{Infobox HPO
+| hpoId = HP:0005946
+| 名称 = Ventilator dependence with inability to wean
+| 定义 = #####
+| 中文译名 = 呼吸机依赖无法脱机
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005947]]==
+{{Infobox HPO
+| hpoId = HP:0005947
+| 名称 = Decreased sensitivity to hypoxemia
+| 定义 = Reduced tendency to respond to a reduced concentration of oxygen in the blood by increasing respiration.
+| 中文译名 = 低氧血症敏感性减低
+| 中文定义 = 对降低的血氧浓度反应发降低的趋势并伴呼吸运动增加。
+}}
+
+
+==[[HP:0005948]]==
+{{Infobox HPO
+| hpoId = HP:0005948
+| 名称 = Cystic lung disease
+| 定义 = #####
+| 中文译名 = 囊性肺疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005949]]==
+{{Infobox HPO
+| hpoId = HP:0005949
+| 名称 = Apneic episodes in infancy
+| 定义 = Recurrent episodes of apnea occurring during infancy.
+| 中文译名 = 婴儿期呼吸暂停
+| 中文定义 = 婴儿期发生的、反复发作的呼吸暂停。
+}}
+
+==[[HP:0005950]]==
+{{Infobox HPO
+| hpoId = HP:0005950
+| 名称 = Laryngeal web
+| 定义 = A membrane-like structure that extends across the laryngeal lumen close to the level of the vocal cords.
+| 中文译名 = 喉蹼
+| 中文定义 = 横跨喉腔的延伸至声带的水平的一种膜状结构。
+}}
+
+
+==[[HP:0005951]]==
+{{Infobox HPO
+| hpoId = HP:0005951
+| 名称 = Progressive inspiratory stridor
+| 定义 = #####
+| 中文译名 = 渐进式吸气性喘鸣
+| 中文定义 = #####
+}}
+
+
+==[[HP:0005952]]==
+{{Infobox HPO
+| hpoId = HP:0005952
+| 名称 = Decreased pulmonary function
+| 定义 = #####
+| 中文译名 = 肺功能降低
+| 中文定义 = #####
+}}
+
+==[[HP:0005954]]==
+{{Infobox HPO
+| hpoId = HP:0005954
+| 名称 = Pulmonary capillary hemangiomatosis
+| 定义 = An tumours in the pulmonary capillary.
+| 中文译名 = 肺毛细血管瘤
+| 中文定义 = 肺毛细血管产生的瘤变。
+}}
+
+
+==[[HP:0005956]]==
+{{Infobox HPO
+| hpoId = HP:0005956
+| 名称 = Anteroposteriorly shortened larynx
+| 定义 = Abnormal shortening of the `larynx` (FMA:55097) in the anteroposterior (front to back) axis.
+| 中文译名 = 喉前后径缩短
+| 中文定义 = 喉（55097 FMA）的前后径（从前到后）异常缩短。
+}}
+
+
+==[[HP:0005957]]==
+{{Infobox HPO
+| hpoId = HP:0005957
+| 名称 = Breathing dysregulation
+| 定义 = #####
+| 中文译名 = 呼吸失调
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006509]]==
+{{Infobox HPO
+| hpoId = HP:0006509
+| 名称 = Diverticulosis of trachea
+| 定义 = #####
+| 中文译名 = 气管憩室
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006510]]==
+{{Infobox HPO
+| hpoId = HP:0006510
+| 名称 = Chronic obstructive pulmonary disease
+| 定义 = #####
+| 中文译名 = 慢性阻塞性肺疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006511]]==
+{{Infobox HPO
+| hpoId = HP:0006511
+| 名称 = Laryngeal stridor
+| 定义 = An abnormal high-pitched noisy sound, occurring during inhalation or exhalation caused by the incomplete obstruction in the throat.
+| 中文译名 = 喉喘鸣
+| 中文定义 = 由于喉不完全梗阻导致的吸气和呼气时的高调的异常噪声。
+}}
+
+
+==[[HP:0006514]]==
+{{Infobox HPO
+| hpoId = HP:0006514
+| 名称 = Intraalveolar nodular calcifications
+| 定义 = #####
+| 中文译名 = 肺泡内结节钙化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006515]]==
+{{Infobox HPO
+| hpoId = HP:0006515
+| 名称 = Interstitial pneumonitis
+| 定义 = #####
+| 中文译名 = 间质性肺炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006516]]==
+{{Infobox HPO
+| hpoId = HP:0006516
+| 名称 = Hypersensitivity pneumonitis
+| 定义 = #####
+| 中文译名 = 过敏性肺炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006517]]==
+{{Infobox HPO
+| hpoId = HP:0006517
+| 名称 = Alveolar proteinosis
+| 定义 = Abnormal accumulation of surfactant-like, periodic acid-schiff-positive lipoproteínaceous material in macrophages within the alveolar spaces and distal bronchioles. This results in gas exchange impairment leading to dyspnea and alveolar infiltrates.
+| 中文译名 = 肺泡蛋白沉积症
+| 中文定义 = 肺泡与远端细支气管巨噬细胞内的表面活性物质样，高碘酸 - 席夫阳性脂蛋白样物质异常沉积。这导致了气体交换障碍，从而引起了呼吸困难和肺泡浸润性改变。
+}}
+
+
+==[[HP:0006518]]==
+{{Infobox HPO
+| hpoId = HP:0006518
+| 名称 = Pulmonary venoocclusive disease
+| 定义 = #####
+| 中文译名 = 肺静脉闭塞病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006519]]==
+{{Infobox HPO
+| hpoId = HP:0006519
+| 名称 = Alveolar cell carcinoma
+| 定义 = Adenocarcinoma of the Bronchus.
+| 中文译名 = 肺泡细胞癌
+| 中文定义 = 支气管来源的腺癌。
+}}
+
+
+==[[HP:0006520]]==
+{{Infobox HPO
+| hpoId = HP:0006520
+| 名称 = Progressive pulmonary function impairment
+| 定义 = #####
+| 中文译名 = 进行性肺功能受损
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006521]]==
+{{Infobox HPO
+| hpoId = HP:0006521
+| 名称 = Pulmonary lymphangiectasia
+| 定义 = Abnormal dilatation of the pulmonary lymphatic vessels. Lymphatic fluid in the lung is derived from normal leakage of fluid out of the blood capillaries in the lung. In pulmonary lymphangiectasia, the pulmonary lymphatics are not properly connected and become dilated with fluid.
+| 中文译名 = 肺淋巴管扩张
+| 中文定义 = 肺淋巴管异常扩张。肺的淋巴液是从肺毛细血管中正常漏出产生的，在肺淋巴管扩张时，肺淋巴管的连接出现异常，导致扩张。
+}}
+
+
+==[[HP:0006522]]==
+{{Infobox HPO
+| hpoId = HP:0006522
+| 名称 = Repeated pneumothoraces
+| 定义 = #####
+| 中文译名 = 反复气胸
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006524]]==
+{{Infobox HPO
+| hpoId = HP:0006524
+| 名称 = Tracheobronchial leiomyomatosis
+| 定义 = #####
+| 中文译名 = 气管，支气管平滑肌瘤病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006527]]==
+{{Infobox HPO
+| hpoId = HP:0006527
+| 名称 = Lymphoid interstitial pneumonia
+| 定义 = #####
+| 中文译名 = 淋巴细胞性间质性肺炎
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006528]]==
+{{Infobox HPO
+| hpoId = HP:0006528
+| 名称 = Chronic lung disease
+| 定义 = According to the definitions of the American and British Thoracic Societies, including pulmonary functional tests, X-rays, and CT scans for items such as fibrosis, bronchiectasis, bullae, emphysema, nodular or lymphomatous abnormalities.
+| 中文译名 = 慢性肺病
+| 中文定义 = 根据美国和英国胸科学会定义，包括肺的功能测试，X射线检查和CT扫描检查出的纤维化，支气管扩张，肺大疱，肺气肿，肺结节影或淋巴结的异常表现。
+}}
+
+
+==[[HP:0006529]]==
+{{Infobox HPO
+| hpoId = HP:0006529
+| 名称 = Abnormal pulmonary lymphatics
+| 定义 = An abnormality of the `pulmonary lymphatic chain` (FMA:67999).
+| 中文译名 = 肺淋巴管异常
+| 中文定义 = 肺淋巴系统的结构异常（FMA:67999）。
+}}
+
+
+==[[HP:0006530]]==
+{{Infobox HPO
+| hpoId = HP:0006530
+| 名称 = Interstitial pulmonary disease
+| 定义 = Abnormality of the lung parenchyma extending to the pulmonary interstitium and leading to diffuse pulmonary fibrosis.
+| 中文译名 = 间质性肺疾病
+| 中文定义 = 延伸至肺间质并导致弥漫性肺纤维化的肺实质异常
+}}
+
+
+==[[HP:0006531]]==
+{{Infobox HPO
+| hpoId = HP:0006531
+| 名称 = Pleural lymphangiectasia
+| 定义 = #####
+| 中文译名 = 胸膜淋巴管扩张
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006532]]==
+{{Infobox HPO
+| hpoId = HP:0006532
+| 名称 = Recurrent pneumonia
+| 定义 = An increased susceptibility to pneumonia as manifested by a history of recurrent episodes of pneumonia.
+| 中文译名 = 反复肺炎
+| 中文定义 = 肺炎的易感性增加，表现为肺炎反复发作的病史。
+}}
+
+
+==[[HP:0006533]]==
+{{Infobox HPO
+| hpoId = HP:0006533
+| 名称 = Bronchodysplasia
+| 定义 = #####
+| 中文译名 = 支气管软骨发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006535]]==
+{{Infobox HPO
+| hpoId = HP:0006535
+| 名称 = Recurrent intrapulmonary hemorrhage
+| 定义 = A recurrent， hemorrhage， occurring within the lung.
+| 中文译名 = 复发性肺内出血
+| 中文定义 = 个发生于肺内的、反复性的出血。
+}}
+
+
+==[[HP:0006536]]==
+{{Infobox HPO
+| hpoId = HP:0006536
+| 名称 = Obstructive lung disease
+| 定义 = Obstruction of conducting airways of the lung.
+| 中文译名 = 阻塞性肺部疾病
+| 中文定义 = 肺传导气道的阻塞。
+}}
+
+
+==[[HP:0006538]]==
+{{Infobox HPO
+| hpoId = HP:0006538
+| 名称 = Recurrent bronchopulmonary infections
+| 定义 = An increased susceptibility to bronchopulmonary infections as manifested by a history of recurrent bronchopulmonary infections.
+| 中文译名 = 反复支气管肺感染
+| 中文定义 = 支气管肺感染的易感性增加，表现为反复支气管感染的病史。
+}}
+
+
+==[[HP:0006539]]==
+{{Infobox HPO
+| hpoId = HP:0006539
+| 名称 = Bronchial cartilage hypoplasia
+| 定义 = #####
+| 中文译名 = 支气管软骨发育不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006541]]==
+{{Infobox HPO
+| hpoId = HP:0006541
+| 名称 = Chronic obstructive airway disease from birth
+| 定义 = #####
+| 中文译名 = 先天性慢性阻塞性气道疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006543]]==
+{{Infobox HPO
+| hpoId = HP:0006543
+| 名称 = Cardiorespiratory arrest
+| 定义 = #####
+| 中文译名 = 心跳呼吸骤停
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006544]]==
+{{Infobox HPO
+| hpoId = HP:0006544
+| 名称 = Extrapulmonary sequestrum
+| 定义 = A type of pulmonary sequestration that is completely enclosed in its own pleural sac, occurring above, within, or below the diaphragm, and without communication with the tracheobronchial tree.
+| 中文译名 = 肺外隔离
+| 中文定义 = 肺隔离症的一种，具有自己完全封闭的胸腔腔，发生在膈上、膈内或膈下，并且不与气管支气管树的相通。
+}}
+
+==[[HP:0006548]]==
+{{Infobox HPO
+| hpoId = HP:0006548
+| 名称 = Pulmonary arteriovenous malformation
+| 定义 = Abnormal,tangled collections of pulmonary dilated blood vessels that result from congenitally malformed vascular structures.
+| 中文译名 = 肺动静脉畸形
+| 中文定义 = 由先天性血管畸形导致的肺部毛细血管的异常及汇合紊乱。
+}}
+
+
+==[[HP:0006549]]==
+{{Infobox HPO
+| hpoId = HP:0006549
+| 名称 = Unilateral primary pulmonary dysgenesis
+| 定义 = #####
+| 中文译名 = 单侧原发性肺动脉发育不良
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006552]]==
+{{Infobox HPO
+| hpoId = HP:0006552
+| 名称 = Fibrocystic lung disease
+| 定义 = #####
+| 中文译名 = 纤维囊性肺疾病
+| 中文定义 = #####
+}}
+
+
+==[[HP:0006703]]==
+{{Infobox HPO
+| hpoId = HP:0006703
+| 名称 = aplasia/Hypoplasia of the lungs
+| 定义 = #####
+| 中文译名 = 肺发育缺陷/不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0007110]]==
+{{Infobox HPO
+| hpoId = HP:0007110
+| 名称 = Central hypoventilation
+| 定义 = #####
+| 中文译名 = 中枢性低通气
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008744]]==
+{{Infobox HPO
+| hpoId = HP:0008744
+| 名称 = Abnormality of the aryepiglottic fold
+| 定义 = An abnormality of the `aryepiglottic fold` (FMA:55448).
+| 中文译名 = 杓会厌皱襞异常
+| 中文定义 = 杓会厌皱襞（FMA:55448）异常。
+}}
+
+
+==[[HP:0008747]]==
+{{Infobox HPO
+| hpoId = HP:0008747
+| 名称 = Cartilaginous ossification of larynx
+| 定义 = Ossification affecting the `set of cartilages of larynx` (FMA:64159).
+| 中文译名 = 喉软骨骨化
+| 中文定义 = 软骨喉软骨（FMA:64159）的骨化。
+}}
+
+
+==[[HP:0008749]]==
+{{Infobox HPO
+| hpoId = HP:0008749
+| 名称 = Laryngeal hypoplasia
+| 定义 = Underdevelopment of the larynx (FMA:55097).
+| 中文译名 = 喉发育不全
+| 中文定义 = 喉发育不足（FMA:55097）。
+}}
+
+
+==[[HP:0008750]]==
+{{Infobox HPO
+| hpoId = HP:0008750
+| 名称 = Laryngeal atresia
+| 定义 = Congenital absence of the lumen of the larynx.
+| 中文译名 = 喉闭锁
+| 中文定义 = 先天性无喉腔
+}}
+
+
+==[[HP:0008751]]==
+{{Infobox HPO
+| hpoId = HP:0008751
+| 名称 = Laryngeal cleft
+| 定义 = Presence of a gap in the posterior laryngotracheal wall with a continuity between the larynx and the esopahagus.
+| 中文译名 = 喉裂
+| 中文定义 = 在喉和食管之间的连续性的喉气管后壁裂隙。
+}}
+
+
+==[[HP:0008752]]==
+{{Infobox HPO
+| hpoId = HP:0008752
+| 名称 = Laryngeal cartilage malformation
+| 定义 = A malformation of the `laryngeal cartilage` (FMA:55108).
+| 中文译名 = 喉软骨畸形
+| 中文定义 = 喉软骨的的畸形（FMA:55108）。
+}}
+
+
+==[[HP:0008753]]==
+{{Infobox HPO
+| hpoId = HP:0008753
+| 名称 = aplasia of the epiglottis
+| 定义 = Absence of the `epiglottis` (FMA:55130).
+| 中文译名 = 会厌发育不全
+| 中文定义 = `会厌`（FMA:55130）的缺失。
+}}
+
+
+==[[HP:0008754]]==
+{{Infobox HPO
+| hpoId = HP:0008754
+| 名称 = Laryngeal calcification
+| 定义 = Calcification (abnormal deposits of calcium) in the laryngeal tissues.
+| 中文译名 = 喉钙化
+| 中文定义 = 在喉组织钙化（不正常的钙沉积）。
+}}
+
+
+==[[HP:0008755]]==
+{{Infobox HPO
+| hpoId = HP:0008755
+| 名称 = Laryngotracheomalacia
+| 定义 = #####
+| 中文译名 = 喉气管软化
+| 中文定义 = #####
+}}
+
+
+==[[HP:0008756]]==
+{{Infobox HPO
+| hpoId = HP:0008756
+| 名称 = Bowing of the vocal cords
+| 定义 = Bowing (abnormal curvature) of the `vocal folds` (FMA:55457).
+| 中文译名 = 声带弯曲
+| 中文定义 = 声带（FMA:55457）弯曲（异常弯度）。
+}}
+
+
+==[[HP:0008757]]==
+{{Infobox HPO
+| hpoId = HP:0008757
+| 名称 = Unilateral vocal cord paralysis
+| 定义 = A loss of the ability to move the `vocal fold` (FMA:55457) on one side.
+| 中文译名 = 单侧声带麻痹
+| 中文定义 = 一侧声带运动能力丧失。
+}}
+
+
+==[[HP:0008777]]==
+{{Infobox HPO
+| hpoId = HP:0008777
+| 名称 = Abnormality of the vocal cords
+| 定义 = An abnormality of the `vocal cord` (FMA:55457).
+| 中文译名 = 声带异常
+| 中文定义 = `声带`（FMA:55457）的异常。
+}}
+
+
+==[[HP:0010307]]==
+{{Infobox HPO
+| hpoId = HP:0010307
+| 名称 = Stridor
+| 定义 = Stridor is a high pitched sound resulting from turbulent air flow in the upper airway.
+| 中文译名 = 喘鸣
+| 中文定义 = 喘鸣是高音调的声音从上气道湍流气流产生。
+}}
+
+
+==[[HP:0010310]]==
+{{Infobox HPO
+| hpoId = HP:0010310
+| 名称 = Chylothorax
+| 定义 = Accumulation of excessive amounts of lymphatic fluid (chyle) in the pleural cavity.
+| 中文译名 = 乳糜胸
+| 中文定义 = 胸膜腔淋巴积液（乳糜）过量积累
+}}
+
+
+==[[HP:0010535]]==
+{{Infobox HPO
+| hpoId = HP:0010535
+| 名称 = Sleep apnea
+| 定义 = An intermittent cessation of airflow at the mouth and nose during sleep. Apneas of at least 10 seconds are considered important, but persons with sleep apnea may have apneas of 20 seconds to up to 2 or 3 minutes. Patients may have up to 15 events per hour of sleep.
+| 中文译名 = 睡眠呼吸暂停
+| 中文定义 = 睡眠时口鼻气流间歇性停止。呼吸暂停10秒以上的被认为是重要的，但睡眠呼吸暂停的人呼吸暂停可以有20秒以上甚至达到2或3分钟。患者每小时睡眠可能有高达15次呼吸暂停事件。
+}}
+
+
+==[[HP:0010536]]==
+{{Infobox HPO
+| hpoId = HP:0010536
+| 名称 = Central sleep apnea
+| 定义 = Sleep apnea resulting from a transient abolition of the central drive to the ventilatory muscles.
+| 中文译名 = 中枢性睡眠呼吸暂停
+| 中文定义 = 是由于控制呼吸通气肌肉的大脑中枢短暂功能失调导致的睡眠呼吸暂停。
+}}
+
+
+==[[HP:0010564]]==
+{{Infobox HPO
+| hpoId = HP:0010564
+| 名称 = Bifid epiglottis
+| 定义 = A midline anterior-posterior cleft of the `epiglottis` (FMA:55130) that involves at least two-thirds of the epiglottic leaf. It is a useful feature for clinical diagnosis because it appears to be very rare in syndromes other than Pallister-Hall-Syndrome and is also rare as an isolated malformation.
+| 中文译名 = 会厌分叉
+| 中文定义 = `会厌`（55130 FMA）沿中线前后裂开累及至少前三分之二的会厌叶，这对于临床诊断非常有帮助，因为它似乎在比帕里斯特 - 霍尔综合征中非常罕见，同时即使是作为一个孤立的畸形也非常罕见。
+}}
+
+
+==[[HP:0010565]]==
+{{Infobox HPO
+| hpoId = HP:0010565
+| 名称 = aplasia/Hypoplasia of the Epiglottis
+| 定义 = This term applies if the Epiglottis is absent or hypoplastic.
+| 中文译名 = 会厌的发育缺陷/不全
+| 中文定义 = 本术语指会厌缺失或发育不全。
+}}
+
+
+==[[HP:0010616]]==
+{{Infobox HPO
+| hpoId = HP:0010616
+| 名称 = Lung fibroma
+| 定义 = The presence of a lung fibroma, a benign neoplasm that can present as a mass causing airway obstruction, cough, and hemoptysis, or present without symptoms as a solitary pulmonary nodule.
+| 中文译名 = 肺纤维瘤
+| 中文定义 = 肺纤维瘤为一种良性的肿瘤，可表现为大块病变引起气道阻塞、咳嗽、咯血或没有症状的孤立性肺结节。
+}}
+
+
+==[[HP:0010772]]==
+{{Infobox HPO
+| hpoId = HP:0010772
+| 名称 = Anomalous pulmonary venous return
+| 定义 = A developmental defect characterized by abnormal connection of or more pulmonary veins to the superior or inferior vena cava, the right atrium, or the coronary sinus, resulting in a left-to-right shunt of oxygenated blood.
+| 中文译名 = 肺静脉回流异常
+| 中文定义 = 肺静脉与上、下腔静脉、右心房或者冠状窦连接异常，导致氧合血从左到右的分流。
+}}
+
+
+==[[HP:0010773]]==
+{{Infobox HPO
+| hpoId = HP:0010773
+| 名称 = Partial anomalous pulmonary venous return
+| 定义 = A form of `anomalous pulmonary venous return` (HP:0010772) in which not all pulmonary veins drain abnormally. Partial anomalous pulmonary venous return frequently involves one or both of the veins from one lung.
+| 中文译名 = 部分肺静脉异常回流
+| 中文定义 = 部分肺静脉（一条或两条肺静脉）回流异常。
+}}
+
+
+==[[HP:0010776]]==
+{{Infobox HPO
+| hpoId = HP:0010776
+| 名称 = Tracheobronchmegaly
+| 定义 = Marked widening of the trachea and major bronchi that may be predispose to chronic respiratory tract infection.
+| 中文译名 = 气管支气管肥大
+| 中文定义 = 气管和主支气管显著增宽，可能易患慢性呼吸道感染。
+}}
+
+
+==[[HP:0010777]]==
+{{Infobox HPO
+| hpoId = HP:0010777
+| 名称 = Bronchomegaly
+| 定义 = Marked widening of the major bronchi that may be predispose to chronic respiratory tract infection.
+| 中文译名 = 支气管肥大
+| 中文定义 = 大气道显著扩大，可能诱发慢性呼吸道感染。
+}}
+
+
+==[[HP:0010778]]==
+{{Infobox HPO
+| hpoId = HP:0010778
+| 名称 = Tracheomegaly
+| 定义 = Marked widening of the trachea.
+| 中文译名 = 气管肥大
+| 中文定义 = 气管显著扩大。
+}}
+
+
+==[[HP:0010959]]==
+{{Infobox HPO
+| hpoId = HP:0010959
+| 名称 = Congenital cystic adenomatoid malformation of the lung
+| 定义 = Congenital cystic adenomatoid malformation (CCAM) can be diagnosed prenatally if ultrasound shows a cystic or solid lung tumor. A CCAM does not have systemic arterial blood supply (in contrast to bronchopulmonary sequenstration). It is a cystic area within the lung that originates from abnormal embryogenesis.
+| 中文译名 = 先天性肺囊性腺瘤样畸形
+| 中文定义 = 先天性囊性腺瘤样畸形（CCAM）可以在产前诊断，超声可显示囊性或实性肺癌。CCAM不具有全身动脉血液供应（与支气管肺隔离症相反），它是源自胚胎发育畸形的肺内的囊性区域。
+}}
+
+
+==[[HP:0010960]]==
+{{Infobox HPO
+| hpoId = HP:0010960
+| 名称 = Bronchopulmonary sequestration
+| 定义 = The presence of microscopic cystic masses of nonfunctioning pulmonary tissue that lack an obvious communication with the tracheobronchial tree.
+| 中文译名 = 支气管肺隔离症
+| 中文定义 = 无功能肺组织的囊性肿块（显微镜下改变），与气管支气管树不相通。
+}}
+
+
+==[[HP:0010961]]==
+{{Infobox HPO
+| hpoId = HP:0010961
+| 名称 = Intralobar sequestration
+| 定义 = A kind of `bronchopulmonary sequestration` that is incorporated into the normal surrounding lung.
+| 中文译名 = 叶内型肺隔离症
+| 中文定义 = 与周围正常肺成为一体的一种支气管肺隔离症。
+}}
+
+
+==[[HP:0010962]]==
+{{Infobox HPO
+| hpoId = HP:0010962
+| 名称 = Extralobar sequestration
+| 定义 = A kind of `bronchopulmonary sequestration` that is completely discrete from the normal lung and is surrounded by separate pleura.
+| 中文译名 = 叶外型肺隔离症
+| 中文定义 = 支气管肺隔离症一种，它是与正常的肺完全不连续，并被独立的胸膜包围。
+}}
+
+
+==[[HP:0011108]]==
+{{Infobox HPO
+| hpoId = HP:0011108
+| 名称 = Recurrent sinusitis
+| 定义 = A `recurrent` (PATO:0000427) form of `sinusitis` (HP:0000246).
+| 中文译名 = 复发性鼻窦炎
+| 中文定义 = 鼻窦炎反复发作。
+}}
+
+
+==[[HP:0011278]]==
+{{Infobox HPO
+| hpoId = HP:0011278
+| 名称 = Intrapulmonary sequestration
+| 定义 = A type of pulmonary sequestration that occurs within the visceral pleura of normal lung tissue, usually without communication with the tracheobronchial tree.
+| 中文译名 = 肺内型肺隔离症
+| 中文定义 = 发生正常肺组织的脏层胸膜内的，一般不与气管支气管树相通一种肺隔离症。
+}}
+
+
+==[[HP:0011615]]==
+{{Infobox HPO
+| hpoId = HP:0011615
+| 名称 = Abnormality of pulmonary situs
+| 定义 = An abnormality of the pulmonary situs, i.e., of the sidedness of the morphological right and left lungs, which is defined by characteristics such as the number of lobes per lung and the relationship of the pulmonary arteries to their bronchi.
+| 中文译名 = 肺异常
+| 中文定义 = 肺异常，例如左右肺的分叶异常，例如每侧肺的分叶数量、及肺动脉与其所属支气管的对应关系异常等。
+}}
+
+
+==[[HP:0011616]]==
+{{Infobox HPO
+| hpoId = HP:0011616
+| 名称 = Pulmonary situs inversus
+| 定义 = Mirror image arrangement of the mainstem bronchi with the right pulmonary artery posterior to the right upper lobe bronchus and the left pulmonary artery anterior to the left upper lobe bronchus.
+| 中文译名 = 肺脏位置逆转
+| 中文定义 = 主气管的镜像位置，右肺动脉位于右上叶支气管后方，左肺动脉位于左侧上叶支气管前方。
+}}
+
+
+==[[HP:0011617]]==
+{{Infobox HPO
+| hpoId = HP:0011617
+| 名称 = Pulmonary situs ambiguus
+| 定义 = An abnormality of the pulmonary situs, i.e., of the sidedness of the morphological right and left lungs, in which the morphology of both left and right lungs is the same.
+| 中文译名 = 肺脏定位模糊
+| 中文定义 = 肺形态定位的异常，即左右肺形态异常，左侧和右侧肺的形态是相同的。
+}}
+
+
+==[[HP:0011618]]==
+{{Infobox HPO
+| hpoId = HP:0011618
+| 名称 = Pulmonary situs ambiguus with bilateral morphologic right lungs
+| 定义 = An abnormality of the pulmonary situs, i.e., of the sidedness of the morphological right and left lungs, in which both lungs have the morphology of a right lungs.
+| 中文译名 = 肺脏双侧形态似右肺
+| 中文定义 = 肺形态定位的异常，即左右肺形态异常，左侧和右侧肺的形态均为右肺。
+}}
+
+==[[HP:0011619]]==
+{{Infobox HPO
+| hpoId = HP:0011619
+| 名称 = Pulmonary situs ambiguus with bilateral morphologic left lungs
+| 定义 = An abnormality of the pulmonary situs, i.e., of the sidedness of the morphological right and left lungs, in which both lungs have the morphology of a left lung.
+| 中文译名 = 肺脏双侧形态似左肺
+| 中文定义 = 肺形态定位的异常，即左右肺形态异常，左侧和右侧肺的形态均为左肺。
+}}
+
+==[[HP:0011626]]==
+{{Infobox HPO
+| hpoId = HP:0011626
+| 名称 = Scimitar anomaly
+| 定义 = A rare congenital heart defect characterized by partial anomalous pulmonary venous return from the right lung to the inferior vena cava which leads to the creation of a left-to-right shunt.
+| 中文译名 = （心脏）弯刀型异常
+| 中文定义 = 部分血液从右肺动脉异常回流至下腔静脉从而导致左向右分流的一种罕见先天性心脏缺陷。
+}}
+
+==[[HP:0011660]]==
+{{Infobox HPO
+| hpoId = HP:0011660
+| 名称 = Anomalous origin of one pulmonary artery from ascending aorta
+| 定义 = Anomalous origin of one pulmonary artery from the ascending aorta with the contralateral pulmonary artery arising from the right ventricle.
+| 中文译名 = 一侧肺动脉异常起源于升主动脉
+| 中文定义 = 一侧肺动脉异常起源于升主动脉，而对侧肺动脉起源于右心室。
+}}
+
+
+==[[HP:0011661]]==
+{{Infobox HPO
+| hpoId = HP:0011661
+| 名称 = Anomalous origin of left pulmonary artery from ascending aorta
+| 定义 = The left pulmonary artery originates from the ascending aorta in the presence of a pulmonary valve and main pulmonary artery.
+| 中文译名 = 左肺动脉异常起源于升主动脉
+| 中文定义 = 在肺动脉瓣和肺主动脉存在的情况下，左肺动脉异常起源于升主动脉。
+}}
+
+
+==[[HP:0011718]]==
+{{Infobox HPO
+| hpoId = HP:0011718
+| 名称 = Abnormality of the pulmonary veins
+| 定义 = An abnormality of the `pulmonary veins` (FMA:70827).
+| 中文译名 = 肺静脉异常
+| 中文定义 = 肺静脉的异常（FMA:70827）。
+}}
+
+
+==[[HP:0011719]]==
+{{Infobox HPO
+| hpoId = HP:0011719
+| 名称 = Supracardiac total anomalous pulmonary venous connection
+| 定义 = Type 1 total anomalous pulmonary venous connection.
+| 中文译名 = 心上型完全肺静脉异位连接
+| 中文定义 = 1型完全性肺静脉异位连接。
+}}
+
+
+==[[HP:0011720]]==
+{{Infobox HPO
+| hpoId = HP:0011720
+| 名称 = Cardiac total anomalous pulmonary venous connection
+| 定义 = Type 2 total anomalous pulmonary venous connection.
+| 中文译名 = 心脏完全性肺静脉异常连接
+| 中文定义 = 2型完全性肺静脉异常连接。
+}}
+
+
+==[[HP:0011721]]==
+{{Infobox HPO
+| hpoId = HP:0011721
+| 名称 = Infracardiac total anomalous pulmonary venous connection
+| 定义 = Type 3 total anomalous pulmonary venous connection.
+| 中文译名 = 心下完全性肺静脉异常连接
+| 中文定义 = 3型完全性肺静脉异常连接。
+}}
+
+
+==[[HP:0011722]]==
+{{Infobox HPO
+| hpoId = HP:0011722
+| 名称 = Mixed total anomalous pulmonary venous connection
+| 定义 = Type 4 total anomalous pulmonary venous connection.
+| 中文译名 = 混合型完全性肺静脉异常连接
+| 中文定义 = 4型完全性肺静脉异常连接。
+}}
+
+
+==[[HP:0011861]]==
+{{Infobox HPO
+| hpoId = HP:0011861
+| 名称 = Bilateral trilobed lungs
+| 定义 = Both lungs have three lobes. Normally, the left lung has two lobes, whereas the right lung has three lobes.
+| 中文译名 = 双侧三叶肺
+| 中文定义 = 两肺有三个肺叶。通常情况下，左肺有两个肺叶，而右边肺部有三个肺叶。
+}}
+
+
+==[[HP:0011919]]==
+{{Infobox HPO
+| hpoId = HP:0011919
+| 名称 = Pleural empyema
+| 定义 = Accumulation of pus in the `pleural cavity` (FMA:9740).
+| 中文译名 = 脓胸
+| 中文定义 = 脓液在胸腔积聚（FMA:9740）。
+}}
+
+
+==[[HP:0011920]]==
+{{Infobox HPO
+| hpoId = HP:0011920
+| 名称 = Transudative pleural effusion
+| 定义 = A type of pleural effusion with a transudate (extravascular fluid with low protein content and a low specific gravity). Pleural effusions can be classified as transudates or exudates based on Light&#39;s criteria, which classify an effusion as exudate if one or more of the following are present: (1) the ratio of pleural fluid protein to serum protein is greater than 0.5, (2) the ratio of pleural fluid lactate dehydrogenase (LDH) to serum LDH is greater than 0.6, or (3) the pleural fluid LDH level is greater than two thirds of the upper limit of normal for serum LDH.
+| 中文译名 = 漏出性胸腔积液
+| 中文定义 = 漏出性胸腔积液（具有低蛋白含量和低比重特点）。根据light标准，可将胸腔积液分为漏出液和渗出液，符合以下一项或多项为渗出液:（1）胸水蛋白与血清蛋白的比率大于0.5，（2）胸水乳酸脱氢酶（LDH）与血清LDH比率大于0.6，或（3）胸液LDH水平大于三分之二的正常血清LDH的上限。
+}}
+
+
+==[[HP:0011921]]==
+{{Infobox HPO
+| hpoId = HP:0011921
+| 名称 = Exudative pleural effusion
+| 定义 = A type of pleural effusion with a exudate (extravascular fluid that has exuded out of a tissue or its capillaries due to injury or inflammation). Pleural effusions can be classified as transudates or exudates based on Light&#39;s criteria, which classify an effusion as exudate if one or more of the following are present: (1) the ratio of pleural fluid protein to serum protein is greater than 0.5, (2) the ratio of pleural fluid lactate dehydrogenase (LDH) to serum LDH is greater than 0.6, or (3) the pleural fluid LDH level is greater than two thirds of the upper limit of normal for serum LDH.
+| 中文译名 = 渗出性胸腔积液
+| 中文定义 = 一种具有渗出液的胸膜腔积液，渗出液为组织或其毛细血管因损伤或炎症而渗出的血管外液。胸腔积液分类基于Light标准，依据该标准，渗出液应符合以下至少一条:（1）胸水白蛋白/血清白蛋白的比值大于0.5，（2）胸水乳酸脱氢酶（LDH）/血清LDH比值大于0.6，或（3）胸液LDH水平大于正常血清LDH上的限三分之二。
+}}
+
+
+==[[HP:0011945]]==
+{{Infobox HPO
+| hpoId = HP:0011945
+| 名称 = Bronchiolitis obliterans organizing pneumonia
+| 定义 = Bronchiolitis obliterans organizing pneumonia (BOOP) is and interstitial lung abnormalitiy characterized  histopathologically by plugs of granulation tissue lying within small airways, alveolar ducts, and alveoli and by chronic inflammatory cell infiltration in alveolar walls. Patients with BOOP generally present with subacute illness, including shortness of breath, fever, malaise, and weight loss.
+| 中文译名 = 闭塞性细支气管炎机化性肺炎
+| 中文定义 = 闭塞性细支气管炎机化性肺炎（BOOP）是肺间质疾病的一种，组织病理学特征为肉芽组织阻塞小气道、肺泡管、肺泡，同时伴有肺泡壁的慢性炎细胞浸润。BOOP患者一般表现为亚急性起病，包括呼吸急促、发烧、全身乏力、体重减轻等。
+}}
+
+
+==[[HP:0011946]]==
+{{Infobox HPO
+| hpoId = HP:0011946
+| 名称 = Bronchiolitis obliterans
+| 定义 = Inflammation and fibrosis of the bronchioles leading to partial or complete obstruction of these airways.
+| 中文译名 = 闭塞性细支气管炎
+| 中文定义 = 细支气管的炎症和纤维化导致这些气道的局部或完全闭塞。
+}}
+
+
+==[[HP:0011947]]==
+{{Infobox HPO
+| hpoId = HP:0011947
+| 名称 = Respiratory tract infection
+| 定义 = An infection of the upper or lower respiratory tract.
+| 中文译名 = 呼吸道感染
+| 中文定义 = 上或下呼吸道感染。
+}}
+
+
+==[[HP:0011948]]==
+{{Infobox HPO
+| hpoId = HP:0011948
+| 名称 = Acute respiratory tract infection
+| 定义 = An acute infection of the upper or lower respiratory tract.
+| 中文译名 = 急性呼吸道感染
+| 中文定义 = 上或下呼吸道的急性感染。
+}}
+
+
+==[[HP:0011949]]==
+{{Infobox HPO
+| hpoId = HP:0011949
+| 名称 = Acute infectious pneumonia
+| 定义 = Acute inflammation of the lung due to an infection.
+| 中文译名 = 急性感染性肺炎
+| 中文定义 = 由于感染而出现的肺部急性炎症。
+}}
+
+
+==[[HP:0011950]]==
+{{Infobox HPO
+| hpoId = HP:0011950
+| 名称 = Bronchiolitis
+| 定义 = Inflammation of the `bronchioles` (FMA:76497).
+| 中文译名 = 细支气管炎
+| 中文定义 = 细支气管(FMA:76497)的炎症。
+}}
+
+
+==[[HP:0011951]]==
+{{Infobox HPO
+| hpoId = HP:0011951
+| 名称 = Aspiration pneumonia
+| 定义 = Pneumonia due to the aspiration (breathing in) of food, liquid, or gastric contents into the upper respiratory tract.
+| 中文译名 = 吸入性肺炎
+| 中文定义 = 由于通过上呼吸道吸入（呼入）的食物、液体、或胃内容物而导致的肺炎。
+}}
+
+
+==[[HP:0011952]]==
+{{Infobox HPO
+| hpoId = HP:0011952
+| 名称 = Acute aspiration pneumonia
+| 定义 = An acute episode of pneumonia due to the aspiration (breathing in) of food, liquid, or gastric contents into the upper respiratory tract.
+| 中文译名 = 急性吸入性肺炎
+| 中文定义 = 肺炎由于通过上呼吸道吸入（呼入）的食物、液体、或胃内容物。
+}}
+
+
+==[[HP:0011953]]==
+{{Infobox HPO
+| hpoId = HP:0011953
+| 名称 = Pulmonary lymphoma
+| 定义 = Lung parenchymal involvement with lymphoma.
+| 中文译名 = 肺淋巴瘤
+| 中文定义 = 淋巴瘤累及肺实质。
+}}
+
+
+==[[HP:0012027]]==
+{{Infobox HPO
+| hpoId = HP:0012027
+| 名称 = Laryngeal edema
+| 定义 = An abnormal accumulation of fluid and swelling in the tissues of the `larynx` (FMA:55097).
+| 中文译名 = 喉头水肿
+| 中文定义 = 喉部组织的异常液体积聚和肿胀。（FMA:55097）。
+}}
+
+
+==[[HP:0012042]]==
+{{Infobox HPO
+| hpoId = HP:0012042
+| 名称 = Aspirin-induced asthma
+| 定义 = A type of asthma in which aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) that inhibit cyclooxygen-ase 1 (COX-1) exacerbate bronchoconstriction.
+| 中文译名 = 阿司匹林诱发的哮喘
+| 中文定义 = 哮喘的一种类型，阿司匹林和其他非类固醇抗炎药（NSAID）抑制了 环氧化酶-1（COX-1）从而加剧了支气管收缩。
+}}
+
+
+==[[HP:0012118]]==
+{{Infobox HPO
+| hpoId = HP:0012118
+| 名称 = Laryngeal carcinoma
+| 定义 = A carcinoma of the larynx.
+| 中文译名 = 喉癌
+| 中文定义 = 喉部癌症。
+}}
+
+
+==[[HP:0012151]]==
+{{Infobox HPO
+| hpoId = HP:0012151
+| 名称 = Hemothorax
+| 定义 = The presence of blood in the pleural space.
+| 中文译名 = 血胸
+| 中文定义 = 胸膜间隙的存在血液。
+}}
+
+
+==[[HP:0012195]]==
+{{Infobox HPO
+| hpoId = HP:0012195
+| 名称 = Irregular respiration
+| 定义 = Uneven rhythm of breathing.
+| 中文译名 = 呼吸节律不齐
+| 中文定义 = 呼吸节律不均匀。
+}}
+
+
+==[[HP:0012196]]==
+{{Infobox HPO
+| hpoId = HP:0012196
+| 名称 = Cheyne-Stokes respiration
+| 定义 = An abnormal pattern of respiration characterized by cycles of respiration that are increasingly deeper then shallower with possible periods of apnea. Affected patients may display a 10 to 20 second episode of hypoventilation or apnea, followed by respiration of increased depth and frequency over the course of about one minute. The cycle repeats every 45 seconds to 3 minutes.
+| 中文译名 = 潮式呼吸
+| 中文定义 = 呼吸运动的一种异常模式，其特点是呼吸越来越深而后逐渐变浅，并可能有间停。患者在1分钟左右的时间内可能有10到20秒低通气或窒息发作，继而出现呼吸深度与频率的增加。这种循环每45秒至3分钟重复1次。
+}}
+
+
+==[[HP:0012252]]==
+{{Infobox HPO
+| hpoId = HP:0012252
+| 名称 = Abnormal respiratory system morphology
+| 定义 = A structural anomaly of the respiratoy system.
+| 中文译名 = 呼吸系统形态学异常
+| 中文定义 = 呼吸系统结构性异常。
+}}
+
+
+==[[HP:0012253]]==
+{{Infobox HPO
+| hpoId = HP:0012253
+| 名称 = Abnormal respiratory epithelium morphology
+| 定义 = Any structural anomaly of the pseudostratified ciliated epithelium that lines much of the conducting portion of the airway, including part of the nasal cavity and larynx, the trachea, and bronchi.
+| 中文译名 = 呼吸道上皮的形态异常
+| 中文定义 = 位于鼻腔和喉，气管，支气管等呼吸道传导部分的假复层纤毛上皮结构异常。
+}}
+
+
+==[[HP:0012255]]==
+{{Infobox HPO
+| hpoId = HP:0012255
+| 名称 = Dynein arm defect of motile cilia
+| 定义 = An anomaly of the dynein arms of motile cilia. This feature is usually appreciated by electron microscopy.
+| 中文译名 = 能动纤毛动力蛋白臂缺陷
+| 中文定义 = 可动纤毛的动力蛋白臂异常，该特征常用电子显微镜评估。
+}}
+
+
+==[[HP:0012256]]==
+{{Infobox HPO
+| hpoId = HP:0012256
+| 名称 = Absent outer dynein arms
+| 定义 = Absence of the outer dynein arms of respiratory motile cilia, which normally are situated outside of the peripheral microtubules of motile cilia. This feature is usually appreciated by electron microscopy.
+| 中文译名 = 外动力蛋白臂缺失
+| 中文定义 = 呼吸运动纤毛的外动力蛋白臂通常位于动纤毛的周边微管外，其缺失常通过电子显微镜发现。
+}}
+
+
+==[[HP:0012257]]==
+{{Infobox HPO
+| hpoId = HP:0012257
+| 名称 = Absent inner dynein arms
+| 定义 = Absence of the outer dynein arms of respiratory motile cilia, which normally are situated within the peripheral microtubules of motile cilia. This feature is usually appreciated by electron microscopy.
+| 中文译名 = 内在动力蛋白臂缺失
+| 中文定义 = 呼吸运动纤毛的外动力蛋白臂通常位于动纤毛的周边微管外，其缺失常通过电子显微镜发现。
+}}
+
+
+==[[HP:0012258]]==
+{{Infobox HPO
+| hpoId = HP:0012258
+| 名称 = Abnormal axonemal organization of motile cilia
+| 定义 = Abnormal arrangement of the structures of the axoneme, which is the cytoskeletal structure that forms the inner core of the motile cilium and displays a canonical 9 + 2 microtubular pattern of motile cilia studded with dynein arms.
+| 中文译名 = 运动纤毛轴丝异常排列
+| 中文定义 = 轴丝结构的异常排列。所谓轴丝指形成运动纤毛内芯的细胞骨架结构，呈现为镶有动力蛋白臂的、典型的9 + 2运动纤毛微管图案。
+}}
+
+
+==[[HP:0012259]]==
+{{Infobox HPO
+| hpoId = HP:0012259
+| 名称 = Absent inner and outer dynein arms
+| 定义 = Complete absence of the dynein arms of respiratory motile cilia, that is, absence of the inner and the outer dynein arms, which normally are situated inside and outside of the peripheral microtubules of motile cilia. This feature is usually appreciated by electron microscopy.
+| 中文译名 = 内、外动力蛋白臂缺如
+| 中文定义 = 呼吸运动纤毛的动力蛋白臂完全缺失，即内、外动力蛋白臂（通常是位于内部和运动纤毛的外周微管外）缺失。这一特点常通过电子显微镜发现。
+}}
+
+
+==[[HP:0012260]]==
+{{Infobox HPO
+| hpoId = HP:0012260
+| 名称 = Abnormal central microtubular pair morphology of motile cilia
+| 定义 = A structural anomaly of the two central microtubules of motile cilia with a 9+2 microtubuluar configuration.
+| 中文译名 = 运动纤毛的中央成对微管形态异常
+| 中文定义 = 运动纤毛中央呈对微管结核呈现9 + 2 结构。
+}}
+
+==[[HP:0012261]]==
+{{Infobox HPO
+| hpoId = HP:0012261
+| 名称 = Abnormal respiratory motile cilium physiology
+| 定义 = Any functional anomaly of the respiratory motile cilia.
+| 中文译名 = 呼吸运动纤毛生理异常
+| 中文定义 = 呼吸运动纤毛细胞的任何功能异常。
+}}
+
+
+==[[HP:0012262]]==
+{{Infobox HPO
+| hpoId = HP:0012262
+| 名称 = Abnormal ciliary motility
+| 定义 = Any anomaly of the normal motility of motile cilia. Evaluation of ciliary beat frequency and ciliary beat pattern requires high-speed videomicroscopy of freshly obtained ciliary biopsies that are maintained in culture media under controlled conditions.
+| 中文译名 = 纤毛运动障碍
+| 中文定义 = 正常运动纤毛的任何异常运动。评价纤毛运动频率和纤毛摆动模式，需活检获得新鲜运动纤毛，使用要高速电视显微镜在特定培养条件下进行观察。
+}}
+
+
+==[[HP:0012263]]==
+{{Infobox HPO
+| hpoId = HP:0012263
+| 名称 = Immotile cilia
+| 定义 = #####
+| 中文译名 = 不动纤毛
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012264]]==
+{{Infobox HPO
+| hpoId = HP:0012264
+| 名称 = Absent central microtubular pair morphology of motile cilia
+| 定义 = Absence of the two central microtubules of motile cilia with a 9+2 microtubuluar configuration.
+| 中文译名 = 运动纤毛细胞中央成对微管形态缺失
+| 中文定义 = 运动纤毛细胞有9 + 2 微管结构的两个中心微管缺失。
+}}
+
+==[[HP:0012265]]==
+{{Infobox HPO
+| hpoId = HP:0012265
+| 名称 = Ciliary dyskinesia
+| 定义 = A deviation from the normally well coordinated pattern of intracellular and intercellular synchrony of motile cilia. Dyskinetic cilia usually beat out of synchrony relative to neighboring cilia.
+| 中文译名 = 纤毛运动异常
+| 中文定义 = 协调良好的可动纤毛细胞内和细胞间同步协调偏差。运动异常的纤毛常常敲击出自相关邻近纤毛。
+}}
+
+
+==[[HP:0012267]]==
+{{Infobox HPO
+| hpoId = HP:0012267
+| 名称 = Absent ciliary axoneme radial spokes
+| 定义 = Absence of the radial spokes of the axoneme.
+| 中文译名 = 纤毛轴丝径向轮辐缺失
+| 中文定义 = 轴丝的放射状辐条缺失。
+}}
+
+
+==[[HP:0012271]]==
+{{Infobox HPO
+| hpoId = HP:0012271
+| 名称 = Episodic upper airway obstruction
+| 定义 = Intermittent episodes of increased resistance to the passage of air in the upper airway.
+| 中文译名 = 阵发性上气道阻塞
+| 中文定义 = 间断发作的上气道空气通过阻力增加。
+}}
+
+
+==[[HP:0012387]]==
+{{Infobox HPO
+| hpoId = HP:0012387
+| 名称 = Bronchitis
+| 定义 = Inflammation of the large airways in the lung including any part of the bronchi from the primary bronchi to the tertiary bronchi.
+| 中文译名 = 支气管炎
+| 中文定义 = 肺内大气道的炎症，主要累及从主支气管，到第三级支气管的任何部分支气管。
+}}
+
+
+==[[HP:0012388]]==
+{{Infobox HPO
+| hpoId = HP:0012388
+| 名称 = Acute bronchitis
+| 定义 = Inflammation of the large airways of the lung with rapid onset and short course usually associated with cough, mucus production, shortness of breath, wheezing, and chest tightness.
+| 中文译名 = 急性支气管炎
+| 中文定义 = 肺内大气道炎症，急性起病、病程短，通常伴有咳嗽、流涕、呼吸急促、喘息、胸闷。
+}}
+
+
+==[[HP:0012415]]==
+{{Infobox HPO
+| hpoId = HP:0012415
+| 名称 = Abnormal blood gas level
+| 定义 = An abnormality of the partial pressure of oxygen or carbon dioxide in the arterial blood.
+| 中文译名 = 血气水平异常
+| 中文定义 = 动脉血中氧气或二氧化碳的分压异常。
+}}
+
+
+==[[HP:0012416]]==
+{{Infobox HPO
+| hpoId = HP:0012416
+| 名称 = Hypercapnia
+| 定义 = Abnormally elevated blood carbon dioxide (CO2) level.
+| 中文译名 = 高碳酸血症
+| 中文定义 = 血二氧化碳（CO 2）的水平异常升高。
+}}
+
+
+==[[HP:0012417]]==
+{{Infobox HPO
+| hpoId = HP:0012417
+| 名称 = Hypocapnia
+| 定义 = Abnormally reduced blood carbon dioxide (CO2) level.
+| 中文译名 = 低碳酸血症
+| 中文定义 = 血液二氧化碳（CO 2）水平异常降低。
+}}
+
+
+==[[HP:0012418]]==
+{{Infobox HPO
+| hpoId = HP:0012418
+| 名称 = Hypoxemia
+| 定义 = An abnormally low level of blood oxygen.
+| 中文译名 = 低氧血症
+| 中文定义 = 血氧水平异常降低。
+}}
+
+
+==[[HP:0012419]]==
+{{Infobox HPO
+| hpoId = HP:0012419
+| 名称 = Hyperoxemia
+| 定义 = An abnormally high level of blood oxygen.
+| 中文译名 = 高氧血症
+| 中文定义 = 血氧水平异常增高。
+}}
+
+
+==[[HP:0012496]]==
+{{Infobox HPO
+| hpoId = HP:0012496
+| 名称 = Reduced maximal inspiratory pressure
+| 定义 = A decrease in the maximum amount of negative pressure a person can generate during an inhalation.
+| 中文译名 = 最大吸气压降低
+| 中文定义 = 一个人吸气时所能产生的最大负压降低。
+}}
+
+
+==[[HP:0012497]]==
+{{Infobox HPO
+| hpoId = HP:0012497
+| 名称 = Reduced maximal expiratory pressure
+| 定义 = A decrease in the maximum amount of pressure of expired air achieved by a person after a full inspiration.
+| 中文译名 = 最大呼气压降低
+| 中文定义 = 一个人深吸气后最大能力呼出气体的压力降低。
+}}
+
+
+==[[HP:0012652]]==
+{{Infobox HPO
+| hpoId = HP:0012652
+| 名称 = Exercise-induced asthma
+| 定义 = Asthma attacks following exercise.
+| 中文译名 = 运动诱发的哮喘
+| 中文定义 = 运动后的哮喘发作。
+}}
+
+
+==[[HP:0012653]]==
+{{Infobox HPO
+| hpoId = HP:0012653
+| 名称 = Status Asthmaticus
+| 定义 = Severe asthma unresponsive to repeated courses of beta-agonist therapy such as inhaled albuterol, levalbuterol, or subcutaneous epinephrine.
+| 中文译名 = 哮喘持续状态
+| 中文定义 = 严重的哮喘，对反复β-受体激动剂治疗，如吸入沙丁胺醇，左旋沙丁胺醇，或皮下注射肾上腺素无反应。
+}}
+
+
+==[[HP:0012720]]==
+{{Infobox HPO
+| hpoId = HP:0012720
+| 名称 = Neoplasm of the nose
+| 定义 = Cancer of the nasal cavity.
+| 中文译名 = 鼻瘤
+| 中文定义 = 鼻腔的肿瘤。
+}}
+
+
+==[[HP:0012735]]==
+{{Infobox HPO
+| hpoId = HP:0012735
+| 名称 = Cough
+| 定义 = A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation.
+| 中文译名 = 咳嗽
+| 中文定义 = 先有吸气，肺部空气经部分关闭的声门突然并出声的排出。
+}}
+
+
+==[[HP:0012763]]==
+{{Infobox HPO
+| hpoId = HP:0012763
+| 名称 = Paroxysmal dyspnea
+| 定义 = A sudden attack of dyspnea that occurs while the affected person is at rest.
+| 中文译名 = 突发性呼吸困难
+| 中文定义 = 患者在休息状态下突然发生的呼吸困难。
+}}
+
+==[[HP:0012764]]==
+{{Infobox HPO
+| hpoId = HP:0012764
+| 名称 = Orthopnea
+| 定义 = A sensation of breathlessness in the recumbent position, relieved by sitting or standing.
+| 中文译名 = 端坐式呼吸
+| 中文定义 = 卧位时感觉呼吸困难，坐位或站立时减轻。
+}}
+
+==[[HP:0012768]]==
+{{Infobox HPO
+| hpoId = HP:0012768
+| 名称 = Neonatal asphyxia
+| 定义 = Respiratory failure in the newborn.
+| 中文译名 = 新生儿窒息
+| 中文定义 = 新生儿呼吸衰竭。
+}}
+
+
+==[[HP:0012798]]==
+{{Infobox HPO
+| hpoId = HP:0012798
+| 名称 = Pulmonary lymphangiomyomatosis
+| 定义 = Infiltration of smooth muscle-like cells in lymph vessels as well as the lung (pleura, alveolar septa, bronchi, pulmonary vessels and lymphatics as well as lymph nodes, especially in posterior mediastinum and retroperitoneum). Focal emphysema can develop because of airway narrowing, and the thoracic duct may be obliterated.
+| 中文译名 = 肺淋巴管肌瘤病
+| 中文定义 = 平滑肌细胞样细胞在淋巴管以及肺部（胸膜，肺泡隔，支气管，肺血管和淋巴管，以及淋巴结，特别是在后纵隔和腹腔后膜）浸润。局灶性肺气肿可能由于气道狭窄而不断增生，甚至胸导管可能会被擦掉。
+}}
+
+
+==[[HP:0012820]]==
+{{Infobox HPO
+| hpoId = HP:0012820
+| 名称 = Biilateral vocal cord paralysis
+| 定义 = A loss of the ability to move the `vocal fold` (FMA:55457) on both sides.
+| 中文译名 = 双侧声​​带麻痹
+| 中文定义 = 双侧声带（FMA:55457）运动能力丧失。
+}}
+
+
+==[[HP:0012821]]==
+{{Infobox HPO
+| hpoId = HP:0012821
+| 名称 = Unilateral vocal cord paresis
+| 定义 = `Decreased strength` (PATO:0001779) of the `vocal fold` (FMA:55457) on one side.
+| 中文译名 = 单侧声带麻痹
+| 中文定义 = 一侧声带运动能力减弱。
+}}
+
+
+==[[HP:0012822]]==
+{{Infobox HPO
+| hpoId = HP:0012822
+| 名称 = Bilateral vocal cord paresis
+| 定义 = `Decreased strength` (PATO:0001779) of the `vocal fold` (FMA:55457) on both sides.
+| 中文译名 = 双侧声带麻痹
+| 中文定义 = 双侧声带（55457 FMA）张力减低。
+}}
+
+
+==[[HP:0025008]]==
+{{Infobox HPO
+| hpoId = HP:0025008
+| 名称 = Tracheal tug on inspiration
+| 定义 = Downward movement of the trachea during inspiration due to downward traction on the tracheobronchial tree.
+| 中文译名 = 气管牵引
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030072]]==
+{{Infobox HPO
+| hpoId = HP:0030072
+| 名称 = Paranasal sinus neoplasm
+| 定义 = A tumor that originates in the paranasal sinus.
+| 中文译名 = 鼻旁窦肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030077]]==
+{{Infobox HPO
+| hpoId = HP:0030077
+| 名称 = Bronchial neoplasm
+| 定义 = A tumor originating in a bronchus.
+| 中文译名 = 支气管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030078]]==
+{{Infobox HPO
+| hpoId = HP:0030078
+| 名称 = #####
+| 定义 = #####
+| 中文译名 = 肺腺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030207]]==
+{{Infobox HPO
+| hpoId = HP:0030207
+| 名称 = Paradoxical respiration
+| 定义 = Breathing movements in which the chest wall moves in on inspiration and out on expiration, in reverse of the normal movements. It may be seen in children with respiratory distress of any cause, which leads to indrawing of the intercostal spaces during inspiration. Patients with chronic airways obstruction also show indrawing of the lower ribs during inspiration, due to the distorted action of a depressed and flattened diaphragm. Crush injuries of the chest, with fractured ribs and sternum, can lead to a severe degree of paradoxical breathing.
+| 中文译名 = 反常呼吸运动
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030250]]==
+{{Infobox HPO
+| hpoId = HP:0030250
+| 名称 = Pulmonary granulomatosis
+| 定义 = The presence of multiple granulomata (small nodular inflammatory lesions containing grouped mononuclear phagocytes) in the lung.
+| 中文译名 = 肺部肉芽肿
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030357]]==
+{{Infobox HPO
+| hpoId = HP:0030357
+| 名称 = Small cell lung carcinoma
+| 定义 = Small cell lung cancer (SCLC) is a type of highly malignant lung cancer that is composed of small ovoid cells. In the past, SCLC was called oat cell carcinoma because the microscopic appearance of the cells was felt to resemble oats. SLCLC usually originates near the bronchi and in many cases may grow and metastasize quickly.
+| 中文译名 = 小细胞肺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030358]]==
+{{Infobox HPO
+| hpoId = HP:0030358
+| 名称 = Non-small cell lung carcinoma
+| 定义 = #####
+| 中文译名 = 非小细胞肺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030359]]==
+{{Infobox HPO
+| hpoId = HP:0030359
+| 名称 = Squamous cell lung carcinoma
+| 定义 = A type of non-small cell lung carcinoma that is derived from stratified squamous epithelial cells.
+| 中文译名 = 肺鳞状细胞癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030360]]==
+{{Infobox HPO
+| hpoId = HP:0030360
+| 名称 = Large cell lung carcinoma
+| 定义 = A type of non-small cell lung carcinoma that is derived from undifferentiated malignant neoplasms originating from transformed epithelial cells in the lung, and which is differentiate from small-cell lung carcinoma by the larger size of the anaplastic cells, a higher cytoplasmic-to-nuclear size ratio, and a lack of salt-and-pepper appearance of the chromatin.
+| 中文译名 = 大细胞肺癌
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030707]]==
+{{Infobox HPO
+| hpoId = HP:0030707
+| 名称 = Unilateral lung agenesis
+| 定义 = Lack of development of one lung.
+| 中文译名 = 单侧肺缺如
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030715]]==
+{{Infobox HPO
+| hpoId = HP:0030715
+| 名称 = Bronchial atresia
+| 定义 = A developmental anomaly characterised by focal obliteration of the proximal segment of a bronchus. The bronchial pattern is entirely normal distal to the site of stenosis.
+| 中文译名 = 支气管闭锁
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030828]]==
+{{Infobox HPO
+| hpoId = HP:0030828
+| 名称 = Wheezing
+| 定义 = A high-pitched whistling sound associated with labored breathing.
+| 中文译名 = 哮鸣音
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030829]]==
+{{Infobox HPO
+| hpoId = HP:0030829
+| 名称 = Abnormal breath sound
+| 定义 = An anomalous (adventitious) sound produced by the breathing process.
+| 中文译名 = 异常呼吸音
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030830]]==
+{{Infobox HPO
+| hpoId = HP:0030830
+| 名称 = Rales
+| 定义 = Abnormal breath sounds characterized by discontinuous clicking or rattling.
+| 中文译名 = 肺啰音
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030831]]==
+{{Infobox HPO
+| hpoId = HP:0030831
+| 名称 = Rhonchi
+| 定义 = Abnormal breath sounds characterized by low-pitched, snoring or rattle-like sounds.
+| 中文译名 = 干啰音
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030863]]==
+{{Infobox HPO
+| hpoId = HP:0030863
+| 名称 = Nasal flaring
+| 定义 = Widening of the nostrils upon inhalation as a manifestation of respiratory distress.
+| 中文译名 = 鼻翼煽动
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030864]]==
+{{Infobox HPO
+| hpoId = HP:0030864
+| 名称 = Intercostal retractions
+| 定义 = A pulling inward of the soft tissues between the ribs upon inhalation. This is a sign of increased use of the chest muscles for breathing and is a manifestation of respiratory distress.
+| 中文译名 = 肋间隙回缩
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030874]]==
+{{Infobox HPO
+| hpoId = HP:0030874
+| 名称 = Oxygen desaturation on exertion
+| 定义 = Oxygen saturation less than 95% on exertion or arterial partial pressure of oxygen falling by more than 1kPa.呼吸系统异常
+| 中文译名 = 用力时血氧饱和度下降
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030875]]==
+{{Infobox HPO
+| hpoId = HP:0030875
+| 名称 = Abnormality of pulmonary circulation
+| 定义 = A functional anomaly of that portion of the cardiosvascular system that carries deoxygenated blood from the heart to the lungs and rturns oxygenated blood back to the heart.
+| 中文译名 = 肺循环异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030876]]==
+{{Infobox HPO
+| hpoId = HP:0030876
+| 名称 = Increased pulmonary capillary wedge pressure
+| 定义 = Pulmonary capillary wedge pressure (PCWP) above 15mmHg.
+| 中文译名 = 肺毛细血管楔压升高
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030877]]==
+{{Infobox HPO
+| hpoId = HP:0030877
+| 名称 = Obstructive deficit on pulmonary function testing
+| 定义 = FEV1/FVC less than 0.7 (FEV1 - forced expiratory volume in 1 second; FVC forced vital capacity).
+| 中文译名 = 肺功能检测中呈阻塞性病变
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030878]]==
+{{Infobox HPO
+| hpoId = HP:0030878
+| 名称 = Abnormality on pulmonary function testing
+| 定义 = Any anomaly measure by pulmonary function testing, which includes spirometry, measures of diffusing capacity, and plethysmography.
+| 中文译名 = 肺功能检测结果异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030879]]==
+{{Infobox HPO
+| hpoId = HP:0030879
+| 名称 = Interlobular septal thickening
+| 定义 = Presence of thickening of the interlobular septa of the lungs as seen on a CT scan.
+| 中文译名 = 小叶间隔增厚
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030893]]==
+{{Infobox HPO
+| hpoId = HP:0030893
+| 名称 = Abnormal response to short acting pulmonary vasodilator
+| 定义 = Pulmonary vasodilator testing is performed during right-heart catheterization and involves a short-acting vasoactive agent such as adenosine, epoprostenol, or inhaled nitric oxide. The current definition of a normal (positive) response is a drop in mean pulmonary artery pressure of at least 10 mm Hg (or 20 percent) to below 40 mm Hg.
+| 中文译名 = 对短效肺血管扩张剂反应异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0030894]]==
+{{Infobox HPO
+| hpoId = HP:0030894
+| 名称 = Insufficient response to short acting pulmonary vasodilator
+| 定义 = No fall in mean pulmonary arterial pressure (mPAP) falls by at least 10 mmHg to an absolute value less than 40 mmHg without a degradation in cardiac output (CO) in response to a short-acting vasoactive agent such as adenosine, epoprostenol, or inhaled nitric oxide.
+| 中文译名 = 对短效肺血管扩张剂反应不足
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040213]]==
+{{Infobox HPO
+| hpoId = HP:0040213
+| 名称 = Hypopnea
+| 定义 = Hypopnea is referring to breathing that is abnormally shallower and/or slow.
+| 中文译名 = 呼吸浅慢
+| 中文定义 = #####
+}}
+
+
+==[[HP:0040223]]==
+{{Infobox HPO
+| hpoId = HP:0040223
+| 名称 = Intrapulmonary hemorrhage
+| 定义 = A hemorrhage occurring within the lung.
+| 中文译名 = 肺内出血
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045049]]==
+{{Infobox HPO
+| hpoId = HP:0045049
+| 名称 = Abnormal DLCO
+| 定义 = An abnormal amount of oxygen passes into the blood from the lungs and/or an abnormal amount of carbon dioxide passes from the blood into the lungs.
+| 中文译名 = 一氧化碳弥散量异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045050]]==
+{{Infobox HPO
+| hpoId = HP:0045050
+| 名称 = Increased DLCO
+| 定义 = #####
+| 中文译名 = 一氧化碳弥散量增加
+| 中文定义 = #####
+}}
+
+
+==[[HP:0045051]]==
+{{Infobox HPO
+| hpoId = HP:0045051
+| 名称 = Decreased DLCO
+| 定义 = #####
+| 中文译名 = 一氧化碳弥散量减少
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100002]]==
+{{Infobox HPO
+| hpoId = HP:0100002
+| 名称 = Pleural mesothelioma
+| 定义 = A `Malignant mesothelioma` (HP:0100001) originating from cells of the pleura (the thin layer of mesothelium lining the lungs). Pleural mesothelioma is the most common form of mesothelioma.
+| 中文译名 = 胸膜间皮瘤
+| 中文定义 = 起源于胸膜细胞的恶性间皮瘤（胸膜是衬于肺外围的薄层间皮）。胸膜间皮瘤是间皮瘤的最常见形式。
+}}
+
+
+==[[HP:0100241]]==
+{{Infobox HPO
+| hpoId = HP:0100241
+| 名称 = Ectopic respiratory mucosa
+| 定义 = Ectopic respiratory epithelium presenting as a superficial lesion in the skin usually localised unilateral in the skin of the forearm and associated with ipsilateral hand malformations.
+| 中文译名 = 呼吸道黏膜异位
+| 中文定义 = 异位呼吸道上皮呈现为浅病变皮肤通常局部单方面在前臂的皮肤和同侧的手畸形。
+}}
+
+
+==[[HP:0100247]]==
+{{Infobox HPO
+| hpoId = HP:0100247
+| 名称 = Recurrent singultus
+| 定义 = A contraction of the diaphragm that repeats several times per minute. In humans, the abrupt rush of air into the lungs causes the epiglottis to close, creating a hic sound. Also known as synchronous diaphragmatic flutter (SDF), or singultus, from the Latin singult, the act of catching one&#39;s breath while sobbing. The hiccup is an involuntary action involving a reflex arc.
+| 中文译名 = 反复性嗝逆
+| 中文定义 = 每分钟重复几次的横膈膜挛缩。在人类，空气突然冲入肺中引起会厌关闭，发出打嗝的声音。也称为同步膈膜颤振，或呃逆，来自拉丁语singult（抽泣时喘气的行为）。打嗝是反射弧参与的不自主动作。
+}}
+
+
+==[[HP:0100501]]==
+{{Infobox HPO
+| hpoId = HP:0100501
+| 名称 = Recurrent bronchiolitis
+| 定义 = An increased susceptibility to bronchiolitis as manifested by a history of recurrent bronchiolitis.
+| 中文译名 = 复发性毛细支气管炎
+| 中文定义 = 易感性增加导致的毛细支气管炎反复发作。
+}}
+
+
+==[[HP:0100526]]==
+{{Infobox HPO
+| hpoId = HP:0100526
+| 名称 = Neoplasm of the lungs
+| 定义 = Tumor of the lung.
+| 中文译名 = 肺部肿瘤
+| 中文定义 = 肿部的瘤肺。
+}}
+
+
+==[[HP:0100527]]==
+{{Infobox HPO
+| hpoId = HP:0100527
+| 名称 = Neoplasia of the pleura
+| 定义 = #####
+| 中文译名 = 胸膜肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100528]]==
+{{Infobox HPO
+| hpoId = HP:0100528
+| 名称 = Pleuropulmonary blastoma
+| 定义 = A rare cancer originating in the lung or pleural cavity that occurs most often in infants and young children but also has been reported in adults. Pleuropulmonary blastoma is regarded as malignant.
+| 中文译名 = 胸膜肺母细胞瘤
+| 中文定义 = 一种起源于肺或胸膜腔的罕见恶性肿瘤，最常发生于婴幼儿，成人也有报道。胸膜肺母细胞瘤被认为是恶性的。
+}}
+
+
+==[[HP:0100551]]==
+{{Infobox HPO
+| hpoId = HP:0100551
+| 名称 = Neoplasm of the trachea
+| 定义 = #####
+| 中文译名 = 气管肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100552]]==
+{{Infobox HPO
+| hpoId = HP:0100552
+| 名称 = Neoplasm of the tracheobronchial system
+| 定义 = #####
+| 中文译名 = 气管支气管系统肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100598]]==
+{{Infobox HPO
+| hpoId = HP:0100598
+| 名称 = Pulmonary edema
+| 定义 = Fluid accumulation in the lungs.
+| 中文译名 = 肺水肿
+| 中文定义 = 液体积聚在肺中。
+}}
+
+
+==[[HP:0100605]]==
+{{Infobox HPO
+| hpoId = HP:0100605
+| 名称 = Neoplasm of the larynx
+| 定义 = #####
+| 中文译名 = 喉部肿瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100606]]==
+{{Infobox HPO
+| hpoId = HP:0100606
+| 名称 = Neoplasm of the respiratory system
+| 定义 = A benign or malignant `neoplasm` (MPATH:218) (tumour) originating in the respiratory system.
+| 中文译名 = 呼吸系统肿瘤
+| 中文定义 = 良性或恶性`neoplasm`（的mpath:218）（肿瘤）发生于呼吸系统。
+}}
+
+
+==[[HP:0100630]]==
+{{Infobox HPO
+| hpoId = HP:0100630
+| 名称 = Neoplasia of the nasopharynx
+| 定义 = #####
+| 中文译名 = 鼻咽瘤赘生
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100632]]==
+{{Infobox HPO
+| hpoId = HP:0100632
+| 名称 = Pulmonary sequestration
+| 定义 = The presence of a piece lung tissue which is not attached to the pulmonary blood supply and does not communicate with the other lung tissue (not connected to the standard bronchial airways and not performing a function in respiration).
+| 中文译名 = 肺隔离症
+| 中文定义 = 一部分肺组织不依靠正常的肺血管供血，与肺脏的其他部分无交通，（不连接到正常的支气管，不参与呼吸功能）。
+}}
+
+
+==[[HP:0100636]]==
+{{Infobox HPO
+| hpoId = HP:0100636
+| 名称 = Pulmonary paraglioma
+| 定义 = #####
+| 中文译名 = 副神经节瘤
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100638]]==
+{{Infobox HPO
+| hpoId = HP:0100638
+| 名称 = Neoplasia of the pharynx
+| 定义 = #####
+| 中文译名 = 咽瘤赘生
+| 中文定义 = #####
+}}
+
+
+==[[HP:0100640]]==
+{{Infobox HPO
+| hpoId = HP:0100640
+| 名称 = Laryngeal cyst
+| 定义 = Presence of a cyst (sac-like structure) located in the larynx.
+| 中文译名 = 喉囊肿
+| 中文定义 = 位于喉部的囊肿（囊状结构）。
+}}
+
+
+==[[HP:0100682]]==
+{{Infobox HPO
+| hpoId = HP:0100682
+| 名称 = Tracheal atresia
+| 定义 = A congenital absence or considerable underdevelopment of the trachea such that communication between the larynx proximally and the alveoli of the lungs distally is lacking.
+| 中文译名 = 气管闭锁
+| 中文定义 = 一个先天气管缺如或严重发育不全，使得喉部近端和肺部肺泡之间的缺乏交通。
+}}
+
+
+==[[HP:0100730]]==
+{{Infobox HPO
+| hpoId = HP:0100730
+| 名称 = Bronchogenic cyst
+| 定义 = A rare congenital cystic lesion of the lungs in the mediastinum.
+| 中文译名 = 支气管囊肿
+| 中文定义 = 纵隔内罕见的先天性肺囊性病变。
+}}
+
+
+==[[HP:0100750]]==
+{{Infobox HPO
+| hpoId = HP:0100750
+| 名称 = Atelectasis
+| 定义 = Collapse of part of a lung associated with absence of inflation (air) of that part.
+| 中文译名 = 肺不张
+| 中文定义 = 因为无通气而导致部分肺塌陷。
+}}
+
+
+==[[HP:0100776]]==
+{{Infobox HPO
+| hpoId = HP:0100776
+| 名称 = Recurrent pharyngitis
+| 定义 = An increased susceptibility to pharyngitis as manifested by a history of recurrent pharyngitis.
+| 中文译名 = 复发性咽炎
+| 中文定义 = 易感性增加导致的咽炎反复发作。
+}}
+
+
+==[[HP:0200048]]==
+{{Infobox HPO
+| hpoId = HP:0200048
+| 名称 = Cyanotic episode
+| 定义 = #####
+| 中文译名 = 紫绀发作
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200073]]==
+{{Infobox HPO
+| hpoId = HP:0200073
+| 名称 = Respiratory insufficiency due to defective ciliary clearance
+| 定义 = #####
+| 中文译名 = 纤毛清除缺陷所致呼吸功能不全
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200106]]==
+{{Infobox HPO
+| hpoId = HP:0200106
+| 名称 = Absent/shortened dynein arms
+| 定义 = #####
+| 中文译名 = 动力蛋白臂缺失/缩短
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200107]]==
+{{Infobox HPO
+| hpoId = HP:0200107
+| 名称 = Shortened inner dynein arms
+| 定义 = #####
+| 中文译名 = 内动力蛋白臂缩短
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200108]]==
+{{Infobox HPO
+| hpoId = HP:0200108
+| 名称 = Shortened outer dynein arms
+| 定义 = #####
+| 中文译名 = 外动力蛋白臂缩短
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200109]]==
+{{Infobox HPO
+| hpoId = HP:0200109
+| 名称 = Absent/shortened outer dynein arms
+| 定义 = #####
+| 中文译名 = 外动力蛋白臂缺失/缩短
+| 中文定义 = #####
+}}
+
+
+==[[HP:0200117]]==
+{{Infobox HPO
+| hpoId = HP:0200117
+| 名称 = Recurrent upper and lower respiratory tract infections
+| 定义 = An increased susceptibility to respiratory tract infections as manifested by a history of upper and lower respiratory tract infections
+| 中文译名 = 上下呼吸道反复感染
+| 中文定义 = 气道易感性增加导致的上下呼吸道反复发生感染。
+}}
+
+
+==[[HP:3000038]]==
+{{Infobox HPO
+| hpoId = HP:3000038
+| 名称 = Abnormality of cricoid cartilage
+| 定义 = An abnormality of a cricoid cartilage.
+| 中文译名 = 环状软骨异常
+| 中文定义 = #####
+}}
+
+
+==[[HP:3000067]]==
+{{Infobox HPO
+| hpoId = HP:3000067
+| 名称 = Abnormality of lateral crico-arytenoid
+| 定义 = An abnormality of a lateral crico-arytenoid.
+| 中文译名 = 环杓侧肌异常
+| 中文定义 = #####
+}}

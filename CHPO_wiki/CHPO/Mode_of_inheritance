@@ -1,0 +1,261 @@
+<accesscontrol>审核人:遗传模式,审核人:所有成员(ro),编辑人:普通用户(ro)</accesscontrol>
+=遗传模式(27条目)=
+
+
+==[[HP:0000005]]==
+{{Infobox HPO
+| hpoId = HP:0000005
+| 名称 = Mode of inheritance
+| 定义 = The pattern in which a particular genetic trait or disorder is passed from one generation to the next.
+| 中文译名 = 遗传模式
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000006]]==
+{{Infobox HPO
+| hpoId = HP:0000006
+| 名称 = Autosomal dominant inheritance
+| 定义 = A mode of inheritance that is observed for traits related to a gene encoded on one of the autosomes (i.e., the human chromosomes 1-22) in which a trait manifests in heterozygotes. In the context of medical genetics, an autosomal dominant disorder is caused when a single copy of the mutant allele is present. Males and females are affected equally, and can both transmit the disorder with a risk of 50% for each child of inheriting the mutant allele.
+| 中文译名 = 常染色体显性遗传
+| 中文定义 = #####
+}}
+
+
+==[[HP:0000007]]==
+{{Infobox HPO
+| hpoId = HP:0000007
+| 名称 = Autosomal recessive inheritance
+| 定义 = A mode of inheritance that is observed for traits related to a gene encoded on one of the autosomes (i.e., the human chromosomes 1-22) in which a trait manifests in homozygotes. In the context of medical genetics, autosomal recessive disorders manifest in homozygotes (with two copies of the mutant allele) or compound heterozygotes (whereby each copy of a gene has a distinct mutant allele).
+| 中文译名 = 常染色体隐性遗传
+| 中文定义 = #####
+}}
+
+==[[HP:0001417]]==
+{{Infobox HPO
+| hpoId = HP:0001417
+| 名称 = X-linked inheritance
+| 定义 = A mode of inheritance that is observed for traits related to a gene encoded on the X chromosome.
+| 中文译名 = X-连锁遗传
+| 中文定义 = #####
+}}
+
+==[[HP:0001419]]==
+{{Infobox HPO
+| hpoId = HP:0001419
+| 名称 = X-linked recessive inheritance
+| 定义 = A mode of inheritance that is observed for recessive traits related to a gene encoded on the X chromosome. In the context of medical genetics, X-linked recessive disorders manifest in males (who have one copy of the X chromosome and are thus hemizygotes), but generally not in female heterozygotes who have one mutant and one normal allele.
+| 中文译名 = X-连锁隐性遗传
+| 中文定义 = #####
+}}
+
+==[[HP:0001423]]==
+{{Infobox HPO
+| hpoId = HP:0001423
+| 名称 = X-linked dominant inheritance
+| 定义 = A mode of inheritance that is observed for dominant traits related to a gene encoded on the X chromosome. In the context of medical genetics, X-linked dominant disorders tend to manifest very severely in affected males. The severity of manifestation in females may depend on the degree of skewed X inactivation.
+| 中文译名 = X-连锁显性遗传
+| 中文定义 = #####
+}}
+
+==[[HP:0001425]]==
+{{Infobox HPO
+| hpoId = HP:0001425
+| 名称 = Heterogeneous
+| 定义 = #####
+| 中文译名 = 异质性的
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001426]]==
+{{Infobox HPO
+| hpoId = HP:0001426
+| 名称 = Multifactorial inheritance
+| 定义 = A mode of inheritance that depends on a mixture of major and minor genetic determinants possibly together with environmental factors. Diseases inherited in this manner are termed complex diseases.
+| 中文译名 = 多因素遗传
+| 中文定义 = #####
+}}
+
+==[[HP:0001427]]==
+{{Infobox HPO
+| hpoId = HP:0001427
+| 名称 = Mitochondrial inheritance
+| 定义 = A mode of inheritance that is observed for traits related to a gene encoded on the mitochondrial genome. Because the mitochondrial genome is essentially always maternally inherited, a mitochondrial condition can only be transmitted by females, although the condition can affect both sexes. The proportion of mutant mitochondria can vary (heteroplasmy).
+| 中文译名 = 线粒体遗传
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001428]]==
+{{Infobox HPO
+| hpoId = HP:0001428
+| 名称 = Somatic mutation
+| 定义 = #####
+| 中文译名 = 体细胞突变
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001442]]==
+{{Infobox HPO
+| hpoId = HP:0001442
+| 名称 = Somatic mosaicism
+| 定义 = The presence of genetically distinct populations of somatic cells in a given organism caused by DNA mutations, epigenetic alterations of DNA, chromosomal abnormalities or the spontaneous reversion of inherited mutations.
+| 中文译名 = 体细胞嵌合体
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001444]]==
+{{Infobox HPO
+| hpoId = HP:0001444
+| 名称 = Autosomal dominant somatic cell mutation
+| 定义 = #####
+| 中文译名 = 常染色体显性体细胞突变
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001450]]==
+{{Infobox HPO
+| hpoId = HP:0001450
+| 名称 = Y-linked inheritance
+| 定义 = A mode of inheritance that is observed for traits related to a gene encoded on the Y chromosome.
+| 中文译名 = Y-连锁遗传
+| 中文定义 = #####
+}}
+
+==[[HP:0001452]]==
+{{Infobox HPO
+| hpoId = HP:0001452
+| 名称 = Autosomal dominant contiguous gene syndrome
+| 定义 = #####
+| 中文译名 = 常染色体显性邻近基因综合征
+| 中文定义 = #####
+}}
+
+==[[HP:0001466]]==
+{{Infobox HPO
+| hpoId = HP:0001466
+| 名称 = Contiguous gene syndrome
+| 定义 = #####
+| 中文译名 = 邻近基因综合征
+| 中文定义 = #####
+}}
+
+==[[HP:0001470]]==
+{{Infobox HPO
+| hpoId = HP:0001470
+| 名称 = Sex-limited autosomal dominant
+| 定义 = #####
+| 中文译名 = 限性常染色体显性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0001472]]==
+{{Infobox HPO
+| hpoId = HP:0001472
+| 名称 = Familial predisposition
+| 定义 = #####
+| 中文译名 = 家族倾向性
+| 中文定义 = #####
+}}
+
+==[[HP:0001475]]==
+{{Infobox HPO
+| hpoId = HP:0001475
+| 名称 = Male-limited autosomal dominant
+| 定义 = #####
+| 中文译名 = 限男性常染色体显性
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003743]]==
+{{Infobox HPO
+| hpoId = HP:0003743
+| 名称 = Genetic anticipation
+| 定义 = A mode of inheritance in which the severity of a disorder increases or the age of onset decreases as the disorder is passed from one generation to the next.
+| 中文译名 = 遗传早现
+| 中文定义 = #####
+}}
+
+
+==[[HP:0003744]]==
+{{Infobox HPO
+| hpoId = HP:0003744
+| 名称 = Genetic anticipation with paternal anticipation bias
+| 定义 = A type of genetic anticipation observed predominantly upon transmission from affected males.
+| 中文译名 = 偏向父系传递的遗传早现
+| 中文定义 = #####
+}}
+
+==[[HP:0003745]]==
+{{Infobox HPO
+| hpoId = HP:0003745
+| 名称 = Sporadic
+| 定义 = Cases of the disease in question occur without a previous family history, i.e., as isolated cases without being transmitted from a parent and without other siblings being affected.
+| 中文译名 = 散发的
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010982]]==
+{{Infobox HPO
+| hpoId = HP:0010982
+| 名称 = Polygenic inheritance
+| 定义 = A type of multifactorial inheritance governed by the simultaneous action of many (more than three) gene loci.
+| 中文译名 = 多基因遗传
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010983]]==
+{{Infobox HPO
+| hpoId = HP:0010983
+| 名称 = Oligogenic inheritance
+| 定义 = A type of multifactorial inheritance governed by the simultaneous action of a few gene loci. It is recommended this term be used for traits governed by three loci, although it is noted that usage of this term in the literature is not uniform.
+| 中文译名 = 寡基因遗传
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010984]]==
+{{Infobox HPO
+| hpoId = HP:0010984
+| 名称 = Digenic inheritance
+| 定义 = A type of multifactorial inheritance governed by the simultaneous action of two gene loci.
+| 中文译名 = 双基因遗传
+| 中文定义 = #####
+}}
+
+
+==[[HP:0010985]]==
+{{Infobox HPO
+| hpoId = HP:0010985
+| 名称 = Gonosomal inheritance
+| 定义 = A mode of inheritance that is observed for traits related to a gene encoded on the sex chromosomes.
+| 中文译名 = 性连锁遗传
+| 中文定义 = #####
+}}
+
+
+==[[HP:0012274]]==
+{{Infobox HPO
+| hpoId = HP:0012274
+| 名称 = Autosomal dominant inheritance with paternal imprinting
+| 定义 = A type of autosomal dominant inheritance involving a gene that is imprinted with paternal silencing.
+| 中文译名 = 父源印记基因常染色体显性遗传
+| 中文定义 = #####
+}}
+
+==[[HP:0012275]]==
+{{Infobox HPO
+| hpoId = HP:0012275
+| 名称 = Autosomal dominant inheritance with maternal imprinting
+| 定义 = A type of autosomal dominant inheritance involving a gene that is imprinted with maternal silencing.
+| 中文译名 = 母源印记基因常染色体显性遗传
+| 中文定义 = #####
+}}
